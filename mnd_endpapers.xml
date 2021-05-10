@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE container [
+<!ENTITY hellip     " &#x2E;&#xA0;&#x2E;&#xA0;&#x2E; ">
+<!ENTITY inked     "&#x2759;">
+<!ENTITY caret     "&#x2038;">
+<!ENTITY minus     "&#x2212;">
+<!ENTITY plus     "&#x002B;">
+<!ENTITY shy     "&#x00AD;">
+<!ENTITY sigrange     "&#x002D;">
+<!ENTITY swdash     "&#x2002;&#x007E;&#x2002;">
+<!ENTITY cmacr     "&#x63;&#x304;">
+]>
+
+<container xmlns="http://www.mla.org/NVSns">
+
+
+
+<div type="endpapers" xml:id="div_endpapers">
+
+
+<div type="end_editions" xml:id="div_end_editions">
+
+<head>Editions Collated</head>
+
+<p rend="italic">These sigla are used in the textual notes to identify readings from the editions and related works listed in the Plan of the Work (<ptr targType="div" target="#div_potw"/>).  The form and scope of the notes are explained on <ptr targType="anchor" target="#anchor_0003-a" targetEnd="#anchor_0003-b"/>.</p>
+
+
+<list xml:id="list_end_001">
+
+<item><siglum>Q1</siglum><date>1600</date></item>
+
+<item><siglum>Q2</siglum><date>[1619]</date></item>
+
+<item><siglum>F1</siglum><date>1623</date></item>
+
+<item><siglum>F2</siglum><date>1632</date></item>
+
+<item><siglum>F3</siglum><date>1663–4</date></item>
+
+<item><siglum>F4</siglum><date>1685</date></item>
+
+<item><siglum rend="smcaps">rowe1</siglum><date>1709</date></item>
+
+<item><siglum rend="smcaps">rowe3</siglum><date>1714</date></item>
+
+<item><siglum rend="smcaps">pope1</siglum><date>1725</date></item>
+
+<item><siglum rend="smcaps">pope2</siglum><date>1728</date></item>
+
+<item><siglum rend="smcaps">theo1</siglum><date>1733</date></item>
+
+<item><siglum rend="smcaps">theo2</siglum><date>1740</date></item>
+
+<item><siglum rend="smcaps">han1</siglum><date>1744</date></item>
+
+<item><siglum rend="smcaps">warb</siglum><date>1747</date></item>
+
+<item><siglum rend="smcaps">theo4</siglum><date>1757</date></item>
+
+<item><siglum rend="smcaps">john1</siglum><date>1765</date></item>
+
+<item><siglum rend="smcaps">cap</siglum><date>1768</date></item>
+
+<item><siglum>v1773</siglum><date></date></item>
+
+<item><siglum>v1778</siglum><date></date></item>
+
+<item><siglum rend="smcaps">rann</siglum><date>1787</date></item>
+
+<item><siglum rend="smcaps">mal</siglum><date>1790</date></item>
+
+<item><siglum>v1793</siglum><date></date></item>
+
+<item><siglum>v1803</siglum><date></date></item>
+
+<item><siglum>v1821</siglum><date></date></item>
+
+<item><siglum rend="smcaps">sing1</siglum><date>1826</date></item>
+
+<item><siglum rend="smcaps">knt1</siglum><date>1839</date></item>
+
+<item><siglum rend="smcaps">col1</siglum><date>1842</date></item>
+
+<item><siglum rend="smcaps">hud1</siglum><date>1851</date></item>
+
+<item><siglum rend="smcaps">col2</siglum><date>1853</date></item>
+
+<item><siglum rend="smcaps">sing2</siglum><date>1856</date></item>
+
+<item><siglum rend="smcaps">hal</siglum><date>1856</date></item>
+
+<item><siglum rend="smcaps">stau</siglum><date>1857</date></item>
+
+<item><siglum rend="smcaps">dyce1</siglum><date>1857</date></item>
+
+<item><siglum rend="smcaps">col3</siglum><date>1858</date></item>
+
+<item><siglum rend="smcaps">wh1</siglum><date>1858</date></item>
+
+<item><siglum rend="smcaps">cam1</siglum><date>1863</date></item>
+
+<item><siglum rend="smcaps">dyce2</siglum><date>1864</date></item>
+
+<item><siglum rend="smcaps">ktly</siglum><date>1864</date></item>
+
+<item><siglum rend="smcaps">glo</siglum><date>1864</date></item>
+
+<item><siglum rend="smcaps">knt3</siglum><date>1867</date></item>
+
+<item><siglum rend="smcaps">col4</siglum><date>1875</date></item>
+
+<item><siglum rend="smcaps">hud2</siglum><date>1880</date></item>
+
+<item><siglum rend="smcaps">wh2</siglum><date>1883</date></item>
+
+<item><siglum rend="smcaps">irv</siglum><date>1888</date></item>
+
+<item><siglum rend="smcaps">oxf1</siglum><date>[1891]</date></item>
+
+<item><siglum rend="smcaps">ard1</siglum><date>1905</date></item>
+
+<item><siglum rend="smcaps">rltr</siglum><date>[1905]</date></item>
+
+<item><siglum rend="smcaps">nlsn</siglum><date>1906</date></item>
+
+<item><siglum rend="smcaps">cam3</siglum><date>1924</date></item>
+
+<item><siglum rend="smcaps">rid</siglum><date>1934</date></item>
+
+<item><siglum rend="smcaps">kit1</siglum><date>1936</date></item>
+
+<item><siglum rend="smcaps">alex</siglum><date>1951</date></item>
+
+<item><siglum rend="smcaps">sis</siglum><date>1954</date></item>
+
+<item><siglum rend="smcaps">pel1</siglum><date>1959</date></item>
+
+<item><siglum rend="smcaps">evns</siglum><date>1974</date></item>
+
+<item><siglum rend="smcaps">ard2</siglum><date>1979</date></item>
+
+<item><siglum rend="smcaps">cam4</siglum><date>1984</date></item>
+
+<item><siglum rend="smcaps">oxf2</siglum><date>1986</date></item>
+
+<item><siglum rend="smcaps">ban2</siglum><date>1988</date></item>
+
+<item><siglum rend="smcaps">dig</siglum><date>2007</date></item>
+
+</list>
+
+
+
+<p rend="italic">The following sigla appear in the appendix of unadopted conjectures or occasionally in the textual notes.</p>
+
+
+<list xml:id="list_end_002">
+
+<item><siglum rend="smcaps">cox</siglum><date>1661</date></item>
+
+<item><siglum rend="smcaps">set</siglum><date>1692</date></item>
+
+<item><siglum rend="smcaps">rowe2</siglum><date>1709</date></item>
+
+<item><siglum rend="smcaps">lev</siglum><date>1716</date></item>
+
+<item><siglum>m<hi rend="smcaps">theo</hi>1</siglum><date>1723–33</date></item>
+
+<item><siglum>m<hi rend="smcaps">tby</hi>2</siglum><date>1725–33?</date></item>
+
+<item><siglum>m<hi rend="smcaps">theo</hi>2</siglum><date>1729–34</date></item>
+
+<item><siglum>m<hi rend="smcaps">long</hi></siglum><date>–1733?</date></item>
+
+<item><siglum>m<hi rend="smcaps">tby</hi>3</siglum><date>1733–47?</date></item>
+
+<item><siglum>m<hi rend="smcaps">jenn</hi></siglum><date>1733–73</date></item>
+
+<item><siglum>m<hi rend="smcaps">han</hi>1</siglum><date>1735–9</date></item>
+
+<item><siglum>m<hi rend="smcaps">tol</hi></siglum><date>1740–79</date></item>
+
+<item><siglum>m<hi rend="smcaps">han</hi>2</siglum><date>–1744</date></item>
+
+<item><siglum rend="smcaps">lam</siglum><date>1745</date></item>
+
+<item><siglum>mF2<hi rend="smcaps">fl</hi>48</siglum><date>–1747</date></item>
+
+<item><siglum>m<hi rend="smcaps">tby</hi>4</siglum><date>1747–53</date></item>
+
+<item><siglum>m<hi rend="smcaps">warb</hi>1</siglum><date>1747–79</date></item>
+
+<item><siglum rend="smcaps">dodd1</siglum><date>1752</date></item>
+
+<item><siglum rend="smcaps">gar</siglum><date>1755</date></item>
+
+<item><siglum rend="smcaps">john2</siglum><date>1765</date></item>
+
+<item><siglum>m<hi rend="smcaps">warb</hi>2</siglum><date>1765–79</date></item>
+
+<item><siglum>m1773<hi rend="smcaps">fl</hi>3</siglum><date>1778?-</date></item>
+
+<item><siglum rend="smcaps">dodd2</siglum><date>1780</date></item>
+
+<item><siglum rend="smcaps">capn</siglum><date>1783</date></item>
+
+<item><siglum>v1785</siglum><date></date></item>
+
+<item><siglum>m<hi rend="smcaps">stv</hi>3</siglum><date>1793–1800</date></item>
+
+<item><siglum>v1813</siglum><date></date></item>
+
+<item><siglum>m<hi rend="smcaps">cal</hi></siglum><date>1813–33</date></item>
+
+<item><siglum rend="smcaps">reyn</siglum><date>1816</date></item>
+
+<item><siglum rend="smcaps">harn</siglum><date>1825</date></item>
+
+<item><siglum>m<hi rend="smcaps">grin</hi></siglum><date>1834–63</date></item>
+
+<item><siglum>m<hi rend="smcaps">cole</hi></siglum><date>c. 1834</date></item>
+
+<item><siglum rend="smcaps">phel</siglum><date>[1851–4]</date></item>
+
+<item><siglum>m<hi rend="smcaps">col</hi>1</siglum><date>1850</date></item>
+
+<item><siglum rend="smcaps">colne</siglum><date>1853</date></item>
+
+<item><siglum rend="smcaps">cln1</siglum><date>1877</date></item>
+
+<item><siglum>v1895</siglum><date></date></item>
+
+<item><siglum rend="smcaps">warw</siglum><date>1897</date></item>
+
+<item><siglum rend="smcaps">h&amp;m</siglum><date>1937</date></item>
+
+<item><siglum rend="smcaps">pen1</siglum><date>1937</date></item>
+
+<item><siglum rend="smcaps">n&amp;h</siglum><date>1942</date></item>
+
+<item><siglum><hi rend="smcaps">pen</hi>1a</siglum><date>1953</date></item>
+
+<item><siglum rend="smcaps">mun</siglum><date>1957</date></item>
+
+<item><siglum rend="smcaps">pen2</siglum><date>1967</date></item>
+
+<item><siglum><hi rend="smcaps">cam</hi>3b</siglum><date>1968</date></item>
+
+<item><siglum rend="smcaps">oxf3</siglum><date>1986</date></item>
+
+<item><siglum rend="smcaps">and1</siglum><date>1989</date></item>
+
+<item><siglum rend="smcaps">and2</siglum><date>1993</date></item>
+
+<item><siglum rend="smcaps">folg2</siglum><date>1993</date></item>
+
+<item><siglum rend="smcaps">oxf4</siglum><date>1994</date></item>
+
+<item><siglum rend="smcaps">pel3</siglum><date>2000</date></item>
+
+</list>
+
+</div>
+
+
+
+<div type="end_symbols" xml:id="div_end_symbols">
+
+<p rend="italic">Symbols used in the textual notes</p>
+
+<list xml:id="list_end_003">
+
+<item><abbr>&caret;</abbr><expan>punctuation missing or omitted</expan></item>
+
+<item><abbr>&swdash;</abbr><expan>verbal form of lemma unchanged (while punctuation varies)</expan></item>
+
+<item><abbr>&sigrange;</abbr><expan>(between sigla) all fully collated eds. between and including those represented by the sigla</expan></item>
+
+<item><abbr>&plus;</abbr><expan>(after a siglum) and all succeeding fully collated eds.</expan></item>
+
+<item><abbr>(&minus; )</abbr><expan>all sigla after the minus sign and within the parentheses agree with the Variorum text</expan></item>
+
+</list>
+
+</div>
+
+
+
+
+
+<div type="end_sigla" xml:id="div_end_sigla">
+
+<head>Sigla and Symbols</head>
+
+<p rend="italic">The sigla on the facing page are here arranged alphabetically.</p>
+
+
+<list xml:id="list_end_004">
+
+<item><abbr><hi rend="smcaps">alex</hi></abbr>: <expan>Alexander, 1951</expan></item>
+
+<item><abbr><hi rend="smcaps">and</hi>1, 2</abbr>: <expan>Andrews, 1989, 1993</expan></item>
+
+<item><abbr><hi rend="smcaps">ard</hi></abbr>: <expan><hi rend="smcaps">ard</hi>1 &amp; <hi rend="smcaps">ard</hi>2</expan></item>
+
+<item><abbr><hi rend="smcaps">ard</hi>1</abbr>: <expan>Cuningham, 1905</expan></item>
+
+<item><abbr><hi rend="smcaps">ard</hi>2</abbr>: <expan>Brooks, 1979</expan></item>
+
+<item><abbr><hi rend="smcaps">ban</hi>2</abbr>: <expan>Bevington, 1988</expan></item>
+
+<item><abbr><hi rend="smcaps">cam</hi></abbr>: <expan><hi rend="smcaps">cam</hi>1, <hi rend="smcaps">cam</hi>3, &amp; <hi rend="smcaps">cam</hi>4</expan></item>
+
+<item><abbr><hi rend="smcaps">cam</hi>1</abbr>: <expan>Clark &amp; Wright, 1863</expan></item>
+
+<item><abbr><hi rend="smcaps">cam</hi>3, 3b</abbr>: <expan>Wilson, 1924, 1968</expan></item>
+
+<item><abbr><hi rend="smcaps">cam</hi>4</abbr>: <expan>Foakes, 1984</expan></item>
+
+<item><abbr><hi rend="smcaps">cap</hi></abbr>: <expan>Capell, 1768</expan></item>
+
+<item><abbr><hi rend="smcaps">capn</hi></abbr>: <expan>Capell, Notes, 1783</expan></item>
+
+<item><abbr><hi rend="smcaps">cln</hi></abbr>: <expan>Wright, 1877</expan></item>
+
+<item><abbr><hi rend="smcaps">col</hi></abbr>: <expan><hi rend="smcaps">col</hi>1, <hi rend="smcaps">col</hi>2, <hi rend="smcaps">col</hi>3 &amp; <hi rend="smcaps">col</hi>4</expan></item>
+
+<item><abbr><hi rend="smcaps">col</hi>1, 2, 3, 4</abbr>: <expan>Collier, 1842, 1853, 1858, 1875</expan></item>
+
+<item><abbr><hi rend="smcaps">colne</hi></abbr>: <expan>Collier, Notes, 1853</expan></item>
+
+<item><abbr><hi rend="smcaps">cox</hi></abbr>: <expan>Cox, 1661</expan></item>
+
+<item><abbr><hi rend="smcaps">dig</hi></abbr>: <expan>DiGangi, 2007</expan></item>
+
+<item><abbr><hi rend="smcaps">dodd</hi>1, 2</abbr>: <expan>Dodd, Beauties, 1752, 1780</expan></item>
+
+<item><abbr><hi rend="smcaps">dyce</hi></abbr>: <expan><hi rend="smcaps">dyce</hi>1 &amp; <hi rend="smcaps">dyce</hi>2</expan></item>
+
+<item><abbr><hi rend="smcaps">dyce</hi>1, 2</abbr>: <expan>Dyce 1857, 1864</expan></item>
+
+<item><abbr><hi rend="smcaps">evns</hi></abbr>: <expan>Evans, 1974</expan></item>
+
+<item><abbr>Ff</abbr>: <expan>F1, F2, F3 &amp; F4</expan></item>
+
+<item><abbr>F1, 2, 3, 4</abbr>: <expan>Folios 1623, 1632, 1663–4, 1685</expan></item>
+
+<item><abbr><hi rend="smcaps">folg</hi>2</abbr>: <expan>Mowat &amp; Werstine, 1993</expan></item>
+
+<item><abbr><hi rend="smcaps">gar</hi></abbr>: <expan>Garrick, 1755</expan></item>
+
+<item><abbr><hi rend="smcaps">glo</hi></abbr>: <expan>Clark &amp; Wright, 1864</expan></item>
+
+<item><abbr><hi rend="smcaps">h</hi> &amp;<hi rend="smcaps">m</hi></abbr>: <expan>Holzknecht &amp; McClure, 1937</expan></item>
+
+<item><abbr><hi rend="smcaps">hal</hi></abbr>: <expan>Halliwell, 1856</expan></item>
+
+<item><abbr><hi rend="smcaps">han</hi>1</abbr>: <expan>Hanmer, 1744</expan></item>
+
+<item><abbr><hi rend="smcaps">harn</hi></abbr>: <expan>Harness, 1825</expan></item>
+
+<item><abbr><hi rend="smcaps">hud</hi></abbr>: <expan><hi rend="smcaps">hud</hi>1 &amp; <hi rend="smcaps">hud</hi>2</expan></item>
+
+<item><abbr><hi rend="smcaps">hud</hi>1, 2</abbr>: <expan>Hudson, 1851, 1880</expan></item>
+
+<item><abbr><hi rend="smcaps">irv</hi></abbr>: <expan>Irving &amp; Marshall, 1888</expan></item>
+
+<item><abbr><hi rend="smcaps">john</hi>1, 2</abbr>: <expan>Johnson, 1768, 1768</expan></item>
+
+<item><abbr><hi rend="smcaps">kit</hi>1</abbr>: <expan>Kittredge, 1936</expan></item>
+
+<item><abbr><hi rend="smcaps">knt</hi></abbr>: <expan><hi rend="smcaps">knt</hi>1 &amp; <hi rend="smcaps">knt</hi>3</expan></item>
+
+<item><abbr><hi rend="smcaps">knt</hi>1, 3</abbr>: <expan>Knight, 1839, 1867</expan></item>
+
+<item><abbr><hi rend="smcaps">ktly</hi></abbr>: <expan>Keightley, 1864</expan></item>
+
+<item><abbr><hi rend="smcaps">lev</hi></abbr>: <expan>Leveridge, 1716</expan></item>
+
+<item><abbr><hi rend="smcaps">mal</hi></abbr>: <expan>Malone, 1790</expan></item>
+
+<item><abbr>m1773<hi rend="smcaps">fl</hi>3</abbr>: <expan>Anon., 1778?–</expan></item>
+
+<item><abbr>m<hi rend="smcaps">cal</hi></abbr>: <expan>Caldecott, 1813–33</expan></item>
+
+<item><abbr>m<hi rend="smcaps">col</hi>1</abbr>: <expan>Collier, c. 1850</expan></item>
+
+<item><abbr>m<hi rend="smcaps">cole</hi></abbr>: <expan>Coleridge, c. 1834</expan></item>
+
+<item><abbr>mF2<hi rend="smcaps">fl</hi>48</abbr>: <expan>Anon., –1747</expan></item>
+
+<item><abbr>m<hi rend="smcaps">grin</hi></abbr>: <expan>Grinfield, 1834–63</expan></item>
+
+<item><abbr>m<hi rend="smcaps">han</hi>1, 2</abbr>: <expan>Hanmer, 1735–9, –1744</expan></item>
+
+<item><abbr>m<hi rend="smcaps">jenn</hi></abbr>: <expan>Jennens, 1733–73</expan></item>
+
+<item><abbr>m<hi rend="smcaps">long</hi></abbr>: <expan>Long, –1773?</expan></item>
+
+<item><abbr>m<hi rend="smcaps">stv</hi>3</abbr>: <expan>Steevens, 1793–1800</expan></item>
+
+<item><abbr>m<hi rend="smcaps">tby</hi>2, 3, 4</abbr>: <expan>Thirlby, 1725–33?, 1733–47?, 1747–53</expan></item>
+
+<item><abbr>m<hi rend="smcaps">theo</hi>1, 2</abbr>: <expan>Theobald, 1723–33, 1729–34</expan></item>
+
+<item><abbr>m<hi rend="smcaps">tol</hi></abbr>: <expan>Tollett, 1740–79</expan></item>
+
+<item><abbr><hi rend="smcaps">mun</hi></abbr>: <expan>Munro, 1957</expan></item>
+
+<item><abbr>m<hi rend="smcaps">warb</hi>1, 2</abbr>: <expan>1747–79, 1765–79</expan></item>
+
+<item><abbr><hi rend="smcaps">n</hi> &amp; <hi rend="smcaps">h</hi></abbr>: <expan>Neilson &amp; Hill, 1942</expan></item>
+
+<item><abbr><hi rend="smcaps">nlsn</hi></abbr>: <expan>Neilson, 1906</expan></item>
+
+<item><abbr><hi rend="smcaps">oxf</hi></abbr>: <expan><hi rend="smcaps">oxf</hi>1 &amp; <hi rend="smcaps">oxf</hi>2</expan></item>
+
+<item><abbr><hi rend="smcaps">oxf</hi>1</abbr>: <expan>Craig, [1891]</expan></item>
+
+<item><abbr><hi rend="smcaps">oxf</hi>2, 3</abbr>: <expan>Taylor, 1986, 1986</expan></item>
+
+<item><abbr><hi rend="smcaps">oxf</hi>4</abbr>: <expan>Holland, 1994</expan></item>
+
+<item><abbr><hi rend="smcaps">pel</hi>1</abbr>: <expan>Doran, 1959</expan></item>
+
+<item><abbr><hi rend="smcaps">pel</hi>3</abbr>: <expan>McDonald, 2000</expan></item>
+
+<item><abbr><hi rend="smcaps">pen</hi>1, 1a</abbr>: <expan>Harrison, 1937, 1953</expan></item>
+
+<item><abbr><hi rend="smcaps">pen</hi>2</abbr>: <expan>Wells, 1967</expan></item>
+
+<item><abbr><hi rend="smcaps">phelp</hi></abbr>: <expan>Phelps, [1851–4]</expan></item>
+
+<item><abbr><hi rend="smcaps">pope</hi></abbr>: <expan><hi rend="smcaps">pope</hi>1 &amp; <hi rend="smcaps">pope</hi>2</expan></item>
+
+<item><abbr><hi rend="smcaps">pope</hi>1, 2</abbr>: <expan>Pope, 1725, 1728</expan></item>
+
+<item><abbr>Q1, Q2</abbr>: <expan>Quartos 1600, [1619]</expan></item>
+
+<item><abbr>Qq</abbr>: <expan>Q1 &amp; Q2</expan></item>
+
+<item><abbr><hi rend="smcaps">rann</hi></abbr>: <expan>Rann, 1787</expan></item>
+
+<item><abbr><hi rend="smcaps">reyn</hi></abbr>: <expan>Reynolds, 1816</expan></item>
+
+<item><abbr><hi rend="smcaps">rid</hi></abbr>: <expan>Ridley, 1934</expan></item>
+
+<item><abbr><hi rend="smcaps">rltr</hi></abbr>: <expan>Chambers, [1905]</expan></item>
+
+<item><abbr><hi rend="smcaps">rowe</hi></abbr>: <expan><hi rend="smcaps">rowe</hi>1 &amp; <hi rend="smcaps">rowe</hi>3</expan></item>
+
+<item><abbr><hi rend="smcaps">rowe</hi>1, 2, 3</abbr>: <expan>Rowe, 1709, 1709, 1714</expan></item>
+
+<item><abbr><hi rend="smcaps">set</hi></abbr>: <expan>Settle, 1692</expan></item>
+
+<item><abbr><hi rend="smcaps">sing</hi></abbr>: <expan><hi rend="smcaps">sing</hi>1 &amp; <hi rend="smcaps">sing</hi>2</expan></item>
+
+<item><abbr><hi rend="smcaps">sing</hi>1, 2</abbr>: <expan>Singer, 1826, 1856</expan></item>
+
+<item><abbr><hi rend="smcaps">sis</hi></abbr>: <expan>Sisson, 1954</expan></item>
+
+<item><abbr><hi rend="smcaps">stau</hi></abbr>: <expan>Staunton, 1857</expan></item>
+
+<item><abbr><hi rend="smcaps">theo</hi></abbr>: <expan><hi rend="smcaps">theo</hi>1, <hi rend="smcaps">theo</hi>2 &amp; <hi rend="smcaps">theo</hi>4</expan></item>
+
+<item><abbr><hi rend="smcaps">theo</hi>1, 2, 4</abbr>: <expan>Theobald, 1733, 1740, 1757</expan></item>
+
+<item><abbr>v1773, v1778</abbr>: <expan>Johnson &amp; Steevens</expan></item>
+
+<item><abbr>v1785</abbr>: <expan>Johnson, Steevens &amp; Reed</expan></item>
+
+<item><abbr>v1793</abbr>: <expan>Steevens &amp; Reed</expan></item>
+
+<item><abbr>v1803, v1813</abbr>: <expan>Reed</expan></item>
+
+<item><abbr>v1821</abbr>: <expan>Boswell</expan></item>
+
+<item><abbr>v1895</abbr>: <expan>Furness</expan></item>
+
+<item><abbr><hi rend="smcaps">warb</hi></abbr>: <expan>Warburton, 1747</expan></item>
+
+<item><abbr><hi rend="smcaps">warw</hi></abbr>: <expan>Chambers, 1897</expan></item>
+
+<item><abbr><hi rend="smcaps">wh</hi></abbr>: <expan><hi rend="smcaps">wh</hi>1 &amp; <hi rend="smcaps">wh</hi>2</expan></item>
+
+<item><abbr><hi rend="smcaps">wh</hi>1, 2</abbr>: <expan>White, 1858, 1883</expan></item>
+
+</list>
+
+</div>
+
+
+</div>
+
+
+
+</container>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="nvs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="nvs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!DOCTYPE TEI [
+<!ENTITY hellip     " &#x2E;&#xA0;&#x2E;&#xA0;&#x2E; ">
+<!ENTITY inked     "&#x2759;">
+<!ENTITY caret     "&#x2038;">
+<!ENTITY minus     "&#x2212;">
+<!ENTITY plus     "&#x002B;">
+<!ENTITY shy     "&#x00AD;">
+<!ENTITY sigrange     "&#x002D;">
+<!ENTITY swdash     "&#x2002;&#x007E;&#x2002;">	
+<!ENTITY cmacr     "&#x63;&#x304;">
+<!ENTITY ptilde     "&#x0070;&#x303;">
+<!ENTITY mtilde     "&#x006D;&#x303;">
+<!ENTITY mmacron     "&#x006D;&#x304;">
+<!ENTITY emacrondot     "&#x0113;&#x0323;">
+<!ENTITY asteriskmacron     "&#x002A;&#x0304;">
+]>
+
+
+<TEI xmlns="http://www.mla.org/NVSns"
+xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<teiHeader>
+
+<fileDesc>
+
+<titleStmt>
+	<title>A Midsummer Night’s Dream</title>
+	<author>William Shakespeare</author>
+	<editor role="primary">Richard F. Kennedy</editor>
+	<editor role="primary">Judith M. Kennedy</editor>
+	<editor role="secondary">Susan H. May</editor>
+	<editor role="secondary">David Nicol</editor>
+	<editor role="secondary">Roberta Barker</editor>
+</titleStmt>
+
+<editionStmt>
+  <edition>First edition</edition>
+</editionStmt>
+
+<publicationStmt>
+	<publisher>The Modern Language Association of America</publisher>
+	<address>
+		<addrLine>85 Broad St.</addrLine>
+		<addrLine>Suite 500</addrLine>
+		<addrLine>New York, NY 10004-2434</addrLine>
+		<addrLine>permissions@mla.org</addrLine>
+		<addrLine>fax: 646-458-0030</addrLine>
+	</address>
+	<availability>
+		<p>© 2016 by The Modern Language Association of America</p>
+		<p>All rights reserved</p>
+		<p>For information about obtaining permission to reprint material from MLA book publications, send your request by mail, email or fax to the address given.</p>
+	</availability>
+	<idno type="ISBN"></idno>
+	<idno type="LC"></idno>
+	<idno type="D"></idno>
+</publicationStmt>
+	
+<seriesStmt>
+	<title>A New Variorum Edition of Shakespeare</title>
+	<respStmt>
+		<resp>General Editors</resp>
+		<name>Richard Knowles</name>
+		<name>Paul Werstine</name>
+		<name>Eric Rasmussen</name>
+	</respStmt>	
+</seriesStmt>
+	
+<sourceDesc>
+  <p>This is the source.</p>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+	<projectDesc>
+		<p>Founded by Horace Howard Furness (<date>1833–1912</date>), continued by Horace Howard Furness, Jr. (<date>1865–1930</date>), and now issued under the sponsorship of The Modern Language Association of America</p>
+	</projectDesc>
+	<classDecl>
+		<taxonomy xml:id="LCSH">
+			<bibl>Library of Congress Subject Headings</bibl>
+		</taxonomy>
+	</classDecl>
+</encodingDesc>
+
+<profileDesc>
+	<langUsage>
+		<language ident="en">English</language>
+		<language ident="grc">Ancient Greek</language>
+		<language ident="el">Modern Greek</language>
+		<language ident="grk-latn">Greek (transliterated into Latin script)</language>
+		<language ident="la">Latin</language>
+		<language ident="it">Italian</language>
+		<language ident="es">Spanish</language>
+		<language ident="fr">French</language>
+		<language ident="de">German</language>
+		<language ident="nl">Dutch</language>
+		<language ident="cel">Celtic</language>
+		<language ident="ga">Irish</language>
+		<language ident="cy">Welsh</language>
+		<language ident="osx">Old Saxon</language>
+		<language ident="fro">Old French</language>
+		<language ident="hu">Hungarian</language>
+		<language ident="cim">Cimbrian</language>	
+		<language ident="sa">Sanskrit</language>	
+	</langUsage>
+	<textClass>
+		<keywords scheme="LCSH">
+			<list>
+				<item></item>
+				<item></item>
+				<item></item>
+				<item></item>
+				<item></item>
+				<item></item>
+				<item></item>
+				<item></item>
+				<item></item>
+			</list>
+		</keywords>
+	</textClass>
+</profileDesc>
+
+<revisionDesc>
+	<change when="2021-03-20" who="Ridgeback">Version 0.4.0: Major correx entered</change>
+	<change when="2018-03-17" who="Ridgeback">Version 0.3.1: Minor changes</change>
+	<change when="2018-02-11" who="Ridgeback">Version 0.3.0: Internal referencing complete</change>
+	<change when="2017-07-13" who="Ridgeback">Version 0.2.0: Main encoding complete</change>
+	<change when="2016-05-24" who="Ridgeback">Version 0.1.0: Begin encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+
+ 	<xi:include href="mnd_front.xml" xpointer="front"/>
+
+<body>
+	<xi:include href="mnd_playtext.xml" xpointer="div_playtext"/> 
+	<xi:include href="mnd_textualnotes.xml" xpointer="div_textualnotes"/> 
+ 	<xi:include href="mnd_commentary.xml" xpointer="div_commentary"/>
+</body>
+
+<back>
+	<xi:include href="mnd_appendix.xml" xpointer="div_appendix"/>
+	<xi:include href="mnd_bibliography.xml" xpointer="div_bibliography"/>
+	<xi:include href="mnd_index.xml" xpointer="div_index"/>
+	<xi:include href="mnd_endpapers.xml" xpointer="div_endpapers"/> 
+</back>
+
+</text>
+</TEI>
