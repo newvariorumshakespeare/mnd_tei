@@ -13,6 +13,7 @@
 
 
 
+<?xml-model href="file:/C:/Users/torab/Dropbox/Kathy/Desktop/CoDHR/NVS/NVS%20Volumes/MND/MND%20Volume%20Files/nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <container xmlns="http://www.mla.org/NVSns">
 
 
@@ -79,7 +80,7 @@
 <div type="playtext_source" xml:id="div_playtext_source">
 
 <head>
-<milestone unit="sig_Q" n="A1">[A1]</milestone>
+<milestone unit="sig_Q" n="A2">[A2]</milestone>
 <lb xml:id="tln_0000.1" n="0.1" rend="print_tln"/>A
 <milestone unit="sig_F" n="N1">(N1)</milestone>
 <lb xml:id="tln_0000.2" n="0.2"/>Midsommer nights

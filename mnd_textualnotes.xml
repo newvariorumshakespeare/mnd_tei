@@ -18,6 +18,7 @@
 
 
 
+<?xml-model href="../MND%20Volume%20Files/nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <container xmlns="http://www.mla.org/NVSns">
 
 
@@ -2076,7 +2077,7 @@
 <app><lem>comes</lem>] <appPart><rdg type="replace">cometh</rdg> <wit><siglum rend="smcaps">han1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1488" target="#tln_1488"><label>1488</label>
-<app><appPart><rdg type="insert"><hi rend="italic">Enter Hermia.</hi></rdg> <wit><siglum>Q2</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">on</hi> <ref targType="lb" target="#tln_1489">1489</ref></rdgDesc> <wit><siglum>F1</siglum>, <siglum>F2</siglum>, <siglum rend="smcaps">nlsn</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">after</hi> <ref targType="lb" target="#tln_1486">1486</ref></rdgDesc> <wit><siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">and</siglum>, <siglum rend="smcaps">oxf4</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">after</hi> <ref targType="lb" target="#tln_1487">1487</ref></rdgDesc> <wit><siglum rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">after</hi> <ref targType="lb" target="#tln_1490">1490</ref></rdgDesc> <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps">cam3</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, <siglum rend="smcaps">pel3</siglum></wit></appPart></app></note>
+<app><appPart><rdg type="insert"><hi rend="italic">Enter Hermia.</hi></rdg> <wit><siglum>Q2</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">on</hi> <ref targType="lb" target="#tln_1489">1489</ref></rdgDesc> <wit><siglum>F1</siglum>, <siglum>F2</siglum>, <siglum rend="smcaps">nlsn</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">after</hi> <ref targType="lb" target="#tln_1486">1486</ref></rdgDesc> <wit><siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">and</siglum>, <siglum rend="smcaps">oxf4</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">after</hi> <ref targType="lb" target="#tln_1487">1487</ref></rdgDesc> <wit><siglum rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">after</hi> <ref targType="lb" target="#tln_1490">1490</ref></rdgDesc> <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps">cam3</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, <siglum rend="smcaps">pel3</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1493" target="#tln_1493"><label>1493</label>
 <app><lem>further&hellip;further</lem>] <appPart><rdg type="replace">farther&hellip;farther</rdg> <wit><siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart></app></note>
