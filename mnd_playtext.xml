@@ -13,6 +13,7 @@
 
 
 
+<?xml-model href="file:/C:/Users/torab/Dropbox/Kathy/Desktop/CoDHR/NVS/NVS%20Volumes/MND/MND%20Volume%20Files/nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <container xmlns="http://www.mla.org/NVSns">
 
 
@@ -79,7 +80,7 @@
 <div type="playtext_source" xml:id="div_playtext_source">
 
 <head>
-<milestone unit="sig_Q" n="A1">[A1]</milestone>
+<milestone unit="sig_Q" n="A2">[A2]</milestone>
 <lb xml:id="tln_0000.1" n="0.1" rend="print_tln"/>A
 <milestone unit="sig_F" n="N1">(N1)</milestone>
 <lb xml:id="tln_0000.2" n="0.2"/>Midsommer nights
@@ -93,7 +94,7 @@
 
 <milestone unit="sig_F" n="N1a">(N1<hi rend="superscript">a</hi>)</milestone>
 <lb xml:id="tln_0002" n="2"/><stage type="enter" rend="align(center)">Enter <name>Theseus</name>, <name>Hippolita</name>, with others.</stage>
-
+<lb xml:id="tln_0001" n="1" ed="F"/><head>Actus primus.</head>
 <lb xml:id="tln_0003" n="3"/><sp who="#Theseus"><speaker rend="align(center)">Theseus.</speaker>
 <lb xml:id="tln_0004" n="4"/><p>Now faire <name>Hippolita</name>, our nuptiall hower
 <lb xml:id="tln_0005" n="5" rend="print_tln"/>Draws on apase: fower happy daies bring in
@@ -258,7 +259,7 @@
 <lb xml:id="tln_0135" n="135"/>Of some thing, nerely that concernes your selues.</p></sp>
 
 <lb xml:id="tln_0136" n="136" rend="print_tln"/><sp who="#Egeus"><speaker>Ege.</speaker><p>With duety and desire, we follow you.</p></sp><stage type="exit" rend="align(right)">Exeunt.</stage>
-
+<lb xml:id="tln_0137" n="137" ed="F"/><stage type="description" rend="align(center)">Manet Lysander and Hermia.</stage>
 <lb xml:id="tln_0138" n="138" rend="print_tln"/><sp who="#Lysander"><speaker>Lysand.</speaker><p>How now my loue? Why is your cheeke so pale?
 <lb xml:id="tln_0139" n="139"/>How chance the roses there doe fade so fast?</p></sp>
 
@@ -588,6 +589,7 @@
 
 <div type="scene" n="1" xml:id="div_act2_scene1">
 
+<lb xml:id="tln_0372" n="372" ed="F"/><head>Actus Secundus.</head>
 <lb xml:id="tln_0373" n="373"/><stage type="enter" rend="align(center)">Enter a <name>Fairie</name> at one doore, and <name>Robin good-
 <lb xml:id="tln_0374" n="374"/>fellow</name> at another.</stage>
 
@@ -1047,6 +1049,7 @@
 <lb xml:id="tln_0740" n="740"/><sp who="#Helena"><speaker>Hele.</speaker><p>O, wilt thou darkling leaue me? doe not so.</p></sp>
 
 <lb xml:id="tln_0741" n="741" rend="print_tln"/><sp who="#Demetrius"><speaker>De.</speaker><p>Stay, on thy perill: I alone will goe.</p></sp>
+<lb xml:id="tln_0742" n="742" ed="F"/><stage type="exit" rend="align(right)">Exit Demetrius.</stage>
 
 <lb xml:id="tln_0743" n="743" rend="print_tln"/><sp who="#Helena"><speaker>Hel.</speaker><p>O, I am out of breath, in this fond chase,
 <lb xml:id="tln_0744" n="744"/>The more my prayer, the lesser is my grace.
@@ -1135,6 +1138,7 @@
 
 <div type="scene" n="1" xml:id="div_act3_scene1">
 
+<lb xml:id="tln_0812" n="812" ed="F"/><head>Actus Tertius.</head>
 <lb xml:id="tln_0813" n="813" rend="print_tln"/><stage type="enter" rend="align(center)">Enter the Clownes.</stage>
 
 <lb xml:id="tln_0814" n="814"/><sp who="#Bottom"><speaker>Bott.</speaker><p>Are wee all met?</p></sp>
@@ -1208,6 +1212,8 @@
 <milestone unit="sig_Q" n="D2">[D2]</milestone>
 <lb xml:id="tln_0863" n="863"/><sp who="#Bottom"><speaker>Bot.</speaker><p>A Calender, a Calender: looke in the Almanack:
 <lb xml:id="tln_0864" n="864" rend="print_tln"/>finde out Moone-shine, finde out Moone-shine.</p></sp>
+
+<lb xml:id="tln_0865" n="865" ed="F"/><stage type="enter" rend="align(center)">Enter Pucke.</stage>
 
 <lb xml:id="tln_0866" n="866" rend="print_tln"/><sp who="#Quince"><speaker>Quin.</speaker><p>Yes: it doth shine that night.</p></sp>
 
@@ -1283,12 +1289,16 @@
 <lb xml:id="tln_0918" n="918"/><sp who="#Quince"><speaker>Quin.</speaker><p>O monstrous! O strange! We are haunted. Pray
 <lb xml:id="tln_0919" n="919" rend="print_tln"/>masters: fly masters: helpe.</p></sp>
 
+<lb xml:id="tln_0920" n="920" ed="F"/><stage type="exit" rend="align(right)">The Clownes all Exit.</stage>
+
 <lb xml:id="tln_0921" n="921" rend="print_tln"/><sp who="#Puck"><speaker>Rob.</speaker><p>Ile follow you: Ile leade you about a Round,
 <lb xml:id="tln_0922" n="922"/>Through bogge, through bush, through brake, through bryer:
 <lb xml:id="tln_0923" n="923"/>Sometime a horse Ile be, sometime a hound,
 <lb xml:id="tln_0924" n="924"/>A hogge, a headelesse Beare, sometime a fier,
 <lb xml:id="tln_0925" n="925"/>And neigh, and barke, and grunt, and rore, and burne,
 <lb xml:id="tln_0926" n="926" rend="print_tln"/>Like horse, hound, hogge, beare, fire, at euery turne.</p></sp><stage type="exit" rend="align(right)">Exit.</stage>
+
+<lb xml:id="tln_0927" n="927" ed="F"/><stage type="enter" rend="align(center)">Enter Piramus with the Asse head.</stage>
 
 <lb xml:id="tln_0928" n="928" rend="print_tln"/><sp who="#Bottom"><speaker>Bott.</speaker><p>Why doe they runne away? This is a knauery of
 <lb xml:id="tln_0929" n="929"/>them to make mee afeard.</p></sp><space extent="3em"/><stage type="enter">Enter Snowte.</stage>
@@ -1399,6 +1409,8 @@
 
 <lb xml:id="tln_1008" n="1008" rend="print_tln"/><sp who="#Mustard"><speaker>Must.</speaker><p><name>Mustardseede</name>.</p></sp>
 
+<lb xml:id="tln_1009" n="1009" ed="F"/><sp who="#Pease"><speaker>Peas.</speaker><p><hi rend="italic">Pease-blossome.</hi></p></sp>
+
 <lb xml:id="tln_1010" n="1010" rend="print_tln"/><sp who="#Bottom"><speaker>Bot.</speaker><p>Good master <name>Mustardseede</name>, I know your pati-
 <lb xml:id="tln_1011" n="1011"/>ence well. That same cowardly, gyantlike, Ox-beefe
 <lb xml:id="tln_1012" n="1012"/>hath deuourd many a gentleman of your house. I pro-
@@ -1424,6 +1436,9 @@
 <lb xml:id="tln_1022" n="1022"/><sp who="#Oberon"><speaker>Ob.</speaker><p>I wonder if <name>Titania</name> be awak’t;
 <lb xml:id="tln_1023" n="1023"/>Then what it was, that next came in her eye,
 <lb xml:id="tln_1024" n="1024" rend="print_tln"/>Which she must dote on, in extreamitie.
+
+<lb xml:id="tln_1025" n="1025" ed="F"/><stage type="enter" rend="align(center)">Enter Pucke.</stage>
+
 <lb xml:id="tln_1026" n="1026" rend="print_tln"/>Here comes my messenger. How now, mad spirit?
 <lb xml:id="tln_1027" n="1027"/>What nightrule now about this haunted groue?</p></sp>
 
@@ -1891,6 +1906,8 @@
 
 <lb xml:id="tln_1384p01" n="1384+1" rend="print_tln"/><sp who="#Hermia"><speaker>Her.</speaker><p>I am amaz’d, and know not what to say.</p></sp><stage type="exit" rend="align(right)">Exeunt.</stage>
 
+<lb xml:id="tln_1385" n="1385" ed="F"/><stage type="enter" rend="align(center)">Enter Oberon and Pucke.</stage>
+
 <lb xml:id="tln_1386" n="1386" rend="print_tln"/><sp who="#Oberon"><speaker>Ob.</speaker><p>This is thy negligence: still thou mistak’st,
 <lb xml:id="tln_1387" n="1387"/>Or else commitst thy knaueries wilfully.</p></sp>
 
@@ -2018,6 +2035,9 @@
 <lb xml:id="tln_1486" n="1486"/>Two of both kindes makes vp fower.
 <lb xml:id="tln_1487" n="1487"/>Heare shee comes, curst and sadde.
 <lb xml:id="tln_1488" n="1488" rend="print_tln"/><name>Cupid</name> is a knauish ladde,
+
+<lb xml:id="tln_1489" n="1489" ed="F"/><stage type="enter" rend="align(center)">Enter Hermia.</stage>
+
 <lb xml:id="tln_1490" n="1490" rend="print_tln"/>Thus to make poore females madde.</p></sp>
 
 <lb xml:id="tln_1491" n="1491"/><sp who="#Hermia"><speaker>Her.</speaker><p>Neuer so weary, neuer so in woe,
@@ -2038,6 +2058,8 @@
 <lb xml:id="tln_1504" n="1504"/><name>Iacke</name> shall haue <name>Iill</name>: nought shall goe ill:
 <lb xml:id="tln_1505-1506" n="1505–6" rend="print_tln"/><nvsSeg type="linePart" xml:id="tln_1505">The man shall haue his mare again, &amp; all shall be</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_1506">well.</nvsSeg></p></sp>
 
+<lb xml:id="tln_1507" n="1507" ed="F"/><stage type="description" rend="align(center)">They sleepe all the Act.</stage>
+
 </div>
 </div>
 
@@ -2045,6 +2067,8 @@
 <div type="act" n="4" xml:id="div_act4">
 
 <div type="scene" n="1" xml:id="div_act4_scene1">
+
+<lb xml:id="tln_1508" n="1508" ed="F"/><head>Actus Quartus.</head>
 
 <lb xml:id="tln_1509" n="1509"/><stage type="enter" rend="align(center)">Enter Queene of <name>Faieries</name>, and Clowne, and <name>Faieries</name>: and the
 <lb xml:id="tln_1510" n="1510" rend="print_tln"/>king behinde them.</stage>
@@ -2091,6 +2115,8 @@
 
 <lb xml:id="tln_1539-1540i" n="1539–40" rend="print_tln"/><sp who="#Bottom"><nvsSeg type="linePart" xml:id="tln_1539i"><speaker>Clo.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_1539f">I haue a reasonable good eare in musique. Let</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_1540i">s</nvsSeg>
 <lb xml:id="tln_1540f" n="1540" rend="print_tln"/>haue the tongs, and the bones.</p></sp>
+
+<lb xml:id="tln_1541" n="1541" ed="F"/><stage type="description" rend="align(center)">Musicke Tongs, Rurall Musicke.</stage>
 
 <lb xml:id="tln_1542" n="1542" rend="print_tln"/><sp who="#Titania"><speaker>Tyta.</speaker><p>Or, say sweete loue, what thou desirest to eate.</p></sp>
 
@@ -2163,6 +2189,8 @@
 
 <lb xml:id="tln_1599" n="1599" rend="print_tln"/><sp who="#Titania"><speaker>Ti.</speaker><p>Musick, howe musick: such as charmeth sleepe.</p></sp>
 
+<lb xml:id="tln_1600" n="1600" ed="F"/><stage type="description" rend="align(center)">Musick still.</stage>
+
 <lb xml:id="tln_1601-1602" n="1601–2" rend="print_tln"/><sp who="#Puck"><nvsSeg type="linePart" xml:id="tln_1601i"><speaker>Rob.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_1601f">Now, when thou wak’st, with thine own fools eyes</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_1602">peepe.</nvsSeg></p></sp>
 
 <lb xml:id="tln_1603" n="1603"/><sp who="#Oberon"><speaker>Ob.</speaker><p>Sound Musick: come, my queen, take hands with me,
@@ -2185,6 +2213,9 @@
 <lb xml:id="tln_1617" n="1617"/><sp who="#Titania"><speaker>Tita.</speaker><p>Come my Lord, and in our flight,
 <lb xml:id="tln_1618" n="1618"/>Tell me how it came this night,
 <lb xml:id="tln_1619" n="1619" rend="print_tln"/>That I sleeping here was found,
+
+<lb xml:id="tln_1620" n="1620" ed="F"/><stage type="description" rend="align(center)">Sleepers Lye still.</stage>
+
 <milestone unit="sig_F" n="O1va">(O1<hi rend="superscript">va</hi>)</milestone>
 <lb xml:id="tln_1621" n="1621" rend="print_tln"/>With these mortals on the ground.</p></sp><stage type="exit" rend="align(right)">Exeunt.</stage>
 
@@ -2318,6 +2349,8 @@
 <lb xml:id="tln_1725" n="1725"/><sp who="#Demetrius"><speaker>Dem.</speaker><p>Why then, we are awake: lets follow him, and
 <lb xml:id="tln_1726" n="1726" rend="print_tln"/>by the way lets recount our dreames.</p></sp>
 
+<lb xml:id="tln_1727" n="1727" ed="F"/><stage type="description" rend="align(center)">Bottome wakes.</stage><stage type="exit" rend="align(right)">Exit Louers.</stage>
+
 <lb xml:id="tln_1728" n="1728" rend="print_tln"/><sp who="#Bottom"><speaker>Clo.</speaker><p>When my cue comes, call mee, and I will answere.
 <lb xml:id="tln_1729" n="1729"/>My next is, most faire <name>Pyramus</name>. Hey ho. <name>Peeter Quince</name>?
 <lb xml:id="tln_1730" n="1730" rend="print_tln"/><name>Flute</name>, the bellowes mender? <name>Snout</name> the tinker? <name>Starue</name>-
@@ -2407,6 +2440,8 @@
 <lb xml:id="tln_1788" n="1788"/>breath: and I do not doubt but to hear them say, it is a
 <lb xml:id="tln_1789" n="1789" rend="print_tln"/>sweete Comedy. No more wordes. Away, go away.</p></sp>
 
+<lb xml:id="tln_1790" n="1790" ed="F"/><stage type="exit" rend="align(right)">Exeunt.</stage>
+
 </div>
 </div>
 
@@ -2414,6 +2449,8 @@
 <div type="act" n="5" xml:id="div_act5">
 
 <div type="scene" n="1" xml:id="div_act5_scene1">
+
+<lb xml:id="tln_1791" n="1791" ed="F"/><head>Actus Quintus.</head>
 
 <lb xml:id="tln_1792" n="1792"/><stage type="enter" rend="align(center)">Enter <name>Theseus</name>, <name>Hyppolita</name>, and <name>Philostrate</name>.</stage>
 
@@ -2578,6 +2615,8 @@
 <lb xml:id="tln_1922" n="1922"/><sp who="#Theseus"><speaker>The.</speaker><p>His speach was like a tangled Chaine; nothing
 <lb xml:id="tln_1923" n="1923" rend="print_tln"/>impaired, but all disordered. Who is next?</p></sp>
 
+<lb xml:id="tln_1924" n="1924" ed="F"/><stage type="description" rend="align(center)">Tawyer with a Trumpet before them.</stage>
+
 <lb xml:id="tln_1925" n="1925"/><stage type="enter" rend="align(center)">Enter <name>Pyramus</name>, and <name>Thisby</name>, and <name>Wall</name>, and <name>Moone-shine</name>, and <name>Lyon</name>.</stage>
 
 <lb xml:id="tln_1926" n="1926" rend="print_tln"/><sp who="#Prologue"><speaker>Prologue.</speaker><p>Gentles, perchance you wonder at this show.
@@ -2607,6 +2646,8 @@
 <lb xml:id="tln_1949" n="1949"/>Let <name>Lyon</name>, <name>Moone-shine</name>, <name>Wall</name>, and louers twaine,
 <lb xml:id="tln_1950" n="1950" rend="print_tln"/>At large discourse, while here they doe remaine.</p></sp>
 
+<lb xml:id="tln_1951" n="1951" ed="F"/><stage type="exit" rend="align(right)">Exit all but Wall.</stage>
+
 <milestone unit="sig_Q" n="H1">[H1]</milestone>
 <lb xml:id="tln_1952" n="1952" rend="print_tln"/><sp who="#Theseus"><speaker>The.</speaker><p>I wonder, if the Lyon be to speake.</p></sp>
 
@@ -2633,6 +2674,8 @@
 <lb xml:id="tln_1969" n="1969"/>discourse, my Lord.</p></sp>
 
 <lb xml:id="tln_1970" n="1970" rend="print_tln"/><sp who="#Theseus"><speaker>The.</speaker><p><name>Pyramus</name> drawes neare the wall: silence.</p></sp>
+
+<lb xml:id="tln_1971" n="1971" ed="F"/><stage type="enter" rend="align(center)">Enter Pyramus.</stage>
 
 <lb xml:id="tln_1972" n="1972" rend="print_tln"/><sp who="#Pyramus"><speaker>Py.</speaker><p>O grim lookt night, o night, with hue so blacke,
 <lb xml:id="tln_1973" n="1973"/>O night, which euer art, when day is not:
@@ -2768,6 +2811,8 @@
 
 <lb xml:id="tln_2063-2064" n="2063–4" rend="print_tln"/><nvsSeg type="linePart" xml:id="tln_2063"><sp who="#Thisby"><speaker>Th.</speaker><p>This is ould <name>Ninies</name> tumbe. Where is my loue?</p></sp></nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_2064"><sp who="#Lion"><speaker>Lyon.</speaker><p>Oh.</p></sp></nvsSeg>
 
+<lb xml:id="tln_2065" n="2065" ed="F"/><stage type="description exit" rend="align(right)">The Lion roares, Thisby runs off.</stage>
+
 <milestone unit="sig_Q" n="H2v">[H2<hi rend="superscript">v</hi>]</milestone>
 <lb xml:id="tln_2066" n="2066" rend="print_tln"/><sp who="#Demetrius"><speaker>Dem.</speaker><p>Well roard, Lyon.</p></sp>
 
@@ -2826,6 +2871,8 @@
 
 <lb xml:id="tln_2105" n="2105"/><sp who="#Hippolita"><speaker>Dut.</speaker><p>How chance Moone-shine is gone before?
 <lb xml:id="tln_2106" n="2106" rend="print_tln"/><name>Thisby</name> comes backe, and findes her louer.</p></sp>
+
+<lb xml:id="tln_2107" n="2107" ed="F"/><stage type="enter" rend="align(center)">Enter Thisby.</stage>
 
 <lb xml:id="tln_2108" n="2108" rend="print_tln"/><sp who="#Theseus"><speaker>Duk.</speaker><p>Shee will finde him, by starre-light.
 <lb xml:id="tln_2109" n="2109"/>Here shee comes, and her passion ends the Play.</p></sp>
@@ -2923,6 +2970,8 @@
 <lb xml:id="tln_2182" n="2182"/>Hand in hand, with Fairy grace,
 <lb xml:id="tln_2183" n="2183" rend="print_tln"/>Will we sing and blesse this place.</p></sp>
 
+<lb xml:id="tln_2184" n="2184" ed="F"/><ab type="head" rend="italic align(center)">The Song.</ab>
+
 <lb xml:id="tln_2185" n="2185" rend="print_tln"/><sp who="#Oberon"><speaker>Ob.</speaker><p>Now, vntill the breake of day,
 <lb xml:id="tln_2186" n="2186"/>Through this house, each Fairy stray.
 <lb xml:id="tln_2187" n="2187"/>To the best bride bed will wee:
@@ -2977,32 +3026,6 @@
 <div type="playtext_meta" xml:id="div_playtext_meta" display="all(suppress)">
 
 <div type="playtext_missing_lines" xml:id="div_playtext_missing_lines">
-<div><lb xml:id="tln_0001" n="1"/><head>Actus primus.</head></div>
-<div><lb xml:id="tln_0137" n="137"/><stage type="description" rend="align(center)">Manet Lysander and Hermia.</stage></div>
-<div><lb xml:id="tln_0372" n="372"/><head>Actus Secundus.</head></div>
-<div><lb xml:id="tln_0742" n="742"/><stage type="exit" rend="align(right)">Exit Demetrius.</stage></div>
-<div><lb xml:id="tln_0812" n="812"/><head>Actus Tertius.</head></div>
-<div><lb xml:id="tln_0865" n="865"/><stage type="enter" rend="align(center)">Enter Pucke.</stage></div>
-<div><lb xml:id="tln_0920" n="920"/><stage type="exit" rend="align(right)">The Clownes all Exit.</stage></div>
-<div><lb xml:id="tln_0927" n="927"/><stage type="enter" rend="align(center)">Enter Piramus with the Asse head.</stage></div>
-<div><lb xml:id="tln_1009" n="1009"/><sp who="#Pease"><speaker>Peas.</speaker><p><hi rend="italic">Pease-blossome.</hi></p></sp></div>
-<div><lb xml:id="tln_1025" n="1025"/><stage type="enter" rend="align(center)">Enter Pucke.</stage></div>
-<div><lb xml:id="tln_1385" n="1385"/><stage type="enter" rend="align(center)">Enter Oberon and Pucke.</stage></div>
-<div><lb xml:id="tln_1489" n="1489"/><stage type="enter" rend="align(center)">Enter Hermia.</stage></div>
-<div><lb xml:id="tln_1507" n="1507"/><stage type="description" rend="align(center)">They sleepe all the Act.</stage></div>
-<div><lb xml:id="tln_1508" n="1508"/><head>Actus Quartus.</head></div>
-<div><lb xml:id="tln_1541" n="1541"/><stage type="description" rend="align(center)">Musicke Tongs, Rurall Musicke.</stage></div>
-<div><lb xml:id="tln_1600" n="1600"/><stage type="description" rend="align(center)">Musick still.</stage></div>
-<div><lb xml:id="tln_1620" n="1620"/><stage type="description" rend="align(center)">Sleepers Lye still.</stage></div>
-<div><lb xml:id="tln_1727" n="1727"/><stage type="description" rend="align(center)">Bottome wakes.</stage><stage type="exit" rend="align(right)">Exit Louers.</stage></div>
-<div><lb xml:id="tln_1790" n="1790"/><stage type="exit" rend="align(right)">Exeunt.</stage></div>
-<div><lb xml:id="tln_1791" n="1791"/><head>Actus Quintus.</head></div>
-<div><lb xml:id="tln_1924" n="1924"/><stage type="description" rend="align(center)">Tawyer with a Trumpet before them.</stage></div>
-<div><lb xml:id="tln_1951" n="1951"/><stage type="exit" rend="align(right)">Exit all but Wall.</stage></div>
-<div><lb xml:id="tln_1971" n="1971"/><stage type="enter" rend="align(center)">Enter Pyramus.</stage></div>
-<div><lb xml:id="tln_2065" n="2065"/><stage type="description exit" rend="align(right)">The Lion roares, Thisby runs off.</stage></div>
-<div><lb xml:id="tln_2107" n="2107"/><stage type="enter" rend="align(center)">Enter Thisby.</stage></div>
-<div><lb xml:id="tln_2184" n="2184"/><ab type="head" rend="italic align(center)">The Song.</ab></div>
 </div>
 
 
