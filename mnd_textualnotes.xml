@@ -18,7 +18,7 @@
 
 
 
-<?xml-model href="../MND%20Volume%20Files/nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <container xmlns="http://www.mla.org/NVSns">
 
 
@@ -118,7 +118,7 @@
 <app><lem><hi rend="italic">Hermias</hi></lem>] <appPart><rdg type="replace">Hermia</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">and1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0107" target="#tln_0107"><label>107</label>
-<app><lem>unto</lem>] <appPart><rdg type="replace">upon</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum>, <siglum>m<hi rend="smcaps">han</hi>2</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han1</siglum></wit></appPart></app></note>
+<app><lem>vnto</lem>] <appPart><rdg type="replace">upon</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum>, <siglum>m<hi rend="smcaps">han</hi>2</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0110" target="#tln_0110"><label>110</label>
 <app><lem>fortunes</lem>] <appPart><rdg type="replace">Fortune’s</rdg> <wit><siglum rend="smcaps">set</siglum>, <siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
@@ -301,7 +301,7 @@
 <app><lem>is so oft</lem>] <appPart><rdg type="replace">is oft</rdg> <wit><siglum>Q2</siglum>, <siglum rend="smcaps">rann</siglum></wit></appPart>; <appPart><rdg type="replace">is often</rdg> <wit><siglum>F1</siglum></wit></appPart>; <appPart><rdg type="replace">often is</rdg> <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">wh</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0254" target="#tln_0254"><label>254</label>
-<app><lem>in game themselues</lem>] <appPart><rdg type="replace">themselves in game</rdg> <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum></wit></appPart></app></note>
+<app><lem>in game, themselues</lem>] <appPart><rdg type="replace">themselves in game</rdg> <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0258" target="#tln_0258"><label>258</label>
 <app><lem>this</lem>] <appPart><rdg type="replace">his</rdg> <wit><siglum>Q2</siglum>, <siglum rend="smcaps">rann</siglum></wit></appPart></app></note>

@@ -13,7 +13,7 @@
 
 
 
-<?xml-model href="file:/C:/Users/torab/Dropbox/Kathy/Desktop/CoDHR/NVS/NVS%20Volumes/MND/MND%20Volume%20Files/nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <container xmlns="http://www.mla.org/NVSns">
 
 
@@ -438,7 +438,7 @@
 <lb xml:id="tln_0271" n="271"/>man, according to the scrippe.</p></sp>
 
 <lb xml:id="tln_0272" n="272"/><sp who="#Quince"><speaker>Quin.</speaker><p>Here is the scrowle of euery mans name, which
-<lb xml:id="tln_0273" n="273"/>is thought fit, through al <name>Athens</name>, to play in our Enter-
+<lb xml:id="tln_0273" n="273"/>is thought fit, through al <name>Athens</name>, to play in our Enter&shy;
 <lb xml:id="tln_0274" n="274"/>lude, before the Duke, &amp; the Dutches, on his wedding
 <lb xml:id="tln_0275" n="275" rend="print_tln"/>day at night.</p></sp>
 
@@ -447,7 +447,7 @@
 <lb xml:id="tln_0278" n="278"/>to a point.</p></sp>
 
 <milestone unit="sig_Q" n="B2">[B2]</milestone>
-<lb xml:id="tln_0279" n="279"/><sp who="#Quince"><speaker>Quin.</speaker><p>Mary, our Play is the most lamentable come-
+<lb xml:id="tln_0279" n="279"/><sp who="#Quince"><speaker>Quin.</speaker><p>Mary, our Play is the most lamentable come&shy;
 <lb xml:id="tln_0280" n="280" rend="print_tln"/>dy, and most cruell death of <name>Pyramus</name> and <name>Thisby</name>.</p></sp>
 
 <lb xml:id="tln_0281" n="281"/><sp who="#Bottom"><speaker>Bot.</speaker><p>A very good peece of worke, I assure you, &amp; a
@@ -461,7 +461,7 @@
 <lb xml:id="tln_0286" n="286"/><sp who="#Bottom"><speaker>Bott.</speaker><p>Readie: Name what part I am for, and
 <lb xml:id="tln_0287" n="287"/>proceede.</p></sp>
 
-<lb xml:id="tln_0288" n="288"/><sp who="#Quince"><speaker>Quin.</speaker><p>You, <name>Nick Bottom</name> are set downe for <name>Py-</name>
+<lb xml:id="tln_0288" n="288"/><sp who="#Quince"><speaker>Quin.</speaker><p>You, <name>Nick Bottom</name> are set downe for <name>Py&shy;</name>
 <lb xml:id="tln_0289" n="289"/><name>ramus</name>.</p></sp>
 
 <lb xml:id="tln_0290" n="290" rend="print_tln"/><sp who="#Bottom"><speaker>Bott.</speaker><p>What is <name>Pyramus</name>? A louer, or a tyrant?</p></sp>
@@ -469,7 +469,7 @@
 <lb xml:id="tln_0291" n="291"/><sp who="#Quince"><speaker>Quin.</speaker><p>A louer that kils himselfe, most gallant, for
 <lb xml:id="tln_0292" n="292"/>loue.</p></sp>
 
-<lb xml:id="tln_0293" n="293"/><sp who="#Bottom"><speaker>Bott.</speaker><p>That will aske some teares in the true perfor-
+<lb xml:id="tln_0293" n="293"/><sp who="#Bottom"><speaker>Bott.</speaker><p>That will aske some teares in the true perfor&shy;
 <lb xml:id="tln_0294" n="294"/>ming of it. If I doe it, let the Audience looke to their eyes:
 <lb xml:id="tln_0295" n="295" rend="print_tln"/>I wil mooue stormes: I will condole, in some measure.
 <lb xml:id="tln_0296" n="296"/>To the rest yet, my chiefe humour is for a tyrant. I could
@@ -478,7 +478,7 @@
 <lb xml:id="tln_0299" n="299"/>the locks of prison gates, and <name>Phibbus</name> carre shall shine
 <lb xml:id="tln_0300" n="300" rend="print_tln"/>from farre, and make &amp; marre the foolish Fates. This
 <lb xml:id="tln_0301" n="301"/>was loftie. Now, name the rest of the Players. This
-<lb xml:id="tln_0302" n="302"/>is <name>Ercles</name> vaine, a tyrants vaine: A louer is more condo-
+<lb xml:id="tln_0302" n="302"/>is <name>Ercles</name> vaine, a tyrants vaine: A louer is more condo&shy;
 <lb xml:id="tln_0303" n="303"/>ling.</p></sp>
 
 <lb xml:id="tln_0304" n="304"/><sp who="#Quince"><speaker>Quin.</speaker><p><name>Francis Flute</name>, the Bellowes mender?</p></sp>
@@ -541,15 +541,15 @@
 
 <lb xml:id="tln_0341" n="341"/><sp who="#Bottom"><speaker>Bot.</speaker><p>I grant you, friends, if you should
 <lb xml:id="tln_0342" n="342"/>fright the Ladies out of their wits, they would
-<lb xml:id="tln_0343" n="343"/>haue no more discretion, but to hang vs: but I will ag-
+<lb xml:id="tln_0343" n="343"/>haue no more discretion, but to hang vs: but I will ag&shy;
 <lb xml:id="tln_0344" n="344"/>grauate my voice so, that I wil roare you as gently, as
-<lb xml:id="tln_0345" n="345" rend="print_tln"/>any sucking doue: I will roare you, and ’twere any Nightin-
+<lb xml:id="tln_0345" n="345" rend="print_tln"/>any sucking doue: I will roare you, and ’twere any Nightin&shy;
 <lb xml:id="tln_0346" n="346"/>gale.</p></sp>
 
-<lb xml:id="tln_0347" n="347"/><sp who="#Quince"><speaker>Quin.</speaker><p>You can play no part but <name>Piramus</name>: for <name>Pira</name>-
+<lb xml:id="tln_0347" n="347"/><sp who="#Quince"><speaker>Quin.</speaker><p>You can play no part but <name>Piramus</name>: for <name>Pira</name>&shy;
 <milestone unit="sig_F" n="N2va">(N2<hi rend="superscript">va</hi>)</milestone>
 <lb xml:id="tln_0348" n="348"/><name>mus</name> is a sweete fac’t man; a proper man as one shall see in
-<lb xml:id="tln_0349" n="349"/>a sommers day; a most louely gentlemanlike man: there-
+<lb xml:id="tln_0349" n="349"/>a sommers day; a most louely gentlemanlike man: there&shy;
 <lb xml:id="tln_0350" n="350" rend="print_tln"/>fore you must needes play <name>Piramus</name>.</p></sp>
 
 <lb xml:id="tln_0351" n="351"/><sp who="#Bottom"><speaker>Bot.</speaker><p>Well: I will vndertake it. What beard were I
@@ -559,7 +559,7 @@
 
 <lb xml:id="tln_0354" n="354"/><sp who="#Bottom"><speaker>Bot.</speaker><p>I wil discharge it, in either your straw colour
 <lb xml:id="tln_0355" n="355" rend="print_tln"/>beard, your Orange tawnie bearde, your purple in graine
-<lb xml:id="tln_0356" n="356"/>beard, or your french crowne colour beard, your per-
+<lb xml:id="tln_0356" n="356"/>beard, or your french crowne colour beard, your per&shy;
 <lb xml:id="tln_0357" n="357"/>fit yellow.</p></sp>
 
 <lb xml:id="tln_0358" n="358"/><sp who="#Quince"><speaker>Quin.</speaker><p>Some of your french crownes haue no haire
@@ -569,12 +569,12 @@
 <lb xml:id="tln_0361" n="361"/>desire you, to con them by to morrow night: and meete
 <lb xml:id="tln_0362" n="362"/>mee in the palace wood, a mile without the towne, by
 <lb xml:id="tln_0363" n="363"/>Moone-light; there will wee rehearse: for if wee meete in
-<lb xml:id="tln_0364" n="364"/>the city, wee shal be dogd with company, and our deui-
-<lb xml:id="tln_0365" n="365" rend="print_tln"/>ses known. In the meane time, I will draw a bill of pro-
+<lb xml:id="tln_0364" n="364"/>the city, wee shal be dogd with company, and our deui&shy;
+<lb xml:id="tln_0365" n="365" rend="print_tln"/>ses known. In the meane time, I will draw a bill of pro&shy;
 <lb xml:id="tln_0366" n="366"/>perties, such as our play wants. I pray you faile me not.</p></sp>
 
 <lb xml:id="tln_0367" n="367"/><sp who="#Bottom"><speaker>Bot.</speaker><p>Wee will meete, &amp; there we may rehearse
-<lb xml:id="tln_0368" n="368"/>most obscenely, and coragiously. Take paines, bee per-
+<lb xml:id="tln_0368" n="368"/>most obscenely, and coragiously. Take paines, bee per&shy;
 <lb xml:id="tln_0369" n="369"/>fit: adieu.</p></sp>
 
 <lb xml:id="tln_0370" n="370" rend="print_tln"/><sp who="#Quince"><speaker>Quin.</speaker><p>At the Dukes oke wee meete.</p></sp>
@@ -797,7 +797,7 @@
 <lb xml:id="tln_0550" n="550" rend="print_tln"/>Fetch mee this herbe, and be thou here againe
 <lb xml:id="tln_0551" n="551"/>Ere the <name>Leuiathan</name> can swimme a league.</p></sp>
 
-<lb xml:id="tln_0552-0553" n="552–3" rend="print_tln"/><sp who="#Puck"><nvsSeg type="linePart" xml:id="tln_0552i"><speaker>Pu.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_0552f">Ile put a girdle, roũd about the earth, in forty mi-</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_0553">nutes.</nvsSeg></p></sp>
+<lb xml:id="tln_0552-0553" n="552–3" rend="print_tln"/><sp who="#Puck"><nvsSeg type="linePart" xml:id="tln_0552i"><speaker>Pu.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_0552f">Ile put a girdle, roũd about the earth, in forty mi&shy;</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_0553">nutes.</nvsSeg></p></sp>
 
 <lb xml:id="tln_0554" n="554"/><sp who="#Oberon"><speaker>Oberon.</speaker><p>Hauing once this iuice,
 <lb xml:id="tln_0555" n="555" rend="print_tln"/>Ile watch <name>Titania</name>, when she is a sleepe,
@@ -1202,7 +1202,7 @@
 <lb xml:id="tln_0856" n="856"/>Ioyner.</p></sp>
 
 <lb xml:id="tln_0857" n="857"/><sp who="#Quince"><speaker>Quin.</speaker><p>Well: it shall be so: but there is two hard
-<lb xml:id="tln_0858" n="858"/>things; that is, to bring the Moone-light into a cham-
+<lb xml:id="tln_0858" n="858"/>things; that is, to bring the Moone-light into a cham&shy;
 <lb xml:id="tln_0859" n="859"/>ber: for you know, <name>Pyramus</name> and <name>Thisby</name> meete by Moone-
 <lb xml:id="tln_0860" n="860" rend="print_tln"/>light.</p></sp>
 
@@ -1222,9 +1222,9 @@
 <lb xml:id="tln_0869" n="869"/>may shine in at the casement.</p></sp>
 
 <lb xml:id="tln_0870" n="870" rend="print_tln"/><sp who="#Quince"><speaker>Quin.</speaker><p>I: or els, one must come in, with a bush of thorns,
-<lb xml:id="tln_0871" n="871"/>&amp; a lãtern, and say he comes to disfigure, or to pre-
+<lb xml:id="tln_0871" n="871"/>&amp; a lãtern, and say he comes to disfigure, or to pre&shy;
 <lb xml:id="tln_0872" n="872"/>sent the person of Moone-shine. Then, there is another
-<lb xml:id="tln_0873" n="873"/>thing; we must haue a wal in the great chãber: for <name>Py</name>-
+<lb xml:id="tln_0873" n="873"/>thing; we must haue a wal in the great chãber: for <name>Py</name>&shy;
 <lb xml:id="tln_0874" n="874"/><name>ramus</name> &amp; <name>Thisby</name> (saies the story) did talke through the
 <lb xml:id="tln_0875" n="875" rend="print_tln"/>chinke of a wall.</p></sp>
 
@@ -1233,7 +1233,7 @@
 
 <lb xml:id="tln_0878" n="878"/><sp who="#Bottom"><speaker>Bot.</speaker><p>Some man or other must present wall: and let
 <lb xml:id="tln_0879" n="879"/>him haue some plaster, or som lome, or some rough
-<lb xml:id="tln_0880" n="880" rend="print_tln"/>cast, about him, to signifie wall; or let him holde his fin-
+<lb xml:id="tln_0880" n="880" rend="print_tln"/>cast, about him, to signifie wall; or let him holde his fin&shy;
 <lb xml:id="tln_0881" n="881"/>gers thus: and through that crany, shall <name>Pyramus</name> and
 <lb xml:id="tln_0882" n="882"/><name>Thisby</name> whisper.</p></sp>
 
@@ -1245,7 +1245,7 @@
 
 <lb xml:id="tln_0888" n="888"/><stage type="enter" rend="align(center)">Enter <name>Robin</name>.</stage>
 
-<lb xml:id="tln_0889-0890" n="889–90" rend="print_tln"/><sp who="#Puck"><nvsSeg type="linePart" xml:id="tln_0889i"><speaker>Ro.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_0889f">What hempen homespunnes haue we swagg-</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_0890">ring here,</nvsSeg>
+<lb xml:id="tln_0889-0890" n="889–90" rend="print_tln"/><sp who="#Puck"><nvsSeg type="linePart" xml:id="tln_0889i"><speaker>Ro.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_0889f">What hempen homespunnes haue we swagg&shy;</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_0890">ring here,</nvsSeg>
 <lb xml:id="tln_0891" n="891"/>So neere the Cradle of the Fairy Queene?
 <lb xml:id="tln_0892" n="892"/>What, a play toward? Ile be an Auditor,
 <lb xml:id="tln_0893" n="893"/>An Actor to perhappes, If I see cause.</p></sp>
@@ -1267,7 +1267,7 @@
 
 <milestone unit="sig_Q" n="D2v">[D2<hi rend="superscript">v</hi>]</milestone>
 <lb xml:id="tln_0903" n="903"/><sp who="#Quince"><speaker>Quin.</speaker><p>I marry must you. For you must vnderstãd, he
-<lb xml:id="tln_0904" n="904"/>goes but to see a noyse, that he heard, and is to come a-
+<lb xml:id="tln_0904" n="904"/>goes but to see a noyse, that he heard, and is to come a&shy;
 <lb xml:id="tln_0905" n="905" rend="print_tln"/>gaine.</p></sp>
 
 <lb xml:id="tln_0906" n="906"/><sp who="#Thisby"><speaker>Thys.</speaker><p>Most radiant <name>Pyramus</name>, most lillie white of hewe,
@@ -1311,13 +1311,13 @@
 
 <lb xml:id="tln_0934" n="934"/><stage type="enter" rend="align(center)">Enter <name>Quince</name>.</stage>
 
-<lb xml:id="tln_0935" n="935" rend="print_tln"/><sp who="#Quince"><speaker>Quin.</speaker><p>Blesse thee <name>Bottom</name>, blesse thee. Thou art trãsla-
+<lb xml:id="tln_0935" n="935" rend="print_tln"/><sp who="#Quince"><speaker>Quin.</speaker><p>Blesse thee <name>Bottom</name>, blesse thee. Thou art trãsla&shy;
 <lb xml:id="tln_0936" n="936"/>ted.</p></sp><stage type="exit" rend="align(right)">Exit.</stage>
 
 <lb xml:id="tln_0937" n="937"/><sp who="#Bottom"><speaker>Bot.</speaker><p>I see their knauery. This is to make an asse of mee,
 <lb xml:id="tln_0938" n="938"/>to fright me, if they could: but I wil not stirre from
 <lb xml:id="tln_0939" n="939"/>this place, do what they can. I will walke vp and downe
-<lb xml:id="tln_0940" n="940" rend="print_tln"/>heere, and I will sing, that they shall heare I am not a-
+<lb xml:id="tln_0940" n="940" rend="print_tln"/>heere, and I will sing, that they shall heare I am not a&shy;
 <lb xml:id="tln_0941" n="941"/>fraide.
 <lb xml:id="tln_0942" n="942"/>The Woosell cock, so blacke of hewe,
 <lb xml:id="tln_0943" n="943"/>With Orange tawny bill,
@@ -1345,7 +1345,7 @@
 <lb xml:id="tln_0960" n="960" rend="print_tln"/>reason for that. And yet, to say the truth, reason and
 <lb xml:id="tln_0961" n="961"/>loue keepe little company together, now a daies.
 <lb xml:id="tln_0962" n="962"/>The more the pitty, that some honest neighbours will
-<lb xml:id="tln_0963" n="963"/>not make them friends. Nay I can gleeke, vpon occa-
+<lb xml:id="tln_0963" n="963"/>not make them friends. Nay I can gleeke, vpon occa&shy;
 <lb xml:id="tln_0964" n="964"/>sion.</p></sp>
 
 <lb xml:id="tln_0965" n="965" rend="print_tln"/><sp who="#Titania"><speaker>Tyta.</speaker><p>Thou art as wise, as thou art beautifull.</p></sp>
@@ -1404,16 +1404,16 @@
 
 <lb xml:id="tln_1004" n="1004"/><sp who="#Bottom"><speaker>Bot.</speaker><p>I pray you commend mee to mistresse <name>Squash</name>,
 <lb xml:id="tln_1005" n="1005" rend="print_tln"/>your mother, and to master <name>Peascod</name>, your father. Good
-<lb xml:id="tln_1006" n="1006"/>master <name>Pease-blossome</name>, I shall desire you of more acquain-
+<lb xml:id="tln_1006" n="1006"/>master <name>Pease-blossome</name>, I shall desire you of more acquain&shy;
 <lb xml:id="tln_1007" n="1007"/>tance, to. Your name I beseech you sir?</p></sp>
 
 <lb xml:id="tln_1008" n="1008" rend="print_tln"/><sp who="#Mustard"><speaker>Must.</speaker><p><name>Mustardseede</name>.</p></sp>
 
 <lb xml:id="tln_1009" n="1009" ed="F"/><sp who="#Pease"><speaker>Peas.</speaker><p><hi rend="italic">Pease-blossome.</hi></p></sp>
 
-<lb xml:id="tln_1010" n="1010" rend="print_tln"/><sp who="#Bottom"><speaker>Bot.</speaker><p>Good master <name>Mustardseede</name>, I know your pati-
+<lb xml:id="tln_1010" n="1010" rend="print_tln"/><sp who="#Bottom"><speaker>Bot.</speaker><p>Good master <name>Mustardseede</name>, I know your pati&shy;
 <lb xml:id="tln_1011" n="1011"/>ence well. That same cowardly, gyantlike, Ox-beefe
-<lb xml:id="tln_1012" n="1012"/>hath deuourd many a gentleman of your house. I pro-
+<lb xml:id="tln_1012" n="1012"/>hath deuourd many a gentleman of your house. I pro&shy;
 <lb xml:id="tln_1013" n="1013"/>mise you, your kindred hath made my eyes water, ere
 <lb xml:id="tln_1014" n="1014"/>now. I desire you more acquaintance, good master
 <lb xml:id="tln_1015" n="1015" rend="print_tln"/><name>Mustardseede</name>.</p></sp>
@@ -2082,7 +2082,7 @@
 
 <lb xml:id="tln_1516" n="1516"/><sp who="#Pease"><speaker>Pea.</speaker><p>Ready.</p></sp>
 
-<lb xml:id="tln_1517" n="1517"/><sp who="#Bottom"><speaker>Clow.</speaker><p>Scratch my heade, <name>Pease-blossome</name>. Wher’s Moun-
+<lb xml:id="tln_1517" n="1517"/><sp who="#Bottom"><speaker>Clow.</speaker><p>Scratch my heade, <name>Pease-blossome</name>. Wher’s Moun&shy;
 <lb xml:id="tln_1518" n="1518"/>sieur <name>Cobweb</name>?</p></sp>
 
 <lb xml:id="tln_1519" n="1519"/><sp who="#Cobweb"><speaker>Cob.</speaker><p>Ready.</p></sp>
@@ -2093,7 +2093,7 @@
 <lb xml:id="tln_1522" n="1522"/>on the toppe of a thistle: and good Mounsieur, bring mee
 <lb xml:id="tln_1523" n="1523"/>the hony bagge. Doe not fret your selfe too much, in the
 <lb xml:id="tln_1524" n="1524"/>action, Mounsieur: and good Mounsieur haue a care, the
-<lb xml:id="tln_1525" n="1525" rend="print_tln"/>honybagge breake not, I wold be loath to haue you ouer-
+<lb xml:id="tln_1525" n="1525" rend="print_tln"/>honybagge breake not, I wold be loath to haue you ouer&shy;
 <lb xml:id="tln_1526" n="1526"/>flowen with a honibag <foreign xml:lang="it">signior</foreign>. Where’s Mounsieur
 <lb xml:id="tln_1527" n="1527"/><name>Mustardseede</name>?</p></sp>
 
@@ -2122,7 +2122,7 @@
 
 <lb xml:id="tln_1543" n="1543"/><sp who="#Bottom"><speaker>Clo.</speaker><p>Truely a pecke of prouander. I could mounch
 <lb xml:id="tln_1544" n="1544"/>your good dry Oates. Me thinkes, I haue a great desire
-<lb xml:id="tln_1545" n="1545" rend="print_tln"/>to a bottle of hay. Good hay, sweete hay hath no fel-
+<lb xml:id="tln_1545" n="1545" rend="print_tln"/>to a bottle of hay. Good hay, sweete hay hath no fel&shy;
 <lb xml:id="tln_1546" n="1546"/>low.</p></sp>
 
 <lb xml:id="tln_1547-1548" n="1547–8" rend="print_tln"/><sp who="#Titania"><nvsSeg type="linePart" xml:id="tln_1547i"><speaker>Ty.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_1547f">I haue a venturous Fairy,</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_1548">that shall seeke the Squirils hoord,</nvsSeg>
@@ -2353,7 +2353,7 @@
 
 <lb xml:id="tln_1728" n="1728" rend="print_tln"/><sp who="#Bottom"><speaker>Clo.</speaker><p>When my cue comes, call mee, and I will answere.
 <lb xml:id="tln_1729" n="1729"/>My next is, most faire <name>Pyramus</name>. Hey ho. <name>Peeter Quince</name>?
-<lb xml:id="tln_1730" n="1730" rend="print_tln"/><name>Flute</name>, the bellowes mender? <name>Snout</name> the tinker? <name>Starue</name>-
+<lb xml:id="tln_1730" n="1730" rend="print_tln"/><name>Flute</name>, the bellowes mender? <name>Snout</name> the tinker? <name>Starue</name>&shy;
 <lb xml:id="tln_1731" n="1731"/><name>ling</name>? Gods my life! Stolne hence, and left mee a sleepe? I
 <lb xml:id="tln_1732" n="1732"/>haue had a most rare vision. I haue had a dreame, past the wit
 <lb xml:id="tln_1733" n="1733"/>of man, to say; what dreame it was. Man is but an Asse,
@@ -2367,7 +2367,7 @@
 <lb xml:id="tln_1740" n="1740" rend="print_tln"/>hearte to report, what my dreame was. I will get <name>Peter</name>
 <lb xml:id="tln_1741" n="1741"/><name>Quince</name> to write a Ballet of this dreame: it shall be call’d
 <lb xml:id="tln_1742" n="1742"/><title level="m">Bottoms Dreame</title>; because it hath no bottome: and I will
-<lb xml:id="tln_1743" n="1743"/>sing it in the latter end of a Play, before the Duke. Per-
+<lb xml:id="tln_1743" n="1743"/>sing it in the latter end of a Play, before the Duke. Per&shy;
 <lb xml:id="tln_1744" n="1744"/>aduenture, to make it the more gratious, I shall sing it
 <lb xml:id="tln_1745" n="1745" rend="print_tln"/>at her death.</p></sp>
 
@@ -2392,7 +2392,7 @@
 <lb xml:id="tln_1753" n="1753"/><sp who="#Quince"><speaker>Quin.</speaker><p>It is not possible. You haue not a man, in all
 <lb xml:id="tln_1754" n="1754"/><name>Athens</name>, able to discharge <name>Pyramus</name>, but he.</p></sp>
 
-<lb xml:id="tln_1755" n="1755" rend="print_tln"/><sp who="#Thisby"><speaker>Thys.</speaker><p>No, hee hath simply the best wit of any handy-
+<lb xml:id="tln_1755" n="1755" rend="print_tln"/><sp who="#Thisby"><speaker>Thys.</speaker><p>No, hee hath simply the best wit of any handy&shy;
 <lb xml:id="tln_1756" n="1756"/>craft man, in <name>Athens</name>.</p></sp>
 
 <lb xml:id="tln_1757" n="1757"/><sp who="#Quince"><speaker>Quin.</speaker><p>Yea, and the best person to, and hee is a very
@@ -2403,8 +2403,8 @@
 
 <lb xml:id="tln_1761" n="1761"/><stage type="enter" rend="align(center)">Enter <name>Snug</name>, the Ioyner.</stage>
 
-<lb xml:id="tln_1762" n="1762"/><sp who="#Snug"><speaker>Snug.</speaker><p>Masters, the Duke is comming from the Tem-
-<lb xml:id="tln_1763" n="1763"/>ple, and there is two or three Lords and Ladies more mar-
+<lb xml:id="tln_1762" n="1762"/><sp who="#Snug"><speaker>Snug.</speaker><p>Masters, the Duke is comming from the Tem&shy;
+<lb xml:id="tln_1763" n="1763"/>ple, and there is two or three Lords and Ladies more mar&shy;
 <lb xml:id="tln_1764" n="1764"/>ried. If our sport had gon forward, wee had all beene made
 <lb xml:id="tln_1765" n="1765" rend="print_tln"/>men.</p></sp>
 
@@ -2419,7 +2419,7 @@
 
 <lb xml:id="tln_1772" n="1772"/><sp who="#Bottom"><speaker>Bot.</speaker><p>Where are these lads? Where are these harts?</p></sp>
 
-<lb xml:id="tln_1773" n="1773"/><sp who="#Quince"><speaker>Quin.</speaker><p><name>Bottom</name>, ô most couragious day! O most hap-
+<lb xml:id="tln_1773" n="1773"/><sp who="#Quince"><speaker>Quin.</speaker><p><name>Bottom</name>, ô most couragious day! O most hap&shy;
 <lb xml:id="tln_1774" n="1774"/>py houre!</p></sp>
 
 <lb xml:id="tln_1775" n="1775" rend="print_tln"/><sp who="#Bottom"><speaker>Bott.</speaker><p>Masters, I am to discourse wonders: but aske me
@@ -2502,7 +2502,7 @@
 
 <lb xml:id="tln_1834" n="1834"/><sp who="#Philostrate"><speaker>Philostrate.</speaker><p>Here mighty <name>Theseus</name>.</p></sp>
 
-<lb xml:id="tln_1835-1836" n="1835–6" rend="print_tln"/><sp who="#Theseus"><nvsSeg type="linePart" xml:id="tln_1835i"><speaker>The.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_1835f">Say, what abridgement haue you for this eue-</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_1836">ning?</nvsSeg>
+<lb xml:id="tln_1835-1836" n="1835–6" rend="print_tln"/><sp who="#Theseus"><nvsSeg type="linePart" xml:id="tln_1835i"><speaker>The.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_1835f">Say, what abridgement haue you for this eue&shy;</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_1836">ning?</nvsSeg>
 <lb xml:id="tln_1837" n="1837"/>What maske, what musicke? How shall we beguile
 <lb xml:id="tln_1838" n="1838"/>The lazy tyme, if not with some delight?</p></sp>
 
@@ -2733,7 +2733,7 @@
 <lb xml:id="tln_2010" n="2010" rend="print_tln"/><sp who="#Theseus"><speaker>Duk.</speaker><p>Now is the Moon vsed between the two
 <lb xml:id="tln_2011" n="2011"/>neighbors.</p></sp>
 
-<lb xml:id="tln_2012" n="2012"/><sp who="#Demetrius"><speaker>Deme.</speaker><p>No remedy, my Lord, when wals are so wil-
+<lb xml:id="tln_2012" n="2012"/><sp who="#Demetrius"><speaker>Deme.</speaker><p>No remedy, my Lord, when wals are so wil&shy;
 <lb xml:id="tln_2013" n="2013"/>full, to heare without warning.</p></sp>
 
 <lb xml:id="tln_2014" n="2014"/><sp who="#Hippolita"><speaker>Dutch.</speaker><p>This is the silliest stuffe, that euer I heard.</p></sp>
@@ -2774,14 +2774,14 @@
 <lb xml:id="tln_2037" n="2037"/>For the goose carries not the fox. It is well: leaue it to
 <lb xml:id="tln_2038" n="2038"/>his discretion, and let vs listen to the Moone.</p></sp>
 
-<lb xml:id="tln_2039-2040" n="2039–40" rend="print_tln"/><sp who="#Moonshine"><nvsSeg type="linePart" xml:id="tln_2039i"><speaker>Moone.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_2039f">This lanthorne doth the horned moone pre-</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_2040">sent.</nvsSeg></p></sp>
+<lb xml:id="tln_2039-2040" n="2039–40" rend="print_tln"/><sp who="#Moonshine"><nvsSeg type="linePart" xml:id="tln_2039i"><speaker>Moone.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_2039f">This lanthorne doth the horned moone pre&shy;</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_2040">sent.</nvsSeg></p></sp>
 
 <lb xml:id="tln_2041" n="2041"/><sp who="#Demetrius"><speaker>Deme.</speaker><p>He should haue worne the hornes, on his head.</p></sp>
 
 <lb xml:id="tln_2042" n="2042"/><sp who="#Theseus"><speaker>Duk.</speaker><p>He is no crescent, and his hornes are inuisible,
 <lb xml:id="tln_2043" n="2043"/>within the circumference.</p></sp>
 
-<lb xml:id="tln_2044-2045i" n="2044–5" rend="print_tln"/><sp who="#Moonshine"><nvsSeg type="linePart" xml:id="tln_2044i"><speaker>Moone.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_2044f">This lanthorne doth the horned moone pre-</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_2045i">sent,</nvsSeg>
+<lb xml:id="tln_2044-2045i" n="2044–5" rend="print_tln"/><sp who="#Moonshine"><nvsSeg type="linePart" xml:id="tln_2044i"><speaker>Moone.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_2044f">This lanthorne doth the horned moone pre&shy;</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_2045i">sent,</nvsSeg>
 <lb xml:id="tln_2045f" n="2045" rend="print_tln"/>My selfe, the man ith Moone, doe seeme to be.</p></sp>
 
 <lb xml:id="tln_2046" n="2046"/><sp who="#Theseus"><speaker>Duke.</speaker><p>This is the greatest errour of all the rest; the man
@@ -2863,10 +2863,10 @@
 <lb xml:id="tln_2100" n="2100" rend="print_tln"/><sp who="#Demetrius"><speaker>Dem.</speaker><p>No Die, but an ace for him. For he is but one.</p></sp>
 
 <milestone unit="sig_Q" n="H3">[H3]</milestone>
-<lb xml:id="tln_2101" n="2101"/><sp who="#Lysander"><speaker>Lys.</speaker><p>Lesse then an ace, man. For he is dead, he is no-
+<lb xml:id="tln_2101" n="2101"/><sp who="#Lysander"><speaker>Lys.</speaker><p>Lesse then an ace, man. For he is dead, he is no&shy;
 <lb xml:id="tln_2102" n="2102"/>thing.</p></sp>
 
-<lb xml:id="tln_2103" n="2103"/><sp who="#Theseus"><speaker>Duke.</speaker><p>With the helpe of a Surgeon, he might yet reco-
+<lb xml:id="tln_2103" n="2103"/><sp who="#Theseus"><speaker>Duke.</speaker><p>With the helpe of a Surgeon, he might yet reco&shy;
 <lb xml:id="tln_2104" n="2104"/>uer, and yet prooue an Asse.</p></sp>
 
 <lb xml:id="tln_2105" n="2105"/><sp who="#Hippolita"><speaker>Dut.</speaker><p>How chance Moone-shine is gone before?
@@ -2912,7 +2912,7 @@
 
 <lb xml:id="tln_2134" n="2134"/><sp who="#Lion"><speaker>Lyon.</speaker><p>No, I assure you, the wall is downe, that parted
 <lb xml:id="tln_2135" n="2135" rend="print_tln"/>their fathers. Will it please you, to see the Epilogue, or
-<lb xml:id="tln_2136" n="2136"/>to heare a Bergomaske daunce, between two of our cõ-
+<lb xml:id="tln_2136" n="2136"/>to heare a Bergomaske daunce, between two of our cõ&shy;
 <lb xml:id="tln_2137" n="2137"/>pany ?</p></sp>
 
 <milestone unit="sig_Q" n="H3v">[H3<hi rend="superscript">v</hi>]</milestone>
