@@ -43,7 +43,7 @@
 <lb xml:id="dpln_14" n="14"/><castItem><role xml:id="Snout">Tom Snowt</role>, <roleDesc><hi rend="italic">the Tinker</hi></roleDesc></castItem>
 <lb xml:id="dpln_15" n="15" rend="print_tln"/><castItem><role xml:id="Starveling">Robin Starueling</role>, <roleDesc><hi rend="italic">the Tayler</hi></roleDesc></castItem>
 </castGroup>
-<roleDesc xml:id="rd_mechanicals">representing<lb/>in the<lb/>interlude</roleDesc>
+<roleDesc xml:id="rd_mechanicals">representing<lb/> in the<lb/> interlude</roleDesc>
 <castGroup xml:id="dp_mechanicals_PandT" rend="braced_left(#rd_mechanicals)">
 <castItem><role xml:id="Prologue" type="PandT" corresp="#Quince">Prologue</role></castItem>
 <castItem><role xml:id="Lion" type="PandT" corresp="#Snug">Lyon</role></castItem>
