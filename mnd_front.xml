@@ -480,7 +480,7 @@
 
 <p>The expression <hi rend="italic">one verse line</hi> indicates that part lines of verse shared by speakers have been arranged to indicate that taken together they constitute a pentameter. If the subject of the note is variant punctuation only, a word in the lemma that is repeated in the variant is represented there by a swung dash (&swdash;), and the absence of punctuation is indicated by an inferior caret (&caret;). Editions are represented by the sigla listed on <ptr targType="listWit" target="#listwit_editions #listwit_other"/> and on the endpapers of this book.</p>
 
-<p>The basic form of the textual note may be illustrated by
+<p xml:id="textual_note_explanation_start">The basic form of the textual note may be illustrated by
 
 <quote rend="block"><note type="textual"><label>1345</label> <app><lem>vnto</lem>] <appPart><rdg type="replace">into</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart></app></note></quote>
 
