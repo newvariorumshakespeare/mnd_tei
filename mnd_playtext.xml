@@ -93,8 +93,8 @@
 <div type="scene" n="1" xml:id="div_act1_scene1">
 
 <milestone unit="sig_F" n="N1a">(N1<hi rend="superscript">a</hi>)</milestone>
-<lb xml:id="tln_0002" n="2"/><stage type="enter" rend="align(center)">Enter <name>Theseus</name>, <name>Hippolita</name>, with others.</stage>
 <lb xml:id="tln_0001" n="1" ed="F"/><head>Actus primus.</head>
+<lb xml:id="tln_0002" n="2"/><stage type="enter" rend="align(center)">Enter <name>Theseus</name>, <name>Hippolita</name>, with others.</stage>
 <lb xml:id="tln_0003" n="3"/><sp who="#Theseus"><speaker rend="align(center)">Theseus.</speaker>
 <lb xml:id="tln_0004" n="4"/><p>Now faire <name>Hippolita</name>, our nuptiall hower
 <lb xml:id="tln_0005" n="5" rend="print_tln"/>Draws on apase: fower happy daies bring in
