@@ -41,14 +41,14 @@
 <lb xml:id="dpln_13" n="13"/><castItem><role xml:id="Flute">Francis Flute</role>, <roleDesc><hi rend="italic">the Bellowes mender</hi></roleDesc></castItem>
 <lb xml:id="dpln_14" n="14"/><castItem><role xml:id="Snout">Tom Snowt</role>, <roleDesc><hi rend="italic">the Tinker</hi></roleDesc></castItem>
 <lb xml:id="dpln_15" n="15" rend="print_tln"/><castItem><role xml:id="Starveling">Robin Starueling</role>, <roleDesc><hi rend="italic">the Tayler</hi></roleDesc></castItem>
-<roleDesc xml:id="rd_mechanicals">representing respectively in the interlude</roleDesc>
+<roleDesc xml:id="rd_mechanicals">representing respectively in the interlude </roleDesc>
+</castGroup>
 <castItem><role xml:id="Prologue" type="PandT" corresp="#Quince">Prologue</role>, </castItem>
 <castItem><role xml:id="Lion" type="PandT" corresp="#Snug">Lyon</role>, </castItem>
 <castItem><role xml:id="Pyramus" type="PandT" corresp="#Bottom">Pyramus</role>, </castItem>
 <castItem><role xml:id="Thisby" type="PandT" corresp="#Flute">Thisby</role>, </castItem>
 <castItem><role xml:id="Wall" type="PandT" corresp="#Snout">Wall</role>, and </castItem>
 <castItem><role xml:id="Moonshine" type="PandT" corresp="#Starveling">Moonshine</role>.</castItem>
-</castGroup>
 
 <lb xml:id="dpln_16" n="16"/><castItem><role xml:id="Puck">Robin goodfellow</role>, <roleDesc>the Puck</roleDesc></castItem>
 <lb xml:id="dpln_17" n="17"/><castItem><role xml:id="AFairie">A Fairie</role>, <roleDesc><hi rend="italic">a servant of the Fairy Queene</hi></roleDesc></castItem>
