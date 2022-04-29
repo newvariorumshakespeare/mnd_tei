@@ -34,25 +34,21 @@
 <lb xml:id="dpln_08" n="8"/><castItem><role xml:id="Helena">Helena</role>, <roleDesc><hi rend="italic">in love with</hi> Demetrius</roleDesc></castItem>
 <lb xml:id="dpln_09" n="9"/><castItem><role xml:id="Demetrius">Demetrius</role>, <roleDesc><hi rend="italic">in love with</hi> Hermia</roleDesc></castItem>
 
-<castGroup xml:id="dp_mechanicals">
-<castGroup xml:id="dp_mechanicals_mnd" rend="braced_right(#rd_mechanicals)">
+<castGroup rend="braced_right(#rd_mechanicals)">
 <lb xml:id="dpln_10" n="10" rend="print_tln"/><castItem><role xml:id="Quince">Peeter Quince</role>, <roleDesc><hi rend="italic">the Carpenter</hi></roleDesc></castItem>
 <lb xml:id="dpln_11" n="11"/><castItem><role xml:id="Snug">Snugge</role>, <roleDesc><hi rend="italic">the Ioyner</hi></roleDesc></castItem>
 <lb xml:id="dpln_12" n="12"/><castItem><role xml:id="Bottom">Nick Bottom</role>, <roleDesc><hi rend="italic">the Weauer</hi></roleDesc></castItem>
 <lb xml:id="dpln_13" n="13"/><castItem><role xml:id="Flute">Francis Flute</role>, <roleDesc><hi rend="italic">the Bellowes mender</hi></roleDesc></castItem>
 <lb xml:id="dpln_14" n="14"/><castItem><role xml:id="Snout">Tom Snowt</role>, <roleDesc><hi rend="italic">the Tinker</hi></roleDesc></castItem>
 <lb xml:id="dpln_15" n="15" rend="print_tln"/><castItem><role xml:id="Starveling">Robin Starueling</role>, <roleDesc><hi rend="italic">the Tayler</hi></roleDesc></castItem>
+<roleDesc xml:id="rd_mechanicals">representing respectively in the interlude </roleDesc>
 </castGroup>
-<roleDesc xml:id="rd_mechanicals">representing<lb/> in the<lb/> interlude</roleDesc>
-<castGroup xml:id="dp_mechanicals_PandT" rend="braced_left(#rd_mechanicals)">
-<castItem><role xml:id="Prologue" type="PandT" corresp="#Quince">Prologue</role></castItem>
-<castItem><role xml:id="Lion" type="PandT" corresp="#Snug">Lyon</role></castItem>
-<castItem><role xml:id="Pyramus" type="PandT" corresp="#Bottom">Pyramus</role></castItem>
-<castItem><role xml:id="Thisby" type="PandT" corresp="#Flute">Thisby</role></castItem>
-<castItem><role xml:id="Wall" type="PandT" corresp="#Snout">Wall</role></castItem>
-<castItem><role xml:id="Moonshine" type="PandT" corresp="#Starveling">Moonshine</role></castItem>
-</castGroup>
-</castGroup>
+<castItem><role xml:id="Prologue" type="PandT" corresp="#Quince">Prologue</role>, </castItem>
+<castItem><role xml:id="Lion" type="PandT" corresp="#Snug">Lyon</role>, </castItem>
+<castItem><role xml:id="Pyramus" type="PandT" corresp="#Bottom">Pyramus</role>, </castItem>
+<castItem><role xml:id="Thisby" type="PandT" corresp="#Flute">Thisby</role>, </castItem>
+<castItem><role xml:id="Wall" type="PandT" corresp="#Snout">Wall</role>, and </castItem>
+<castItem><role xml:id="Moonshine" type="PandT" corresp="#Starveling">Moonshine</role>.</castItem>
 
 <lb xml:id="dpln_16" n="16"/><castItem><role xml:id="Puck">Robin goodfellow</role>, <roleDesc>the Puck</roleDesc></castItem>
 <lb xml:id="dpln_17" n="17"/><castItem><role xml:id="AFairie">A Fairie</role>, <roleDesc><hi rend="italic">a servant of the Fairy Queene</hi></roleDesc></castItem>
@@ -93,8 +89,8 @@
 <div type="scene" n="1" xml:id="div_act1_scene1">
 
 <milestone unit="sig_F" n="N1a">(N1<hi rend="superscript">a</hi>)</milestone>
-<lb xml:id="tln_0002" n="2"/><stage type="enter" rend="align(center)">Enter <name>Theseus</name>, <name>Hippolita</name>, with others.</stage>
 <lb xml:id="tln_0001" n="1" ed="F"/><head>Actus primus.</head>
+<lb xml:id="tln_0002" n="2"/><stage type="enter" rend="align(center)">Enter <name>Theseus</name>, <name>Hippolita</name>, with others.</stage>
 <lb xml:id="tln_0003" n="3"/><sp who="#Theseus"><speaker rend="align(center)">Theseus.</speaker>
 <lb xml:id="tln_0004" n="4"/><p>Now faire <name>Hippolita</name>, our nuptiall hower
 <lb xml:id="tln_0005" n="5" rend="print_tln"/>Draws on apase: fower happy daies bring in
