@@ -1236,6 +1236,18 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <date>2000</date>
 </witness>
 
+<witness xml:id="s_qq" corresp="#s_q1 #s_q2" display="book(suppress)">
+<siglum rend="smcaps">qq</siglum>
+</witness>
+
+<witness xml:id="s_ff" corresp="#s_f1 #s_f2 #s_f3 #s_f4" display="book(suppress)">
+<siglum rend="smcaps">ff</siglum>
+</witness>
+
+<witness xml:id="s_theo" corresp="#s_theo1 #s_theo2 #s_theo4" display="book(suppress)">
+<siglum rend="smcaps">theo</siglum>
+</witness>
+
 </listWit>
 
 
