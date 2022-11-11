@@ -462,7 +462,17 @@
 </closer>
 </div>
 
-
+<div type="acknowledgements" xml:id="div_acknowledgements">
+		
+<head>Acknowledgements for the Digital Edition</head>
+		
+<p>The production of each NVS digital edition was conducted by a team of scholars and researchers and made possible by the Modern Language Association’s Executive Council that awarded the Center of Digital Humanities Research (CoDHR) at Texas A&amp;M a grant to publish NVS editions online, making them freely available to scholars, educators, students, and performers via an open access, interactive web application. Each digital edition contains the complete text of each play along with a full collation of textual notes from the earliest editions to the present, including extensive previous commentary.</p>
+		
+<p>The physical Variorum volume includes a CD-ROM that contains an XML-encoded version of the contents, rendering the work as a PDF that is text-searchable with internal links for easy navigation. A special thanks to Julia Flanders, Professor of the Practice in English and the director of the Digital Scholarship Group in the Northeastern University Library, for XML-encoding the physical volume and for consulting with the NVS team at CoDHR who used the XML-encoded text to publish this edition online at https://newvariorumshakespeare.org/.</p>
+		
+<p>The NVS team at CoDHR includes Laura Mandell (PI and CoDHR Director), Katayoun Torabi (Project Manager), Anne Burdick (NVS site designer and Chair of Media Design Practices at Art Center College of Design in Los Angeles), Bryan Tarpley (Lead Developer at CoDHR and NVS back-end developer), Will McLean, (front-end developer and interaction design), and Kayley Hart and Lindsey Jones (Texas A&amp;M graduate students). The NVS team worked closely with General Editors Paul Werstine and Eric Rasmussen and the NVS Board, led by NVS Board Chair Lena Cowen Orlin, to bring this edition online. For more information about those who made the digital edition possible, please visit our <ref targType="url" target="Contributors">https://newvariorumshakespeare.org/contributors/</ref> page.</p>
+		
+</div>
 
 
 <div type="potw" xml:id="div_potw">
