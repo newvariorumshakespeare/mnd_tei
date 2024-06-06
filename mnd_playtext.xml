@@ -25,14 +25,14 @@
 
 <lb xml:id="dpln_01" n="1"/><head><anchor type="marker" marker="["/>Dramatis Personæ.</head>
 
-<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Theseus">Theseus</role>, <roleDesc><hi rend="italic">Duke of</hi> Athens</roleDesc></castItem>
-<lb xml:id="dpln_03" n="3"/><castItem><role xml:id="Hippolita">Hippolita</role>, <roleDesc><hi rend="italic">Queene of the</hi> Amazons, <hi rend="italic">betrothed to</hi> Theseus</roleDesc></castItem>
+<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Theseus">Theseus</role>, <roleDesc><name>Duke of</name> Athens</roleDesc></castItem>
+<lb xml:id="dpln_03" n="3"/><castItem><role xml:id="Hippolita">Hippolita</role>, <roleDesc><name>Queene of the Amazons</name>, <hi rend="italic">betrothed to</hi> Theseus</roleDesc></castItem>
 <lb xml:id="dpln_04" n="4"/><castItem><role xml:id="Philostrate">Philostrate</role>, <roleDesc><hi rend="italic">Master of the Sports to the Duke</hi></roleDesc></castItem>
 <lb xml:id="dpln_05" n="5" rend="print_tln"/><castItem><role xml:id="Egeus">Egeus</role>, <roleDesc><hi rend="italic">an</hi> Athenian <hi rend="italic">Lord</hi></roleDesc></castItem>
 <lb xml:id="dpln_06" n="6"/><castItem><role xml:id="Hermia">Hermia</role>, <roleDesc><hi rend="italic">Daughter to</hi> Egeus, <hi rend="italic">in love with</hi> Lysander</roleDesc></castItem>
-<lb xml:id="dpln_07" n="7"/><castItem><role xml:id="Lysander">Lysander</role>, <roleDesc><hi rend="italic">in love with</hi> Hermia</roleDesc></castItem>
-<lb xml:id="dpln_08" n="8"/><castItem><role xml:id="Helena">Helena</role>, <roleDesc><hi rend="italic">in love with</hi> Demetrius</roleDesc></castItem>
-<lb xml:id="dpln_09" n="9"/><castItem><role xml:id="Demetrius">Demetrius</role>, <roleDesc><hi rend="italic">in love with</hi> Hermia</roleDesc></castItem>
+<lb xml:id="dpln_07" n="7"/><castItem><role xml:id="Lysander">Lysander</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Hermia</castItem>
+<lb xml:id="dpln_08" n="8"/><castItem><role xml:id="Helena">Helena</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Demetrius</castItem>
+<lb xml:id="dpln_09" n="9"/><castItem><role xml:id="Demetrius">Demetrius</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Hermia</castItem>
 
 <castGroup rend="braced_right(#rd_mechanicals)">
 <lb xml:id="dpln_10" n="10" rend="print_tln"/><castItem><role xml:id="Quince">Peeter Quince</role>, <roleDesc><hi rend="italic">the Carpenter</hi></roleDesc></castItem>
@@ -47,10 +47,10 @@
 <castItem><role xml:id="Lion" type="PandT" corresp="#Snug">Lyon</role>, </castItem>
 <castItem><role xml:id="Pyramus" type="PandT" corresp="#Bottom">Pyramus</role>, </castItem>
 <castItem><role xml:id="Thisby" type="PandT" corresp="#Flute">Thisby</role>, </castItem>
-<castItem><role xml:id="Wall" type="PandT" corresp="#Snout">Wall</role>, and </castItem>
+<castItem><role xml:id="Wall" type="PandT" corresp="#Snout">Wall</role>, </castItem>
 <castItem><role xml:id="Moonshine" type="PandT" corresp="#Starveling">Moonshine</role>.</castItem>
 
-<lb xml:id="dpln_16" n="16"/><castItem><role xml:id="Puck">Robin goodfellow</role>, <roleDesc>the Puck</roleDesc></castItem>
+<lb xml:id="dpln_16" n="16"/><castItem><role xml:id="Puck">Robin goodfellow</role>, the Puck</castItem>
 <lb xml:id="dpln_17" n="17"/><castItem><role xml:id="AFairie">A Fairie</role>, <roleDesc><hi rend="italic">a servant of the Fairy Queene</hi></roleDesc></castItem>
 <lb xml:id="dpln_18" n="18"/><castItem><role xml:id="Oberon">Oberon</role>, <roleDesc><hi rend="italic">King of the Fairies</hi></roleDesc></castItem>
 <lb xml:id="dpln_19" n="19"/><castItem><role xml:id="Titania">Tytania</role>, <roleDesc><hi rend="italic">Queene of the Fairies</hi></roleDesc></castItem>
@@ -65,7 +65,7 @@
 
 <lb xml:id="dpln_24" n="24"/><castItem rend="italic align(center)"><role xml:id="Attendants">Attendants</role> <roleDesc>upon <hi rend="clear">Theseus</hi> and <hi rend="clear">Hippolita</hi></roleDesc></castItem>
 
-<lb xml:id="dpln_25" n="25" rend="print_tln"/><castItem rend="italic align(center)"><role xml:id="Fairies">Other Fairies</role> <roleDesc>attending on the King and Queen</roleDesc><anchor type="marker" marker="]" rend="clear"/></castItem>
+<lb xml:id="dpln_25" n="25" rend="print_tln"/><castItem rend="italic align(center)"><role xml:id="Fairies">Other Fairies</role> <roleDesc>attending on the King and Queen</roleDesc>]</castItem>
 
 </castList>
 </div>
@@ -1405,7 +1405,7 @@
 
 <lb xml:id="tln_1008" n="1008" rend="print_tln"/><sp who="#Mustard"><speaker>Must.</speaker><p><name>Mustardseede</name>.</p></sp>
 
-<lb xml:id="tln_1009" n="1009" ed="F"/><sp who="#Pease"><speaker>Peas.</speaker><p><hi rend="italic">Pease-blossome.</hi></p></sp>
+<lb xml:id="tln_1009" n="1009" ed="F"/><sp who="#Pease"><speaker>Peas.</speaker><p rend="italic">Pease-blossome.</p></sp>
 
 <lb xml:id="tln_1010" n="1010" rend="print_tln"/><sp who="#Bottom"><speaker>Bot.</speaker><p>Good master <name>Mustardseede</name>, I know your pati&shy;
 <lb xml:id="tln_1011" n="1011"/>ence well. That same cowardly, gyantlike, Ox-beefe
@@ -2690,7 +2690,7 @@
 <lb xml:id="tln_1985" n="1985" rend="print_tln"/>curse againe.</p></sp>
 
 <lb xml:id="tln_1986-1987i" n="1986–7" rend="print_tln"/><sp who="#Pyramus"><nvsSeg type="linePart" xml:id="tln_1986i"><speaker>Pyr.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_1986f">No, in truth Sir, he should not. <hi rend="italic">Deceiuing mee</hi></nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_1987i">is</nvsSeg>
-<lb xml:id="tln_1987f" n="–1987"/><name>Thisbyes</name> cue: she is to enter now, and I am to spy
+<lb xml:id="tln_1987f" n="1987"/><name>Thisbyes</name> cue: she is to enter now, and I am to spy
 <lb xml:id="tln_1988" n="1988"/>Her through the wall. You shall see it will fall
 <milestone unit="sig_Q" n="H1v">[H1<hi rend="superscript">v</hi>]</milestone>
 <lb xml:id="tln_1990-1989" n="1990, 1989" rend="print_tln"/><nvsSeg type="linePart" xml:id="tln_1990">Pat as I told you: yonder she comes.</nvsSeg></p></sp> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_1989"><space extent="1em"/><stage type="enter">Enter Thisby.</stage></nvsSeg>
