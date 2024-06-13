@@ -390,7 +390,7 @@
 
 <bibl xml:id="b_bevd1987"><author display="book(ldash)">Bevington, David</author>. <title level="a">Determining the Indeterminate: The Oxford Shakespeare.</title> <title level="j">SQ</title> <biblScope type="vol">38</biblScope> (<date>1987</date>), <biblScope type="pages">501–19</biblScope>.</bibl>
 
-<bibl xml:id="b_bevd1985"><author display="book(ldash)">Bevington, David</author>. <title level="a">Shakespeare’s Professional Career: Poet and Playwright.</title> <title level="m">His Work</title>. Ed.<editor>John F. Andrews</editor>. <pubPlace>New York</pubPlace>, <date>1985</date>. <biblScope type="vol">Vol. 2</biblScope> of <title level="m"><title level="m">William Shakespeare: His World, His Work, His Influence</title>. </title><extent>3 vols.</extent> <biblScope type="pages">Pp. 309–29</biblScope>.</bibl>
+<bibl xml:id="b_bevd1985"><author display="book(ldash)">Bevington, David</author>. <title level="a">Shakespeare’s Professional Career: Poet and Playwright.</title> <title level="m">His Work</title>. Ed.<editor> John F. Andrews</editor>. <pubPlace>New York</pubPlace>, <date>1985</date>. <biblScope type="vol">Vol. 2</biblScope> of <title level="m"><title level="m">William Shakespeare: His World, His Work, His Influence</title>. </title><extent>3 vols.</extent> <biblScope type="pages">Pp. 309–29</biblScope>.</bibl>
 
 <bibl xml:id="b_bevd1971"><author display="book(ldash)">Bevington, David</author>. <title level="a">Shakespeare vs. Jonson on Satire.</title> <title level="m">Shakespeare 1971: Proceedings of the World Shakespeare Congress, Vancouver, August 1971</title>. Ed. <editor>Clifford Leech</editor> &amp; <editor>J. M. R. Margeson</editor>. <pubPlace>Toronto</pubPlace>, <date>1972</date>. <biblScope type="pages">Pp. 107–22</biblScope>.</bibl>
 
@@ -928,7 +928,7 @@
 
 <bibl xml:id="b_colf1499"><author>Colonna, Francesco</author>. <title level="m">Hypnerotomachia Poliphili (1499)</title>. Ed. <editor>Giovanni Pozzi</editor> &amp; <editor>Lucia A. Ciapponi</editor>. <extent>2 vols.</extent> <pubPlace>Padova</pubPlace>, <date>1980</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1968</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_colf1999"><author display="book(ldash)">Colonna, Francesco</author>. <title level="m">Hypnerotomachia Poliphili: The Strife of Love in a Dream.</title> Tr. <translator>Joscelyn Godwin</translator>. <pubPlace>New York</pubPlace>, <date>1999</date>.</bibl>
+<bibl xml:id="b_colf1999"><author display="book(ldash)">Colonna, Francesco</author>. <title level="m">Hypnerotomachia Poliphili: The Strife of Love in a Dream.</title> Tr. <author>Joscelyn Godwin</author>. <pubPlace>New York</pubPlace>, <date>1999</date>.</bibl>
 
 <bibl xml:id="b_colf1592"><author display="book(ldash)">Colonna, Francesco</author>. <title level="m">Hypnerotomachia: The Strife of Loue in a Dreame</title>. <date>1592</date>.</bibl>
 <bibl xml:id="b_colm1987"><author>Colthorpe, Marion</author>. <title level="a">Queen Elizabeth I and <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="j">N&amp;Q</title> <biblScope type="vol">34</biblScope> (<date>1987</date>), <biblScope type="pages">205–7</biblScope>.</bibl>
@@ -1017,7 +1017,7 @@
 
 <bibl xml:id="b_crej1986"><author>Crewe, Jonathan</author>. <title level="m">Hidden Designs: The Critical Profession and Renaissance Literature</title>. <date>1986</date>.</bibl>
 
-<bibl xml:id="b_crob1920"><author>Croce, Benedetto</author>. <title level="m">Ariosto, Shakespeare and Corneille</title>. Tr. <translator>Douglas Ainslie</translator>. <date>[1920]</date>.</bibl>
+<bibl xml:id="b_crob1920"><author>Croce, Benedetto</author>. <title level="m">Ariosto, Shakespeare and Corneille</title>. Tr. <author>Douglas Ainslie</author>. <date>[1920]</date>.</bibl>
 
 <bibl xml:id="b_crob1948"><author display="book(ldash)">Croce, Benedetto</author>. <title level="m">Shakespeare</title>. <pubPlace>Bari</pubPlace>, <date>1948</date>. <note place="inline">(<bibl><edition>1st ed.</edition> <date>1925</date>.</bibl>)</note></bibl>
 
@@ -1081,7 +1081,7 @@
     
 <bibl xml:id="b_davr1955"><author display="book(ldash)">David, Richard</author>. <title level="a">Plays Pleasant and Unpleasant.</title> <title level="j">ShS</title> <biblScope type="vol">8</biblScope> (<date>1955</date>), <biblScope type="pages">132–8</biblScope>.</bibl>
 
-<bibl xml:id="b_davr1951"><editor display="book(ldash)">David, Richard</editor>, ed. <title level="m">The Arden Shakespeare. Love’s Labour’s Lost</title>. <date>1951</date>.</bibl>
+<bibl xml:id="b_davr1951"><author display="book(ldash)">David, Richard</author>, ed. <title level="m">The Arden Shakespeare. Love’s Labour’s Lost</title>. <date>1951</date>.</bibl>
 
 <bibl xml:id="b_davc1987"><author>Davidson, Clifford</author>. <title level="a"><quote>What Hempen Home-Spuns Have We Swagg’ring Here?</quote> Amateur Actors in <title level="m">A Midsummer Night’s Dream</title> and the Coventry Civic Plays and Pageants.</title> <title level="j">ShakS</title> <biblScope type="vol">19</biblScope> (<date>1987</date>), <biblScope type="pages">87–99</biblScope>.</bibl>
 
@@ -1559,7 +1559,7 @@
 
 <bibl xml:id="b_frem1981"><author>French, Marilyn</author>. <title level="m">Shakespeare’s Division of Experience</title>. <pubPlace>New York</pubPlace>, <date>1981</date>.</bibl>
 
-<bibl xml:id="b_fres1897"><author>Freud, Sigmund</author>. <title level="m">Draft N</title>. <note place="inline">Notes (III). (<date>31 May 1897</date>).</note> <title level="m">The Origins of Psycho-Analysis: Letters to Wilhelm Fliess, Drafts and Notes: 1887–1902</title>. Ed. <editor>Marie Bonaparte</editor>, <editor>Anna Freud</editor>, &amp; <editor>Ernst Kris</editor>. Tr. <translator>Eric Mosbacher</translator> &amp; <translator>James Strachey</translator>. <pubPlace>New York</pubPlace>, <date>1954</date>. <biblScope type="pages">Pp. 207–10</biblScope>.</bibl>
+<bibl xml:id="b_fres1897"><author>Freud, Sigmund</author>. <title level="m">Draft N</title>. <note place="inline">Notes (III). (<date>31 May 1897</date>).</note> <title level="m">The Origins of Psycho-Analysis: Letters to Wilhelm Fliess, Drafts and Notes: 1887–1902</title>. Ed. <editor>Marie Bonaparte</editor>, <editor>Anna Freud</editor>, &amp; <editor>Ernst Kris</editor>. Tr. <author>Eric Mosbacher</author> &amp; <author>James Strachey</author>. <pubPlace>New York</pubPlace>, <date>1954</date>. <biblScope type="pages">Pp. 207–10</biblScope>.</bibl>
 
 <bibl xml:id="b_frik1979"><author>Friedenreich, Kenneth</author>. <title level="a">Shakespeare, Marlowe, and Mummers.</title> <title level="j">AN&amp;Q</title> <biblScope type="vol">18</biblScope> (<date>1979</date>), <biblScope type="pages">50–1</biblScope>.</bibl>
 
@@ -2546,7 +2546,7 @@
 
 <bibl xml:id="b_kokh1953"><author display="book(ldash)">Kökeritz, Helge</author>. <title level="m">Shakespeare’s Pronunciation</title>. <pubPlace>New Haven</pubPlace>, <date>1953</date>.</bibl>
 
-<bibl xml:id="b_kokh1954"><editor display="book(ldash)">Kökeritz, Helge</editor> &amp; <editor>Charles T. Prouty</editor>, eds. <title level="m">Mr. William Shakespeare’s Comedies, Histories, &amp; Tragedies: A Facsimile Edition</title>. <pubPlace>New Haven</pubPlace>, <date>1954</date>.</bibl>
+<bibl xml:id="b_kokh1954"><author display="book(ldash)">Kökeritz, Helge</author> &amp; <editor>Charles T. Prouty</editor>, eds. <title level="m">Mr. William Shakespeare’s Comedies, Histories, &amp; Tragedies: A Facsimile Edition</title>. <pubPlace>New Haven</pubPlace>, <date>1954</date>.</bibl>
     
 <bibl xml:id="b_kolf1930"><author>Kolbe, F[rederick] C.</author> <title level="m">Shakespeare’s Way: A Psychological Study</title>. <date>1930</date>.</bibl>
 
@@ -2558,7 +2558,7 @@
 
 <bibl xml:id="b_kotj1981"><author display="book(ldash)">Kott, Jan</author>. <title level="a">The Bottom Translation.</title> <title level="j">Assays</title> <biblScope type="vol">1</biblScope> (<date>1981</date>), <biblScope type="pages">117–49</biblScope>. <note place="inline">(<bibl><edition>Rpt. with rev.</edition> <title level="m">The Bottom Translation</title>. <pubPlace>Evanston</pubPlace>, <date>1987</date>. <biblScope type="pages">Pp. 28–68</biblScope>.</bibl>)</note></bibl>
 
-<bibl xml:id="b_kotj1964"><author display="book(ldash)">Kott, Jan</author>. <title level="m">Shakespeare Our Contemporary</title>. Tr. <translator>Boleslaw Taborski</translator>. <pubPlace>New York</pubPlace>, <date>1966</date>. <note place="inline">(<bibl><edition>Polish ed.</edition> <date>1964</date>.</bibl>)</note></bibl>
+<bibl xml:id="b_kotj1964"><author display="book(ldash)">Kott, Jan</author>. <title level="m">Shakespeare Our Contemporary</title>. Tr. <author>Boleslaw Taborski</author>. <pubPlace>New York</pubPlace>, <date>1966</date>. <note place="inline">(<bibl><edition>Polish ed.</edition> <date>1964</date>.</bibl>)</note></bibl>
 
 <bibl xml:id="b_kraa1932"><author>Kranendonk, A[nthonius] G. van</author>. <title level="a">Spenserian Echoes in <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="j">ES</title> <biblScope type="vol">14</biblScope> (<date>1932</date>), <biblScope type="pages">209–217</biblScope>.</bibl>
 
@@ -2616,7 +2616,7 @@
 
 <bibl xml:id="b_larf2002"><author display="book(ldash)">Laroque, François</author>. <title level="a">Popular Festivity.</title> <title level="m">The Cambridge Companion to Shakespearean Comedy</title>. Ed. <editor>Alexander Leggatt</editor>. <pubPlace>New York</pubPlace>, <date>2002</date>. <biblScope type="pages">Pp. 64–78</biblScope>.</bibl>
 
-<bibl xml:id="b_larf1988"><author display="book(ldash)">Laroque, François</author>. <title level="m">Shakespeare’s Festive World</title>. Tr. <translator>Janet Lloyd</translator>. <publisher>Cambridge</publisher>, <date>1991</date>. <note place="inline">(<bibl><title level="m">Shakespeare et la fête</title>. [<pubPlace>Paris</pubPlace>], <date>1988</date>.</bibl>)</note></bibl>
+<bibl xml:id="b_larf1988"><author display="book(ldash)">Laroque, François</author>. <title level="m">Shakespeare’s Festive World</title>. Tr. <author>Janet Lloyd</author>. <publisher>Cambridge</publisher>, <date>1991</date>. <note place="inline">(<bibl><title level="m">Shakespeare et la fête</title>. [<pubPlace>Paris</pubPlace>], <date>1988</date>.</bibl>)</note></bibl>
 
 <bibl xml:id="b_latg1887"><author>Latham, Grace</author>. <title level="a">Some of Shakspere’s Metaphors and His Use of Them in the Comedies.</title> <title level="m">The New Shakspere Society’s Transactions 1887–92</title>. (<edition>Rpt.</edition> <pubPlace>Vaduz</pubPlace>: <publisher>Kraus Rpt. Ltd.</publisher>, <date>1965.</date>) <biblScope type="pages">Pp. 397–427</biblScope>.</bibl>
 
@@ -2678,9 +2678,9 @@
 
 <bibl xml:id="b_leec1964"><author display="book(ldash)">Leech, Clifford</author>. <title level="a">Shakespeare’s Comic Dukes.</title> <title level="j">REL</title> <biblScope type="vol">5</biblScope> (<date>1964</date>), <biblScope type="pages">101–14</biblScope>.</bibl>
     
-<bibl xml:id="b_leec1969b"><editor display="book(ldash)">Leech, Clifford</editor>, ed. <title level="m">The Arden Shakespeare: The Two Gentlemen of Verona</title>. <date>1969</date>.</bibl>
+<bibl xml:id="b_leec1969b"><author display="book(ldash)">Leech, Clifford</author>, ed. <title level="m">The Arden Shakespeare: The Two Gentlemen of Verona</title>. <date>1969</date>.</bibl>
 
-<bibl xml:id="b_lefa1918"><author>Lefranc, Abel</author>. <title level="m">Sous le masque de Shakespeare</title>. <extent>2 vols.</extent> <pubPlace>Paris</pubPlace>, <date>1918–19</date>. <note place="inline"><bibl><edition>Tr. [somewhat freely]</edition> <translator>Cecil Cragg</translator>, <title level="m">Under the Mask of William Shakespeare</title>. <pubPlace>Braunton, Devon</pubPlace>, <date>1988</date>.</bibl></note></bibl>
+<bibl xml:id="b_lefa1918"><author>Lefranc, Abel</author>. <title level="m">Sous le masque de Shakespeare</title>. <extent>2 vols.</extent> <pubPlace>Paris</pubPlace>, <date>1918–19</date>. <note place="inline"><bibl><edition>Tr. [somewhat freely]</edition> <author>Cecil Cragg</author>, <title level="m">Under the Mask of William Shakespeare</title>. <pubPlace>Braunton, Devon</pubPlace>, <date>1988</date>.</bibl></note></bibl>
 
 <bibl xml:id="b_lega2004"><author>Leggatt, Alexander</author>. <title level="a">The Disappearing Wall: <title level="m">A Midsummer Night’s Dream</title> and <title level="m">Timon of Athens</title>.</title> <title level="m">Shakespeare and the Mediterranean</title>. Ed. <editor>Thomas Clayton</editor>, <editor>Susan Brock</editor>, &amp; <editor>Vicente Forés</editor>. <pubPlace>Newark, N.J.</pubPlace>, <date>2004</date>. <biblScope type="pages">Pp. 194–205</biblScope>.</bibl>
     
@@ -3134,7 +3134,7 @@
 
 <bibl xml:id="b_muke1965"><author>Mukerji, Ena</author>. <title level="a">A Shakespearian Theory of Poetry.</title> <title level="m">Shakespeare: A Book of Homage</title>. <pubPlace>Calcutta</pubPlace>, <date>1965</date>. <biblScope type="pages">Pp. 150–3</biblScope>.</bibl>
 
-<bibl xml:id="b_mula1992"><author>Müller, Adam</author>. <title level="a">Fragmente über William Shakespeare.</title> In <title level="a">Vorlesungen über die dramatische Kunst</title> from <title level="m">Vermischte Schriften über Staat, Philosophie und Kunst</title>. <edition>2nd ed.</edition> <pubPlace>Vienna</pubPlace>, <date>1817</date>. <note place="inline"><bibl>Tr. <translator>Louise Adey</translator>. <title level="m">The Romantics on Shakespeare</title>. Ed. <editor>Jonathan Bate</editor>. <date>1992</date>. <biblScope type="pages">Pp. 83–7</biblScope>.</bibl></note></bibl>
+<bibl xml:id="b_mula1992"><author>Müller, Adam</author>. <title level="a">Fragmente über William Shakespeare.</title> In <title level="a">Vorlesungen über die dramatische Kunst</title> from <title level="m">Vermischte Schriften über Staat, Philosophie und Kunst</title>. <edition>2nd ed.</edition> <pubPlace>Vienna</pubPlace>, <date>1817</date>. <note place="inline"><bibl>Tr. <author>Louise Adey</author>. <title level="m">The Romantics on Shakespeare</title>. Ed. <editor>Jonathan Bate</editor>. <date>1992</date>. <biblScope type="pages">Pp. 83–7</biblScope>.</bibl></note></bibl>
 
 <bibl xml:id="b_mulm1975"><author>Mullin, Michael</author>. <title level="a">Peter Hall’s <title level="m">Midsummer Night’s Dream</title> on Film.</title> <title level="j">ETJ</title> <biblScope type="vol">27</biblScope> (<date>1975</date>), <biblScope type="pages">529–34</biblScope>.</bibl>
 
@@ -3418,7 +3418,7 @@
 
 <bibl xml:id="b_plam1992"><author>Plasse, Marie A.</author> <title level="a">The Human Body as Performance Medium in Shakespeare: Some Theoretical Suggestions from <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="j">College Literature</title> <biblScope type="vol">19</biblScope> (<date>1992</date>), <biblScope type="pages">28–47</biblScope>.</bibl>
 
-<bibl xml:id="b_plaj1797"><author>Plato</author>. <title level="m">The Dialogues of Plato</title>. Tr. <translator>Benjamin Jowett</translator>. <extent>5 vols.</extent> <date>1871</date>. <note place="inline"><bibl>(<edition>3rd ed. rev.</edition> <date>1892</date>.)</bibl></note></bibl>
+<bibl xml:id="b_plaj1797"><author>Plato</author>. <title level="m">The Dialogues of Plato</title>. Tr. <author>Benjamin Jowett</author>. <extent>5 vols.</extent> <date>1871</date>. <note place="inline"><bibl>(<edition>3rd ed. rev.</edition> <date>1892</date>.)</bibl></note></bibl>
 
 <bibl xml:id="b_pluj1797"><author>Plumptre, James</author>. <title level="m">An Appendix to Observations on Hamlet</title>. <pubPlace>Cambridge</pubPlace>, <date>1797</date>.</bibl>
 
@@ -3470,7 +3470,7 @@
 
 <bibl xml:id="b_prol1878"><author display="book(ldash)">Proescholdt, Ludwig</author>. <title level="m">On the Sources of Shakespeare’s <title level="m">Midsummer Night’s Dream</title></title>. <pubPlace>Halle</pubPlace>, <date>1878</date>.</bibl>
 
-<bibl xml:id="b_proe1981"><author>Prosser, Eleanor</author>. <title level="m">Shakespeare’s Anonymous Editors: Scribe and Compositor in the Folio Text of 2 Henry IV</title>. <pubPlace>Stanford</pubPlace>, <date>1981</date>.</bibl>
+<bibl xml:id="b_proe1981"><author>Prosser, Eleanor</author>. <title level="m">Shakespeare’s Anonymous Editors: Scribe and Compositor in the Folio Text of </title>2 Henry IV. <pubPlace>Stanford</pubPlace>, <date>1981</date>.</bibl>
 
 <bibl xml:id="b_purc1963"><author>Purdom, C[harles] B.</author> <title level="m">What Happens in Shakespeare: A New Interpretation</title>. <date>1963</date>.</bibl>
 
@@ -3777,7 +3777,7 @@
 
 <bibl xml:id="b_schr1952"><author>Schröder, Rudolf Alexander</author>. <title level="m">Gesammelte Werke</title>. <biblScope type="vol">Vol. 2</biblScope>. <pubPlace>Berlin</pubPlace>: <publisher>Suhrkamp</publisher>, <date>1952</date>. <extent>8 vols.</extent> <date>1952–65</date>.</bibl>
 
-<bibl xml:id="b_schl1922"><author>Schücking, Levin L.</author> <title level="m">Character Problems in Shakespeare’s Plays: A Guide to the Better Understanding of the Dramatist</title>. Tr. <translator>W. H. Peters</translator>. <pubPlace>New York</pubPlace>, <date>1922</date>. (<note place="inline"><bibl><edition>First pub.</edition> <date>1919</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_schl1922"><author>Schücking, Levin L.</author> <title level="m">Character Problems in Shakespeare’s Plays: A Guide to the Better Understanding of the Dramatist</title>. Tr. <author>W. H. Peters</author>. <pubPlace>New York</pubPlace>, <date>1922</date>. (<note place="inline"><bibl><edition>First pub.</edition> <date>1919</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_schv1971"><author>Schulz, Volker</author>. <title level="m">Studien zum Komischen in Shakespeares Komödien</title>. <pubPlace>Darmstadt</pubPlace>, <date>1971</date>.</bibl>
 
@@ -3887,7 +3887,7 @@
 
 <bibl xml:id="b_shuj1987"><author>Shulman, Jeffrey</author>. <title level="a">Bottom Is Up: The Role of Illusion in <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="j">EAS</title> <biblScope type="vol">16</biblScope> (<date>1987</date>), <biblScope type="pages">9–21</biblScope>.</bibl>
     
-<bibl xml:id="b_shum1997"><author>Shurgot, Michael W.</author> <title level="a"><quote>So Quick Bright Things Come to Confusion</quote>: Shakespeare in the Heterogeneous Classroom.</title> <title level="m">Teaching Shakespeare into the Twenty-First Century</title>. Ed. <editor>Ronald E. Salomone</editor> &amp; <editor>James E.</editor> <pubPlace>Davis. Athens, Ohio</pubPlace>, <date>1997</date>. <biblScope type="pages">Pp. 127–36</biblScope>.</bibl>
+<bibl xml:id="b_shum1997"><author>Shurgot, Michael W.</author> <title level="a"><quote>So Quick Bright Things Come to Confusion</quote>: Shakespeare in the Heterogeneous Classroom.</title> <title level="m">Teaching Shakespeare into the Twenty-First Century</title>. Ed. <editor>Ronald E. Salomone</editor> &amp; <editor>James E. Davis</editor>. <pubPlace>Athens, Ohio</pubPlace>, <date>1997</date>. <biblScope type="pages">Pp. 127–36</biblScope>.</bibl>
 
 <bibl xml:id="b_sidf1908"><author>Sidgwick, Frank</author>. <title level="m">The Sources and Analogues of <title level="m">A Midsummer Night’s Dream.</title></title> <pubPlace>London &amp; New York</pubPlace>, <date>1908</date>. <note place="inline">(<bibl><edition>Rpt.</edition> <pubPlace>n.p.</pubPlace>: <publisher>Folcroft Library Editions</publisher>, <date>1972</date>.</bibl>)</note></bibl>
 
@@ -3959,7 +3959,7 @@
 
 <bibl xml:id="b_smik1986"><author>Smidt, Kristian</author>. <title level="m">Unconformities in Shakespeare’s Early Comedies</title>. <date>1986</date>.</bibl>
 
-<bibl xml:id="b_smia1936"><author>Smirnov, A[leksandr] A.</author> <title level="m">Shakespeare: A Marxist Interpretation</title>. Tr. <translator>Sonia Volochova</translator> &amp; <translator>Sidonie Kronman</translator>, <foreign xml:lang="la" rend="italic">et al.</foreign> <pubPlace>New York</pubPlace>, <date>1936</date>.</bibl>
+<bibl xml:id="b_smia1936"><author>Smirnov, A[leksandr] A.</author> <title level="m">Shakespeare: A Marxist Interpretation</title>. Tr. <author>Sonia Volochova</author> &amp; <author>Sidonie Kronman</author>, <foreign xml:lang="la" rend="italic">et al.</foreign> <pubPlace>New York</pubPlace>, <date>1936</date>.</bibl>
 
 <bibl xml:id="b_smib1999"><author>Smith, Bruce R.</author> <title level="m">The Acoustic World of Early Modern England</title>. <pubPlace>Chicago</pubPlace>, <date>1999</date>.</bibl>
 
@@ -4181,7 +4181,7 @@
 
 <bibl xml:id="b_swip1973"><author>Swinden, Patrick</author>. <title level="m">An Introduction to Shakespeare’s Comedies</title>. <pubPlace>New York</pubPlace>, <date>1973</date>.</bibl>
 
-<bibl xml:id="b_symc0001"><author>Symmons, Charles</author>. <note place="inline"><title level="a">The Life of William Shakespeare with some Remarks upon his Dramatic Writings.</title> in <siglum rend="smcaps">sing1</siglum></note> <biblScope type="vol"> 1</biblScope>: <biblScope type="pages">3–90</biblScope>.</bibl>
+<bibl xml:id="b_symc0001"><author>Symmons, Charles</author>. <note place="inline"><title level="a">The Life of William Shakespeare with some Remarks upon his Dramatic Writings.</title> In <siglum rend="smcaps">sing1</siglum></note> <biblScope type="vol"> 1</biblScope>: <biblScope type="pages">3–90</biblScope>.</bibl>
     
 <bibl xml:id="b_symj1884"><author>Symonds, John Addington</author>. <title level="m">Shakspere’s Predecessors in the English Drama</title>. <date>1884</date>.</bibl>
 
@@ -4383,7 +4383,7 @@
 
 <bibl xml:id="b_ulrh0001"><author>Ulrici, Hermann</author>. <note place="inline">Contributor to <siglum>v1895</siglum>.</note></bibl>
     
-<bibl xml:id="b_ulrh1846"><author display="book(ldash)">Ulrici, Hermann</author>. <title level="m">Shakespeare’s Dramatic Art</title>. <edition>Tr. from 1st Ger. ed. by</edition> <translator>A. J. W. M[orrison]</translator>. <date>1846</date>. <note place="inline"><bibl><edition>Tr. from 3rd Ger. ed. by</edition> <translator>L. Dora Schmitz</translator>. <extent>2 vols.</extent> <date>1876</date>.</bibl> (<bibl><edition>1st Ger. ed.</edition> <date>1839</date>.</bibl> <bibl><edition>3rd ed.</edition> <date>1868–9</date>.</bibl>)</note></bibl>
+<bibl xml:id="b_ulrh1846"><author display="book(ldash)">Ulrici, Hermann</author>. <title level="m">Shakespeare’s Dramatic Art</title>. <edition>Tr. from 1st Ger. ed. by</edition> <author>A. J. W. M[orrison]</author>. <date>1846</date>. <note place="inline"><bibl><edition>Tr. from 3rd Ger. ed. by</edition> <author>L. Dora Schmitz</author>. <extent>2 vols.</extent> <date>1876</date>.</bibl> (<bibl><edition>1st Ger. ed.</edition> <date>1839</date>.</bibl> <bibl><edition>3rd ed.</edition> <date>1868–9</date>.</bibl>)</note></bibl>
     
 <bibl xml:id="b_umad2001"><author>Uman, Deborah</author>. <title level="a">Translation, Transformation and Ravishment in <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="j">Allegorica</title> <biblScope type="vol">22</biblScope> (<date>2001</date>), <biblScope type="pages">68–91</biblScope>.</bibl>
 
@@ -4457,7 +4457,7 @@
 
 <bibl xml:id="b_waie1988"><author display="book(ldash)">Waith, Eugene M.</author> <title level="m">Patterns and Perspectives in English Renaissance Drama</title>. <pubPlace>Newark, Del.</pubPlace>, <date>1988</date>.</bibl>
 
-<bibl xml:id="b_waie1989"><author display="book(ldash)">Waith, Eugene M.</author>, ed. <title level="m">The Two Noble Kinsmen<title level="m">. By William Shakespeare and John Fletcher</title>.</title> <publisher>OUP</publisher>, <date>1989</date>.</bibl>
+<bibl xml:id="b_waie1989"><author display="book(ldash)">Waith, Eugene M</author>, ed. <title level="m">The Two Noble Kinsmen<title level="m">. By William Shakespeare and John Fletcher</title>.</title> <publisher>OUP</publisher>, <date>1989</date>.</bibl>
 
 <bibl xml:id="b_walg1983"><author>Walch, Günter</author>. <title level="a"><title level="m">Ein Sommernachtstraum</title>: Komödienform und Rezeptionslenkung.</title> <title level="j">SJW</title> <biblScope type="vol">119</biblScope> (<date>1983</date>), <biblScope type="pages">31–48</biblScope>.</bibl>
 
@@ -4617,7 +4617,7 @@
 
 <bibl xml:id="b_weyp1748"><author>Wey, Peter</author>. <title level="m">An Enquiry into the Learning of Shakespeare</title>. <date>1748</date>.</bibl>
     
-<bibl xml:id="b_whaj0001"><author>Whaley, John (<date>1710–45</date>)</author>. <note place="inline">Correspondent of Styan Thirlby.</note></bibl>
+    <bibl xml:id="b_whaj0001"><author>Whaley, John (<date>1710–45</date>)</author>. <note place="inline">Correspondent of <author>Styan Thirlby</author>.</note></bibl>
 
 <bibl xml:id="b_whap1748"><author>Whalley, Peter</author>. <title level="m">An Enquiry into the Learning of Shakespeare</title>. <date>1748</date>.</bibl>
 
@@ -4784,9 +4784,9 @@
 
 <bibl xml:id="b_wita1999"><author>Witte, Anne E.</author> <title level="a">Bottom’s Tangled Web: Texts and Textiles in <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="j">CahiersE</title> <biblScope type="vol">56</biblScope> (<date>1999</date>), <biblScope type="pages">25–39</biblScope>.</bibl>
 
-<bibl xml:id="b_wita1996"><author display="book(ldash)">Witte, Anne E.</author>. <title level="a">Les herbes magiques et le changelin: Le temps des mythes dans <title level="m">Le songe d’une nuit d’été</title>.</title> <title level="j">RHR: Réforme, humanisme, et Renaissance</title> <biblScope type="vol">22</biblScope> (<date>1996</date>), <biblScope type="pages">45–64</biblScope>.</bibl>
+<bibl xml:id="b_wita1996"><author display="book(ldash)">Witte, Anne E.</author> <title level="a">Les herbes magiques et le changelin: Le temps des mythes dans <title level="m">Le songe d’une nuit d’été</title>.</title> <title level="j">RHR: Réforme, humanisme, et Renaissance</title> <biblScope type="vol">22</biblScope> (<date>1996</date>), <biblScope type="pages">45–64</biblScope>.</bibl>
 
-<bibl xml:id="b_wita2002"><author display="book(ldash)">Witte, Anne E.</author>. <title level="a">Les temps du <title level="m">Songe</title>: Une lecture du <hi rend="italic">Comput</hi> Shakespearien dans <title level="m">Le songe d’une nuit d’été</title>.</title> <title level="m">Lectures d’une œuvre A Midsummer Night’s Dream de William Shakespeare</title>. Ed. <editor>Christine Sukic</editor>. <pubPlace>Nantes</pubPlace>, <date>2002</date>. <biblScope type="pages">Pp. 107–25</biblScope>.</bibl>
+<bibl xml:id="b_wita2002"><author display="book(ldash)">Witte, Anne E.</author> <title level="a">Les temps du <title level="m">Songe</title>: Une lecture du <hi rend="italic">Comput</hi> Shakespearien dans <title level="m">Le songe d’une nuit d’été</title>.</title> <title level="m">Lectures d’une œuvre A Midsummer Night’s Dream de William Shakespeare</title>. Ed. <editor>Christine Sukic</editor>. <pubPlace>Nantes</pubPlace>, <date>2002</date>. <biblScope type="pages">Pp. 107–25</biblScope>.</bibl>
 
 <bibl xml:id="b_wolm1926"><author>Wolff, Max J.</author> <title level="m">Shakespeare der Dichter und sein Werke</title>. <extent>2 vols.</extent> <pubPlace>München</pubPlace>, <date>1926</date>. (<note place="inline"><bibl><edition>First pub.</edition> <date>1907</date></bibl>.</note>)</bibl>
 
@@ -4794,7 +4794,7 @@
 
 <bibl xml:id="b_wooj1966"><author>Wood, James O.</author> <title level="a">Finde out Moone-shine, Finde out Moone-shine [TLN <ref targType="lb" target="#tln_0864">864</ref>].</title> <title level="j">N&amp;Q</title> <biblScope type="vol">211</biblScope> (<date>1966</date>). <biblScope type="pages">128–30</biblScope>.</bibl>
     
-<bibl xml:id="b_wooj1971"><author display="book(ldash)">Wood, James O.</author> &amp; <author>Neil Taylor</author>. <title level="a">Finde out Moone-shine, Finde out Moone-shine, [TLN <ref targType="lb" target="#tln_0864">864</ref>].</title> <title level="j">N&amp;Q</title> <biblScope type="vol">216</biblScope> (<date>1971</date>), <biblScope type="pages">464</biblScope>.</bibl>
+<bibl xml:id="b_wooj1971"><author display="book(ldash)">Wood, James O,</author> &amp; <author>Neil Taylor</author>. <title level="a">Finde out Moone-shine, Finde out Moone-shine, [TLN <ref targType="lb" target="#tln_0864">864</ref>].</title> <title level="j">N&amp;Q</title> <biblScope type="vol">216</biblScope> (<date>1971</date>), <biblScope type="pages">464</biblScope>.</bibl>
 
 <bibl xml:id="b_woog1907"><author>Woodberry, George E.</author> <note place="inline">Introduction to</note> <title level="m">MND</title>. In <title level="m">Works</title>. Ed. <editor>Sidney Lee</editor>. <extent>40 vols.</extent> <pubPlace>New York</pubPlace>, <date>1907–9</date>. <biblScope type="vol">6</biblScope> (<date>1907</date>): <biblScope type="pages"> ix–xxii</biblScope>.</bibl>
     
