@@ -1937,13 +1937,13 @@
     
 <bibl xml:id="b_hama1967"><author>Hamilton, A[lbert] C.</author> <title level="m">The Early Shakespeare</title>. <pubPlace>San Marino, Calif.</pubPlace>, <date>1967</date>.</bibl>
 
-    <bibl xml:id="b_hamw0001"><title level="m">Hamlet Works</title>. <note place="inline">Ed. <editor>Bernice Kliman et al.</editor></note> (<ref targType="url" target="http://www.hamletworks.org">www.hamletworks.org</ref>). </bibl>
+<bibl xml:id="b_hamw0001"><title level="m">Hamlet Works</title>. Ed. <editor>Bernice Kliman et al.</editor> (<ref targType="url" target="http://www.hamletworks.org">www.hamletworks.org</ref>). </bibl>
     
 <bibl xml:id="b_hamk1953a"><author>Hammerle, Karl</author>. <title level="a">Das Laubenmotiv bei Shakespeare und Spenser und die Frage: Wer waren Bottom und die little western flower?</title> <title level="j">Anglia</title> <biblScope type="vol">71</biblScope> (<date>1953</date>), <biblScope type="pages">310–30</biblScope>.</bibl>
 
 <bibl xml:id="b_hamk1958"><author display="book(ldash)">Hammerle, Karl</author>. <title level="a">Ein Muttermal des Deutschen <title level="m">Pyramus</title> und die Spenserechos in <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="m">Anglistiche Studien: Friedrich Wild zum siebzigsten Geburtstag</title>. Ed. <editor>Karl Brunner</editor> <editor>et al.</editor> <pubPlace>Wien</pubPlace>, <date>1958</date>. <biblScope type="pages">Pp. 52–66</biblScope>.</bibl>
 
-    <bibl xml:id="b_hamk1953b"><author display="book(ldash)">Hammerle, Karl</author>. <title level="a">The Poet’s Eye [TLN 1804]: Zur Auffassung Shakespeares vom Wesen des Dichters.</title> <title level="j">Innsbrucker Beiträge zur Kultur-Wissenschaft</title> <biblScope type="vol">1</biblScope> (<date>1953</date>), <biblScope type="pages">101–7</biblScope>.</bibl>
+<bibl xml:id="b_hamk1953b"><author display="book(ldash)">Hammerle, Karl</author>. <title level="a">The Poet’s Eye [TLN 1804]: Zur Auffassung Shakespeares vom Wesen des Dichters.</title> <title level="j">Innsbrucker Beiträge zur Kultur-Wissenschaft</title> <biblScope type="vol">1</biblScope> (<date>1953</date>), <biblScope type="pages">101–7</biblScope>.</bibl>
     
 <bibl xml:id="b_hamk1955"><author display="book(ldash)">Hammerle, Karl</author>. <title level="a">Shakespeares platonisches wende.</title> <title level="m">Anglo-Americana: Festschrift zum 70, Geburstag von Dr. Leo Hibler-Lebmannsport. Herausgebegen von Dr. Karl Brunner</title>. <title level="s">Wiener Beiträge für englischen Philologie</title>, <biblScope type="vol">42</biblScope>. <pubPlace>Wien</pubPlace>, <date>1955</date>. <biblScope type="pages">Pp. 62–71</biblScope>.</bibl>
 
@@ -2354,7 +2354,7 @@
 
 <bibl xml:id="b_jacm2000"><author>Jackson, MacDonald P.</author> <title level="a">Bottom’s Entry-Line: <title level="m">A Midsummer Night’s Dream</title>, [TLN <ref targType="lb" target="#tln_0917">917</ref>].</title> <title level="j">N&amp;Q</title> <biblScope type="vol">47</biblScope> (<date>2000</date>), <biblScope type="pages">69–70</biblScope>.</bibl>
 
-<bibl xml:id="b_jacm2007"><author display="book(ldash)">Jackson, MacDonald P.</author> <title level="a">Is <quote>Hand D</quote> of <title level="m">Sir Thomas More</title> Shakespeare’s? Thomas Bayes and the Elliott-Valenza Authorship Tests.</title> <title level="j">EMLS</title> <biblScope type="vol">12.3</biblScope> (<date>2007</date>), <biblScope type="vol">1</biblScope>:<biblScope type="pages">1–36</biblScope> <note place="inline">(<ref targType="url" target="purl.oclc.org/emls">purl.oclc.org/emls</ref>)</note>.</bibl>
+<bibl xml:id="b_jacm2007"><author display="book(ldash)">Jackson, MacDonald P.</author> <title level="a">Is <quote>Hand D</quote> of <title level="m">Sir Thomas More</title> Shakespeare’s? Thomas Bayes and the Elliott-Valenza Authorship Tests.</title> <title level="j">EMLS</title> <biblScope type="vol">12.3</biblScope> (<date>2007</date>), <biblScope type="vol">1</biblScope>:<biblScope type="pages">1–36</biblScope> (<ref targType="url" target="purl.oclc.org/emls">purl.oclc.org/emls</ref>).</bibl>
 
 <bibl xml:id="b_jacm1966"><author>Jackson, Margaret Y.</author> <title level="a"><quote>High Comedy</quote> in Shakespeare.</title> <title level="j">CLAJ</title> <biblScope type="vol">10</biblScope> (<date>1966</date>), <biblScope type="pages">11–22</biblScope>.</bibl>
 
@@ -3181,7 +3181,7 @@
 
 <bibl xml:id="b_newk1985"><author>Newman, Karen</author>. <title level="m">Shakespeare’s Rhetoric of Comic Character: Dramatic Convention in Classical and Renaissance Comedy</title>. <pubPlace>New York</pubPlace>, <date>1985</date>.</bibl>
 
-<bibl xml:id="b_newt1749"><editor>Newton, Thomas</editor>, ed. <title level="m">Paradise Lost </title> by <author>John Milton</author>. <extent>2 vols.</extent> <date>1749</date>.</bibl>
+<bibl xml:id="b_newt1749"><editor>Newton, Thomas [T. Newton D. D. Bishop of Bristol 1704-1782]</editor>, ed. <title level="m">Paradise Lost </title> by <author>John Milton</author>. <extent>2 vols.</extent> <date>1749</date>.</bibl>
 
 <bibl xml:id="b_nicj1817"><author>Nichols, John</author>. <title level="m">Illustrations of the Literary History of the Eighteenth Century</title>. <extent>6 vols.</extent> <date>1817–31</date>.</bibl>
 
@@ -3851,7 +3851,7 @@
 
 <bibl xml:id="b_shan1993"><author display="book(ldash)">Shaheen, Naseeb</author>. <title level="m">Biblical References in Shakespeare’s Comedies</title>. <pubPlace>Cranbury, N.J.</pubPlace>, <date>1993</date>.</bibl>
 
-<bibl xml:id="b_shag0001"><rs>Shakespeare Quartos Archive</rs> <note place="inline">(<ref targType="url" target="http://www.quartos.org">www.quartos.org</ref>)</note>.</bibl>
+<bibl xml:id="b_shag0001"><rs>Shakespeare Quartos Archive</rs> (<ref targType="url" target="http://www.quartos.org">www.quartos.org</ref>).</bibl>
 
 <bibl xml:id="b_shag1971"><author>Shand, G. B.</author> <title level="a">Chinks.</title> <title level="j">TLS</title> (<date>29 January 1971</date>), <biblScope type="pages">126–7</biblScope>.</bibl>
 
