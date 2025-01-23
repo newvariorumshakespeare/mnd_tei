@@ -61,7 +61,7 @@
 <app type="sourced"><lem><hi rend="italic">Flu.</hi></lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg><hi rend="italic">Fla.</hi></rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_0310" target="#tln_0310"><label>310</label>
-<app type="sourced"><lem>cõming.</lem>] <wit><siglum>F1</siglum> <note place="inline">(comming.)</note></wit>; <appPart><rdgDesc><rdg>cõ- | (ming.</rdg> (<hi rend="italic">turnover</hi>)</rdgDesc> <wit><siglum>Q1</siglum></wit></appPart></app></note>
+<app type="sourced"><lem>cõming.</lem>] <wit><siglum>F1</siglum> (comming.)</wit>; <appPart><rdgDesc><rdg>cõ- | (ming.</rdg> (<hi rend="italic">turnover</hi>)</rdgDesc> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_0319" target="#tln_0319" targetEnd="#tln_0320"><label>319–20</label>
 <app type="sourced"><rdgDesc><hi rend="italic">Two lines</hi></rdgDesc> <wit><siglum>F1</siglum></wit>; <appPart><rdgDesc><hi rend="italic">one line</hi></rdgDesc> <wit><siglum>Qq</siglum></wit></appPart></app></note>
@@ -94,10 +94,10 @@
 <app type="sourced"><lem>comfort</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>comfor</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_0714" target="#tln_0714"><label>714</label>
-<app type="sourced"><lem>faire prayer</lem>] <wit><siglum>Q2</siglum> <note place="inline">(faire praier)</note></wit>; <appPart><rdg>faireprayer</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
+<app type="sourced"><lem>faire prayer</lem>] <wit><siglum>Q2</siglum> (faire praier)</wit>; <appPart><rdg>faireprayer</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_0804" target="#tln_0804"><label>804</label>
-<app type="sourced"><lem>thought</lem>] <wit><siglum>Q2</siglum> <note place="inline">(-thought)</note></wit>; <appPart><rdg>thoughr</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
+<app type="sourced"><lem>thought</lem>] <wit><siglum>Q2</siglum> (-thought)</wit>; <appPart><rdg>thoughr</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_0820" target="#tln_0820"><label>820</label>
 <app type="sourced"><lem><hi rend="italic">Quin.</hi></lem>] <wit><siglum rend="smcaps">rowe1</siglum></wit>; <appPart><rdg><hi rend="italic">Qnin.</hi></rdg> <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdg><hi rend="italic">Peter.</hi></rdg> <wit><siglum>Q2</siglum>&sigrange;<siglum>F4</siglum></wit></appPart></app></note>
@@ -154,7 +154,7 @@
 <app type="sourced"><lem>but</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>hut</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1368" target="#tln_1368"><label>1368</label>
-<app type="sourced"><lem><hi rend="italic">Deme.</hi></lem>] <wit><siglum>Q2</siglum> <note place="inline">(<hi rend="italic">Dem.</hi>)</note></wit>; <appPart><rdg>&swdash;,</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
+<app type="sourced"><lem><hi rend="italic">Deme.</hi></lem>] <wit><siglum>Q2</siglum> (<hi rend="italic">Dem.</hi>)</wit>; <appPart><rdg>&swdash;,</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1389" target="#tln_1389"><label>1389</label>
 <app type="sourced"><lem>should</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>shoud</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
@@ -163,7 +163,7 @@
 <app type="sourced"><lem>farre blamelesse</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>farr eblamelesse</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1435" target="#tln_1435"><label>1435</label>
-<app type="sourced"><lem>notwithstanding</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>notwistanding</rdg> <wit><siglum>Q1</siglum> <note place="inline">[<hi rend="italic">see Press Variants</hi>]</note></wit></appPart></app></note>
+<app type="sourced"><lem>notwithstanding</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>notwistanding</rdg> <wit><siglum>Q1</siglum> [<hi rend="italic">see Press Variants</hi>]</wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1451" target="#tln_1451"><label>1451</label>
 <app type="sourced"><lem>for</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>ſ or</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
@@ -327,7 +327,7 @@
 <app><lem>crazed</lem>] <appPart><rdg type="replace">razed</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 242)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0103" target="#tln_0103"><label>103</label>
-<app><lem><hi rend="italic">Hermias</hi></lem>] <appPart><rdg type="replace">Hermia</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> <note place="inline">(<hi rend="italic">withdrawn</hi> <siglum>m<hi rend="smcaps">tby</hi>4</siglum>)</note>, <ref targType="bibl" target="#b_tyrt1766"><name type="app">tyrwhitt</name></ref> (1766, p. 50)</wit></appPart></app></note>
+<app><lem><hi rend="italic">Hermias</hi></lem>] <appPart><rdg type="replace">Hermia</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> (<hi rend="italic">withdrawn</hi> <siglum>m<hi rend="smcaps">tby</hi>4</siglum>), <ref targType="bibl" target="#b_tyrt1766"><name type="app">tyrwhitt</name></ref> (1766, p. 50)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0116" target="#tln_0116"><label>116</label>
 <app><lem><hi rend="italic">Nedars</hi></lem>] <appPart><rdg type="replace">Nestor’s</rdg> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 2:30)</wit></appPart>; <appPart><rdg type="replace">Medon’s</rdg> <wit><ref targType="bibl" target="#b_kell1931"><name type="app">kellner</name></ref> (1931, p. 14)</wit></appPart></app></note>
@@ -348,7 +348,7 @@
 <app><lem>crosse! too high to be inthrald to loue</lem>] <appPart><rdg type="replace">cross, to be enthrall’d! too high, too low</rdg> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:265–6)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0149" target="#tln_0149"><label>149</label>
-<app><lem>friends</lem>] <appPart><rdg type="replace">others</rdg> <wit><siglum>m<hi rend="smcaps">col</hi>1</siglum> <note place="inline">(<hi rend="italic">and withdrawn</hi>)</note></wit></appPart></app></note>
+<app><lem>friends</lem>] <appPart><rdg type="replace">others</rdg> <wit><siglum>m<hi rend="smcaps">col</hi>1</siglum> (<hi rend="italic">and withdrawn</hi>)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0154" target="#tln_0154"><label>154</label>
 <app><lem>a shadowe</lem>] <appPart><rdg type="replace">an arrow</rdg> <wit><ref targType="bibl" target="#b_goug1881"><name type="app">gould</name></ref> (1887, p. 68)</wit></appPart></app></note>
@@ -471,7 +471,7 @@
 <app><lem>aunt</lem>] <appPart><rdgDesc><rdg type="replace">aunct</rdg> [<hi rend="italic">abbreviation of</hi> <quote>auncient</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:268)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0425-01" target="#tln_0425"><label>425</label>
-<app><lem>tailour cryes</lem>] <appPart><rdgDesc><rdg type="replace">Tail over eyes</rdg> <hi rend="italic">or</hi> <rdg type="replace">O Lord, cryes</rdg></rdgDesc> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> <note place="inline">(<hi rend="italic">and withdrawn</hi>)</note></wit></appPart>; <appPart><rdg type="replace">murder cries</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum></wit></appPart></app></note>
+<app><lem>tailour cryes</lem>] <appPart><rdgDesc><rdg type="replace">Tail over eyes</rdg> <hi rend="italic">or</hi> <rdg type="replace">O Lord, cryes</rdg></rdgDesc> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> (<hi rend="italic">and withdrawn</hi>)</wit></appPart>; <appPart><rdg type="replace">murder cries</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0425-02" target="#tln_0425"><label display="all(invisible)">425</label>
 <app><lem>tailour</lem>] <appPart><rdg type="replace">tail-sore</rdg> <wit><ref targType="bibl" target="#b_anon0004"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">capn</siglum></wit></appPart>; <appPart><rdgDesc><rdg type="replace">tailloir</rdg> [= <quote>the square stone of the capital of a pillar</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:268–9)</wit></appPart>; <appPart><rdg type="replace">tail her</rdg> <wit><ref targType="bibl" target="#b_belw1852"><name type="app">bell</name></ref> (1852–64, 3:194)</wit></appPart>; <appPart><rdg type="replace">tail o’er</rdg> <wit><ref targType="bibl" target="#pw_car1861"><name type="app">carruthers</name> &amp; <name type="app">chambers</name></ref> (1861, 3:80)</wit></appPart>; <appPart><rdg type="replace">traitor</rdg> <wit><ref targType="bibl" target="#b_pers1885"><name type="app">perring</name></ref> (1885, pp. 67–72)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">faitor</rdg> [= <quote>traitor</quote>]</rdgDesc> <wit><ref targType="bibl" target="#pw_dei1891"><name type="app">deighton</name></ref> (ed. 1906, p. 90)</wit></appPart>; <appPart><rdg type="replace">tale o’er</rdg> <wit><ref targType="bibl" target="#b_pers0001"><name type="app">perring</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart>; <appPart><rdg type="replace">tailer</rdg> <wit><ref targType="bibl" target="#s_v1895"><name type="app">furness</name></ref> (<siglum>v1895</siglum>)</wit></appPart>; <appPart><rdg type="replace">hallo!</rdg> <wit><ref targType="bibl" target="#b_kell1931"><name type="app">kellner</name></ref> (1931, p. 14)</wit></appPart></app></note>
@@ -705,7 +705,7 @@
 <app><lem>headelesse</lem>] <appPart><rdg type="replace">heedless</rdg> <wit><ref targType="bibl" target="#pw_del1859"><name type="app">delius</name></ref> (ed. 1859)</wit></appPart>; <appPart><rdg type="replace">curblesse</rdg> <wit><ref targType="bibl" target="#b_goug1881"><name type="app">gould</name></ref> (1884, p. 57)</wit></appPart>; <appPart><rdg type="replace">herdless</rdg> <wit><ref targType="bibl" target="#b_kell1925"><name type="app">kellner</name></ref> (1925, p. 36)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0988" target="#tln_0988"><label>988</label>
-<app><lem>eye</lem>] <appPart><rdg type="replace">tail</rdg> <wit><siglum rend="smcaps">knt1</siglum> <note place="inline">(<hi rend="italic">and withdrawn</hi>)</note></wit></appPart></app></note>
+<app><lem>eye</lem>] <appPart><rdg type="replace">tail</rdg> <wit><siglum rend="smcaps">knt1</siglum> (<hi rend="italic">and withdrawn</hi>)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0989" target="#tln_0989"><label>989</label>
 <app><lem>haue</lem>] <appPart><rdg type="replace">show</rdg> <wit><ref targType="bibl" target="#b_goug1881"><name type="app">gould</name></ref> (1884, p. 15)</wit></appPart></app></note>
@@ -1230,10 +1230,10 @@
 <app><lem>hungry</lem>] <appPart><rdg type="replace">Hungarian</rdg> <wit><ref targType="bibl" target="#b_grez1754"><name type="app">grey</name></ref> (1754, 1:70, <hi rend="italic">in the lemma</hi>)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2175" target="#tln_2175"><label>2175</label>
-<app><lem>house giue</lem>] <appPart><rdg type="replace">house in</rdg> <wit><siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace">hall go</rdg> <wit><ref targType="bibl" target="#b_letw0001"><name type="app">lettsom</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">dyce2</siglum></wit></appPart>; <appPart><rdg type="replace">hall a</rdg> <wit><ref targType="bibl" target="#b_carr1866"><name type="app">cartwright</name></ref> (1866, p. 12)</wit></appPart>; <appPart><rdg type="replace">housewives’</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 260)</wit></appPart>; <appPart><rdg type="replace">house gives</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 100–1)</wit></appPart>; <appPart><rdg type="replace">house, giv’n</rdg> <wit><ref targType="bibl" target="#b_orgj1890"><name type="app">orger</name></ref> (1890, p. 42)</wit></appPart></app></note>
+<app><lem>house giue</lem>] <appPart><rdg type="replace">house in</rdg> <wit><siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace">hall go</rdg> <wit><ref targType="bibl" target="#b_letw0001"><name type="app">lettsom</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">dyce2</siglum></wit></appPart>; <appPart><rdg type="replace">hall a</rdg> <wit><ref targType="bibl" target="#b_carr1866"><name type="app">cartwright</name></ref> (1866, p. 12)</wit></appPart>; <appPart><rdg type="replace">housewives’</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 260)</wit></appPart>; <appPart><rdg type="replace">house gives</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, pp. 100–1)</wit></appPart>; <appPart><rdg type="replace">house, giv’n</rdg> <wit><ref targType="bibl" target="#b_orgj1890"><name type="app">orger</name></ref> (1890, p. 42)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2176" target="#tln_2176"><label>2176</label>
-<app><lem>By</lem>] <appPart><rdg type="replace">Gives</rdg> <wit><ref targType="bibl" target="#b_carr1866"><name type="app">cartwright</name></ref> (1866, p. 12)</wit></appPart>; <appPart><rdg type="replace">Now</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 100–1)</wit></appPart>; <appPart><rdg type="replace">But</rdg> <wit><ref targType="bibl" target="#b_orss1891"><name type="app">orson</name></ref> (1891, p. 58)</wit></appPart></app></note>
+<app><lem>By</lem>] <appPart><rdg type="replace">Gives</rdg> <wit><ref targType="bibl" target="#b_carr1866"><name type="app">cartwright</name></ref> (1866, p. 12)</wit></appPart>; <appPart><rdg type="replace">Now</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, pp. 100–1)</wit></appPart>; <appPart><rdg type="replace">But</rdg> <wit><ref targType="bibl" target="#b_orss1891"><name type="app">orson</name></ref> (1891, p. 58)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2200" target="#tln_2200"><label>2200</label>
 <app><lem>his</lem>] <appPart><rdg type="replace">this</rdg> <wit><siglum rend="smcaps">colne</siglum></wit></appPart></app></note>
