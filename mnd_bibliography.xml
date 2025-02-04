@@ -114,7 +114,7 @@
     
 <bibl xml:id="b_anon0010"><author display="book(ldash)">Anon</author>. <note place="inline">Contributor to <siglum rend="smcaps">stau</siglum>.</note></bibl>
     
-<bibl xml:id="b_anon0011"><author display="book(ldash)">Anon</author>. <note place="inline">Contributor to <siglum rend="smcaps">mtheo1</siglum>.</note></bibl>
+<bibl xml:id="b_anon0011"><author display="book(ldash)">Anon</author>. <note place="inline">Contributor to m<siglum rend="smcaps">theo1</siglum>.</note></bibl>
     
     <bibl xml:id="b_anon0012"><author display="book(ldash)">Anon</author>. <note place="inline">Contributor to <siglum>v1895</siglum>.</note></bibl>
     
