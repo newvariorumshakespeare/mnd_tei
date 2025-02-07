@@ -60,7 +60,7 @@
 
 <bibl xml:id="b_alep1939"><author display="book(ldash)">Alexander, Peter</author>. <title level="m">Shakespeare’s Life and Art</title>. <date>1939</date>.</bibl>
 
-    <bibl xml:id="b_allg0001"><author>Allen, George (<date>1808–76</date>)</author>. <note place="inline">Contributor to v<siglum>1895</siglum>.</note></bibl>
+    <bibl xml:id="b_allg0001"><author>Allen, George (<date>1808–76</date>)</author>. <note place="inline">Contributor to <siglum>v1895</siglum>.</note></bibl>
 
 <bibl xml:id="b_allj1967"><author>Allen, John A.</author> <title level="a">Bottom and Titania.</title> <title level="j">SQ</title> <biblScope type="vol">18</biblScope> (<date>1967</date>), <biblScope type="pages">107–17</biblScope>.</bibl>
 
@@ -440,7 +440,7 @@
 
 <bibl xml:id="b_blap2002"><author>Blanc, Pauline</author>. <title level="a"><quote>Very Tragical Mirth</quote>: The Mechanicals’ Dramaturgy in <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="m">Lectures d’une œuvre <title level="m">A Midsummer Night’s Dream</title> de William Shakespeare.</title> Ed. <editor>Christine Sukic</editor>. <pubPlace>Nantes</pubPlace>, <date>2002</date>. <biblScope type="pages">Pp. 11–25</biblScope>.</bibl>
 
-<bibl xml:id="b_blap0001"><author>Blayney, Peter W. M.</author> <note place="inline">Private contributor to Richard Knowles <ref targType="bibl" target="#b_knor2020">2020</ref></note></bibl>
+<bibl xml:id="b_blap0001"><author>Blayney, Peter W. M.</author> <note place="inline">Private contributor to <ref targType="bibl" target="#b_knor2020">Richard Knowles 2020</ref></note></bibl>
     
 <bibl xml:id="b_blap2005"><author display="book(ldash)">Blayney, Peter W. M.</author> <title level="a">The Alleged Popularity of Playbooks.</title> <title level="j">SQ</title> <biblScope type="vol">56</biblScope> (<date>2005</date>), <biblScope type="pages">33–50</biblScope>.</bibl>
     
@@ -985,7 +985,7 @@
 
 <bibl xml:id="b_coxj1978"><author>Cox, John D.</author> <title level="a">Homely Matter and Multiple Plots in Peele’s <title level="m">Old Wives Tale</title>.</title> <title level="j">TSLL</title> <biblScope type="vol">20</biblScope> (<date>1978</date>), <biblScope type="pages">330–46</biblScope>.</bibl>
 
-<bibl xml:id="b_coxr1982"><author>Cox, Richard H.</author> <title level="a">Shakespeare: Poetic Understanding and Comic Action (A Weaver’s Dream).</title> <title level="m">The Artist and Political Vision</title>. Ed. <editor>Benjamin R. Barber</editor> &amp; <editor>Michael J.</editor> <pubPlace>Gargas McGrath. New Brunswick, N.J.</pubPlace>, <date>1982</date>. <biblScope type="pages">Pp. 165–92</biblScope>.</bibl>
+    <bibl xml:id="b_coxr1982"><author>Cox, Richard H.</author> <title level="a">Shakespeare: Poetic Understanding and Comic Action (A Weaver’s Dream).</title> <title level="m">The Artist and Political Vision</title>. Ed. <editor>Benjamin R. Barber</editor> &amp; <editor>Michael J. Gargas McGrath</editor>. <pubPlace>New Brunswick, N.J.</pubPlace>, <date>1982</date>. <biblScope type="pages">Pp. 165–92</biblScope>.</bibl>
 
 <bibl xml:id="b_coxr1991"><author>Cox, Roger L.</author> <title level="m">Shakespeare’s Comic Changes: The Time-Lapse Metaphor as Plot Device</title>. <pubPlace>Athens, GA</pubPlace>, <date>1991</date>.</bibl>
 
@@ -1943,7 +1943,7 @@
 
 <bibl xml:id="b_hamk1958"><author display="book(ldash)">Hammerle, Karl</author>. <title level="a">Ein Muttermal des Deutschen <title level="m">Pyramus</title> und die Spenserechos in <title level="m">A Midsummer Night’s Dream</title>.</title> <title level="m">Anglistiche Studien: Friedrich Wild zum siebzigsten Geburtstag</title>. Ed. <editor>Karl Brunner</editor> <editor>et al.</editor> <pubPlace>Wien</pubPlace>, <date>1958</date>. <biblScope type="pages">Pp. 52–66</biblScope>.</bibl>
 
-<bibl xml:id="b_hamk1953b"><author display="book(ldash)">Hammerle, Karl</author>. <title level="a">The Poet’s Eye [TLN 1804]: Zur Auffassung Shakespeares vom Wesen des Dichters.</title> <title level="j">Innsbrucker Beiträge zur Kultur-Wissenschaft</title> <biblScope type="vol">1</biblScope> (<date>1953</date>), <biblScope type="pages">101–7</biblScope>.</bibl>
+    <bibl xml:id="b_hamk1953b"><author display="book(ldash)">Hammerle, Karl</author>. <title level="a">The Poet’s Eye [TLN <ref targType="lb" target="#tln_1304">1804</ref>]: Zur Auffassung Shakespeares vom Wesen des Dichters.</title> <title level="j">Innsbrucker Beiträge zur Kultur-Wissenschaft</title> <biblScope type="vol">1</biblScope> (<date>1953</date>), <biblScope type="pages">101–7</biblScope>.</bibl>
     
 <bibl xml:id="b_hamk1955"><author display="book(ldash)">Hammerle, Karl</author>. <title level="a">Shakespeares platonisches wende.</title> <title level="m">Anglo-Americana: Festschrift zum 70, Geburstag von Dr. Leo Hibler-Lebmannsport. Herausgebegen von Dr. Karl Brunner</title>. <title level="s">Wiener Beiträge für englischen Philologie</title>, <biblScope type="vol">42</biblScope>. <pubPlace>Wien</pubPlace>, <date>1955</date>. <biblScope type="pages">Pp. 62–71</biblScope>.</bibl>
 
@@ -3275,7 +3275,7 @@
 
 <bibl xml:id="b_orss1891"><author>Orson, S. W.</author> <title level="m">Shakespeare Emendations</title>. <date>[1891]</date>.</bibl>
 
-<bibl xml:id="b_ottc1988"><author>Otten, Charlotte F.</author> <title level="a"><quote>Dian’s Bud</quote> in <title level="m">A Midsummer Night’s Dream</title> [TLN 1588].</title> <title level="j">N&amp;Q</title> <biblScope type="vol">35</biblScope> (<date>1988</date>), <biblScope type="pages">466</biblScope>.</bibl>
+    <bibl xml:id="b_ottc1988"><author>Otten, Charlotte F.</author> <title level="a"><quote>Dian’s Bud</quote> in <title level="m">A Midsummer Night’s Dream</title> [TLN <ref targType="lb" target="#tln_1588">1588</ref>].</title> <title level="j">N&amp;Q</title> <biblScope type="vol">35</biblScope> (<date>1988</date>), <biblScope type="pages">466</biblScope>.</bibl>
 
 <bibl xml:id="b_oeda1888"><title level="m">The Oxford English Dictionary</title>. <edition>2nd ed.</edition> prep. by <editor>J. A. Simpson</editor> &amp; <editor>E. S. C. Weiner</editor>. <extent>20 vols.</extent> <publisher>OUP</publisher>, <date>1989</date>. <edition>CD-ROM Version 3.0.</edition> <note place="inline">(<bibl><edition>First pub. as</edition> <title level="m">A New English Dictionary on Historical Principles</title>, ed. <editor>James A. H. Murray</editor> <editor>et al.</editor>, <extent>10 vols.</extent>, <date>1888–1928</date></bibl>; <bibl><edition>reissued</edition> <extent>12 vols. &amp; supp.</extent>, <date>1933</date>.</bibl>)</note></bibl>
 
