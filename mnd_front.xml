@@ -11,7 +11,6 @@
 <!ENTITY cmacr     "&#x63;&#x304;">
 ]>
 
-<?xml-model href="../MND%20Volume%20Files/nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <container xmlns="http://www.mla.org/NVSns">
 
 
