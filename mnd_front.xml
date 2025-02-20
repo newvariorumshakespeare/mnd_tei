@@ -902,7 +902,15 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <bibl><name type="app">Mario DiGangi</name>. <title level="m">MND</title>. Barnes &amp; Noble, New York.</bibl>
 <date>2007</date>
 </witness>
-
+	
+<witness xml:id="s_knt" corresp="#s_knt1 #s_knt3" display="book(suppress)">
+<siglum rend="smcaps">knt</siglum>
+</witness>
+	
+<witness xml:id="s_cam" corresp="#s_cam1 #s_cam3 #s_cam4" display="book(suppress)">
+<siglum rend="smcaps">cam</siglum>
+</witness>
+	
 </listWit>
 
 
@@ -1251,6 +1259,14 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 
 <witness xml:id="s_theo" corresp="#s_theo1 #s_theo2 #s_theo4" display="book(suppress)">
 <siglum rend="smcaps">theo</siglum>
+</witness>
+	
+<witness xml:id="s_f" corresp="#s_f1" display="book(suppress)">
+<siglum rend="smcaps">F</siglum>
+</witness>
+	
+<witness xml:id="s_and" corresp="#s_and1 #s_and2" display="book(suppress)">
+<siglum rend="smcaps">and</siglum>
 </witness>
 
 </listWit>
