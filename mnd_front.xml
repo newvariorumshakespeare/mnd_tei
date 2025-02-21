@@ -487,7 +487,7 @@
 
 <p xml:id="textual_note_explanation_start">The basic form of the textual note may be illustrated by
 
-	<quote rend="block"><note type="textual"><label><ref targType="textual" target="#tln_1345">1345</ref></label><app><lem>vnto</lem>] <appPart><rdg type="replace">into</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart></app></note></quote>
+	<quote rend="block"><note type="textual"><label><note type="textual" target="#tln_1345">1345</note></label><app><lem>vnto</lem>] <appPart><rdg type="replace">into</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart></app></note></quote>
 
 which records the fact that in line 1345—<quote>I tould him of your stealth vnto this wood</quote>—the Fourth Folio of 1685 and editions following through Pope’s second edition of 1728 for <quote>vnto</quote> in the Variorum text read <quote>into.</quote> Theobald’s editions of 1733 and 1740 read <quote>into</quote> and so are represented by an honorable absence, but Hanmer’s edition of 1744 reverts to <quote>into.</quote> Warburton’s edition of 1747 restores the <siglum>Q1</siglum> reading and is followed by all other collated editions.</p>
 
