@@ -314,7 +314,7 @@
 <note type="unadopted" xml:id="uc_0085-01" target="#tln_0085"><label>85</label>
 <app><lem>earthlyer happy</lem>] <appPart><rdg type="replace">earthly happy</rdg> <wit><ref targType="bibl" target="#b_steg0001"><name type="app">steevens</name></ref> in <siglum>v1803</siglum></wit></appPart>; <appPart><rdgDesc><rdg type="replace">eathlier</rdg> <hi rend="italic">or</hi> <rdg type="replace">rathelier happy</rdg></rdgDesc> <wit><ref targType="bibl" target="#b_marj1878"><name type="app">marsh</name></ref> (1878, p. 243)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0085-02" target="#tln_0085"><label display="all(invisible)">85</label>
+<note type="unadopted" xml:id="uc_0085-02" target="#tln_0085">
 <app><lem>distild</lem>] <appPart><rdgDesc><rdg type="replace">distol’d</rdg> [= <quote>live together in pairs</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_goug1881"><name type="app">gould</name></ref> (1884, p. 56)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0097" target="#tln_0097"><label>97</label>
@@ -371,7 +371,7 @@
 <note type="unadopted" xml:id="uc_0199-01" target="#tln_0199"><label>199</label>
 <app><lem>Your&hellip;<hi rend="italic">Hermia</hi>,</lem>] <appPart><rdg type="replace">(&swdash;&hellip;&swdash;,)</rdg> <wit><siglum rend="smcaps">knt1</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0199-02" target="#tln_0199"><label display="all(invisible)">199</label>
+<note type="unadopted" xml:id="uc_0199-02" target="#tln_0199">
 <app><lem>words I</lem>] <appPart><rdg type="replace">worth I’d</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>, <ref targType="bibl" target="#pw_wag1881"><name type="app">wagner</name> &amp; <name type="app">proescholdt</name></ref> (ed. 1881)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0200" target="#tln_0200"><label>200</label>
@@ -398,13 +398,13 @@
 <note type="unadopted" xml:id="uc_0232-01" target="#tln_0232"><label>232</label>
 <app><lem>strange companions</lem>] <appPart><rdg type="replace">stranger companions</rdg> <wit><siglum>m<hi rend="smcaps">cal</hi></siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0232-02" target="#tln_0232"><label display="all(invisible)">232</label>
+<note type="unadopted" xml:id="uc_0232-02" target="#tln_0232">
 <app><lem>companions</lem>] <appPart><rdg type="replace">societies</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0246-01" target="#tln_0246"><label>246</label>
 <app><lem>vile</lem>] <appPart><rdg type="replace">wild</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 220)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0246-02" target="#tln_0246"><label display="all(invisible)">246</label>
+<note type="unadopted" xml:id="uc_0246-02" target="#tln_0246">
 <app><lem>quantitie</lem>] <appPart><rdg type="replace">quality</rdg> <wit><ref targType="bibl" target="#s_v1773"><name type="app">johnson</name></ref> <hi rend="italic">in</hi> <siglum>v1773</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0278" target="#tln_0278"><label>278</label>
@@ -416,7 +416,7 @@
 <note type="unadopted" xml:id="uc_0298-01" target="#tln_0298"><label>298</label>
 <app><lem>raging</lem>] <appPart><rdg type="replace">ragged</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum>, <ref targType="bibl" target="#b_whit1793"><name type="app">white</name></ref> (1793, <hi rend="italic">in</hi> <ref targType="bibl" target="#b_whit1793"><name type="app">fennell</name></ref>, 1853, p. 30), <ref targType="bibl" target="#s_v1895"><name type="app">furness</name></ref> (<siglum>v1895</siglum>)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0298-02" target="#tln_0298"><label display="all(invisible)">298</label>
+<note type="unadopted" xml:id="uc_0298-02" target="#tln_0298">
 <app><lem>in</lem>] <appPart><rdg type="replace">in and</rdg> <wit><ref targType="bibl" target="#b_keit1867"><name type="app">keightley</name></ref> (1867, p. 131)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0341" target="#tln_0341"><label>341</label>
@@ -443,7 +443,7 @@
 <note type="unadopted" xml:id="uc_0379-01" target="#tln_0379"><label>379</label>
 <app><lem>And</lem>] <appPart><rdg type="replace">Fairy. And</rdg> <wit><ref targType="bibl" target="#pw_jou1860"><name type="app">jourdain</name></ref> (MS c. 1860)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0379-02" target="#tln_0379"><label display="all(invisible)">379</label>
+<note type="unadopted" xml:id="uc_0379-02" target="#tln_0379">
 <app><lem>orbs</lem>] <appPart><rdg type="replace">herbs</rdg> <wit><ref targType="bibl" target="#b_grez1754"><name type="app">grey</name></ref> (1754, 1:48)</wit></appPart>; <appPart><rdg type="replace">cups</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 246)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0384" target="#tln_0384"><label>384</label>
@@ -458,7 +458,7 @@
 <note type="unadopted" xml:id="uc_0413-01" target="#tln_0413"><label>413</label>
 <app><lem>Thou</lem>] <appPart><rdg type="replace">Indeed, thou</rdg> <wit><ref targType="bibl" target="#b_scha1881"><name type="app">schmidt</name></ref> (1881, p. 3)</wit></appPart>; <appPart><rdg type="replace">Spirit, thou</rdg> <wit><siglum rend="smcaps">ard1</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0413-02" target="#tln_0413"><label display="all(invisible)">413</label>
+<note type="unadopted" xml:id="uc_0413-02" target="#tln_0413">
 <app><lem>aright</lem>] <appPart><rdg type="replace">all aright</rdg> <wit><siglum>m<hi rend="smcaps">theo</hi>1</siglum> <hi rend="italic">and</hi> <ref targType="bibl" target="#pw_wag1881"><name type="app">wagner</name> &amp; <name type="app">proescholdt</name></ref> (ed. 1881)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0420" target="#tln_0420"><label>420</label>
@@ -470,7 +470,7 @@
 <note type="unadopted" xml:id="uc_0425-01" target="#tln_0425"><label>425</label>
 <app><lem>tailour cryes</lem>] <appPart><rdgDesc><rdg type="replace">Tail over eyes</rdg> <hi rend="italic">or</hi> <rdg type="replace">O Lord, cryes</rdg></rdgDesc> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> (<hi rend="italic">and withdrawn</hi>)</wit></appPart>; <appPart><rdg type="replace">murder cries</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0425-02" target="#tln_0425"><label display="all(invisible)">425</label>
+<note type="unadopted" xml:id="uc_0425-02" target="#tln_0425">
 <app><lem>tailour</lem>] <appPart><rdg type="replace">tail-sore</rdg> <wit><ref targType="bibl" target="#b_anon0004"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">capn</siglum></wit></appPart>; <appPart><rdgDesc><rdg type="replace">tailloir</rdg> [= <quote>the square stone of the capital of a pillar</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:268–9)</wit></appPart>; <appPart><rdg type="replace">tail her</rdg> <wit><ref targType="bibl" target="#b_belw1852"><name type="app">bell</name></ref> (1852–64, 3:194)</wit></appPart>; <appPart><rdg type="replace">tail o’er</rdg> <wit><ref targType="bibl" target="#pw_car1861"><name type="app">carruthers</name> &amp; <name type="app">chambers</name></ref> (1861, 3:80)</wit></appPart>; <appPart><rdg type="replace">traitor</rdg> <wit><ref targType="bibl" target="#b_pers1885"><name type="app">perring</name></ref> (1885, pp. 67–72)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">faitor</rdg> [= <quote>traitor</quote>]</rdgDesc> <wit><ref targType="bibl" target="#pw_dei1891"><name type="app">deighton</name></ref> (ed. 1906, p. 90)</wit></appPart>; <appPart><rdg type="replace">tale o’er</rdg> <wit><ref targType="bibl" target="#b_pers0001"><name type="app">perring</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart>; <appPart><rdg type="replace">tailer</rdg> <wit><ref targType="bibl" target="#s_v1895"><name type="app">furness</name></ref> (<siglum>v1895</siglum>)</wit></appPart>; <appPart><rdg type="replace">hallo!</rdg> <wit><ref targType="bibl" target="#b_kell1931"><name type="app">kellner</name></ref> (1931, p. 14)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0429" target="#tln_0429"><label>429</label>
@@ -482,7 +482,7 @@
 <note type="unadopted" xml:id="uc_0457-01" target="#tln_0457"><label>457</label>
 <app><lem>the middle</lem>] <appPart><rdg type="replace">this muddy</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 247)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0457-02" target="#tln_0457"><label display="all(invisible)">457</label>
+<note type="unadopted" xml:id="uc_0457-02" target="#tln_0457">
 <app><lem>spring</lem>] <appPart><rdg type="replace">prime</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 247)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0460" target="#tln_0460"><label>460</label>
@@ -509,22 +509,22 @@
 <note type="unadopted" xml:id="uc_0476-03" target="#tln_0476"><label>476</label>
 <app><lem>want</lem>] <appPart><rdg type="replace">wants</rdg> <wit><ref targType="bibl" target="#pw_woo1806"><name type="app">wood</name></ref> (ed. 1806)</wit></appPart>; <appPart><rdg type="replace">chant</rdg> <wit><siglum rend="smcaps">wh1</siglum> (Suppl., 1:xliii, <hi rend="italic">and withdrawn</hi>)</wit></appPart>; <appPart><rdg type="replace">have</rdg> <wit><ref targType="bibl" target="#b_keit1867"><name type="app">keightley</name></ref> (1867, p. 132)</wit></appPart>; <appPart><rdg type="replace">wail</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 86)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0476-04" target="#tln_0476"><label display="all(invisible)">476</label>
+<note type="unadopted" xml:id="uc_0476-04" target="#tln_0476">
 <app><lem>winter heere</lem>] <appPart><rdg type="replace">wonted cheer</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum></wit></appPart>; <appPart><rdg type="replace">wonted year</rdg> <wit><siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace">winter’s chear</rdg> <wit><ref targType="bibl" target="#b_hutc0001"><name type="app">hutchesson</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cam2</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0476-05" target="#tln_0476"><label display="all(invisible)">476</label>
+<note type="unadopted" xml:id="uc_0476-05" target="#tln_0476">
 <app><lem>winter</lem>] <appPart><rdg type="replace">Winters</rdg> <wit><ref targType="bibl" target="#b_warw0001"><name type="app">warburton</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">theo1</siglum></wit></appPart>; <appPart><rdg type="replace">summer</rdg> <wit><ref targType="bibl" target="#b_keit1867"><name type="app">keightley</name></ref> (1867, p. 131)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0476-06" target="#tln_0476"><label display="all(invisible)">476</label>
+<note type="unadopted" xml:id="uc_0476-06" target="#tln_0476">
 <app><lem>heere.</lem>] <appPart><rdgDesc><rdg type="replace">Here.</rdg> [<hi rend="italic">from</hi> <quote>HERR&hellip;HEER&hellip;a Lord, or Master</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_anon1741"><name type="app">anon.</name></ref> (<title level="m">Caribbeana</title>, 1741, 2:75)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">heer.</rdg> [= <quote>hard,</quote> <quote>rigorous</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:270)</wit></appPart>; <appPart><rdg type="replace">gere.</rdg> <wit><siglum><hi rend="smcaps">brae</hi></siglum> <hi rend="italic">in</hi> <siglum rend="smcaps">cam1</siglum></wit></appPart>; <appPart><rdg type="replace">hire.</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 247)</wit></appPart>; <appPart><rdg type="replace">hoar.</rdg> <wit><ref targType="bibl" target="#b_herj1879"><name type="app">herr</name></ref> (1879, p. 91)</wit></appPart>; <appPart><rdg type="replace">clear</rdg> <wit><ref targType="bibl" target="#b_edgr2000"><name type="app">edgecombe</name></ref> (2000–1, p. 6)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0484-01" target="#tln_0484"><label>484</label>
 <app><lem>Hyems</lem>] <appPart><rdg type="replace">Adam’s</rdg> <wit><ref targType="bibl" target="#b_herj1879"><name type="app">herr</name></ref> (1879, p.93)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0484-02" target="#tln_0484"><label display="all(invisible)">484</label>
+<note type="unadopted" xml:id="uc_0484-02" target="#tln_0484">
 <app><lem>chinne</lem>] <appPart><rdg type="replace">chill</rdg> <wit><ref targType="bibl" target="#b_thel0001"><name type="app">theobald</name></ref> <hi rend="italic">in</hi> <siglum>m<hi rend="smcaps">tby</hi>2</siglum> <hi rend="italic">and</hi> <siglum>m<hi rend="smcaps">theo</hi>2</siglum> (20 May 1729 [fol. 132<hi rend="superscript">v</hi>]), <hi rend="italic">and</hi> <ref targType="bibl" target="#b_grez1754"><name type="app">grey</name></ref> (1754, 1:49)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0484-03" target="#tln_0484"><label display="all(invisible)">484</label>
+<note type="unadopted" xml:id="uc_0484-03" target="#tln_0484">
 <app><lem>chinne and Icy</lem>] <appPart><rdgDesc><rdg type="replace">icy cime, a</rdg> [<quote>Cime is&hellip;French for top</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:270–1)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0487" target="#tln_0487"><label>487</label>
@@ -578,7 +578,7 @@
 <note type="unadopted" xml:id="uc_0652-01" target="#tln_0652"><label>652</label>
 <app><lem>for</lem>] <appPart><rdg type="replace">in</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>, <ref targType="bibl" target="#b_heab1765"><name type="app">heath</name></ref> (1765, p. 51)</wit></appPart>; <appPart><rdg type="replace">e’er</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg type="replace">fly</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 88)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0652-02" target="#tln_0652"><label display="all(invisible)">652</label>
+<note type="unadopted" xml:id="uc_0652-02" target="#tln_0652">
 <app><lem>minute</lem>] <appPart><rdg type="replace">Minuit</rdg> <wit><siglum rend="smcaps">warb</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0666" target="#tln_0666" targetEnd="#tln_0667"><label>666–7</label>
@@ -608,13 +608,13 @@
 <note type="unadopted" xml:id="uc_0734-01" target="#tln_0734"><label>734</label>
 <app><lem>Sleepe</lem>] <appPart><rdg type="replace">Keep</rdg> <wit><ref targType="bibl" target="#b_danp1870"><name type="app">daniel</name></ref> (1870, p. 32)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0734-02" target="#tln_0734"><label display="all(invisible)">734</label>
+<note type="unadopted" xml:id="uc_0734-02" target="#tln_0734">
 <app><lem>thy</lem>] <appPart><rdg type="replace">thine</rdg> <wit><siglum>m<hi rend="smcaps">grin</hi></siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0759-01" target="#tln_0759"><label>759</label>
 <app><lem>Helena</lem>] <appPart><rdg type="replace">Helen</rdg> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 1:230)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0759-02" target="#tln_0759"><label display="all(invisible)">759</label>
+<note type="unadopted" xml:id="uc_0759-02" target="#tln_0759">
 <app><lem>shewes</lem>] <appPart><rdg type="replace">owes (owns) the</rdg> <wit><ref targType="bibl" target="#pw_mob1881"><name type="app">moberly</name></ref> (ed. 1881)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0768" target="#tln_0768"><label>768</label>
@@ -683,10 +683,10 @@
 <note type="unadopted" xml:id="uc_0908-01" target="#tln_0908"><label>908</label>
 <app><lem>brisky</lem>] <appPart><rdg type="replace">frisky</rdg> <wit><ref targType="bibl" target="#b_claf1979"><name type="app">clayton</name></ref> (1979, p. 14)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0908-02" target="#tln_0908"><label display="all(invisible)">908</label>
+<note type="unadopted" xml:id="uc_0908-02" target="#tln_0908">
 <app><lem>Iuuenall</lem>] <appPart><rdg type="replace">Jew, venal</rdg> <wit><ref targType="bibl" target="#b_blum1953"><name type="app">bluestone</name></ref> (1953, p. 326)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0908-03" target="#tln_0908"><label display="all(invisible)">908</label>
+<note type="unadopted" xml:id="uc_0908-03" target="#tln_0908">
 <app><lem>Jew</lem>] <appPart><rdgDesc><rdg type="replace">jew’</rdg> [<hi rend="italic">an abbreviation of</hi> <quote>jewel</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:272)</wit></appPart>; <appPart><rdg type="replace">Joy</rdg> <wit><ref targType="bibl" target="#b_thia1904"><name type="app">thiselton</name></ref> (1904, p. 16)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">Juv</rdg> [<hi rend="italic">abbreviation of Latin</hi> <quote>iuvenum</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_taya1990"><name type="app">taylor</name></ref> (1990, p. 61)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0917" target="#tln_0917"><label>917</label>
@@ -731,13 +731,13 @@
 <note type="unadopted" xml:id="uc_1071-01" target="#tln_1071"><label>1071</label>
 <app><appPart><rdgDesc><hi rend="italic">intervening part line lost</hi></rdgDesc> <wit><ref targType="bibl" target="#b_scha1881"><name type="app">schmidt</name></ref> (1881, p. 5)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1071-02" target="#tln_1071"><label display="all(invisible)">1071</label>
+<note type="unadopted" xml:id="uc_1071-02" target="#tln_1071">
 <app><lem>plunge</lem>] <appPart><rdg type="replace">wade</rdg> <wit><ref targType="bibl" target="#b_magw1837"><name type="app">maginn</name></ref> (1837, p. 378)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1071-03" target="#tln_1071"><label display="all(invisible)">1071</label>
+<note type="unadopted" xml:id="uc_1071-03" target="#tln_1071">
 <app><lem>the deepe</lem>] <appPart><rdg type="replace">more deep</rdg> <wit><siglum>m<hi rend="smcaps">long</hi></siglum></wit></appPart>; <appPart><rdg type="replace">thigh-deep</rdg> <wit><ref targType="bibl" target="#b_kell1931"><name type="app">kellner</name></ref> (1931, p. 15)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1071-04" target="#tln_1071"><label display="all(invisible)">1071</label>
+<note type="unadopted" xml:id="uc_1071-04" target="#tln_1071">
 <app><lem>to.</lem>] <appPart><rdg type="replace">too, nor leave me here to weep</rdg> <wit><ref targType="bibl" target="#s_ard1"><name type="app">cuningham</name></ref> (ed. 1905)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1077" target="#tln_1077"><label>1077</label>
@@ -767,7 +767,7 @@
 <note type="unadopted" xml:id="uc_1169-01" target="#tln_1169"><label>1169</label>
 <app><lem>Princesse of pure</lem>] <appPart><rdg type="replace">purest of pure</rdg> <wit><siglum>m<hi rend="smcaps">jenn</hi></siglum> <hi rend="italic">and</hi> <ref targType="bibl" target="#b_letw0001"><name type="app">lettsom</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">dyce2</siglum></wit></appPart>; <appPart><rdg type="replace">quintessence of</rdg> <wit><ref targType="bibl" target="#b_bais1862"><name type="app">bailey</name></ref> (1862, p. 153; <hi rend="italic">withdrawn</hi>, 1866, p. 200)</wit></appPart>; <appPart><rdg type="replace">essence of pure</rdg> <wit><ref targType="bibl" target="#b_carr1866"><name type="app">cartwright</name></ref> (1866, p. 11)</wit></appPart>; <appPart><rdg type="replace">priceless purest</rdg> <wit><ref targType="bibl" target="#b_anon0008"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#pw_mob1881"><name type="app">moberly</name></ref> (ed. 1881)</wit></appPart>; <appPart><rdg type="replace">Empress of pure</rdg> <wit><siglum rend="smcaps">irv</siglum> (<hi rend="italic">and withdrawn</hi>)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1169-02" target="#tln_1169"><label display="all(invisible)">1169</label>
+<note type="unadopted" xml:id="uc_1169-02" target="#tln_1169">
 <app><lem>white</lem>] <appPart><rdg type="replace">whites</rdg> <wit><ref targType="bibl" target="#b_bais1862"><name type="app">bailey</name></ref> (1866, p. 200)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1174" target="#tln_1174" targetEnd="#tln_1175"><label>1174–5</label>
@@ -776,7 +776,7 @@
 <note type="unadopted" xml:id="uc_1175-01" target="#tln_1175"><label>1175</label>
 <app><lem>ioyne in</lem>] <appPart><rdg type="replace">join, ill</rdg> <wit><ref targType="bibl" target="#b_tyrt1766"><name type="app">tyrwhitt</name></ref> (1766, p. 32)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1175-02" target="#tln_1175"><label display="all(invisible)">1175</label>
+<note type="unadopted" xml:id="uc_1175-02" target="#tln_1175">
 <app><lem>soules</lem>] <appPart><rdgDesc><rdg type="replace">scoffs</rdg> <hi rend="italic">or</hi> <rdg type="replace">scorns</rdg></rdgDesc> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum></wit></appPart>; <appPart><rdgDesc><rdg type="replace">scorns</rdg> <hi rend="italic">or</hi> <rdg type="replace">scoffs</rdg></rdgDesc> <wit><siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace">scouls</rdg> <wit><ref targType="bibl" target="#b_blaw0001"><name type="app">blackstone</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_male1780"><name type="app">malone</name></ref> (1780, 1:118)</wit></appPart>; <appPart><rdg type="replace">shoals</rdg> <wit><ref targType="bibl" target="#b_whit1785"><name type="app">white</name></ref> (1785, p. 278)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">soulk</rdg> [= <quote>wretchedness</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:274)</wit></appPart>; <appPart><rdg type="replace">sooth</rdg> <wit><ref targType="bibl" target="#b_bais1862"><name type="app">bailey</name></ref> (1866, p. 202)</wit></appPart>; <appPart><rdg type="replace">taunts</rdg> <wit><ref targType="bibl" target="#b_elzk1867"><name type="app">elze</name></ref> (1867, p. 538)</wit></appPart>; <appPart><rdg type="replace">sport</rdg> <wit><ref targType="bibl" target="#b_wetj2088"><name type="app">wetherell</name></ref> (1867, p. 582)</wit></appPart>; <appPart><rdg type="replace">sports</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 250)</wit></appPart>; <appPart><rdg type="replace">insults</rdg> <wit><ref targType="bibl" target="#b_spej0001"><name type="app">spedding</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cln1</siglum></wit></appPart>; <appPart><rdg type="replace">sport</rdg> <wit><ref targType="bibl" target="#b_goug1881"><name type="app">gould</name></ref> (1884, p. 57)</wit></appPart>; <appPart><rdg type="replace">ieeres</rdg> <wit><siglum rend="smcaps">oxf2</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1188" target="#tln_1188"><label>1188</label>
@@ -791,7 +791,7 @@
 <note type="unadopted" xml:id="uc_1201-01" target="#tln_1201"><label>1201</label>
 <app><lem>aby</lem>] <appPart><rdgDesc><rdg type="replace">abay</rdg> [= <quote>suffer</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:274)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1201-02" target="#tln_1201"><label display="all(invisible)">1201</label>
+<note type="unadopted" xml:id="uc_1201-02" target="#tln_1201">
 <app><lem>deare</lem>] <appPart><rdg type="replace">here</rdg> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 1:307)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1202" target="#tln_1202"><label>1202</label>
@@ -806,7 +806,7 @@
 <note type="unadopted" xml:id="uc_1228-01" target="#tln_1228"><label>1228</label>
 <app><lem>vs; O</lem>] <appPart><rdg type="replace">of vs; O</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum></wit></appPart>; <appPart><rdg type="replace">vs; O, O!</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1228-02" target="#tln_1228"><label display="all(invisible)">1228</label>
+<note type="unadopted" xml:id="uc_1228-02" target="#tln_1228">
 <app><lem>all</lem>] <appPart><rdg type="replace">all then</rdg> <wit><ref targType="bibl" target="#b_keit1867"><name type="app">keightley</name></ref> (1867, p. 133)</wit></appPart>; <appPart><rdg type="replace">all this</rdg> <wit><siglum rend="smcaps">hud2</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1229" target="#tln_1229"><label>1229</label>
@@ -815,7 +815,7 @@
 <note type="unadopted" xml:id="uc_1230-01" target="#tln_1230"><label>1230</label>
 <app><lem>two artificial</lem>] <appPart><rdg type="replace">to artificer</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 252)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1230-02" target="#tln_1230"><label display="all(invisible)">1230</label>
+<note type="unadopted" xml:id="uc_1230-02" target="#tln_1230">
 <app><lem>gods</lem>] <appPart><rdg type="replace">buds</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 252)</wit></appPart>; <appPart><rdg type="replace">girls</rdg> <wit><ref targType="bibl" target="#b_goug1881"><name type="app">gould</name></ref> (1884, p. 15)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1240" target="#tln_1240" targetEnd="#tln_1241"><label>1240–1</label>
@@ -851,13 +851,13 @@
 <note type="unadopted" xml:id="uc_1287-02" target="#tln_1287"><label>1287</label>
 <app><lem>No, no:</lem>] <appPart><rdg type="replace">Now, now,</rdg> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, pp. 60–2)</wit></appPart>; <appPart><rdgDesc><hi rend="italic">om.</hi></rdgDesc> <wit><siglum rend="smcaps">rid</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1287-03" target="#tln_1287"><label display="all(invisible)">1287</label>
+<note type="unadopted" xml:id="uc_1287-03" target="#tln_1287">
 <app><lem>heele</lem>] <appPart><rdg type="replace">sir, no!</rdg> <wit><siglum>m<hi rend="smcaps">jenn</hi></siglum></wit></appPart>; <appPart><rdg type="replace">he’ll not stir:</rdg> <wit><ref targType="bibl" target="#b_jacz1819"><name type="app">jackson</name></ref> (1819, p. 15)</wit></appPart>; <appPart><rdg type="replace">hell</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 255)</wit></appPart>; <appPart><rdg type="replace">Sir! Hell’s abyss</rdg> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, pp. 60–2)</wit></appPart>; <appPart><rdg type="replace">he’ll not / Forsake his love. Coward, you fear to fight;</rdg> <wit><ref targType="bibl" target="#b_furf0001"><name type="app">furnivall</name></ref> (1880) <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart>; <appPart><rdg type="replace">sir, no:</rdg> <wit><ref targType="bibl" target="#b_scha1881"><name type="app">schmidt</name></ref> (1881, p. 7)</wit></appPart>; <appPart><rdg type="replace">thou’lt</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 89)</wit></appPart>; <appPart><rdg type="replace">sir; still</rdg> <wit><ref targType="bibl" target="#b_orss1891"><name type="app">orson</name></ref> (1891, p. 153)</wit></appPart>; <appPart><rdg type="replace">heele kiss—</rdg> <wit><ref targType="bibl" target="#b_anon0014"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart>; <appPart><rdg type="replace">she will let you;</rdg> <wit><ref targType="bibl" target="#b_pers0001"><name type="app">perring</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart>; <appPart><rdg type="replace">you’ll</rdg> <wit><ref targType="bibl" target="#b_thia1903"><name type="app">thiselton</name></ref> (1903, p. 53)</wit></appPart>; <appPart><rdgDesc><hi rend="italic">om.</hi></rdgDesc> <wit><siglum rend="smcaps">rid</siglum></wit></appPart>; <appPart><rdg type="replace">he’ll only</rdg> <wit><siglum rend="smcaps">ard2</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1288-01" target="#tln_1288"><label>1288</label>
 <app><lem>Seeme</lem>] <appPart><rdg type="replace"><hi rend="italic">Dem.</hi> Seem</rdg> <wit><ref targType="bibl" target="#b_joig1893"><name type="app">joicey</name></ref> (1893, p. 102)</wit></appPart>; <appPart><rdg type="replace">Seems</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 255)</wit></appPart></app></note>
  
-<note type="unadopted" xml:id="uc_1288-02" target="#tln_1288"><label display="all(invisible)"></label>
+<note type="unadopted" xml:id="uc_1288-02" target="#tln_1288">
 <app><lem>you would</lem>] <appPart><rdg type="replace">you’d</rdg> <wit><ref targType="bibl" target="#b_keit1867"><name type="app">keightley</name></ref> (1867, p. 134) <hi rend="italic">and</hi> <ref targType="bibl" target="#b_anon0014"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1288-03" target="#tln_1288">
@@ -872,16 +872,16 @@
 <note type="unadopted" xml:id="uc_1312-01" target="#tln_1312"><label>1312</label>
 <app><lem>Therefore be</lem>] <appPart><rdg type="replace">Therefore, | Be</rdg> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 3:49)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1312-02" target="#tln_1312"><label display="all(invisible)">1312</label>
+<note type="unadopted" xml:id="uc_1312-02" target="#tln_1312">
 <app><lem>out of hope,</lem>] <appPart><rdg type="replace">out</rdg> <wit><ref targType="bibl" target="#pw_mob1881"><name type="app">moberly</name></ref> (ed. 1881)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1312-03" target="#tln_1312"><label display="all(invisible)">1312</label>
+<note type="unadopted" xml:id="uc_1312-03" target="#tln_1312">
 <app><lem>of question, of doubt:</lem>] <appPart><rdg type="replace">of question:</rdg> <wit><ref targType="bibl" target="#b_anon0002"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cam1</siglum></wit></appPart>; <appPart><rdg type="replace">of doubt, of question,</rdg> <wit><ref targType="bibl" target="#b_scha1881"><name type="app">schmidt</name></ref> (1881, p. 6)</wit></appPart>; <appPart><rdg type="replace">question and doubt</rdg> <wit><ref targType="bibl" target="#b_anon0014"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1366-01" target="#tln_1366"><label>1366</label>
 <app><lem>Minimus</lem>] <appPart><rdgDesc><rdg type="replace">You minim, as</rdg> [= <quote>ace</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_kell1931"><name type="app">kellner</name></ref> (1931, p. 15)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1366-02" target="#tln_1366"><label display="all(invisible)">1366</label>
+<note type="unadopted" xml:id="uc_1366-02" target="#tln_1366">
 <app><lem>made</lem>] <appPart><rdgDesc><rdg type="replace">man’d</rdg> [= <quote>maimed</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_kell1925"><name type="app">kellner</name></ref> (1925, p. 124)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1388" target="#tln_1388"><label>1388</label>
@@ -902,7 +902,7 @@
 <note type="unadopted" xml:id="uc_1434-01" target="#tln_1434"><label>1434</label>
 <app><lem>salt</lem>] <appPart><rdg type="replace">sea</rdg> <wit><ref targType="bibl" target="#b_tatd0001"><name type="app">tathwell</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_grez1754"><name type="app">grey</name></ref> (1754, 1:62)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1434-02" target="#tln_1434"><label display="all(invisible)">1434</label>
+<note type="unadopted" xml:id="uc_1434-02" target="#tln_1434">
 <app><lem>salt&caret;</lem>] <appPart><rdg type="replace">&swdash;,</rdg> <wit><ref targType="bibl" target="#b_whir1854"><name type="app">white</name></ref> (1854, p. 216)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1437" target="#tln_1437"><label>1437</label>
@@ -923,7 +923,7 @@
 <note type="unadopted" xml:id="uc_1497-01" target="#tln_1497"><label>1497</label>
 <app><lem>Rob.</lem>] <appPart><rdg type="replace">Puck [sings].</rdg> <wit><ref targType="bibl" target="#b_anon0002"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cam1</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1497-02" target="#tln_1497"><label display="all(invisible)">1497</label>
+<note type="unadopted" xml:id="uc_1497-02" target="#tln_1497">
 <app><lem>sleepe</lem>] <appPart><rdg type="replace">Sleep you</rdg> <wit><ref targType="bibl" target="#b_seye1805"><name type="app">seymour</name></ref> (1805, 1:48)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1499" target="#tln_1499"><label>1499</label>
@@ -950,10 +950,10 @@
 <note type="unadopted" xml:id="uc_1549-01" target="#tln_1549"><label>1549</label>
 <app><lem>thee</lem>] <appPart><rdg type="replace">thee some</rdg> <wit><siglum>m<hi rend="smcaps">grin</hi></siglum></wit></appPart>; <appPart><rdg type="replace">thee the</rdg> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 2:257)</wit></appPart>; <appPart><rdg type="replace">thee in</rdg> <wit><ref targType="bibl" target="#pw_dei1891"><name type="app">deighton</name></ref> (ed. 1891)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1549-02" target="#tln_1549"><label display="all(invisible)">1549</label>
+<note type="unadopted" xml:id="uc_1549-02" target="#tln_1549">
 <app><lem>newe</lem>] <appPart><rdg type="replace">mellow</rdg> <wit><ref targType="bibl" target="#b_anon0001"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#pw_bul1905"><name type="app">bullen</name></ref> (ed. 1907, 10:408)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1549-03" target="#tln_1549"><label display="all(invisible)">1549</label>
+<note type="unadopted" xml:id="uc_1549-03" target="#tln_1549">
 <app><lem>nuts</lem>] <appPart><rdg type="replace">nuts wary To furnish forth thy board</rdg> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, pp. 62–3)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1552" target="#tln_1552"><label>1552</label>
@@ -1001,16 +1001,16 @@
 <note type="unadopted" xml:id="uc_1691-01" target="#tln_1691"><label>1691</label>
 <app><lem>melted</lem>] <appPart><rdg type="replace">All melted</rdg> <wit><siglum rend="smcaps">stau</siglum></wit></appPart>; <appPart><rdg type="replace">Immaculate</rdg> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, pp. 63–4)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">So melted</rdg> <hi rend="italic">or</hi> <rdg type="replace">Being melted</rdg></rdgDesc> <wit><ref targType="bibl" target="#b_scha1881"><name type="app">schmidt</name></ref> (1881, p. 7)</wit></appPart>; <appPart><rdg type="replace">Has melted</rdg> <wit><ref targType="bibl" target="#b_pers0001"><name type="app">perring</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1691-02" target="#tln_1691"><label display="all(invisible)">1691</label>
+<note type="unadopted" xml:id="uc_1691-02" target="#tln_1691">
 <app><lem>as the</lem>] <appPart><rdg type="replace">away like</rdg> <wit><siglum>m<hi rend="smcaps">jenn</hi></siglum></wit></appPart>; <appPart><rdg type="replace">as thaws the</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p.95)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1698-01" target="#tln_1698"><label>1698</label>
 <app><lem>But</lem>] <appPart><rdg type="replace">Then</rdg> <wit><ref targType="bibl" target="#b_letw0002"><name type="app">lettsom</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 2:115)</wit></appPart>; <appPart><rdg type="replace">And</rdg> <wit><siglum>m<hi rend="smcaps">grin</hi></siglum></wit></appPart>; <appPart><rdg type="replace">When</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 96)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1698-02" target="#tln_1698"><label display="all(invisible)">1698</label>
+<note type="unadopted" xml:id="uc_1698-02" target="#tln_1698">
 <app><lem>But like a</lem>] <appPart><rdg type="replace">Belike as</rdg> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, pp. 64–5)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1698-03" target="#tln_1698"><label display="all(invisible)">1698</label>
+<note type="unadopted" xml:id="uc_1698-03" target="#tln_1698">
 <app><lem>sicknesse</lem>] <appPart><rdg type="replace">sickman</rdg> <wit><siglum rend="smcaps">oxf2</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1699" target="#tln_1699"><label>1699</label>
@@ -1031,7 +1031,7 @@
 <note type="unadopted" xml:id="uc_1718p01-01" target="#tln_1718p01"><label>1718+1</label>
 <app><appPart><rdgDesc>Are&hellip;sure | That we&hellip;It&hellip;] Are&hellip;sure we&hellip;it</rdgDesc> <wit><ref targType="bibl" target="#b_keit1867"><name type="app">keightley</name></ref> (1867, p. 136)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1718p01-02" target="#tln_1718p01"><label display="all(invisible)">1718+1</label>
+<note type="unadopted" xml:id="uc_1718p01-02" target="#tln_1718p01">
 <app><lem>Are</lem>] <appPart><rdg type="replace">Are well</rdg> <wit><siglum rend="smcaps">cap</siglum></wit></appPart>; <appPart><rdg type="replace">Are now</rdg> <wit><siglum rend="smcaps">mal</siglum></wit></appPart>; <appPart><rdg type="replace">Are yet</rdg> <wit><ref targType="bibl" target="#b_anon0002"><name type="app">anon.</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cam1</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1767" target="#tln_1767"><label>1767</label>
@@ -1061,16 +1061,16 @@
 <note type="unadopted" xml:id="uc_1856-01" target="#tln_1856"><label>1856</label>
 <app><lem>And wõdrous strange snow</lem>] <appPart><rdg type="replace">a wonder strange enow</rdg> <wit><ref targType="bibl" target="#pw_bul1905"><name type="app">bullen</name></ref> (1907, 10:408)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1856-02" target="#tln_1856"><label display="all(invisible)">1856</label>
+<note type="unadopted" xml:id="uc_1856-02" target="#tln_1856">
 <app><lem>wõdrous strange</lem>] <appPart><rdg type="replace">wind-restraining</rdg> <wit><ref targType="bibl" target="#b_wetj2088"><name type="app">wetherell</name></ref> (1867, p. 582)</wit></appPart>; <appPart><rdg type="replace">ponderous flakes of</rdg> <wit><ref targType="bibl" target="#b_leof1880"><name type="app">leo</name></ref> (1880, p. 708)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1856-03" target="#tln_1856"><label display="all(invisible)">1856</label>
+<note type="unadopted" xml:id="uc_1856-03" target="#tln_1856">
 <app><lem>wõdrous</lem>] <appPart><rdg type="replace">pond’rous</rdg> <wit><ref targType="bibl" target="#b_jorj0001"><name type="app">jortin</name></ref> <hi rend="italic">in</hi> <siglum>m<hi rend="smcaps">tby</hi>3</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1856-04" target="#tln_1856"><label display="all(invisible)">1856</label>
+<note type="unadopted" xml:id="uc_1856-04" target="#tln_1856">
 <app><lem>strange</lem>] <appPart><rdg type="replace">strong</rdg> <wit><ref targType="bibl" target="#b_masj1785"><name type="app">mason</name></ref> (1785, p. 71)</wit></appPart>; <appPart><rdg type="replace">swarte</rdg> <wit><siglum rend="smcaps">stau</siglum> <hi rend="italic">and</hi> <ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 97)</wit></appPart>; <appPart><rdg type="replace">warm</rdg> <wit><ref targType="bibl" target="#b_chpl0001"><name type="app">chaplyn</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cam2</siglum></wit></appPart>; <appPart><rdgDesc><rdg type="replace">raven</rdg> <hi rend="italic">or</hi> <rdg type="replace">orange</rdg> <hi rend="italic">or</hi> <rdg type="replace">azure</rdg></rdgDesc> <wit><ref targType="bibl" target="#b_bais1862"><name type="app">bailey</name></ref> (1862, pp. 197–9)</wit></appPart>; <appPart><rdg type="replace">staining</rdg> <wit><ref targType="bibl" target="#b_nicb0001"><name type="app">nicholson</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cln1</siglum></wit></appPart>; <appPart><rdgDesc><rdg type="replace">strange, hot</rdg> <hi rend="italic">or</hi> <rdg type="replace">strange, jet</rdg></rdgDesc> <wit><ref targType="bibl" target="#b_pers0001"><name type="app">perring</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cln1</siglum></wit></appPart>; <appPart><rdg type="replace">sooty</rdg> <wit><ref targType="bibl" target="#b_herj1879"><name type="app">herr</name></ref> (1879, p. 94)</wit></appPart>; <appPart><rdg type="replace">scaldinge</rdg> <wit><ref targType="bibl" target="#pw_ebs1880b"><name type="app">ebsworth</name></ref> (ed. <siglum>Q2</siglum> 1880, p. xviii)</wit></appPart>; <appPart><rdg type="replace">red</rdg> <wit><ref targType="bibl" target="#b_pers1885"><name type="app">perring</name></ref> (1885, p. 75)</wit></appPart>; <appPart><rdg type="replace">fiery</rdg> <wit><ref targType="bibl" target="#b_orgj1890"><name type="app">orger</name></ref> (1890, p. 41)</wit></appPart>; <appPart><rdg type="replace">flaming</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> <hi rend="italic">and</hi> <ref targType="bibl" target="#b_orss1891"><name type="app">orson</name></ref> (1891, p. 58)</wit></appPart>; <appPart><rdg type="replace">flaring</rdg> <wit><ref targType="bibl" target="#pw_sco1898"><name type="app">scott</name></ref> (ed. 1898)</wit></appPart>; <appPart><rdg type="replace">scathing</rdg> <wit><ref targType="bibl" target="#b_pers0001"><name type="app">perring</name></ref> <hi rend="italic">in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref></wit></appPart>; <appPart><rdg type="replace">stranger</rdg> <wit><ref targType="bibl" target="#b_cunh1920"><name type="app">cuningham</name></ref> (1920, p. 402)</wit></appPart>; <appPart><rdg type="replace">tawny</rdg> <wit><ref targType="bibl" target="#b_kell1931"><name type="app">kellner</name></ref> (1931, p. 15)</wit></appPart>; <appPart><rdg type="replace">flamy</rdg> <wit><ref targType="bibl" target="#b_maca0001"><name type="app">macintyre</name></ref> (–1950, fol. 2)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1856-05" target="#tln_1856"><label display="all(invisible)">1856</label>
+<note type="unadopted" xml:id="uc_1856-05" target="#tln_1856">
 <app><lem>snow</lem>] <appPart><rdg type="replace">show</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum></wit></appPart>; <appPart><rdg type="replace">in hue</rdg> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, pp. 65–6)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1868" target="#tln_1868" targetEnd="#tln_1869"><label>1868–9</label>
@@ -1094,7 +1094,7 @@
 <note type="unadopted" xml:id="uc_1877-01" target="#tln_1877"><label>1877</label>
 <app><lem>strecht</lem>] <appPart><rdg type="replace">wretch’d</rdg> <wit><ref targType="bibl" target="#b_ulrh0001"><name type="app">ulrici</name></ref> <hi rend="italic">in</hi> <siglum>v1895</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1877-02" target="#tln_1877"><label display="all(invisible)">1877</label>
+<note type="unadopted" xml:id="uc_1877-02" target="#tln_1877">
 <app><lem>cond</lem>] <appPart><rdg type="replace">penn’d</rdg> <wit><ref targType="bibl" target="#b_kenw1765"><name type="app">kenrick</name></ref> (1765, p. 20)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1878" target="#tln_1878"><label>1878</label>
@@ -1106,25 +1106,25 @@
 <note type="unadopted" xml:id="uc_1888-02" target="#tln_1888"><label>1888</label>
 <app><lem>duty</lem>] <appPart><rdg type="replace">duty meaning</rdg> <wit><ref targType="bibl" target="#b_spej0001"><name type="app">spedding</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">cam1</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1888-03" target="#tln_1888"><label display="all(invisible)">1888</label>
+<note type="unadopted" xml:id="uc_1888-03" target="#tln_1888">
 <app><lem>cannot</lem>] <appPart><rdg type="replace">can but poorly</rdg> <wit><ref targType="bibl" target="#b_tiee1877"><name type="app">tiessen</name></ref> (1877, p. 6)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1888-04" target="#tln_1888"><label display="all(invisible)">1888</label>
+<note type="unadopted" xml:id="uc_1888-04" target="#tln_1888">
 <app><lem>doe,</lem>] <appPart><rdg type="replace">do, yet would or do, tho’ fain</rdg> <wit><siglum>m<hi rend="smcaps">cole</hi></siglum></wit></appPart>; <appPart><rdg type="replace">aptly do,</rdg> <wit><ref targType="bibl" target="#b_bais1862"><name type="app">bailey</name></ref> (1866, p. 203)</wit></appPart>; <appPart><rdg type="replace">do, but would,</rdg> <wit><ref targType="bibl" target="#b_abbe1870"><name type="app">abbott</name></ref> (1870, p. 419)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1888-05" target="#tln_1888"><label display="all(invisible)">1888</label>
+<note type="unadopted" xml:id="uc_1888-05" target="#tln_1888">
 <app><lem>doe, noble respect</lem>] <appPart><rdg type="replace">do aright, Respect</rdg> <wit><ref targType="bibl" target="#b_seye1805"><name type="app">seymour</name></ref> (1805, 1:52)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1888-06" target="#tln_1888"><label display="all(invisible)">1888</label>
+<note type="unadopted" xml:id="uc_1888-06" target="#tln_1888">
 <app><lem>noble</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, p. 66)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1889-01" target="#tln_1889"><label>1889</label>
 <app><lem>it&hellip;not</lem>] <appPart><rdg type="replace">not&hellip;but</rdg> <wit><siglum rend="smcaps">john1</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1889-02" target="#tln_1889"><label display="all(invisible)">1889</label>
+<note type="unadopted" xml:id="uc_1889-02" target="#tln_1889">
 <app><lem>might</lem>] <appPart><rdg type="replace">mind</rdg> <wit><ref targType="bibl" target="#b_bais1862"><name type="app">bailey</name></ref> (1866, p. 203)</wit></appPart>; <appPart><rdg type="replace">right</rdg> <wit><ref targType="bibl" target="#b_carr1866"><name type="app">cartwright</name></ref> (1866, p. 11)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_1889-03" target="#tln_1889"><label display="all(invisible)">1889</label>
+<note type="unadopted" xml:id="uc_1889-03" target="#tln_1889">
 <app><lem>might, not merit</lem>] <appPart><rdg type="replace">merit, not in might</rdg> <wit><ref targType="bibl" target="#b_seye1805"><name type="app">seymour</name></ref> (1805, 1:52)</wit></appPart>; <appPart><rdg type="replace">noble might, not noble merit</rdg> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, p. 66)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1895" target="#tln_1895"><label>1895</label>
@@ -1151,7 +1151,7 @@
 <note type="unadopted" xml:id="uc_2010-01" target="#tln_2010"><label>2010</label>
 <app><lem>Moon</lem>] <appPart><rdgDesc><rdg type="replace">Mean</rdg> [= <quote>partition</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_kell1931"><name type="app">kellner</name></ref> (1931, p. 16)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2010-02" target="#tln_2010"><label display="all(invisible)">2010</label>
+<note type="unadopted" xml:id="uc_2010-02" target="#tln_2010">
 <app><lem>Moon vsed</lem>] <appPart><rdg type="replace">moon housed</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum></wit></appPart>; <appPart><rdgDesc><rdg type="replace">monial</rdg> [= <quote>dividing-post</quote>]</rdgDesc> <wit><ref targType="bibl" target="#b_roup1914"><name type="app">round</name></ref> (1914, p. 287)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2013" target="#tln_2013"><label>2013</label>
@@ -1160,10 +1160,10 @@
 <note type="unadopted" xml:id="uc_2020-01" target="#tln_2020"><label>2020</label>
 <app><lem>beasts, in</lem>] <appPart><rdg type="replace">beasts; e’en</rdg> <wit><ref targType="bibl" target="#b_male1783"><name type="app">malone</name></ref> (1783, p. 11)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2020-02" target="#tln_2020"><label display="all(invisible)">2020</label>
+<note type="unadopted" xml:id="uc_2020-02" target="#tln_2020">
 <app><lem>man</lem>] <appPart><rdg type="replace">moon-calf</rdg> <wit><ref targType="bibl" target="#b_farr0001"><name type="app">farmer</name></ref> <hi rend="italic">in</hi> <siglum>v1773</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2020-03" target="#tln_2020"><label display="all(invisible)">2020</label>
+<note type="unadopted" xml:id="uc_2020-03" target="#tln_2020">
 <app><lem>and</lem>] <appPart><rdg type="replace">in</rdg> <wit><ref targType="bibl" target="#b_jacz1819"><name type="app">jackson</name></ref> (1819, p. 16)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2026" target="#tln_2026"><label>2026</label>
@@ -1172,13 +1172,13 @@
 <note type="unadopted" xml:id="uc_2027-01" target="#tln_2027"><label>2027</label>
 <app><lem>A</lem>] <appPart><rdg type="replace">Nor</rdg> <wit><siglum>m<hi rend="smcaps">long</hi></siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2027-02" target="#tln_2027"><label display="all(invisible)">2027</label>
+<note type="unadopted" xml:id="uc_2027-02" target="#tln_2027">
 <app><lem>nor</lem>] <appPart><rdg type="replace">none</rdg> <wit><ref targType="bibl" target="#b_carr1866"><name type="app">cartwright</name></ref> (1866, p. 11)</wit></appPart>; <appPart><rdg type="replace">but</rdg> <wit><ref targType="bibl" target="#b_keit1867"><name type="app">keightley</name></ref> (1867, p. 136)</wit></appPart>; <appPart><rdg type="replace">or</rdg> <wit><ref targType="bibl" target="#b_danp1870"><name type="app">daniel</name></ref> (1870, p. 35)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2027-03" target="#tln_2027"><label display="all(invisible)">2027</label>
+<note type="unadopted" xml:id="uc_2027-03" target="#tln_2027">
 <app><lem>no</lem>] <appPart><rdg type="replace">a</rdg> <wit><ref targType="bibl" target="#b_masj1785"><name type="app">mason</name></ref> (1785, p. 72)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2027-04" target="#tln_2027"><label display="all(invisible)">2027</label>
+<note type="unadopted" xml:id="uc_2027-04" target="#tln_2027">
 <app><lem>damme</lem>] <appPart><rdg type="replace">skin</rdg> <wit><ref targType="bibl" target="#b_danp1870"><name type="app">daniel</name></ref> (1870, p. 35)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2038" target="#tln_2038"><label>2038</label>
@@ -1211,16 +1211,16 @@
 <note type="unadopted" xml:id="uc_2120-01" target="#tln_2120"><label>2120</label>
 <app><lem>These&hellip;lippes&hellip;nose</lem>] <appPart><rdg type="replace">This&hellip;brow |&hellip;mow</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 100)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2120-02" target="#tln_2120"><label display="all(invisible)">2120</label>
+<note type="unadopted" xml:id="uc_2120-02" target="#tln_2120">
 <app><lem>lilly lippes&hellip;cherry nose</lem>] <appPart><rdg type="replace">lips lily&hellip;nose cherry</rdg> <wit><ref targType="bibl" target="#b_farr0001"><name type="app">farmer</name></ref> <hi rend="italic">in</hi> <siglum>v1773</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2120-03" target="#tln_2120"><label display="all(invisible)">2120</label>
+<note type="unadopted" xml:id="uc_2120-03" target="#tln_2120">
 <app><lem>lippes</lem>] <appPart><rdg type="replace">O’s</rdg> <wit><ref targType="bibl" target="#b_carr1866"><name type="app">cartwright</name></ref> (1866, p. 12)</wit></appPart>; <appPart><rdg type="replace">toes</rdg> <wit><ref targType="bibl" target="#b_bulj1878"><name type="app">bulloch</name></ref> (1878, pp. 67–8)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2120-04" target="#tln_2120"><label display="all(invisible)">2120</label>
+<note type="unadopted" xml:id="uc_2120-04" target="#tln_2120">
 <app><lem>this</lem>] <appPart><rdg type="replace">With</rdg> <wit><ref targType="bibl" target="#b_goug1881"><name type="app">gould</name></ref> (1881, p. 12)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2120-05" target="#tln_2120"><label display="all(invisible)">2120</label>
+<note type="unadopted" xml:id="uc_2120-05" target="#tln_2120">
 <app><lem>nose</lem>] <appPart><rdg type="replace">nip</rdg> <wit><siglum rend="smcaps">wh1</siglum></wit></appPart>; <appPart><rdg type="replace">tips</rdg> <wit><ref targType="bibl" target="#b_goug1881"><name type="app">gould</name></ref> (1881, p. 12)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2154" target="#tln_2154"><label>2154</label>
@@ -1241,7 +1241,7 @@
 <note type="unadopted" xml:id="uc_2204-01" target="#tln_2204"><label>2204</label>
 <app><lem>And</lem>] <appPart><rdg type="replace">So</rdg> <wit><siglum rend="smcaps">rid</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_2204-02" target="#tln_2204"><label display="all(invisible)">2204</label>
+<note type="unadopted" xml:id="uc_2204-02" target="#tln_2204">
 <app><lem>owner</lem>] <appPart><rdg type="replace">owners</rdg> <wit><ref targType="bibl" target="#b_wild1873"><name type="app">wilson</name></ref> (1873, p. 260)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2212" target="#tln_2212"><label>2212</label>
