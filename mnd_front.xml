@@ -903,6 +903,10 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <date>2007</date>
 </witness>
 	
+<witness xml:id="s_pope" corresp="#s_pope1 #s_pope2" display="book(suppress)">
+<siglum rend="smcaps">pope</siglum>
+</witness>
+	
 <witness xml:id="s_knt" corresp="#s_knt1 #s_knt3" display="book(suppress)">
 <siglum rend="smcaps">knt</siglum>
 </witness>
