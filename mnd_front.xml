@@ -915,7 +915,7 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <siglum rend="smcaps">cam</siglum>
 </witness>
 	
-<witness xml:id="s_col" corresp="#s_col #s_col2 #s_col3 #s_col4" display="book(suppress)">
+<witness xml:id="s_col" corresp="#s_col1 #s_col2 #s_col3 #s_col4" display="book(suppress)">
 <siglum rend="smcaps">col</siglum>
 </witness>
 	
