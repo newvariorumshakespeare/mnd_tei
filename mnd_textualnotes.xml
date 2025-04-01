@@ -18,7 +18,7 @@
 
 
 
-<?xml-model href="nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 <container xmlns="http://www.mla.org/NVSns">
 
 
@@ -970,7 +970,7 @@
 <app><lem>lullaby.</lem>] <appPart><rdg type="replace"><hi rend="italic">lullaby.</hi> <anchor type="marker" marker="|"/> II.</rdg> <wit><siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0670" target="#tln_0670"><label>670</label>
-<app><lem>1. <hi rend="italic">Fai.</hi></lem>] <appPart><rdg type="replace">2. <hi rend="italic">Fairy.</hi></rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">sis</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">om.</hi></rdg> <wit><siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum></wit></appPart></app></note>
+<app><lem>1. <hi rend="italic">Fai.</hi></lem>] <appPart><rdg type="replace">2. <hi rend="italic">Fairy.</hi></rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">sis</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"></hi></rdg> <wit><siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0671" target="#tln_0671"><label>671</label>
 <app><lem>Spinners</lem>] <appPart><rdg type="replace">Spinders</rdg> <wit><siglum>Q2</siglum></wit></appPart>; <appPart><rdg type="replace">spiders</rdg> <wit><siglum rend="smcaps">rann</siglum></wit></appPart></app></note>
