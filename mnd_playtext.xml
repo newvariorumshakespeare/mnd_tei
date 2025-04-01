@@ -10,7 +10,7 @@
 <!ENTITY swdash     "&#x2002;&#x007E;&#x2002;">
 <!ENTITY cmacr     "&#x63;&#x304;">
 ]>
-<?xml-model href="nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 
 
 
