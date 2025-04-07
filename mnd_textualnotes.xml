@@ -256,7 +256,7 @@
 <app><lem>as</lem>] <appPart><rdg type="replace">like</rdg> <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>, <siglum>v1821</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0219-01" target="#tln_0219"><label>219</label>
-<app><lem>do</lem>] <appPart><rdg type="replace">must</rdg> <wit><siglum rend="smcaps">col2</siglum></wit></appPart></app></note>
+<app><lem>dooe</lem>] <appPart><rdg type="replace">must</rdg> <wit><siglum rend="smcaps">col2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0219-02" target="#tln_0219"><label display="all(invisible)">219</label>
 <app><lem>dwell</lem>] <appPart><rdg type="replace">well</rdg> <wit><siglum rend="smcaps">dyce2</siglum></wit></appPart></app></note>
