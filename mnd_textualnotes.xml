@@ -28,7 +28,7 @@
 
 
 <note type="textual" xml:id="tn_0001-01" target="#tln_0001"><label>1</label>
-<app><appPart><rdg type="insert"><hi rend="italic">Actus primus.</hi></rdg> <wit><siglum>F1</siglum>&plus;</wit></appPart></app></note>
+<app><appPart> <wit><siglum>F1</siglum>&plus;</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0001-02" target="#tln_0001"><label display="all(invisible)">1</label>
 <app><appPart><rdg type="insert">SCENE I.</rdg> <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps">theo</siglum>)</wit></appPart></app></note>
