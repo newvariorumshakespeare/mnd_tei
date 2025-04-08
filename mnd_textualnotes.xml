@@ -817,7 +817,7 @@
 <app><lem>loose</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdg type="replace">lose</rdg> <wit><siglum>Q2</siglum>&plus;</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0589" target="#tln_0589"><label>589</label>
-<app><lem>vsed</lem>] <appPart><rdg type="replace">doe</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart>; <appPart><rdg type="replace">do use</rdg> <wit><siglum>v1821</siglum>, <siglum rend="smcaps">sing1</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
+<app><lem>vse</lem>] <appPart><rdg type="replace">doe</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart>; <appPart><rdg type="replace">do use</rdg> <wit><siglum>v1821</siglum>, <siglum rend="smcaps">sing1</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0591" target="#tln_0591"><label>591</label>
 <app><lem>thee</lem>] <appPart><rdg type="replace">you</rdg> <wit><siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note>
