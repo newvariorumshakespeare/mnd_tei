@@ -1765,7 +1765,7 @@
 <app><lem>loue</lem>] <appPart><rdg type="replace">loves</rdg> <wit><siglum rend="smcaps">cap</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1264" target="#tln_1264"><label>1264</label>
-<app><lem>I doe. Perseuer</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Q1</siglum>, <siglum rend="smcaps">and2</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash; ,&swdash; ,&swdash;</rdg> <wit><siglum>Q2</siglum> <hi rend="italic">etc.</hi></wit></appPart></app></note>
+<app><lem>I doe. Perseuer</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Q1</siglum>, <siglum rend="smcaps">and2</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash;, &swdash;, &swdash;</rdg> <wit><siglum>Q2</siglum> <hi rend="italic">etc.</hi></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1265" target="#tln_1265"><label>1265</label>
 <app><lem>mouthes</lem>] <appPart><rdg type="replace">mows</rdg> <wit><siglum>v1793</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum></wit></appPart></app></note>
