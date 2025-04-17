@@ -730,7 +730,7 @@
 <app><lem>Fairies</lem>] <appPart><rdg type="replace">Elves</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0521" target="#tln_0521"><label>521</label>
-<app><lem><hi rend="italic">Exeunt</hi></lem>]  <appPart><rdg type="replace"><hi rend="italic">Exit</hi> Tit. <hi rend="italic">and Train</hi></rdg> <wit><siglum rend="smcaps">set</siglum>, <siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps">han1</siglum>) (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
+<app><lem><hi rend="italic">Exeunt.</hi></lem>]  <appPart><rdg type="replace"><hi rend="italic">Exit</hi> Tit. <hi rend="italic">and Train</hi></rdg> <wit><siglum rend="smcaps">set</siglum>, <siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps">han1</siglum>) (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0525" target="#tln_0525"><label>525</label>
 <app><lem>once</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum>F2</siglum>&sigrange;<siglum>F4</siglum></wit></appPart>; <appPart><rdg type="replace">that</rdg> <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps">rowe</siglum></wit></appPart></app></note>
