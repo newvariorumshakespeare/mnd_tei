@@ -918,6 +918,10 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <witness xml:id="s_col" corresp="#s_col1 #s_col2 #s_col3 #s_col4" display="book(suppress)">
 <siglum rend="smcaps">col</siglum>
 </witness>
+
+<witness xml:id="s_pel" corresp="#s_pel1 #s_pel2 #s_pel3" display="book(suppress)">
+<siglum rend="smcaps">pel</siglum>
+</witness>
 	
 </listWit>
 
