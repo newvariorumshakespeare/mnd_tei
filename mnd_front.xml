@@ -919,9 +919,13 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <siglum rend="smcaps">col</siglum>
 </witness>
 	
-<witness xml:id="s_rowe" corresp="#s_rowe1 #s_rowe3" display="book(suppress)">
+<witness xml:id="s_rowe" corresp="#s_rowe1 #s_rowe2 #s_rowe3" display="book(suppress)">
 <siglum rend="smcaps">rowe</siglum>
 </witness>	
+	
+<witness xml:id="s_pel" corresp="#s_pel1 #s_pel3" display="book(suppress)">
+<siglum rend="smcaps">pel</siglum>
+</witness>
 
 </listWit>
 
