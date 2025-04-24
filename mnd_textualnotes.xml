@@ -805,7 +805,7 @@
 <app><lem>For</lem>] <appPart><rdg type="replace">though</rdg> <wit><ref targType="bibl" target="#b_letw0001"><name type="app">lettsom</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">dyce2</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">irv</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0576" target="#tln_0576"><label>576</label>
-<app><lem>you</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart></app></note>
+<app><lem>you your</lem>] <appPart><rdg type="replace">your</rdg><hi rend="italic">Om.</hi> <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0580" target="#tln_0580"><label>580</label>
 <app><lem>not I</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Qq</siglum></wit></appPart>; <appPart><rdg type="replace">and I</rdg> <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart>; <appPart><rdg type="replace">nor I</rdg> <wit><siglum>F1</siglum> <hi rend="italic">etc.</hi></wit></appPart></app></note>
@@ -817,7 +817,7 @@
 <app><lem>loose</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdg type="replace">lose</rdg> <wit><siglum>Q2</siglum>&plus;</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0589" target="#tln_0589"><label>589</label>
-<app><lem>vse</lem>] <appPart><rdg type="replace">doe</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart>; <appPart><rdg type="replace">do use</rdg> <wit><siglum>v1821</siglum>, <siglum rend="smcaps">sing1</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
+<app><lem>vse your</lem>] <appPart><rdg type="replace">doe your</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart>; <appPart><rdg type="replace">do use your</rdg> <wit><siglum>v1821</siglum>, <siglum rend="smcaps">sing1</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0591" target="#tln_0591"><label>591</label>
 <app><lem>thee</lem>] <appPart><rdg type="replace">you</rdg> <wit><siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note>
@@ -1552,7 +1552,7 @@
 <app><lem>haue</lem>] <appPart><rdg type="replace">a</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1097-01" target="#tln_1097"><label>1097</label>
-<app><lem>on</lem>] <appPart><rdg type="replace">in</rdg> <wit><siglum>v1793</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app></note>
+<app><lem>on a</lem>] <appPart><rdg type="replace">in a</rdg> <wit><siglum>v1793</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1097-02" target="#tln_1097"><label display="all(invisible)">1097</label>
 <app><lem>mood</lem>] <appPart><rdg type="replace">flood</rdg> <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app></note>
