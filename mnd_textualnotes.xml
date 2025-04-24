@@ -652,7 +652,7 @@
 <app><lem>his</lem>] <appPart><rdg type="replace">its</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">theo4</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0474" target="#tln_0474"><label>474</label>
-<app><lem>in</lem>] <appPart><rdg type="replace">on</rdg> <wit><siglum rend="smcaps">col2</siglum></wit></appPart></app></note>
+<app><lem>in the wanton</lem>] <appPart><rdg type="replace">on the wanton</rdg> <wit><siglum rend="smcaps">col2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0476-01" target="#tln_0476"><label>476</label>
 <app><lem>want&caret;&hellip;heere.</lem>] <appPart><rdg type="replace">&swdash;,&hellip;&swdash;;</rdg> <wit><siglum>m<hi rend="smcaps">warb</hi>2</siglum>, <siglum rend="smcaps">wh2</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash;;&hellip;&swdash;,</rdg> <wit><ref targType="bibl" target="#b_morr1814"><name type="app">morehead</name></ref> (1814, p. 29) <hi rend="italic">conj.</hi>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">hud1</siglum></wit></appPart></app></note>
@@ -805,7 +805,7 @@
 <app><lem>For</lem>] <appPart><rdg type="replace">though</rdg> <wit><ref targType="bibl" target="#b_letw0001"><name type="app">lettsom</name></ref> <hi rend="italic">in</hi> <siglum rend="smcaps">dyce2</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">irv</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0576" target="#tln_0576"><label>576</label>
-<app><lem>you your</lem>] <appPart><rdg type="replace">your</rdg><hi rend="italic">Om.</hi> <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart></app></note>
+<app><lem>Leaue you your power</lem>] <appPart><rdg type="replace">Leaue your power</rdg><hi rend="italic">Om.</hi> <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0580" target="#tln_0580"><label>580</label>
 <app><lem>not I</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Qq</siglum></wit></appPart>; <appPart><rdg type="replace">and I</rdg> <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart>; <appPart><rdg type="replace">nor I</rdg> <wit><siglum>F1</siglum> <hi rend="italic">etc.</hi></wit></appPart></app></note>
