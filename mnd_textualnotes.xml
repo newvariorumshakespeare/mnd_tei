@@ -469,9 +469,9 @@
 <app><appPart><rdg type="insert"><hi rend="italic">The Wood.</hi></rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg type="insert"><hi rend="italic">near Athens.</hi></rdg></rdgDesc> <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">sis</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0373" target="#tln_0373" targetEnd="#tln_0374"><label>373–4</label>
-<app><lem><hi rend="italic">at one doore</hi>&hellip;<hi rend="italic">at another</hi></lem>] <appPart><rdg type="replace"><hi rend="italic">from opposite Sides </hi></rdg> <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">knt1</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">rid</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">meeting </hi></rdg> <wit><siglum rend="smcaps">cam3</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">severally </hi></rdg> <wit><siglum rend="smcaps">sis</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
+<app><lem><hi rend="italic">at one doore</hi>&hellip;<hi rend="italic">and Robin good-fellow at another</hi></lem>] <appPart><rdg type="replace"><hi rend="italic">and Robin good-fellow from opposite Sides</hi></rdg> <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">knt1</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">rid</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">meeting</hi></rdg> <wit><siglum rend="smcaps">cam3</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">and Robin-goodfellow severally</hi></rdg> <wit><siglum rend="smcaps">sis</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
 
-<note type="textual" xml:id="tn_0375" target="#tln_0375"><label>375</label>
+    <note type="textual" xml:id="tn_0375" target="#tln_0375"><label>375</label>
 <app><lem>now</lem>] <appPart><rdg type="replace">now <hi rend="italic">fair</hi></rdg> <wit><siglum rend="smcaps">ard1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0376-01" target="#tln_0376" targetEnd="#tln_0379"><label>376–9</label>
