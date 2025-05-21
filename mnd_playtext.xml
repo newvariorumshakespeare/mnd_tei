@@ -23,24 +23,24 @@
 <div type="castlist" xml:id="div_castlist">
 <castList xml:id="castlist">
 
-<lb xml:id="dpln_01" n="1"/><head><anchor type="marker" marker="["/>Dramatis Personæ.</head>
+<lb xml:id="dpln_01" n="DP 1"/><head><anchor type="marker" marker="["/>Dramatis Personæ.</head>
 
-<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Theseus">Theseus</role>, <roleDesc><name>Duke of</name> Athens</roleDesc></castItem>
-<lb xml:id="dpln_03" n="3"/><castItem><role xml:id="Hippolita">Hippolita</role>, <roleDesc><name>Queene of the Amazons</name>, <hi rend="italic">betrothed to</hi> Theseus</roleDesc></castItem>
-<lb xml:id="dpln_04" n="4"/><castItem><role xml:id="Philostrate">Philostrate</role>, <roleDesc><hi rend="italic">Master of the Sports to the Duke</hi></roleDesc></castItem>
-<lb xml:id="dpln_05" n="5" rend="print_tln"/><castItem><role xml:id="Egeus">Egeus</role>, <roleDesc><hi rend="italic">an</hi> Athenian <hi rend="italic">Lord</hi></roleDesc></castItem>
-<lb xml:id="dpln_06" n="6"/><castItem><role xml:id="Hermia">Hermia</role>, <roleDesc><hi rend="italic">Daughter to</hi> Egeus, <hi rend="italic">in love with</hi> Lysander</roleDesc></castItem>
-<lb xml:id="dpln_07" n="7"/><castItem><role xml:id="Lysander">Lysander</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Hermia</castItem>
-<lb xml:id="dpln_08" n="8"/><castItem><role xml:id="Helena">Helena</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Demetrius</castItem>
-<lb xml:id="dpln_09" n="9"/><castItem><role xml:id="Demetrius">Demetrius</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Hermia</castItem>
+<lb xml:id="dpln_02" n="DP 2"/><castItem><role xml:id="Theseus">Theseus</role>, <roleDesc><name>Duke of</name> Athens</roleDesc></castItem>
+<lb xml:id="dpln_03" n="DP 3"/><castItem><role xml:id="Hippolita">Hippolita</role>, <roleDesc><name>Queene of the Amazons</name>, <hi rend="italic">betrothed to</hi> Theseus</roleDesc></castItem>
+<lb xml:id="dpln_04" n="DP 4"/><castItem><role xml:id="Philostrate">Philostrate</role>, <roleDesc><hi rend="italic">Master of the Sports to the Duke</hi></roleDesc></castItem>
+<lb xml:id="dpln_05" n="DP 5" rend="print_tln"/><castItem><role xml:id="Egeus">Egeus</role>, <roleDesc><hi rend="italic">an</hi> Athenian <hi rend="italic">Lord</hi></roleDesc></castItem>
+<lb xml:id="dpln_06" n="DP 6"/><castItem><role xml:id="Hermia">Hermia</role>, <roleDesc><hi rend="italic">Daughter to</hi> Egeus, <hi rend="italic">in love with</hi> Lysander</roleDesc></castItem>
+<lb xml:id="dpln_07" n="DP 7"/><castItem><role xml:id="Lysander">Lysander</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Hermia</castItem>
+<lb xml:id="dpln_08" n="DP 8"/><castItem><role xml:id="Helena">Helena</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Demetrius</castItem>
+<lb xml:id="dpln_09" n="DP 9"/><castItem><role xml:id="Demetrius">Demetrius</role>, <roleDesc><hi rend="italic">in love with</hi></roleDesc> Hermia</castItem>
 
 <castGroup rend="braced_right(#rd_mechanicals)">
-<lb xml:id="dpln_10" n="10" rend="print_tln"/><castItem><role xml:id="Quince">Peeter Quince</role>, <roleDesc><hi rend="italic">the Carpenter</hi></roleDesc></castItem>
-<lb xml:id="dpln_11" n="11"/><castItem><role xml:id="Snug">Snugge</role>, <roleDesc><hi rend="italic">the Ioyner</hi></roleDesc></castItem>
-<lb xml:id="dpln_12" n="12"/><castItem><role xml:id="Bottom">Nick Bottom</role>, <roleDesc><hi rend="italic">the Weauer</hi></roleDesc></castItem>
-<lb xml:id="dpln_13" n="13"/><castItem><role xml:id="Flute">Francis Flute</role>, <roleDesc><hi rend="italic">the Bellowes mender</hi></roleDesc></castItem>
-<lb xml:id="dpln_14" n="14"/><castItem><role xml:id="Snout">Tom Snowt</role>, <roleDesc><hi rend="italic">the Tinker</hi></roleDesc></castItem>
-<lb xml:id="dpln_15" n="15" rend="print_tln"/><castItem><role xml:id="Starveling">Robin Starueling</role>, <roleDesc><hi rend="italic">the Tayler</hi></roleDesc></castItem>
+<lb xml:id="dpln_10" n="DP 10" rend="print_tln"/><castItem><role xml:id="Quince">Peeter Quince</role>, <roleDesc><hi rend="italic">the Carpenter</hi></roleDesc></castItem>
+<lb xml:id="dpln_11" n="DP 11"/><castItem><role xml:id="Snug">Snugge</role>, <roleDesc><hi rend="italic">the Ioyner</hi></roleDesc></castItem>
+<lb xml:id="dpln_12" n="DP 12"/><castItem><role xml:id="Bottom">Nick Bottom</role>, <roleDesc><hi rend="italic">the Weauer</hi></roleDesc></castItem>
+<lb xml:id="dpln_13" n="DP 13"/><castItem><role xml:id="Flute">Francis Flute</role>, <roleDesc><hi rend="italic">the Bellowes mender</hi></roleDesc></castItem>
+<lb xml:id="dpln_14" n="DP 14"/><castItem><role xml:id="Snout">Tom Snowt</role>, <roleDesc><hi rend="italic">the Tinker</hi></roleDesc></castItem>
+<lb xml:id="dpln_15" n="DP 15" rend="print_tln"/><castItem><role xml:id="Starveling">Robin Starueling</role>, <roleDesc><hi rend="italic">the Tayler</hi></roleDesc></castItem>
 <roleDesc xml:id="rd_mechanicals">representing respectively in the interlude </roleDesc>
 </castGroup>
 <castItem><role xml:id="Prologue" type="PandT" corresp="#Quince">Prologue</role>, </castItem>
@@ -50,22 +50,22 @@
 <castItem><role xml:id="Wall" type="PandT" corresp="#Snout">Wall</role>, </castItem>
 <castItem><role xml:id="Moonshine" type="PandT" corresp="#Starveling">Moonshine</role>.</castItem>
 
-<lb xml:id="dpln_16" n="16"/><castItem><role xml:id="Puck">Robin goodfellow</role>, the Puck</castItem>
-<lb xml:id="dpln_17" n="17"/><castItem><role xml:id="AFairie">A Fairie</role>, <roleDesc><hi rend="italic">a servant of the Fairy Queene</hi></roleDesc></castItem>
-<lb xml:id="dpln_18" n="18"/><castItem><role xml:id="Oberon">Oberon</role>, <roleDesc><hi rend="italic">King of the Fairies</hi></roleDesc></castItem>
-<lb xml:id="dpln_19" n="19"/><castItem><role xml:id="Titania">Tytania</role>, <roleDesc><hi rend="italic">Queene of the Fairies</hi></roleDesc></castItem>
+<lb xml:id="dpln_16" n="DP 16"/><castItem><role xml:id="Puck">Robin goodfellow</role>, the Puck</castItem>
+<lb xml:id="dpln_17" n="DP 17"/><castItem><role xml:id="AFairie">A Fairie</role>, <roleDesc><hi rend="italic">a servant of the Fairy Queene</hi></roleDesc></castItem>
+<lb xml:id="dpln_18" n="DP 18"/><castItem><role xml:id="Oberon">Oberon</role>, <roleDesc><hi rend="italic">King of the Fairies</hi></roleDesc></castItem>
+<lb xml:id="dpln_19" n="DP 19"/><castItem><role xml:id="Titania">Tytania</role>, <roleDesc><hi rend="italic">Queene of the Fairies</hi></roleDesc></castItem>
 
 <castGroup xml:id="dp_fairies" rend="braced_right(#rd_fairies)">
-<lb xml:id="dpln_20" n="20" rend="print_tln"/><castItem><role xml:id="Pease">Pease-blossome</role>,</castItem>
-<lb xml:id="dpln_21" n="21"/><castItem><role xml:id="Cobweb">Cobweb</role>,</castItem>
-<lb xml:id="dpln_22" n="22"/><castItem><role xml:id="Moth">Moth</role>,</castItem>
-<lb xml:id="dpln_23" n="23"/><castItem><role xml:id="Mustard">Mustard-seede</role>,</castItem>
+<lb xml:id="dpln_20" n="DP 20" rend="print_tln"/><castItem><role xml:id="Pease">Pease-blossome</role>,</castItem>
+<lb xml:id="dpln_21" n="DP 21"/><castItem><role xml:id="Cobweb">Cobweb</role>,</castItem>
+<lb xml:id="dpln_22" n="DP 22"/><castItem><role xml:id="Moth">Moth</role>,</castItem>
+<lb xml:id="dpln_23" n="DP 23"/><castItem><role xml:id="Mustard">Mustard-seede</role>,</castItem>
 <roleDesc xml:id="rd_fairies"><hi rend="italic">Fairies</hi></roleDesc>
 </castGroup>
 
-<lb xml:id="dpln_24" n="24"/><castItem rend="italic align(center)"><role xml:id="Attendants">Attendants</role> <roleDesc>upon <hi rend="clear">Theseus</hi> and <hi rend="clear">Hippolita</hi></roleDesc></castItem>
+<lb xml:id="dpln_24" n="DP 24"/><castItem rend="italic align(center)"><role xml:id="Attendants">Attendants</role> <roleDesc>upon <hi rend="clear">Theseus</hi> and <hi rend="clear">Hippolita</hi></roleDesc></castItem>
 
-<lb xml:id="dpln_25" n="25" rend="print_tln"/><castItem rend="italic align(center)"><role xml:id="Fairies">Other Fairies</role> <roleDesc>attending on the King and Queen</roleDesc>]</castItem>
+<lb xml:id="dpln_25" n="DP 25" rend="print_tln"/><castItem rend="italic align(center)"><role xml:id="Fairies">Other Fairies</role> <roleDesc>attending on the King and Queen</roleDesc>]</castItem>
 
 </castList>
 </div>
