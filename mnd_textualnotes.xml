@@ -2766,10 +2766,10 @@
 <app><lem><hi rend="italic">Enter the Prologue.</hi></lem>] <appPart><rdgDesc>Ad. <rdg type="insert"><hi rend="italic">Quince.</hi></rdg></rdgDesc> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">irv</siglum>&plus; (&minus;<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">and2</siglum>, <siglum rend="smcaps">folg2</siglum>) (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1912" target="#tln_1912"><label>1912</label>
-<app><lem>is. All</lem>] <appPart><rdg type="replace">&swdash;&caret;&swdash;</rdg> <wit><siglum rend="smcaps">pope</siglum></wit></appPart></app></note>
+<app><lem>is. All</lem>] <appPart><rdg type="replace">&swdash; &caret; &swdash;</rdg> <wit><siglum rend="smcaps">pope</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1913" target="#tln_1913"><label>1913</label>
-<app><lem>here. That</lem>] <appPart><rdg type="replace">&swdash;&caret;&swdash;</rdg> <wit><siglum rend="smcaps">pope</siglum>, <siglum>v1773</siglum></wit></appPart></app></note>
+<app><lem>here. That</lem>] <appPart><rdg type="replace">&swdash; &caret; &swdash;</rdg> <wit><siglum rend="smcaps">pope</siglum>, <siglum>v1773</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1915-01" target="#tln_1915"><label>1915</label>
 <app><lem>knowe,</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Q1</siglum>, <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">alex</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash;.</rdg> <wit><siglum>Q2</siglum> <hi rend="italic">etc.</hi> </wit></appPart></app></note>
@@ -2838,7 +2838,7 @@
 <app><lem>trusty</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum>F1</siglum></wit></appPart>; <appPart><rdg type="replace">gentle</rdg> <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">col2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1947-01" target="#tln_1947"><label>1947</label>
-<app><lem>And&caret; Thisby,&hellip;shade,</lem>] <appPart><rdg type="replace">&swdash;(&swdash;&caret;&hellip;&swdash;)</rdg> <wit><ref targType="bibl" target="#b_male1780"><name type="app">malone</name> (1780)</ref> <hi rend="italic">conj.</hi>, <siglum>v1785</siglum>, <siglum rend="smcaps">rann</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash;,&swdash;&caret;&hellip;&swdash;,</rdg> <wit><siglum rend="smcaps">mal</siglum>&sigrange;<siglum>v1821</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum></wit></appPart></app></note>
+<app><lem>And&caret; Thisby,&hellip;shade,</lem>] <appPart><rdg type="replace">&swdash;(&swdash;&caret;&hellip;&swdash;)</rdg> <wit><ref targType="bibl" target="#b_male1780"><name type="app">malone</name> (1780)</ref> <hi rend="italic">conj.</hi>, <siglum>v1785</siglum>, <siglum rend="smcaps">rann</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash;, &swdash;&caret;&hellip;&swdash;,</rdg> <wit><siglum rend="smcaps">mal</siglum>&sigrange;<siglum>v1821</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1947-02" target="#tln_1947"><label display="all(invisible)">1947</label>
 <app><lem>tarying in</lem>] <appPart><rdg type="replace">tarying in the</rdg> <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">john1</siglum></wit></appPart></app></note>
