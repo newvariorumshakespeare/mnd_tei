@@ -1983,7 +1983,7 @@
 <note type="textual" xml:id="tn_1440" target="#tln_1440"><label>1440</label>
 <app><appPart><rdgDesc><hi rend="italic">On</hi> <ref targType="lb" target="#tln_1439">1439</ref></rdgDesc> <wit><siglum>Qq</siglum></wit></appPart></app></note>
 
-<note type="textual" xml:id="tn_1441" target="#tln_1441" targetEnd="#tln_1442"><label>1441–2</label>
+<note type="textual" xml:id="tn_1441" target="#tln_1441-1442"><label>1441–2</label>
 <app><appPart><rdgDesc>Two lines ending <hi rend="italic">Demetrius</hi>&hellip;now.</rdgDesc> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">prose</hi></rdgDesc> <wit><siglum><hi rend="smcaps">pen</hi>1b</siglum>, <siglum rend="smcaps">and</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">one verse line</hi></rdgDesc> <wit><siglum>Qq</siglum>, <siglum rend="smcaps">pope1</siglum> <hi rend="italic">etc.</hi></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1443-01" target="#tln_1443"><label>1443</label>
@@ -1992,7 +1992,7 @@
 <note type="textual" xml:id="tn_1443-02" target="#tln_1443 #tln_1445 #tln_1447"><label>1443, 1445, 1447</label>
 <app><lem><hi rend="italic">Rob.</hi></lem>] <appPart><rdg type="replace">ROBIN <hi rend="italic">shifting place</hi></rdg> <wit><siglum rend="smcaps">oxf2</siglum></wit></appPart></app></note>
 
-<note type="textual" xml:id="tn_1444" target="#tln_1444 #tln_1447" targetEnd="#tln_1445"><label>1444–5, 1447</label>
+<note type="textual" xml:id="tn_1444" target="#tln_1444 #tln_1445" targetEnd="#tln_1447"><label>1444–5, 1447</label>
 <app><appPart><rdgDesc><hi rend="italic">Two verse lines ending</hi> then&hellip;again;</rdgDesc> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">folg2</siglum>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1445-01" target="#tln_1445"><label>1445</label>
