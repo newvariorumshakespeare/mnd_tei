@@ -1992,7 +1992,7 @@
 <note type="textual" xml:id="tn_1443-02" target="#tln_1443 #tln_1445 #tln_1447"><label>1443, 1445, 1447</label>
 <app><lem><hi rend="italic">Rob.</hi></lem>] <appPart><rdg type="replace">ROBIN <hi rend="italic">shifting place</hi></rdg> <wit><siglum rend="smcaps">oxf2</siglum></wit></appPart></app></note>
 
-<note type="textual" xml:id="tn_1444" target="#tln_1444 #tln_1445" targetEnd="#tln_1447"><label>1444–5, 1447</label>
+<note type="textual" xml:id="tn_1444" target="#tln_1444 #tln_1445 #tln_1447"><label>1444–5, 1447</label>
 <app><appPart><rdgDesc><hi rend="italic">Two verse lines ending</hi> then&hellip;again;</rdgDesc> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">folg2</siglum>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1445-01" target="#tln_1445"><label>1445</label>
