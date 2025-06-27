@@ -2390,13 +2390,13 @@
 <note type="textual" xml:id="tn_1656" target="#tln_1656"><label>1656</label>
 <app><lem>not this</lem>] <appPart><rdg type="replace">this not</rdg> <wit><siglum rend="smcaps">wh2</siglum></wit></appPart></app></note>
 
-<note type="textual" xml:id="tn_1661-01" target="#tln_1661"><label>1661</label>
+<note type="textual" xml:id="tn_1661-01" target="tln_1662-1661"><label>1661</label>
 <app><appPart><rdgDesc>Before SD <hi rend="italic">Exit an Attendant.</hi></rdgDesc> <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">pel1</siglum>&plus; (&minus;<siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">cam4</siglum>)</wit></appPart></app></note>
 
-<note type="textual" xml:id="tn_1661-02" target="#tln_1661"><label display="all(invisible)">1661</label>
+<note type="textual" xml:id="tn_1661-02" target="tln_1662-1661"><label display="all(invisible)">1661</label>
 <app><appPart><rdgDesc><hi rend="italic">Winde hornes.</hi> after <ref targType="lb" target="#tln_1662">1662</ref></rdgDesc> <wit><siglum>Qq</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">on</hi> <ref targType="lb" target="#tln_1661">1661</ref></rdgDesc> <wit><siglum>F1</siglum> <hi rend="italic">etc.</hi></wit></appPart></app></note>
 
-    <note type="textual" xml:id="tn_1662" target="tln_1662-1661"><label>1662</label>
+<note type="textual" xml:id="tn_1662" target="tln_1662-1661"><label>1662</label>
 <app><lem><hi rend="italic">they</hi></lem>] <appPart><rdg type="replace">Demetrius, Lysander, Hermia, <hi rend="italic">and</hi> Helena</rdg> <wit><siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1663" target="#tln_1663"><label>1663</label>
