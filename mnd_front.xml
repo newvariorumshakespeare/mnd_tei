@@ -11,7 +11,6 @@
 <!ENTITY cmacr     "&#x63;&#x304;">
 ]>
 
-<?xml-model href="../MND%20Volume%20Files/nvs_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <container xmlns="http://www.mla.org/NVSns">
 
 
@@ -447,22 +446,30 @@
 
 <p>Horace Howard Furness’s edition of <title level="m">A Midsummer Night’s Dream</title>, the tenth in his ambitious New Variorum project, appeared in 1895. The present edition is built in large part on his model, but is neither a revision nor replacement. The text offered here is based on the First Quarto of 1600, and collated with all significant texts printed since that date to 2007, not the First Folio reprint to which Furness faithfully adhered. Other parts of the present edition attempt to accommodate over a hundred years of additional comment and performance, as well as to represent Furness’s work, though often necessarily abbreviated. The 1895 edition remains useful and delightful for its fuller presentation of 18th and 19th c. opinion and of Furness’s own lively comments.</p>
 
-<p>For various reasons, the preparation of this edition has been spread over many years, and involved many people. Ruth L. Widmann and Richard F. Kennedy prepared the text; Richard Kennedy and Paul Werstine prepared the Textual Notes, Emendation of Accidentals, Unadopted Conjectures, and the Plan; Paul Werstine, the Textual Appendix; Susan H. May, the appendix on Criticism; Roberta Barker, Music in <title level="m">A Midsummer Night’s Dream</title>; David Nicol, <title level="m">A Midsummer Night’s Dream</title> on the Stage; Richard and Judith M. Kennedy, the Commentary Notes; Judith Kennedy the rest. All have helped one another; in particular Susan May’s unpublished doctoral dissertation was of great help to the Kennedys in beginning work, and she has continued with ready assistance through the years. We are all indebted to Richard Knowles, not only for his indispensable <title level="m">Shakespeare Variorum Handbook</title>, but also for his personal support and valuable comments on drafts of sections. More recently Eric Rasmussen has also provided considerable assistance. Paul Werstine has far exceeded the responsibilities of a New Variorum General Editor in taking on the work of textual editor and coordinating editor when illness prevented the Kennedys from completing their duties.</p>
-
-<p>Other individuals have assisted in various ways: Uta Doerr, Elizabeth Kennedy Klaassen and John F. Reynolds gave help with Latin, Greek and German translation; Walter Kemp advised on musical matters; Trevor Sawler devised computer programs for collation; Erika Buiteman, Mary Kate Didyk, Rachel Jones, James Kennedy, Robert Kennedy and Tracy Lutz helped in gathering material and proofreading.</p>
+<p>For various reasons, the preparation of this edition has been spread over many years, and involved many people. Ruth L. Widmann and Richard F. Kennedy prepared the text; Richard Kennedy and Paul Werstine prepared the Textual Notes, Emendation of Accidentals, Unadopted Conjectures, and the Plan; Paul Werstine, the Textual Appendix; Susan H. May, the appendix on Criticism; Roberta Barker, Music in <title level="m">A Midsummer Night’s Dream</title>; David Nicol, <title level="m">A Midsummer Night’s Dream</title> on the Stage; Richard and Judith M. Kennedy, the Commentary Notes; Judith Kennedy the rest. All have helped one another; in particular Susan May’s unpublished doctoral dissertation was of great help to the Kennedys in beginning work, and she has continued with ready assistance through the years. We are all indebted to Richard Knowles, not only for his indispensable <title level="m">Shakespeare Variorum Handbook</title>, but also for his personal support and valuable comments on drafts of sections. More recently Eric Rasmussen has also provided considerable assistance. Paul Werstine has far exceeded the responsibilities of a New Variorum General Editor in taking on the work of textual editor and coordinating editor when illness prevented the Kennedys from completing their duties. Other individuals have assisted in various ways: Uta Doerr, Elizabeth Kennedy Klaassen and John F. Reynolds gave help with Latin, Greek and German translation; Walter Kemp advised on musical matters; Trevor Sawler devised computer programs for collation; Erika Buiteman, Mary Kate Didyk, Rachel Jones, James Kennedy, Robert Kennedy and Tracy Lutz helped in gathering material and proofreading.</p>
 
 <p>The editors thank their respective institutions, Dalhousie University, Longwood University and St. Thomas University for their support, specifically in financial aid, leaves of absence, and office space. Thanks go also to the libraries of these institutions, Killam Library, Greenwood Library, and Harriet Irving Library, especially to the interlibrary loan staffs. Generous financial support was provided to the Kennedys by the Social Sciences and Humanities Research Council of Canada.</p>
 
-<p>Many libraries offered their resources and hospitality. It is a joy and privilege to be allowed to work in great libraries and have access to their collections of rare books, helped by friendly and learned staff. Our thanks go to the Folger Shakespeare Library; the Henry E. Huntington Library; the Furness Memorial Library, University of Pennsylvania; the New York Public Library; the Boston Public Library; the Library of Congress; the Libraries of Yale, Harvard, Columbia, Duke, and North Carolina Universities; Dartmouth College Library; Alderman Library, University of Virginia; the British Library; the Bodleian Library; the Libraries of Trinity College and Pembroke College, Cambridge; Edinburgh University Library; the Shakespeare Centre Library of Stratford-upon-Avon; the Theatre and Performance Archives of the Victoria and Albert Museum.</p>
-
-<p>We hope those who bring <title level="m">A Midsummer Night’s Dream</title> to life in their minds and on stages will find something of interest and profit in this edition.</p>
+<p>Many libraries offered their resources and hospitality. It is a joy and privilege to be allowed to work in great libraries and have access to their collections of rare books, helped by friendly and learned staff. Our thanks go to the Folger Shakespeare Library; the Henry E. Huntington Library; the Furness Memorial Library, University of Pennsylvania; the New York Public Library; the Boston Public Library; the Library of Congress; the Libraries of Yale, Harvard, Columbia, Duke, and North Carolina Universities; Dartmouth College Library; Alderman Library, University of Virginia; the British Library; the Bodleian Library; the Libraries of Trinity College and Pembroke College, Cambridge; Edinburgh University Library; the Shakespeare Centre Library of Stratford-upon-Avon; the Theatre and Performance Archives of the Victoria and Albert Museum. We hope those who bring <title level="m">A Midsummer Night’s Dream</title> to life in their minds and on stages will find something of interest and profit in this edition.</p>
 
 <closer>
 <signed>J. M. K.</signed>
 </closer>
 </div>
 
-
+<div type="acknowledgements" xml:id="div_acknowledgements">
+		
+<head>Acknowledgements for the Digital Edition</head>
+		
+<p>The production of each NVS digital edition was conducted by a team of scholars and researchers and made possible by the Modern Language Association’s Executive Council that awarded the Center of Digital Humanities Research (CoDHR) at Texas A&amp;M a grant to publish NVS editions online, making them freely available to scholars, educators, students, and performers via an open access, interactive web application. Each digital edition contains the complete text of each play along with a full collation of textual notes from the earliest editions to the present, including extensive previous commentary.</p>
+		
+<p>The physical Variorum volume includes a CD-ROM that contains an XML-encoded version of the contents, rendering the work as a PDF that is text-searchable with internal links for easy navigation. A special thanks to Julia Flanders, Professor of the Practice in English and the director of the Digital Scholarship Group in the Northeastern University Library, for XML-encoding the physical volume and for consulting with the NVS team at CoDHR who used the XML-encoded text to publish this edition online at https://newvariorumshakespeare.org/.</p>
+		
+<p>This digital edition was launched in beta at the World Shakespeare Congress (WSC) in Singapore by the NVS team, which at that time included Laura Mandell (Principal Investigator and CoDHR Director), Katayoun Torabi (Project Manager), Anne Burdick (NVS site designer and Chair of Media Design Practices at ArtCenter College of Design in Los Angeles), Bryan Tarpley (Lead Developer at CoDHR and NVS back-end developer), Will McLean (front-end developer and interaction designer), and Texas A&amp;M graduate student researchers Kayley Hart and Lindsey Jones. In close collaboration with General Editors Paul Werstine and Eric Rasmussen, and under the guidance of the NVS Board chaired by Lena Cowen Orlin, the team brought this innovative edition online. Since its debut at the WSC in 2019, the NVS project transitioned to Texas A&amp;M’s Department of English. There, the current NVS team—comprising Robert Stagg (Principal Investigator and NVS Director), Katayoun Torabi (Project Manager and Digital Editor), Kris May (Associate Digital Editor), and Dorothy Todd (Associate Digital Editor)—have worked diligently to revise and finalize the edition for full release.</p>
+	
+<p>Special thanks are extended to the many faculty, staff, student researchers, and interns who contributed to this volume, in addition to those mentioned above. We gratefully acknowledge the efforts of Inhoo Kim (Graduate Research Assistant); Jade Gooden, Grace Hoelescher, Shyam Prasad Nagulavancha, Mounika Balivada, Andrew Hoyt, Fernando Gonzalez Torres, and Alexandra Blue (Research Assistants); Kaitlin Carman and Brandon Delgado (Research Interns from Framingham State University); and Scott Kleinman (Associate Technical Editor from CSU, Northridge). For more information about those who made the digital edition possible, please visit our Contributors page: <ref targType="url" target="https://newvariorumshakespeare.org/contributors/">https://newvariorumshakespeare.org/contributors/</ref>.</p>
+	
+</div>
 
 
 <div type="potw" xml:id="div_potw">
@@ -471,7 +478,7 @@
 
 <p>This edition of <title level="m">A Midsummer Night’s Dream</title> has four main parts: (1) a text of the play reprinted with little change from its first edition in the Quarto of 1600 (<siglum>Q1</siglum>); (2) textual notes recording significant departures from the <siglum>Q1</siglum> in sixty editions of the play ranging in date from 1619 to 2007; (3) commentary on the meaning or the verbal art of the text taken from previous editions, dictionaries, commentaries, and critical works; and (4), an appendix, comprising the second half of this edition, containing general discussions of the play’s text, date, sources, critical and theatrical interpretations, and music. This appendix is followed by a bibliography and an index.</p>
 
-<p>The text printed here derives from the copy of the First Quarto of <title level="m">A Midsommer nights dreame</title> (1600) in the Folger Shakespeare Library (STC 22302), with its uncorrected press variants altered to the corrected states. (For these press variants, see <ptr targType="div" target="#div_q1_pressvariants"/>.) The transcript of the Folger copy was compared with Michael J. B. Allen and Kenneth Muir’s <title level="m">Shakespeare’s Plays in Quarto: A Facsimile Edition</title> (Berkeley, 1981) and with Thomas L. Berger’s <title level="m">A Midsommer nights dreame, 1600</title> (Oxford, 1995), the object being to make the Variorum text as accurate as possible. Silent alterations of the <siglum>Q1</siglum> text include the representation of roman long <hi rend="italic">s</hi> by <hi rend="italic">s</hi>; the printing of ligatures (e.g., roman <hi rend="italic">ss</hi> and <hi rend="italic">st</hi>) as two letters; the suppression or reduction of display types, ornaments, printing space types, quads, and packing; the alignment of irregular letters and normalization of spacing (except in some instances noted below); the positioning of marginal stage directions to the right regardless of their placement in the <siglum>Q1</siglum> line; and the correction of wrong-font types, including alteration of italic punctuation marks to roman in a roman context and vice versa. Other errors are corrected when there is no doubt what the true reading should be. In a few instances missing punctuation is supplied, words turned up or down by <siglum>Q1</siglum> because the full line of text exceeded the measure of the column are printed in one line, and conventional closing punctuation is substituted for other marks at the end of completed speeches where no suspension seems intended. A list of these changes appears on <ptr targType="div" target="#div_irregular"/>. The line numbers of the text are the Through Line Numbers introduced by Charlton Hinman in <title level="m">The Norton Facsimile: The First Folio of Shakespeare</title> (New York, 1968), but the headlines include, as well, the act-scene-line numbers of the 1974 Riverside <title level="m">MND</title>, edited by G. Blakemore Evans. Riverside act and scene divisions are indicated by boldface numerals in the right margin. Also in the right margins, signature indicators of the beginning of each page in <siglum>Q1</siglum> appear in square brackets, and signature and column indicators of the beginning of each column of the First Folio text of 1623 (<siglum>F1</siglum>) appear in parentheses.</p>
+	<p>The text printed here derives from the copy of the First Quarto of <title level="m">A Midsommer nights dreame</title> (1600) in the Folger Shakespeare Library (STC 22302), with its uncorrected press variants altered to the corrected states. (For these press variants, see <ptr targType="div" target="#div_q1_pressvariants"/>.) The transcript of the Folger copy was compared with Michael J. B. Allen and Kenneth Muir’s <title level="m">Shakespeare’s Plays in Quarto: A Facsimile Edition</title> (Berkeley, 1981) and with Thomas L. Berger’s <title level="m">A Midsommer nights dreame, 1600</title> (Oxford, 1995), the object being to make the Variorum text as accurate as possible. Silent alterations of the <siglum>Q1</siglum> text include the representation of roman long <hi rend="italic">s</hi> by <hi rend="italic">s</hi>; the printing of ligatures (e.g., roman <hi rend="italic">ss</hi> and <hi rend="italic">st</hi>) as two letters; the suppression or reduction of display types, ornaments, printing space types, quads, and packing; the alignment of irregular letters and normalization of spacing (except in some instances noted below); the positioning of marginal stage directions to the right regardless of their placement in the <siglum>Q1</siglum> line; and the correction of wrong-font types, including alteration of italic punctuation marks to roman in a roman context and vice versa. Other errors are corrected when there is no doubt what the true reading should be. In a few instances missing punctuation is supplied, words turned up or down by <siglum>Q1</siglum> because the full line of text exceeded the measure of the column are printed in one line, and conventional closing punctuation is substituted for other marks at the end of completed speeches where no suspension seems intended. A list of these changes appears on <ptr targType="div" target="#div_q1_pressvariants"/>. The line numbers of the text are the Through Line Numbers introduced by Charlton Hinman in <title level="m">The Norton Facsimile: The First Folio of Shakespeare</title> (New York, 1968), but the headlines include, as well, the act-scene-line numbers of the 1974 Riverside <title level="m">MND</title>, edited by G. Blakemore Evans. Riverside act and scene divisions are indicated by boldface numerals in the right margin. Also in the right margins, signature indicators of the beginning of each page in <siglum>Q1</siglum> appear in square brackets, and signature and column indicators of the beginning of each column of the First Folio text of 1623 (<siglum>F1</siglum>) appear in parentheses.</p>
 
 <anchor type="xref" xml:id="anchor_0003-a"/>
 <p>The textual notes record alterations in the meaning or meter of the <siglum>Q1</siglum> text found in the editions collated; alteration of meaning was decided by the variant’s receiving separate listing in the <title level="m">Oxford English Dictionary</title> and a different definition. Modernizations of form are ignored. So are misprints unless the misprint creates an English word or was taken for a word. Conjectural emendations are included in the textual notes if the reading has been adopted by one of the editions collated; others are in the list of unadopted conjectures (see <ptr targType="div" target="#div_unadopted"/>). Alterations in punctuation and capitalization are ignored unless the alteration creates a different meaning. Stage directions added or altered in later editions appear only if the action implied by <siglum>Q1</siglum> is affected in a major way.</p>
@@ -482,43 +489,43 @@
 
 <p xml:id="textual_note_explanation_start">The basic form of the textual note may be illustrated by
 
-<quote rend="block"><note type="textual"><label>1345</label> <app><lem>vnto</lem>] <appPart><rdg type="replace">into</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart></app></note></quote>
+	<quote rend="block"><note type="textual" target="#tln_1345"><label>1345</label><app><lem>vnto</lem>] <appPart><rdg type="replace">into</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart></app></note></quote>
 
 which records the fact that in line 1345—<quote>I tould him of your stealth vnto this wood</quote>—the Fourth Folio of 1685 and editions following through Pope’s second edition of 1728 for <quote>vnto</quote> in the Variorum text read <quote>into.</quote> Theobald’s editions of 1733 and 1740 read <quote>into</quote> and so are represented by an honorable absence, but Hanmer’s edition of 1744 reverts to <quote>into.</quote> Warburton’s edition of 1747 restores the <siglum>Q1</siglum> reading and is followed by all other collated editions.</p>
 
 <p>Another type of textual note employs the formula <hi rend="italic">etc.</hi> For example,
 
-<quote rend="block"><note type="textual"><label>2076</label> <app><lem>beames</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Q1</siglum>&sigrange;<siglum>F1</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">and</siglum></wit></appPart>; <appPart><rdg type="replace">streames</rdg> <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart>; <appPart><rdg type="replace">gleams</rdg> <wit><siglum rend="smcaps">knt1</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">stau</siglum> (<hi rend="italic">text</hi>; streams <hi rend="italic">in addenda</hi>), <siglum rend="smcaps">wh1</siglum> <hi rend="italic">etc.</hi></wit></appPart></app></note></quote>
+	<quote rend="block"><note type="textual" target="#tln_2076"><label>2076</label> <app><lem>beames</lem>] <appPart><rdg type="lem">&swdash;</rdg> <wit><siglum>Q1</siglum>&sigrange;<siglum>F1</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">and</siglum></wit></appPart>; <appPart><rdg type="replace">streames</rdg> <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart>; <appPart><rdg type="replace">gleams</rdg> <wit><siglum rend="smcaps">knt1</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">stau</siglum> (<hi rend="italic">text</hi>; streams <hi rend="italic">in addenda</hi>), <siglum rend="smcaps">wh1</siglum> <hi rend="italic">etc.</hi></wit></appPart></app></note></quote>
 
 Here the editions that read with the Variorum text (<siglum>Q1</siglum>&sigrange;<siglum>F1</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">and</siglum>) appear first, then those that read <quote>streames,</quote> then those that read <quote>gleams,</quote> <siglum rend="smcaps">sing2</siglum> being the first to do so, and <hi rend="italic">etc</hi>. means <quote>and all other editions collated but not already accounted for.</quote></p>
 
 <p>Yet another kind of note employs the &plus; sign to refer to all the collated editions that date after the one indicated by the siglum that is followed by the &plus; sign. Thus
 
-<quote rend="block"><note type="textual"><label>506</label> <app><lem>gate</lem>] <appPart><rdg type="replace">gait</rdg> <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>&plus;</wit></appPart></app></note></quote>
+	<quote rend="block"><note type="textual" target="#tln_0506"><label>506</label> <app><lem>gate</lem>] <appPart><rdg type="replace">gait</rdg> <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>&plus;</wit></appPart></app></note></quote>
 
 means that Capell’s edition of 1768 and Malone’s of 1790, as well as all succeeding collated editions, read <quote>gait.</quote></p>
 
 <p>Still another type of note makes use of family sigla:
 
-<quote rend="block"><note type="textual"><label>169</label> <app><lem>remote</lem>] <appPart><rdg type="replace">remouèd</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart></app></note></quote>
+	<quote rend="block"><note type="textual" target="#tln_0169"><label>169</label> <app><lem>remote</lem>] <appPart><rdg type="replace">remouèd</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart></app></note></quote>
 
-<siglum rend="smcaps">knt</siglum> here represents both of Knight’s editions (1839 and 1867) that were collated, but not Knight’s edition of 1842, which was only quoted from occasionally. Sometimes the family siglum will not be based on the editor’s name; <siglum rend="smcaps">cam</siglum>, for example, indicates the Cambridge editions of 1863 (<siglum rend="smcaps">cam1</siglum>), 1924 (<siglum><hi rend="smcaps">cam</hi>3a</siglum>), and 1984 (<siglum rend="smcaps">cam4</siglum>). In the note above, as in first and second notes quoted, the hyphen, as one might expect, represents <quote>through.</quote> Elsewhere a minus sign is used to indicate exclusion:
+<siglum rend="smcaps">knt</siglum> here represents both of Knight’s editions (1839 and 1867) that were collated, but not Knight’s edition of 1842, which was only quoted from occasionally. Sometimes the family siglum will not be based on the editor’s name; <siglum rend="smcaps">cam</siglum>, for example, indicates the Cambridge editions of 1863 (<siglum rend="smcaps">cam1</siglum>), 1924 (<siglum rend="smcaps">cam3</siglum>), and 1984 (<siglum rend="smcaps">cam4</siglum>). In the note above, as in first and second notes quoted, the hyphen, as one might expect, represents <quote>through.</quote> Elsewhere a minus sign is used to indicate exclusion:
 
-<quote rend="block"><note type="textual"><label>150</label> <app><lem>eyes</lem>] <appPart><rdg type="replace">eie</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum> (&minus;<siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum>), <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note></quote>
+	<quote rend="block"><note type="textual" target="#tln_0150"><label>150</label> <app><lem>eyes</lem>] <appPart><rdg type="replace">eie</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum> (&minus;<siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum>), <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note></quote>
 
 means that Collier’s first two editions read not <quote>eie</quote> but <quote>eyes,</quote> as does the lemma. Had Collier read <quote>eyeballs</quote> the note would have been
 
-<quote rend="block"><note type="textual"><label>150</label> <app><lem>eyes</lem>] <appPart><rdg type="replace">eie</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">sing2</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart>; <appPart><rdg type="replace">eyeballs</rdg> <wit><siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum></wit></appPart></app></note></quote></p>
+	<quote rend="block"><note type="textual" target="#tln_0150"><label>150</label> <app><lem>eyes</lem>] <appPart><rdg type="replace">eie</rdg> <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">sing2</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart>; <appPart><rdg type="replace">eyeballs</rdg> <wit><siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum></wit></appPart></app></note></quote></p>
 
 <p>Although most variant readings originate in editions, some are found in other sources:
 
-<quote rend="block"><note type="textual"><label>498</label> <app><lem>The</lem>] <appPart><rdg type="replace">Thy</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app></note></quote>
+<quote rend="block"><note type="textual" target="#tln_0498"><label>498</label> <app><lem>The</lem>] <appPart><rdg type="replace">Thy</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app></note></quote>
 
 Here the variant originates in Styan Thirlby’s manuscript notes in a volume of Theobald’s edition of 1733 (see <ptr targType="bibl" target="#s_m1733fl4"/>), where it is considered a conjecture because it does not appear in a published edition. The reading does appear in Collier’s edition of 1853 (and it also occurs in his third and fourth editions of 1858 and 1875). The note does not mean, however, that Collier necessarily found the reading in Thirlby’s notes. Here and in similar notes the variant is given in the form in which it was first printed rather than in the sometimes eccentric form of its manuscript source.</p>
 
 <p>Added stage directions calling for action clearly implied by the text are not recorded, nor are those calling in different words for essentially the same action as the stage direction of the text. The abbreviation <hi rend="italic">subst.</hi> indicates that although their language differs, the collated stage directions have the same significance. For example,
 
-<quote rend="block"><note type="textual"><label>1964</label> <app><appPart><rdg type="insert"><stage rend="italic">Holding up one hand, with a finger separated</stage></rdg> <wit><siglum rend="smcaps">rann</siglum>, <siglum><hi rend="smcaps">cam</hi>3a</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart></app></note></quote>
+<quote rend="block"><note type="textual" target="#tln_1964"><label>1964</label> <app><appPart><rdg type="insert"><stage rend="italic">Holding up one hand, with a finger separated</stage></rdg> <wit><siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">cam3</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart></app></note></quote>
 
 There is no equivalent of Rann’s stage direction in <siglum>Q1</siglum>; it is derived from Wall’s speech in the play-within-the-play:
 
@@ -526,7 +533,7 @@ There is no equivalent of Rann’s stage direction in <siglum>Q1</siglum>; it is
 <lb/>And this the cranie is, right and sinister,
 <lb/>Through which the fearefull louers are to whisper.</quote>
 
-Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage direction, while not identical to Rann’s, is close enough in its meaning not to require separate listing; it reads <quote><hi rend="italic">he stretches forth his fingers</hi>.</quote> The note has no lemma because no direction appears in <siglum>Q1</siglum>.</p>
+Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction, while not identical to Rann’s, is close enough in its meaning not to require separate listing; it reads <quote><hi rend="italic">he stretches forth his fingers</hi>.</quote> The note has no lemma because no direction appears in <siglum>Q1</siglum>.</p>
 <anchor type="xref" xml:id="anchor_0003-b"/>
 
 <p>Beneath the textual notes is commentary on specific words or passages in the text. The glosses and explanatory notes of many editions of <title level="m">MND</title> are quoted there, and definitions are drawn from works of reference and dictionaries, especially the <title level="m">Oxford English Dictionary</title> but also dictionaries from or nearer to Shakespeare’s time such as Robert Cawdrey’s <title level="m">A Table Alphabeticall</title> (1604), John Minsheu’s <title level="m">Ductor in Linguas, The Guide into Tongues</title> (1617), and Thomas Blount’s <title level="m">Glossographia</title> (1656), as well as Samuel Johnson’s <title level="m">Dictionary of the English Language</title> (1755). Foreign language dictionaries— Thomas Thomas’s <title level="m">Dictionarum Linguae Anglicanae</title> (1587) and John Florio’s English-Italian <title level="m">A Worlde of Wordes</title> (1598), for example—are sometimes used. Alexander Schmidt’s <title level="m">Shakespeare-Lexicon</title> and C. T. Onions’s <title level="m">Shakespeare Glossary</title> are the sources of many definitions, and E. A. Abbott’s <title level="m">Shakespearian Grammar</title> and Wilhelm Franz’s <title level="m">Die Sprache Shakespeares</title> are frequently alluded to. In general, the first comment to be made is quoted, but if a later one is clearer, more accurate, or more explicit, it appears instead. In these notes and elsewhere square brackets within quotations enclose corrections or comments made by the editors of this volume; the square brackets of the quotations themselves have been transformed to angle brackets (&lt; &gt;). The spelling and punctuation of the works cited are retained except that if the beginning or the end of a sentence has been omitted but a complete sentence remains, it is provided with a beginning capital or a final period. Initial capitals are also supplied for direct discourse. No notes are printed entirely in italics even though the source may have done so.</p>
@@ -897,6 +904,30 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <bibl><name type="app">Mario DiGangi</name>. <title level="m">MND</title>. Barnes &amp; Noble, New York.</bibl>
 <date>2007</date>
 </witness>
+	
+<witness xml:id="s_pope" corresp="#s_pope1 #s_pope2" display="book(suppress)">
+<siglum rend="smcaps">pope</siglum>
+</witness>
+	
+<witness xml:id="s_knt" corresp="#s_knt1 #s_knt3" display="book(suppress)">
+<siglum rend="smcaps">knt</siglum>
+</witness>
+	
+<witness xml:id="s_cam" corresp="#s_cam1 #s_cam3 #s_cam4" display="book(suppress)">
+<siglum rend="smcaps">cam</siglum>
+</witness>
+	
+<witness xml:id="s_col" corresp="#s_col1 #s_col2 #s_col3 #s_col4" display="book(suppress)">
+<siglum rend="smcaps">col</siglum>
+</witness>
+	
+<witness xml:id="s_rowe" corresp="#s_rowe1 #s_rowe2 #s_rowe3" display="book(suppress)">
+<siglum rend="smcaps">rowe</siglum>
+</witness>	
+	
+<witness xml:id="s_pel" corresp="#s_pel1 #s_pel3" display="book(suppress)">
+<siglum rend="smcaps">pel</siglum>
+</witness>
 
 </listWit>
 
@@ -1234,6 +1265,26 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <siglum rend="smcaps">pel3</siglum>
 <bibl><name type="app">Russ McDonald</name>. <title level="m">MND</title>. Pelican Sh.</bibl>
 <date>2000</date>
+</witness>
+
+<witness xml:id="s_qq" corresp="#s_q1 #s_q2" display="book(suppress)">
+<siglum rend="smcaps">qq</siglum>
+</witness>
+
+<witness xml:id="s_ff" corresp="#s_f1 #s_f2 #s_f3 #s_f4" display="book(suppress)">
+<siglum rend="smcaps">ff</siglum>
+</witness>
+
+<witness xml:id="s_theo" corresp="#s_theo1 #s_theo2 #s_theo4" display="book(suppress)">
+<siglum rend="smcaps">theo</siglum>
+</witness>
+	
+<witness xml:id="s_f" corresp="#s_f1" display="book(suppress)">
+<siglum rend="smcaps">F</siglum>
+</witness>
+	
+<witness xml:id="s_and" corresp="#s_and1 #s_and2" display="book(suppress)">
+<siglum rend="smcaps">and</siglum>
 </witness>
 
 </listWit>
@@ -1687,7 +1738,7 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 
 <item>
 <abbr><title level="m">BEPD</title></abbr>
-<expan>W. W. Greg. <title level="m">Bibliography of the English Printed Drama</title> (4 vols 1939–59)</expan>
+<expan>W. W. Greg. <title level="m">Bibliography of the English Printed Drama</title> (4 vols. 1939–59)</expan>
 </item>
 
 <item>
@@ -2644,20 +2695,20 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 <abbr><title level="j">ShakB</title></abbr>
 <expan><title level="j">Shakespeare Bulletin</title> (New York Sh. Soc.)</expan>
 </item>
-
+	
 <item>
 <abbr><title level="j">ShakS</title></abbr>
 <expan><title level="j">Shakespeare Studies</title></expan>
+</item>
+	
+<item>
+<abbr>ShE</abbr>
+<expan>Shakespeare’s English</expan>
 </item>
 
 <item>
 <abbr>Sh(n).</abbr>
 <expan>Shakespeare(an) (any spelling)</expan>
-</item>
-
-<item>
-<abbr>ShE</abbr>
-<expan>Shakespeare’s English</expan>
 </item>
 
 <item>
@@ -2912,7 +2963,7 @@ Wilson’s (<siglum><hi rend="smcaps">cam</hi>3a</siglum>) version of the stage 
 
 <item>
 <abbr>v.</abbr>
-<expan>verb; verse; <foreign xml:lang="la" rend="italic">vide</foreign>, see</expan>
+<expan>verb; verse; <hi rend="italic">vide</hi>, see</expan>
 </item>
 
 <item>
