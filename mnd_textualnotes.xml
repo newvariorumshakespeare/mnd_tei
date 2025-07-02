@@ -1971,7 +1971,7 @@
 <note type="textual" xml:id="tn_1436" target="#tln_1436"><label>1436</label>
 <app><appPart><rdgDesc><hi rend="italic">Exit marked by</hi></rdgDesc> <wit><siglum rend="smcaps">rowe1</siglum>&plus;</wit></appPart></app></note>
 
-<note type="textual" xml:id="tn_1437-01" target="#tln_1437" targetEnd="#tln_1439"><label>1437–9</label>
+<note type="textual" xml:id="tn_1437-01" target="#tln_1437-1438" targetEnd="#tln_1438-1439"><label>1437–9</label>
 <app><appPart><rdgDesc><hi rend="italic">Two verse lines ending</hi> down:&hellip;downe.</rdgDesc> <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">prose</hi></rdgDesc> <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">four verse lines ending</hi> down,&hellip;down:&hellip;town.&hellip;down.</rdgDesc> <wit><siglum rend="smcaps">pope1</siglum>&plus;</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1437-02" target="#tln_1437"><label>1437</label>
