@@ -1204,7 +1204,7 @@
 <app><lem><hi rend="italic">Sn.</hi></lem>] <appPart><rdg type="replace"><hi rend="italic">Snug.</hi></rdg> <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">oxf</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">cam4</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">Snout.</hi></rdg> <wit><siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;<siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">ban2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0865" target="#tln_0865"><label>865</label>
-<app><appPart><rdg type="insert"><hi rend="italic">Enter Pucke.</hi></rdg> <wit><siglum>Ff</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum></wit></appPart></app></note>
+<app><appPart><rdg type="replace"><hi rend="italic">Enter Pucke.</hi></rdg> <wit><siglum>Ff</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_0866" target="#tln_0866"><label>866</label>
 <app><appPart><rdgDesc><hi rend="italic">Given to Flute</hi></rdgDesc> <wit><siglum rend="smcaps">set</siglum>, <siglum rend="smcaps">lev</siglum></wit></appPart></app></note>
