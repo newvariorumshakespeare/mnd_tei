@@ -1515,7 +1515,7 @@
 <note type="textual" xml:id="tn_1065" target="#tln_1065"><label>1065</label>
 <app><appPart><rdgDesc>Ad. <rdg type="insert"><hi rend="italic">They stand apart.</hi></rdg></rdgDesc> <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app></note>
 
-<note type="textual" xml:id="tn_1071-01" target="#tln_1071" targetEnd="#tln_1072"><label>1071–2</label>
+<note type="textual" xml:id="tn_1071-01" target="#tln_1071-1072"><label>1071–2</label>
 <app><appPart><rdgDesc><hi rend="italic">One line</hi></rdgDesc> <wit><siglum>Qq</siglum>, <siglum rend="smcaps">rowe1</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">two lines ending</hi> kill&hellip;too</rdgDesc> <wit><siglum>F1</siglum>&sigrange;<siglum>F3</siglum></wit></appPart>; <appPart><rdgDesc>me&hellip;too</rdgDesc> <wit><siglum>F4</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">two verse lines ending</hi> deep&hellip;too</rdgDesc> <wit><siglum rend="smcaps">rowe3</siglum>&plus;</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1071-02" target="#tln_1071"><label>1071</label>
