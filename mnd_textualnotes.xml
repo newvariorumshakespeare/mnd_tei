@@ -2462,7 +2462,7 @@
 <note type="textual" xml:id="tn_1710-01" target="#tln_1710" targetEnd="#tln_1711"><label>1710–11</label>
 <app><appPart><rdgDesc><hi rend="italic">One line</hi></rdgDesc> <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdgDesc>Come <hi rend="italic">Hyppolita.</hi> on a separate line</rdgDesc> <wit><siglum>Q2</siglum>&plus;</wit></appPart></app></note>
 
-    <note type="textual" xml:id="tn_1710-02" target="#tln_1710-1711"><label display="all(invisible)">1710–11</label>
+<note type="textual" xml:id="tn_1710-02" target="#tln_1710-1711"><label display="all(invisible)">1710–11</label>
 <app><lem>Come</lem>] <appPart><rdg type="replace">Come my</rdg> <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1710-03" target="#tln_1710" targetEnd="#tln_1711"><label display="all(invisible)">1710–11</label>
@@ -2508,7 +2508,7 @@
 <app><appPart><rdgDesc><hi rend="italic">Exit marked by</hi></rdgDesc> <wit><siglum>Q2</siglum>, <siglum rend="smcaps">rowe1</siglum>&plus;</wit></appPart>; <appPart><rdgDesc>after <hi rend="italic">wakes</hi> on <ref targType="lb" target="#tln_1727">1727</ref></rdgDesc> <wit><siglum>Ff</siglum> <note place="inline">(<hi rend="italic">Exit Louers.</hi>)</note></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1727-01" target="#tln_1727"><label>1727</label>
-<app><appPart><rdg type="replace"><hi rend="italic">Bottome wakes. Exit Louers.</hi></rdg> <wit><siglum>F1</siglum>&plus;</wit></appPart></app></note>
+    <app><lem>Bottome&hellip;Louers.</lem>]<appPart><rdg type="replace"><hi rend="italic">Bottome wakes. Exit Louers.</hi></rdg> <wit><siglum>F1</siglum>&plus;</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1727-02" target="#tln_1727"><label display="all(invisible)">1727</label>
 <app><appPart><rdg type="insert">SCENE III.</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit></appPart></app></note>
@@ -2565,7 +2565,7 @@
 <app><lem><hi rend="italic">Quin.</hi></lem>] <appPart><rdg type="replace"><hi rend="italic">Snug.</hi></rdg> <wit><siglum rend="smcaps">reyn</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">Snout.</hi></rdg> <wit><ref targType="bibl" target="#b_magw1837"><name type="app">maginn</name></ref> (1837, p. 372) <hi rend="italic">conj.</hi>, <siglum rend="smcaps">phel</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps">nlsn</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1759" target="#tln_1759" targetEnd="#tln_1760"><label>1759–60</label>
-<app><appPart><rdgDesc><hi rend="italic">Given to Quince</hi></rdgDesc> <wit><siglum rend="smcaps">phel</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">hal</siglum></wit></appPart></app></note>
+<app><lem>This.&hellip;God</lem>]<appPart><rdgDesc><hi rend="italic">Given to Quince</hi></rdgDesc> <wit><siglum rend="smcaps">phel</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">hal</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_1760" target="#tln_1760"><label>1760</label>
 <app><lem>nought</lem>] <appPart><rdg type="replace">naught</rdg> <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">theo4</siglum> (&minus;<siglum rend="smcaps">pope</siglum>), <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>&plus; (&minus;<siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">and2</siglum>)</wit></appPart></app></note>
