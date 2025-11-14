@@ -1006,19 +1006,19 @@
 
         <note type="textual" xml:id="tn_0266-01" target="#tln_0266">
             <label>266</label>
-            <app><appPart><rdg type="insert">SCENE IV.</rdg>
+            <app><lem>Enter Quince, the Carpenter; and Snugge, the Ioyner; and Bottom,</lem>]<appPart><rdg type="replace">SCENE IV. Enter Quince, the Carpenter; and Snugge, the Ioyner; and Bottom,</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps"
-                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="insert"><hi rend="italic"
-                            >SCENE II.</hi></rdg>
+                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
+                                >SCENE II. Enter Quince, the Carpenter; and Snugge, the Ioyner; and Bottom,</hi></rdg>
                     <wit><siglum rend="smcaps">cap</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0266-02" target="#tln_0266">
             <label display="all(invisible)">266</label>
-            <app>
+            <app><lem>Enter Quince, the Carpenter; and Snugge, the Ioyner; and Bottom,</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE <hi rend="italic">changes to a Cottage.</hi></rdg>
+                    <rdg type="replace">SCENE <hi rend="italic">changes to a Cottage. Enter Quince, the Carpenter; and Snugge, the Ioyner; and Bottom,</hi></rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
                             >sis</siglum> (<hi rend="italic">subst.</hi>)</wit>
                 </appPart>
