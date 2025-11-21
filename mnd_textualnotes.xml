@@ -1217,7 +1217,7 @@
                             <siglum rend="smcaps">col1</siglum>&sigrange;<siglum rend="smcaps"
                             >col2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum
                             rend="smcaps">wh1</siglum>, <siglum rend="smcaps">ard1</siglum>,
-                                <siglum><hi rend="smcaps">cam</hi>3a</siglum></wit></appPart></app>
+                                <siglum rend="smcaps">cam3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0314" target="#tln_0314">
@@ -1229,7 +1229,7 @@
                         listen</rdg>
                     <wit><siglum rend="smcaps">wh2</siglum></wit></appPart>; <appPart><rdg
                         type="replace">thisne, thisne</rdg>
-                    <wit><siglum><hi rend="smcaps">cam</hi>3a</siglum>, <siglum rend="smcaps"
+                    <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
                             >rid</siglum></wit></appPart></app>
         </note>
 
@@ -1313,8 +1313,8 @@
             <app><lem>if</lem>] <appPart><rdg type="replace">if that</rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>,
                             <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>,
-                            <siglum rend="smcaps">rltr</siglum>, <siglum><hi rend="smcaps"
-                            >cam</hi>3a</siglum></wit></appPart></app>
+                            <siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps"
+                            >cam3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0344" target="#tln_0344">
@@ -1444,9 +1444,9 @@
 
         <note type="textual" xml:id="tn_0372-02" target="#tln_0372">
             <label display="all(invisible)">372</label>
-            <app><appPart><rdg type="insert">SCENE I.</rdg>
+            <app><lem>Actus Secundus.</lem>]<appPart><rdg type="replace">SCENE I.</rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >theo</siglum>)</wit></appPart>; <appPart><rdg type="insert">Act Second
+                            >theo</siglum>)</wit></appPart>; <appPart><rdg type="replace">Act Second
                             <anchor type="marker" marker="|"/> Act Third <anchor type="marker"
                             marker="|"/> Act Fourth: SCENE I</rdg>
                     <wit><siglum rend="smcaps">rid</siglum></wit></appPart></app>
@@ -1454,10 +1454,10 @@
 
         <note type="textual" xml:id="tn_0372-03" target="#tln_0372">
             <label display="all(invisible)">372</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">The Wood.</hi></rdg>
+            <app><appPart><lem>Actus Secundus.</lem>]<rdg type="replace"><hi rend="italic">The Wood.</hi></rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg type="insert"
+                            >rann</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg type="replace"
                                 ><hi rend="italic">near Athens.</hi></rdg></rdgDesc>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
                             >mal</siglum>&sigrange;<siglum rend="smcaps"
@@ -2691,8 +2691,8 @@
         <note type="textual" xml:id="tn_0616" target="#tln_0616">
             <label>616</label>
             <app><appPart><rdgDesc><hi rend="italic">Exit for Demetrius marked by</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">set</siglum>, <siglum><hi rend="smcaps"
-                            >cam</hi>3a</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum
+                    <wit><siglum rend="smcaps">set</siglum>, <siglum rend="smcaps"
+                            >cam3</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum
                             rend="smcaps">and1</siglum></wit></appPart>; <appPart><rdgDesc><hi
                             rend="italic">after</hi>
                         <ref targType="lb" target="#tln_0621">621</ref></rdgDesc>
@@ -3609,7 +3609,7 @@
                             >sis</siglum>, <siglum><hi rend="smcaps"
                     >cam</hi>3b</siglum></wit></appPart>; <appPart><rdg type="replace">shows
                         an</rdg>
-                    <wit><siglum><hi rend="smcaps">cam</hi>3a</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">cam3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0760" target="#tln_0760">
@@ -4110,7 +4110,7 @@
                             <siglum rend="smcaps">john1</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>,
                             <siglum rend="smcaps">ard</siglum>, <siglum rend="smcaps">nlsn</siglum>,
-                                <siglum><hi rend="smcaps">cam</hi>3a</siglum>, <siglum rend="smcaps"
+                                <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
                             >alex</siglum>, <siglum rend="smcaps"
                 >evns</siglum></wit></appPart></app>
         </note>
@@ -4173,8 +4173,8 @@
                             rend="smcaps">sis</siglum>, <siglum rend="smcaps"
                         >oxf2</siglum>&plus;</wit></appPart>; <appPart><rdg type="replace">Odorous,
                         odorous</rdg>
-                    <wit><siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum><hi rend="smcaps"
-                                >cam</hi>3a</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
+                    <wit><siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps"
+                                >cam3</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
                             rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps"
                         >ard2</siglum></wit></appPart>; <appPart><rdg type="replace"
                             ><quote>Odious</quote>-odorous</rdg>
@@ -6099,8 +6099,8 @@
             <app><appPart><rdg type="insert"><hi rend="italic">Holding him.</hi></rdg>
                     <wit><siglum>m<hi rend="smcaps">jenn</hi></siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col2</siglum>, <siglum
-                            rend="smcaps">irv</siglum>, <siglum><hi rend="smcaps"
-                            >cam</hi>3a</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum
+                            rend="smcaps">irv</siglum>, <siglum rend="smcaps"
+                            >cam3</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum
                             rend="smcaps">and1</siglum>, <siglum rend="smcaps">folg2</siglum>,
                             <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">dig</siglum>
                             (<hi rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdgDesc><hi
@@ -6148,8 +6148,8 @@
                         heele)</note></wit></appPart>; <appPart><rdgDesc><hi rend="italic">marked
                             with an obelus</hi> [†] <hi rend="italic">as a corrupt
                         passage</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">glo</siglum>, <siglum><hi rend="smcaps"
-                            >cam</hi>3a</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps"
+                            >cam3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1287-03" target="#tln_1287">
@@ -6603,7 +6603,7 @@
                             rend="italic">at</hi>
                         <ref targType="lb" target="#tln_1386">1386</ref></rdgDesc>
                     <wit><siglum rend="smcaps">col2</siglum> (<hi rend="italic">Coming
-                        forward.</hi>), <siglum><hi rend="smcaps">cam</hi>3a</siglum>, <siglum
+                        forward.</hi>), <siglum rend="smcaps">cam3</siglum>, <siglum
                             rend="smcaps">pel3</siglum> (<hi rend="italic"
                     >subst.</hi>)</wit></appPart>; <appPart><rdgDesc><hi rend="italic">after</hi>
                         <ref targType="lb" target="#tln_1387">1387</ref></rdgDesc>
@@ -8094,7 +8094,7 @@
                     <wit><siglum rend="smcaps">oxf1</siglum></wit></appPart>; <appPart><rdg
                         type="replace">music&hellip;<hi rend="italic">the music waxes
                         loud</hi></rdg>
-                    <wit><siglum><hi rend="smcaps">cam</hi>3a</siglum>, <siglum rend="smcaps"
+                    <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
                             >evns</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum
                             rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
                             >folg2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum> (<hi
@@ -9744,7 +9744,7 @@
                         <hi rend="italic">Exit.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>,
-                                <siglum><hi rend="smcaps">cam</hi>3a</siglum>, <siglum rend="smcaps"
+                                <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
                             >folg2</siglum> (<hi rend="italic">subst.</hi>)</wit>
                 </appPart>
             </app>
@@ -9853,7 +9853,7 @@
                     <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
                             >wh2</siglum> (&minus;<siglum rend="smcaps">cam1</siglum>, <siglum
                             rend="smcaps">glo</siglum>), <siglum rend="smcaps">oxf</siglum>,
-                                <siglum><hi rend="smcaps">cam</hi>3a</siglum> (<hi rend="italic"
+                                <siglum rend="smcaps">cam3</siglum> (<hi rend="italic"
                             >subst.</hi>)</wit></appPart></app>
         </note>
 
