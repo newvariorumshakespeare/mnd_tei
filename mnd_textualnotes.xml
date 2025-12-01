@@ -1466,7 +1466,7 @@
 
         <note type="textual" xml:id="tn_0373" target="#tln_0373" targetEnd="#tln_0374">
             <label>373–4</label>
-            <app><lem><hi rend="italic">at one doore</hi>&hellip;<hi rend="italic">and Robin
+            <app><lem><hi rend="italic">at one doore, and Robin
                         good-fellow at another</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">and Robin good-fellow from opposite Sides</hi></rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
@@ -1882,9 +1882,9 @@
 
         <note type="textual" xml:id="tn_0432-02" target="#tln_0432">
             <label>432</label>
-            <app>
+            <app><lem>Enter the King of Fairies, at one doore, with his traine;</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE II.</rdg>
+                    <rdg type="replace">SCENE II. Enter the King of Fairies, at one doore, with his traine;</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
@@ -2488,9 +2488,9 @@
 
         <note type="textual" xml:id="tn_0566" target="#tln_0566">
             <label>566</label>
-            <app>
+            <app>><lem>>Enter Demetrius, Helena following him.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE III.</rdg>
+                    <rdg type="replace">SCENE III. Enter Demetrius, Helena following him.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
                 </appPart>
