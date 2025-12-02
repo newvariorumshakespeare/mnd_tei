@@ -2488,7 +2488,7 @@
 
         <note type="textual" xml:id="tn_0566" target="#tln_0566">
             <label>566</label>
-            <app>><lem>>Enter Demetrius, Helena following him.</lem>]
+            <app>><lem>Enter Demetrius, Helena following him.</lem>]
                 <appPart>
                     <rdg type="replace">SCENE III. Enter Demetrius, Helena following him.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
@@ -3331,9 +3331,9 @@
 
         <note type="textual" xml:id="tn_0686" target="#tln_0686">
             <label>686</label>
-            <app>
+            <app>><lem>Enter Lysander: and Hermia.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE VI.</rdg>
+                    <rdg type="replace">SCENE VI. Enter Lysander: and Hermia.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
                 </appPart>
@@ -3540,9 +3540,9 @@
 
         <note type="textual" xml:id="tn_0737" target="#tln_0737">
             <label>737</label>
-            <app>
+            <app>><lem>Enter Demetrius and Helena running.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE VII.</rdg>
+                    <rdg type="replace">SCENE VII. Enter Demetrius and Helena running.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
                 </appPart>
@@ -4093,9 +4093,9 @@
 
         <note type="textual" xml:id="tn_0888-01" target="#tln_0888">
             <label>888</label>
-            <app>
+            <app><lem>Enter Robin.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE II.</rdg>
+                    <rdg type="replace">SCENE II. Enter Robin.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum></wit>
                 </appPart>
@@ -4450,7 +4450,7 @@
 
         <note type="textual" xml:id="tn_0927" target="#tln_0927">
             <label>927</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Enter Piramus with the Asse
+            <app><lem>Enter Piramus with the Asse head.</lem>]<appPart><rdg type="replace"><hi rend="italic">Enter Piramus with the Asse
                             head.</hi></rdg>
                     <wit><siglum>Ff</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic"
                             >as</hi>
@@ -4984,20 +4984,20 @@
 
         <note type="textual" xml:id="tn_1021-01" target="#tln_1021">
             <label>1021</label>
-            <app><appPart><rdg type="insert">SCENE IV.</rdg>
+            <app><lem>Enter King of Fairies, and Robin goodfellow.</lem>]<appPart><rdg type="replace">SCENE IV. Enter King of Fairies, and Robin goodfellow.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps"
-                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="insert"><hi rend="italic"
-                            >SCENE II.</hi></rdg>
+                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
+                                >SCENE II. Enter King of Fairies, and Robin goodfellow.</hi></rdg>
                     <wit><siglum rend="smcaps">cap</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >rid</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1021-02" target="#tln_1021">
             <label display="all(invisible)">1021</label>
-            <app>
+            <app><lem>Enter King of Fairies, and Robin goodfellow.</lem>]
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">Another Part of the Wood.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
