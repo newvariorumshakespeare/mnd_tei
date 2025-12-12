@@ -4986,7 +4986,8 @@
             <label>1021</label>
             <app><lem>Enter King of Fairies, and Robin goodfellow.</lem>]<appPart><rdg type="replace">SCENE IV. Enter King of Fairies solus.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
+                            >john1</siglum>(&minus;<siglum rend="smcaps"
+                                >theo</siglum>)</wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
                                 >SCENE II. Enter King of Fairies.</hi></rdg>
                                 <wit><siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>,<siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum>
                             </wit></appPart></app>
@@ -4997,7 +4998,7 @@
             <app><lem>Enter King of Fairies, and Robin goodfellow.</lem>]
                 <appPart>
                     <rdg type="replace">
-                        <hi rend="italic">Another Part of the Wood. Enter King of the Fairies.</hi>
+                        <hi rend="italic">Scene II. Another Part of the Wood. Enter King of Fairies.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
                             >mal</siglum>&sigrange;<siglum rend="smcaps">cam3</siglum>, <siglum
@@ -5013,7 +5014,7 @@
                         >&swdash;</rdg>
                     <wit><siglum>Qq</siglum></wit></appPart>; <appPart><rdg type="replace"><hi
                             rend="italic">solus.</hi></rdg>
-                        <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum rend="smcaps">rid</siglum>(<hi rend="italic"
+                        <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">rid</siglum>(<hi rend="italic"
                 >subst.</hi>)</wit></appPart></app>
         </note>
 
