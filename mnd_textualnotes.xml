@@ -44,15 +44,18 @@
 
         <note type="textual" xml:id="tn_0001-03" target="#tln_0001">
             <label display="all(invisible)">1</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">ATHENS</hi></rdg>
+            <app><lem>Actus primus.</lem>]
+                <appPart><rdg type="replace"><hi rend="italic">Actus primus. ATHENS</hi></rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
-                        >han1</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE, <hi
+                        >han1</siglum></wit></appPart>; 
+                <appPart><lem>Actus primus.</lem>]
+                    <rdg type="replace">Actus primus. SCENE, <hi
                             rend="italic">the Duke’s Palace in</hi> Athens</rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
+                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps"
                             >ard1</siglum>, <siglum rend="smcaps">nlsn</siglum>&sigrange;<siglum
                             rend="smcaps">sis</siglum> (<hi rend="italic"
-                    >subst.</hi>)</wit></appPart>; <appPart><rdg type="insert"><hi rend="italic"
-                            >Athens. An open place.</hi></rdg>
+                                >subst.</hi>)</wit></appPart>;<appPart><lem>Actus primus.</lem>]<rdg type="replace"><hi rend="italic"
+                            >Actus primus. Athens. An open place.</hi></rdg>
                     <wit><siglum rend="smcaps">rltr</siglum></wit></appPart></app>
         </note>
 
