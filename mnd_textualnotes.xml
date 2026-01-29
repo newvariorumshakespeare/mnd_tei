@@ -62,14 +62,7 @@
         <note type="textual" xml:id="tn_0002-01" target="#tln_0002">
             <label>2</label>
             <app><lem>Hippolita,</lem>] <appPart><rdg type="replace">Hippolita, Philostrate</rdg>
-                    <wit><siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart>;
-            <appPart><lem>Hippolita, with others</lem>]<rdg type="replace">Hippolita, Philostrate with Attendants</rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>,&sigrange;<siglum rend="smcaps"
-                            >ard1</siglum>, <siglum rend="smcaps"
-                                >cam3</siglum>, <siglum rend="smcaps"
-                                    >rid</siglum>, <siglum rend="smcaps"
-                                        >alex</siglum>,&sigrange;<siglum rend="smcaps"
-                                            >ard2</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
         
 
@@ -78,7 +71,14 @@
             <app><lem><hi rend="italic">others</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">Attendants</hi></rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >pope2</siglum></wit></appPart></app>
+                            >pope2</siglum></wit></appPart>; 
+                <appPart><lem>Hippolita, with others</lem>]<rdg type="replace">Hippolita, Philostrate with Attendants</rdg>
+                    <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
+                            >ard1</siglum>, <siglum rend="smcaps"
+                                >cam3</siglum>, <siglum rend="smcaps"
+                                    >rid</siglum>, <siglum rend="smcaps"
+                                        >alex</siglum>&sigrange;<siglum rend="smcaps"
+                                            >ard2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0006" target="#tln_0006">
