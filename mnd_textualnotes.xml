@@ -411,8 +411,7 @@
                             rend="italic">Manet Lysander and Hermia.</hi></rdg>
                     <wit><siglum>Ff</siglum></wit></appPart>; <appPart><rdg type="replace"><hi
                             rend="italic">Manent Lysander and Hermia.</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
+                        <wit><siglum rend="smcaps">rowe1</siglum>, <siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
                             rend="smcaps">evns</siglum></wit></appPart>; <appPart><rdg
                         type="replace"><hi rend="italic">Exeunt</hi>
                         <hi rend="lscaps">The. Hip. Ege. Dem.</hi>
