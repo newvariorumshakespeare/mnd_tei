@@ -1013,12 +1013,10 @@
             <app><lem>Enter Quince, the Carpenter; and Snugge, the Ioyner; and
                         Bottom,</lem>]<appPart><rdg type="replace">SCENE IV. Enter Quince, the
                         Carpenter; and Snugge, the Ioyner; and Bottom,</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum> (&minus;<siglum rend="smcaps"
-                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
+                            <wit><siglum rend="smcaps">pope1</siglum>, <siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
                             >SCENE II. Enter Quince, the Carpenter; and Snugge, the Ioyner; and
                             Bottom,</hi></rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum rend="smcaps">pel1</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0266-02" target="#tln_0266">
@@ -1026,9 +1024,16 @@
             <app><lem>Enter Quince, the Carpenter; and Snugge, the Ioyner; and Bottom,</lem>] <appPart>
                     <rdg type="replace">SCENE <hi rend="italic">changes to a Cottage. Enter Quince,
                             the Carpenter; and Snugge, the Ioyner; and Bottom,</hi></rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
-                            >sis</siglum> (<hi rend="italic">subst.</hi>)</wit>
-                </appPart>
+                    <wit><siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps">theo4</siglum></wit>
+                </appPart>;
+                <appPart><rdg type="replace">SCENE II. <hi rend="italic">changes to a Cottage. Enter Quince,
+                                the Carpenter; and Snugge, the Ioyner; and Bottom,</hi></rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
+                            >sis</siglum></wit></appPart>;
+                <appPart><rdg type="replace">SCENE IV. <hi rend="italic">changes to a Cottage. Enter Quince,
+                            the Carpenter; and Snugge, the Ioyner; and Bottom,</hi></rdg>
+                    <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
+                            >john1</siglum></wit></appPart>
             </app>
         </note>
 
