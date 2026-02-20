@@ -1448,30 +1448,33 @@
             <label>372</label>
             <app><lem>Actus Secundus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
                             Secundus.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum>F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0372-02" target="#tln_0372">
             <label display="all(invisible)">372</label>
-            <app><lem>Actus Secundus.</lem>]<appPart><rdg type="replace">SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >theo</siglum>)</wit></appPart>; <appPart><rdg type="replace">Act Second
+            <app><lem>Actus Secundus.</lem>]<appPart><rdg type="replace">Act II. SCENE I.</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>, <siglum rend="smcaps">rowe3</siglum>,
+                        <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">Act Second
                             <anchor type="marker" marker="|"/> Act Third <anchor type="marker"
-                            marker="|"/> Act Fourth: SCENE I</rdg>
+                            marker="|"/> Act Fourth: SCENE I. The Wood near Athens.</rdg>
                     <wit><siglum rend="smcaps">rid</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0372-03" target="#tln_0372">
             <label display="all(invisible)">372</label>
-            <app><appPart><lem>Actus Secundus.</lem>]<rdg type="replace"><hi rend="italic">The
+            <app><appPart><lem>Actus Secundus.</lem>]<rdg type="replace"><hi rend="italic">Act II. SCENE I. The
                             Wood.</hi></rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
                             >rann</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg
-                            type="replace"><hi rend="italic">near Athens.</hi></rdg></rdgDesc>
+                            type="replace"><hi rend="italic">Act II. SCENE I. The Wood near Athens.</hi></rdg></rdgDesc>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
                             >mal</siglum>&sigrange;<siglum rend="smcaps"
-                    >sis</siglum></wit></appPart></app>
+                                >cam3</siglum>, <siglum rend="smcaps"
+                                    >kit1</siglum>&sigrange;<siglum rend="smcaps"
+                                        >sis</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0373" target="#tln_0373" targetEnd="#tln_0374">
