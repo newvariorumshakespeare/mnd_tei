@@ -1011,8 +1011,9 @@
         <note type="textual" xml:id="tn_0266-01" target="#tln_0266">
             <label>266</label>
             <app><lem>Enter Quince, the Carpenter; and Snugge, the Ioyner; and
-                        Bottom,</lem>]<appPart><rdg type="replace">SCENE IV. Enter Quince, the
-                        Carpenter; and Snugge, the Ioyner; and Bottom,</rdg>
+                    Bottom,</lem>]<appPart><rdg type="replace"><hi rend="italic"
+                                >SCENE IV. Enter Quince, the
+                        Carpenter; and Snugge, the Ioyner; and Bottom,</hi></rdg>
                             <wit><siglum rend="smcaps">pope1</siglum>, <siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
                             >SCENE II. Enter Quince, the Carpenter; and Snugge, the Ioyner; and
                             Bottom,</hi></rdg>
