@@ -1901,8 +1901,11 @@
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum>, <siglum>v1793</siglum>&sigrange;<siglum>v1821</siglum>,
-                            <siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">knt</siglum>,
+                            >rann</siglum>, <siglum>v1793</siglum>&sigrange;<siglum>v1821</siglum></wit></appPart>;
+                <appPart>
+                    <rdg type="replace">SCENE II. Enter the King of Fairies, at one Side, with his
+                        traine;</rdg>
+                    <wit><siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">knt</siglum>,
                             <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps"
                         >ktly</siglum></wit>
                 </appPart>
@@ -1914,7 +1917,11 @@
             <app><lem><hi rend="italic">doore</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">Side</hi></rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
-                            >knt1</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum
+                            >col1</siglum>&sigrange;<siglum rend="smcaps">col2</siglum>,<siglum rend="smcaps"
+                                >hal</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps"
+                                    >wh1</siglum>&sigrange;<siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
+                                        >glo</siglum>, <siglum rend="smcaps"
+                                            >col4</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum
                             rend="smcaps">rid</siglum></wit></appPart>; <appPart><rdg type="replace"
                             ><hi rend="italic">om.</hi></rdg>
                     <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">sis</siglum>
