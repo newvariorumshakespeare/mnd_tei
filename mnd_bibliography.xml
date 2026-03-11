@@ -2530,7 +2530,7 @@
 
 <bibl xml:id="b_knor1982"><author display="book(ldash)">Knowles, Richard</author>. <title level="a">The Printing of the Second Quarto (1619) of <title level="m">King Lear</title>.</title> <title level="j">SB</title> <biblScope type="vol">35</biblScope> (<date>1982</date>), <biblScope type="pages">191–206</biblScope>.</bibl>
     
-<bibl xml:id="b_knor0001"><author display="book(ldash)">Knowles, Richard</author>. <note place="inline">Private contributor</note>.</bibl>
+    <bibl xml:id="b_knor0001"><author display="book(ldash)">Knowles, Richard</author>. <note place="inline">Private corrrespondence in his capacity as former General Editor (c. 2009)</note>.</bibl>
 
 <bibl xml:id="b_knur1991"><author>Knutson, Roslyn Lander</author>. <title level="m">The Repertory of Shakespeare’s Company 1594–1613</title>. <pubPlace>Fayetteville, Ar.</pubPlace>, <date>1991</date>.</bibl>
 
