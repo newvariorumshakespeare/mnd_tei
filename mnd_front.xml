@@ -908,6 +908,10 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <siglum rend="smcaps">pope</siglum>
 </witness>
 	
+<witness xml:id="s_dyce" corresp="#s_dyce1 #s_dyce2" display="book(suppress)">
+		<siglum rend="smcaps">dyce</siglum>
+	</witness>	
+	
 <witness xml:id="s_sing" corresp="#s_sing1 #s_sing2" display="book(suppress)">
 		<siglum rend="smcaps">sing</siglum>
 </witness>
