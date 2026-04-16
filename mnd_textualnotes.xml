@@ -3780,8 +3780,7 @@
             <label>812</label>
             <app><lem>Actus Tertius.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
                             Tertius.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                    >rid</siglum>)</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum>F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0812-02" target="#tln_0812">
@@ -3789,18 +3788,18 @@
             <app>
                 <appPart>
                     <rdg type="insert">SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >theo</siglum>, <siglum rend="smcaps">rid</siglum>)</wit>
+                    <wit><siglum rend="smcaps">rowe1</siglum><siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps"
+                            >dig</siglum></wit>
                 </appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_0812-03" target="#tln_0812">
             <label display="all(invisible)">812</label>
-            <app>
+            <app><lem>Actus Tertius.</lem>]
                 <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">The Wood.</hi>
+                    <rdg type="replace">
+                        <hi rend="italic">Actus Tertius. SCENE I. The Wood.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >sis</siglum> (&minus;<siglum rend="smcaps">rid</siglum>, <siglum
