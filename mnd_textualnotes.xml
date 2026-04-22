@@ -3813,17 +3813,18 @@
             <app><lem><hi rend="italic">the Clownes.</hi></lem>] <appPart><rdg type="replace"
                         >Quince, Snug, Bottom, Flute, Snowt <hi rend="italic">and</hi>
                         Starveling.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >rltr</siglum>, <siglum rend="smcaps"
-                >and</siglum>)</wit></appPart></app>
+                    <wit><siglum rend="smcaps">cam3</siglum>,<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps"
+                                >pel1</siglum>, <siglum rend="smcaps"
+                                    >evns</siglum>, oxf2</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0813-02" target="#tln_0813">
             <label display="all(invisible)">813</label>
-            <app>
+            <app><lem><hi rend="italic">the Clownes.</hi></lem>]
                 <appPart>
                     <rdg type="replace">
-                        <hi rend="italic">The Queen of Fairies lying asleep.</hi>
+                        <hi rend="italic">Enter Quince, Snug, Bottom, Flute, Snowt and
+                            Starveling. The Queen of Fairies lying asleep.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >cam3</siglum>, <siglum rend="smcaps">rid</siglum>, <siglum
