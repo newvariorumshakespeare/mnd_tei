@@ -3815,7 +3815,9 @@
                         Starveling.</rdg>
                     <wit><siglum rend="smcaps">cam3</siglum>,<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps"
                                 >pel1</siglum>, <siglum rend="smcaps"
-                                    >evns</siglum>, oxf2</wit></appPart></app>
+                                    >evns</siglum>, <siglum rend="smcaps"
+                                        >pel1</siglum>, <siglum rend="smcaps"
+                                            >oxf2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0813-02" target="#tln_0813">
