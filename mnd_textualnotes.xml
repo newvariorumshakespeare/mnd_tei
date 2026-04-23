@@ -4718,7 +4718,7 @@
                             >subst.</hi>)</wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0981-01" target="#tln_0981">
+        <note type="textual" xml:id="tn_0981https://newvariorumshakespeare.org/-01" target="#tln_0981">
             <label>981</label>
             <app><lem><hi rend="italic">Fairies.</hi>&hellip;and I, and I,</lem>]
                         <appPart><rdgDesc>on three separate lines <rdg type="insert"><hi
@@ -5006,7 +5006,7 @@
             <label display="all(invisible)">1021</label>
             <app><lem>Enter King of Fairies, and Robin goodfellow.</lem>] <appPart>
                     <rdg type="replace">
-                        <hi rend="italic">Scene II. Another Part of the Wood. Enter King of
+                        <hi rend="italic">SCENE II. Another Part of the Wood. Enter King of
                             Fairies.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
@@ -5030,7 +5030,7 @@
 
         <note type="textual" xml:id="tn_1025" target="#tln_1025">
             <label>1025</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Enter Pucke.</hi></rdg>
+            <app><lem>Enter Pucke.</lem>] <appPart><rdg type="replace"><hi rend="italic">Enter Pucke.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">stau</siglum>, <siglum
                             rend="smcaps">col3</siglum>&sigrange;<siglum rend="smcaps"
                         >cam1</siglum>, <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum
