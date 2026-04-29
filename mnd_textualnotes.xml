@@ -7034,7 +7034,7 @@
             <app><lem>Robin, <hi rend="italic">and</hi> Demetrius.</lem>] <appPart><rdg type="lem"
                         >&swdash;</rdg>
                     <wit><siglum>Qq</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg
-                            type="insert"><hi rend="italic">Enter</hi></rdg></rdgDesc>
+                                type="replace"><hi rend="italic">Enter</hi> Robin, <hi rend="italic">and</hi> Demetrius. </rdg></rdgDesc>
                     <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
         </note>
 
@@ -7117,10 +7117,10 @@
 
         <note type="textual" xml:id="tn_1478" target="#tln_1478">
             <label>1478</label>
-            <app><appPart><rdg type="insert">SCENE X.</rdg>
+            <app><lem>Enter Helena</lem>]<appPart><rdg type="replace">SCENE X. Enter Helena.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">SCENE IX.</rdg>
+                        type="replace">SCENE IX. Enter Helena.</rdg>
                     <wit><siglum rend="smcaps">john1</siglum></wit></appPart></app>
         </note>
 
