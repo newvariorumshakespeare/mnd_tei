@@ -5182,9 +5182,9 @@
 
         <note type="textual" xml:id="tn_1063" target="#tln_1063">
             <label>1063</label>
-            <app>
+            <app><lem>Enter Demetrius and Hermia.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE V.</rdg>
+                    <rdg type="replace">SCENE V. Enter Demetrius and Hermia.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
                 </appPart>
@@ -5540,9 +5540,9 @@
 
         <note type="textual" xml:id="tn_1146" target="#tln_1146">
             <label>1146</label>
-            <app><appPart><rdg type="insert">SCENE VII.</rdg>
+            <app><lem>Enter Lysander, and Helena.</lem>]<appPart><rdg type="replace">SCENE VII. Enter Lysander, and Helena.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
-                        >han1</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE VI.</rdg>
+                            >han1</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE VI. Enter Lysander, and Helena.</rdg>
                     <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john1</siglum></wit></appPart></app>
         </note>
@@ -5748,9 +5748,9 @@
 
         <note type="textual" xml:id="tn_1203-01" target="#tln_1203">
             <label>1203</label>
-            <app><appPart><rdg type="insert">SCENE VIII</rdg>
+            <app><lem><hi rend="italic">Enter</hi> Hermia.</lem>]<appPart><rdg type="replace">SCENE VIII. Enter Hermia.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
-                        >han1</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE VII</rdg>
+                            >han1</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE VII. Enter Hermia.</rdg>
                     <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john1</siglum></wit></appPart></app>
         </note>
