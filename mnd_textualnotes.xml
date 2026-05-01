@@ -7409,7 +7409,7 @@
             <app><lem>Actus Quartus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
                             Quartus.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps"
-                    >F4</siglum>)</wit></appPart></app>
+                    >F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1508-02" target="#tln_1508">
