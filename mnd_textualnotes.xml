@@ -7117,10 +7117,10 @@
 
         <note type="textual" xml:id="tn_1478" target="#tln_1478">
             <label>1478</label>
-            <app><lem>Enter Helena</lem>]<appPart><rdg type="replace">SCENE X. Enter Helena.</rdg>
+            <app><lem>Enter Helena</lem>]<appPart><rdg type="replace">SCENE X. Enter Helena</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">SCENE IX. Enter Helena.</rdg>
+                        type="replace">SCENE IX. Enter Helena</rdg>
                     <wit><siglum rend="smcaps">john1</siglum></wit></appPart></app>
         </note>
 
@@ -7396,7 +7396,7 @@
                     <rdg type="replace">
                         <hi rend="italic">They sleepe all the Act.</hi>
                     </rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">col4</siglum>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">F4</siglum>
                             (&minus;<siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps"
                             >cam1</siglum>, <siglum rend="smcaps">glo</siglum>), <siglum
                             rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum></wit>
@@ -7408,50 +7408,56 @@
             <label>1508</label>
             <app><lem>Actus Quartus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
                             Quartus.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                    >rid</siglum>)</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps"
+                    >F4</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1508-02" target="#tln_1508">
             <label display="all(invisible)">1508</label>
-            <app>
+            <app><lem>Actus Quartus.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >theo</siglum>, <siglum rend="smcaps">rid</siglum>)</wit>
+                    <rdg type="replace">Actus Quartus. SCENE I.</rdg>
+                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum></wit>
                 </appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_1508-03" target="#tln_1508">
             <label display="all(invisible)">1508</label>
-            <app>
+            <app><lem>Actus Quartus.</lem>]
                 <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">The Wood.</hi>
+                    <rdg type="replace">
+                        <hi rend="italic">Actus Quartus. SCENE I. The Wood.</hi>
                     </rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >sis</siglum> (&minus;<siglum rend="smcaps">cam3</siglum>, <siglum
-                            rend="smcaps">rid</siglum>) (<hi rend="italic">subst.</hi>)</wit>
-                </appPart>
+                    <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
+                            >theo</siglum>, <siglum rend="smcaps"
+                                >warb</siglum>, <siglum rend="smcaps"
+                                    >john1</siglum>, <siglum rend="smcaps"
+                                        >v1773</siglum>&sigrange;<siglum rend="smcaps">col2</siglum>, <siglum
+                                            rend="smcaps">hal</siglum>,  <siglum
+                                                rend="smcaps">stau</siglum>, <siglum
+                                                    rend="smcaps">col3</siglum>, <siglum
+                                                        rend="smcaps">wh1</siglum>, <siglum
+                                                            rend="smcaps">knt3</siglum>, <siglum
+                                                                rend="smcaps">col4</siglum>,(<hi rend="italic">subst.</hi>)</wit>
+                </appPart>;
+                <appPart><rdg type="replace">
+                        <hi rend="italic">Actus Quartus. SCENE I. The Wood. The Lovers, at a Distance, asleep.</hi>
+                </rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">cam1</siglum>&sigrange;<siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum></wit></appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_1508-04" target="#tln_1508">
             <label display="all(invisible)">1508</label>
-            <app>
+            <app><lem>Actus Quartus.</lem>]
                 <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">The Lovers, at a Distance, asleep.</hi>
+                    <rdg type="replace">
+                        <hi rend="italic">Actus Quartus. SCENE I. The Lovers, at a Distance, asleep.</hi>
                     </rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">sing2</siglum>,
-                            <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps"
-                            >cam1</siglum>&sigrange;<siglum rend="smcaps">glo</siglum>, <siglum
-                            rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps"
-                        >nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum
-                            rend="smcaps">sis</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum
-                            rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">folg2</siglum>,
-                            <siglum rend="smcaps">dig</siglum></wit>
+                    <wit><siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">oxf2</siglum>,
+                            <siglum rend="smcaps">folg2</siglum>, <siglum rend="smcaps"
+                            >dig</siglum></wit>
                 </appPart>
             </app>
         </note>
