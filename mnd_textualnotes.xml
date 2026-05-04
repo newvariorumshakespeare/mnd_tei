@@ -8221,9 +8221,9 @@
 
         <note type="textual" xml:id="tn_1622" target="#tln_1622">
             <label>1622</label>
-            <app>
+            <app>><lem>Enter Theseus and all his traine.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE II.</rdg>
+                    <rdg type="replace">SCENE II. Enter Theseus and all his traine.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum></wit>
                 </appPart>
@@ -8234,12 +8234,12 @@
             <label>1623</label>
             <app><lem>Theseus</lem>] <appPart><rdg type="replace"><hi rend="italic">Theseus, Egeus,
                             Hippolita</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">john1</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1623-02" target="#tln_1623">
             <label display="all(invisible)">1623</label>
-            <app><lem><hi rend="italic">Winde horne.</hi></lem>] <appPart><rdg type="lem"
+            <app><lem><hi rend="italic">VVinde horne.</hi></lem>] <appPart><rdg type="lem"
                         >&swdash;</rdg>
                     <wit><siglum>Qq</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic"
                             >on</hi>
