@@ -8811,14 +8811,14 @@
             <label>1727</label>
             <app><lem>Bottome&hellip;Louers.</lem>]<appPart><rdg type="replace"><hi rend="italic"
                             >Bottome wakes. Exit Louers.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1727-02" target="#tln_1727">
             <label display="all(invisible)">1727</label>
             <app>
                 <appPart>
-                    <rdg type="insert">SCENE III.</rdg>
+                    <rdg type="replace">SCENE III. Bottome wakes. Exit Louers.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
                 </appPart>
