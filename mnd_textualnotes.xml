@@ -8890,13 +8890,10 @@
 
         <note type="textual" xml:id="tn_1745-01" target="#tln_1745">
             <label>1745</label>
-            <app><lem>at her</lem>] <appPart><rdg type="replace">after</rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
-                            >cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum
-                            rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce2</siglum>,
-                            <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps"
-                        >hud2</siglum>, <siglum rend="smcaps">ard1</siglum></wit></appPart>;
-                        <appPart><rdg type="replace">at Thisby’s</rdg>
+            <app><lem>at her death.</lem>] <appPart><rdg type="replace">after death. SCENE changes to the Town.</rdg>
+                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps"
+                            >warb</siglum>, <siglum rend="smcaps">john1</siglum></wit></appPart>;
+                        <appPart><rdg type="replace">at Thisby’s death. SCENE II. A Room in Quince's House.</rdg>
                     <wit><siglum rend="smcaps">col2</siglum></wit></appPart>; <appPart><rdgDesc><hi
                             rend="italic">marked with an obelus</hi> [†] <hi rend="italic">as a
                             corrupt passage</hi></rdgDesc>
@@ -8918,35 +8915,27 @@
 
         <note type="textual" xml:id="tn_1745-03" target="#tln_1745">
             <label display="all(invisible)">1745</label>
-            <app><appPart><rdg type="insert">SCENE IV.</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum> (&minus;<siglum rend="smcaps"
-                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="insert"><hi rend="italic"
-                            >SCENE II.</hi></rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>&plus;</wit></appPart></app>
+            <app><lem>at her death.</lem>]<appPart><rdg type="replace">at her death. SCENE IV.</rdg>
+                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
+                            >at her death. SCENE II. A Room in Quince's House.</hi></rdg>
+                        <wit><siglum rend="smcaps">v1773</siglum>, <siglum rend="smcaps">v1778</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">dyce1</siglum>&sigrange;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">wh2</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1745-04" target="#tln_1745">
             <label display="all(invisible)">1745</label>
-            <app><appPart><rdg type="insert">SCENE <hi rend="italic">changes to the Town.</hi></rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg type="insert"
-                                ><hi rend="italic">A Room in Quince’s House.</hi></rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
-                            >ard1</siglum>, <siglum rend="smcaps">nlsn</siglum>&sigrange;<siglum
-                            rend="smcaps">sis</siglum></wit></appPart>; <appPart><rdg type="insert"
-                            ><hi rend="italic">An open place</hi></rdg>
-                    <wit><siglum rend="smcaps">rid</siglum></wit></appPart></app>
+            <app><lem>at her death.</lem>]<appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV. Changes to the Town.</hi></rdg>
+                    <wit><siglum rend="smcaps">warb</siglum><siglum rend="smcaps"
+                            >john1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV.</hi></rdg>
+                                <wit><siglum rend="smcaps">han1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE II. A Room in Quince's House.</hi></rdg>
+                                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">ard1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1745-05" target="#tln_1745">
             <label display="all(invisible)">1745</label>
-            <app>
+            <app><lem>at her death.</lem>]
                 <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">The afternoon of the same day</hi>
-                    </rdg>
+                    <rdg type="replace">
+                        <hi rend="italic">at her death. SCENE II. An open place. A Room in Quince's House. The afternoon of the same day.</hi></rdg>
                     <wit>
                         <siglum rend="smcaps">rid</siglum>
                     </wit>
