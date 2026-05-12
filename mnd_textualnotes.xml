@@ -8955,7 +8955,7 @@
                 <wit><siglum rend="smcaps">rltr</siglum></wit></appPart>;
                 <appPart><rdg type="replace">
                         <hi rend="italic">Quince, Flute, Snout, and Starueling</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">cam3</siglum> &sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>
+                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">nlsn</siglum> &sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>
             </app>
         </note>
 
