@@ -8923,8 +8923,7 @@
         <note type="textual" xml:id="tn_1745-04" target="#tln_1745">
             <label display="all(invisible)">1745</label>
             <app><lem>at her death.</lem>]<appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV. Changes to the Town.</hi></rdg>
-                    <wit><siglum rend="smcaps">warb</siglum>
-                        <siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV.</hi></rdg>
+                    <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV.</hi></rdg>
                                 <wit><siglum rend="smcaps">han1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE II. A Room in Quince's House.</hi></rdg>
                                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">ard1</siglum></wit></appPart></app>
         </note>
@@ -8951,8 +8950,13 @@
 
         <note type="textual" xml:id="tn_1746-01" target="#tln_1746">
             <label>1746</label>
-            <app><lem>Thisby</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">rowe3</siglum>&plus;</wit></appPart></app>
+            <app><lem>Quince, Flute, Thisby and the rabble</lem>] <appPart><rdg type="replace">
+                        <hi rend="italic">Quince, Flute, and the rabble</hi></rdg>
+                <wit><siglum rend="smcaps">rltr</siglum></wit></appPart>;
+                <appPart><rdg type="replace">
+                        <hi rend="italic">Quince, Flute, Snout, and Starueling</hi></rdg>
+                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">cam3</siglum> &sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1746-02" target="#tln_1746">
@@ -8962,11 +8966,10 @@
                     <wit><siglum>Qq</siglum>, <siglum rend="smcaps">rltr</siglum></wit></appPart>;
                             <appPart><rdgDesc><hi rend="italic">ad.</hi>
                         <rdg type="insert"><hi rend="lscaps">Snout</hi>, <hi rend="lscaps"
-                                >Starveling.</hi></rdg></rdgDesc>
+                                >Starveling</hi></rdg></rdgDesc>
                     <wit><siglum rend="smcaps">evns</siglum></wit></appPart>; <appPart><rdg
                         type="replace"><hi rend="italic">Snout, and Starueling.</hi></rdg>
-                    <wit><siglum>F1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        <wit><siglum>F1</siglum>, <siglum>F2</siglum>, <siglum>F3</siglum>, <siglum>F4</siglum>, <siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1749" target="#tln_1749">
