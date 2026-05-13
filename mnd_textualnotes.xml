@@ -9095,7 +9095,7 @@
             <app><lem>Actus Quintus.</lem>]
                 <appPart>
                     <rdg type="replace"><hi rend="italic">Actus Quintus. SCENE I.</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum>sis</siglum>, <siglum rend="smcaps"
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum>pope</siglum>, <siglum>han1</siglum>, <siglum rend="smcaps"
                             >pel1</siglum>&sigrange;<siglum>dig</siglum></wit>
                 </appPart>
             </app>
