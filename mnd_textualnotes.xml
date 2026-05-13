@@ -9087,27 +9087,27 @@
             <label>1791</label>
             <app><lem>Actus Quintus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
                             Quintus.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum>F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1791-02" target="#tln_1791">
             <label display="all(invisible)">1791</label>
-            <app>
+            <app><lem>Actus Quintus.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >theo</siglum>)</wit>
+                    <rdg type="replace"><hi rend="italic">Actus Quintus. SCENE I.</hi></rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum>sis</siglum>, <siglum rend="smcaps"
+                            >pel1</siglum>&sigrange;<siglum>dig</siglum></wit>
                 </appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_1791-03" target="#tln_1791">
             <label display="all(invisible)">1791</label>
-            <app>
+            <app><lem>Actus Quintus.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE, <hi rend="italic">the Palace.</hi></rdg>
+                    <rdg type="replace"><hi rend="italic">Actus Quintus. SCENE, the Palace.</hi></rdg>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps"
-                            >warb</siglum>&sigrange;<siglum rend="smcaps">sis</siglum> (<hi
+                            >theo</siglum>, <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps">sis</siglum> (<hi
                             rend="italic">subst.</hi>)</wit>
                 </appPart>
             </app>
