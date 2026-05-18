@@ -9397,9 +9397,9 @@
 
         <note type="textual" xml:id="tn_1841-02" target="#tln_1841">
             <label>1841</label>
-            <app>
+            <app><lem>The. The battell</lem>]
                 <appPart>
-                    <rdgDesc>Ad. <rdg type="insert"><hi rend="italic">reads</hi></rdg></rdgDesc>
+                    <rdg type="replace"><hi rend="italic">The. reads The battell</hi></rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >cap</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum
                             rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
