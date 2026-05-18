@@ -9425,8 +9425,8 @@
                     >and1</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1845" target="#tln_1845 #tln_1849 #tln_1853">
-            <label>1845, 1849, 1853</label>
+        <note type="textual" xml:id="tn_1845" target="#tln_1845">
+            <label>1845</label>
             <app>
                 <appPart>
                     <rdgDesc>
@@ -9440,6 +9440,44 @@
                             <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">cam4</siglum>,
                             <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
                         >dig</siglum></wit>
+                </appPart>
+            </app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1849" target="#tln_1849">
+            <label>1849</label>
+            <app>
+                <appPart>
+                    <rdgDesc>
+                        <hi rend="italic">Ad.</hi>
+                        <rdg type="insert">Reads</rdg>
+                    </rdgDesc>
+                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">dyce</siglum>,
+                        <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>,
+                        <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>,
+                        <siglum rend="smcaps">ard</siglum>, <siglum rend="smcaps">rltr</siglum>,
+                        <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">cam4</siglum>,
+                        <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
+                            >dig</siglum></wit>
+                </appPart>
+            </app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1853" target="#tln_1853">
+            <label>1853</label>
+            <app>
+                <appPart>
+                    <rdgDesc>
+                        <hi rend="italic">Ad.</hi>
+                        <rdg type="insert">Reads</rdg>
+                    </rdgDesc>
+                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">dyce</siglum>,
+                        <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>,
+                        <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>,
+                        <siglum rend="smcaps">ard</siglum>, <siglum rend="smcaps">rltr</siglum>,
+                        <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">cam4</siglum>,
+                        <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
+                            >dig</siglum></wit>
                 </appPart>
             </app>
         </note>
