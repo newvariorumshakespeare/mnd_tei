@@ -9747,27 +9747,27 @@
         </note>
 
         <note type="textual" xml:id="tn_1905-01" target="#tln_1905">
-            <label>1905</label>
-            <app>
-                <appPart>
-                    <rdg type="insert">SCENE II.</rdg>
-                    <wit><siglum rend="smcaps">pope</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
-                </appPart>
-            </app>
-        </note>
-
-        <note type="textual" xml:id="tn_1905-02" target="#tln_1905">
             <label display="all(invisible)">1905</label>
-            <app><lem><hi rend="italic">Enter the Prologue.</hi></lem>] <appPart><rdgDesc>Ad. <rdg
-                            type="insert"><hi rend="italic">Quince.</hi></rdg></rdgDesc>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum
-                            rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
+            <app><lem><hi rend="italic">Enter the Prologue.</hi></lem>] <appPart><rdg
+                            type="replace"><hi rend="italic">Enter the Prologue. Quince.</hi></rdg>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe</siglum>, <siglum
+                            rend="smcaps">theo</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
                             rend="smcaps">glo</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum
                             rend="smcaps">irv</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >rid</siglum>, <siglum rend="smcaps">and2</siglum>, <siglum
                             rend="smcaps">folg2</siglum>) (<hi rend="italic"
                     >subst.</hi>)</wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1905-02" target="#tln_1905">
+            <label>1905</label>
+            <app><lem><hi rend="italic">Enter the Prologue.</hi></lem>]
+                <appPart>
+                    <rdg type="replace"><hi rend="ital">SCENE II. Enter the Prologue. Quince.</hi></rdg>
+                    <wit><siglum rend="smcaps">pope</siglum>&sigrange;<siglum rend="smcaps"
+                            >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1912" target="#tln_1912">
