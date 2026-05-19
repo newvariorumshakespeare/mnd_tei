@@ -9790,7 +9790,8 @@
                             rend="smcaps">rid</siglum>, <siglum rend="smcaps"
                     >alex</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash;.</rdg>
                     <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi>
+                        &sigrange;<siglum rend="smcaps"
+                            >dig</siglum> (&minus;<siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>)
                     </wit></appPart></app>
         </note>
 
