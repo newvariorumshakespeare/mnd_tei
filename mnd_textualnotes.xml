@@ -10033,14 +10033,14 @@
                             >sis</siglum>, <siglum rend="smcaps">evns</siglum>&sigrange;<siglum
                             rend="smcaps">cam4</siglum>, <siglum rend="smcaps">oxf4</siglum> (<hi
                             rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdgDesc><hi
-                            rend="italic">for all but Wall and Pyramus</hi></rdgDesc>
+                                        rend="italic">Exit marked for all but Wall and Pyramus</hi></rdgDesc>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
                             >mal</siglum>&sigrange;<siglum rend="smcaps">col3</siglum>, <siglum
                             rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum>,
                             <siglum rend="smcaps">glo</siglum> (1864–78), <siglum rend="smcaps"
                             >knt3</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum
                             rend="smcaps">nlsn</siglum></wit></appPart>; <appPart><rdgDesc><hi
-                            rend="italic">for all but Wall, Pyramus and Prologue</hi></rdgDesc>
+                                        rend="italic">Exit marked for all but Wall, Pyramus and Prologue</hi></rdgDesc>
                     <wit><siglum rend="smcaps">ban2</siglum></wit></appPart>; <appPart><rdg
                         type="insert"><hi rend="italic">om.</hi></rdg>
                     <wit><siglum rend="smcaps">cam3</siglum>&sigrange;<siglum rend="smcaps"
@@ -10054,9 +10054,12 @@
                         <hi rend="italic">for Prologue</hi></rdgDesc>
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>,
                             <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
-                            >col4</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>;
-                            <appPart><rdgDesc><hi rend="italic">ad.</hi>
-                        <rdg type="insert">Presenter</rdg></rdgDesc>
+                            >col4</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1951-03" target="#tln_1951">
+            <label display="all(invisible)">1951</label>
+            <app><lem>Exit all but Wall.</lem>] <appPart><rdg type="replace">Exit Presenter all but Wall.</rdg>
                     <wit><siglum rend="smcaps">wh1</siglum></wit></appPart></app>
         </note>
 
