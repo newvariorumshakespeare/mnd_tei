@@ -9896,9 +9896,10 @@
 
         <note type="textual" xml:id="tn_1925-01" target="#tln_1925">
             <label>1925</label>
-            <app><lem><hi rend="italic">Enter</hi></lem>] <appPart><rdg type="replace"><hi
+            <app><lem><hi rend="italic">Enter Pyramus, and Thisby, and Wall, and Moone-shine, and Lyon.</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">Enter the</hi>
-                        <hi rend="lscaps">Presenter</hi>,</rdg>
+                        <hi rend="lscaps">Presenter</hi>,<hi
+                            rend="italic">Pyramus, and Thisby, and Wall, and Moone-shine, and Lion, as in dumb show.</hi> </rdg>
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>,
                             <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">dyce2</siglum>,
                             <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps"
@@ -9910,9 +9911,9 @@
             <label display="all(invisible)">1925</label>
             <app><lem>Lyon.</lem>] <appPart><rdg type="replace">Lion, as in dumb show.</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
-                            >wh2</siglum> (&minus;<siglum rend="smcaps">cam1</siglum>, <siglum
-                            rend="smcaps">glo</siglum>), <siglum rend="smcaps">oxf</siglum>, <siglum
-                            rend="smcaps">cam3</siglum> (<hi rend="italic"
+                            >hud1</siglum>, <siglum rend="smcaps">sing2</siglum>&sigrange;<siglum rend="smcaps"
+                                >dyce1</siglum>, <siglum
+                            rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum> (<hi rend="italic"
                     >subst.</hi>)</wit></appPart></app>
         </note>
 
