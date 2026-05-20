@@ -1294,6 +1294,10 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <siglum rend="smcaps">and</siglum>
 </witness>
 
+<witness xml:id="s_wh" corresp="#s_wh1 #s_wh2" display="book(suppress)">
+<siglum rend="smcaps">wh</siglum>
+</witness>
+
 </listWit>
 
 
