@@ -10289,33 +10289,18 @@
                     <wit><siglum rend="smcaps">cam3</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1997-01" target="#tln_1997">
+        <note type="textual" xml:id="tn_1997" target="#tln_1997">
             <label>1997</label>
-            <app><lem>loue&caret;</lem>] <appPart><rdg type="replace">&swdash;!</rdg>
+            <app><lem>loue thou art,</lem>] <appPart><rdg type="replace">loue! thou art,</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>&plus;
-                            (&minus;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps"
-                            >glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps"
-                            >ard1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum
-                            rend="smcaps">rid</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum
-                            rend="smcaps">evns</siglum>, <siglum rend="smcaps">ard2</siglum>,
-                            <siglum rend="smcaps">and</siglum>, <siglum rend="smcaps"
-                        >oxf4</siglum>)</wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart>;
+                <appPart><rdg type="replace">loue! thou art</rdg>
+                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>>&sigrange;
+                        <siglum>wh1</siglum>, <siglum>dyce2</siglum>, <siglum>ktly</siglum>, <siglum>knt3</siglum>&sigrange; <siglum>oxf1</siglum>, <siglum>cam3</siglum>, <siglum>kit1</siglum>, <siglum>alex</siglum>, <siglum>pel1</siglum>, <siglum>cam4</siglum>&sigrange;<siglum>ban2</siglum></wit></appPart>
+            </app>
         </note>
 
-        <note type="textual" xml:id="tn_1997-02" target="#tln_1997">
-            <label display="all(invisible)">1997</label>
-            <app><lem>art,</lem>] <appPart><rdg type="replace">&swdash;&caret;</rdg>
-                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>,
-                            <siglum>v1778</siglum>&plus; (&minus;<siglum rend="smcaps"
-                        >cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps"
-                            >wh2</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;<siglum
-                            rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">rid</siglum>, <siglum
-                            rend="smcaps">sis</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum
-                            rend="smcaps">ard2</siglum>, <siglum rend="smcaps">and2</siglum>,
-                            <siglum rend="smcaps">dig</siglum>)</wit></appPart></app>
-        </note>
-
+        
         <note type="textual" xml:id="tn_2000" target="#tln_2000">
             <label>2000</label>
             <app><lem>I</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
