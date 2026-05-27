@@ -10315,20 +10315,13 @@
                 >cox</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_2003-01" target="#tln_2003">
+        <note type="textual" xml:id="tn_2003" target="#tln_2003">
             <label>2003</label>
-            <app><lem>hole</lem>] <appPart><rdg type="replace">whole</rdg>
-                    <wit><siglum rend="smcaps">mal</siglum></wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_2003-02" target="#tln_2003">
-            <label display="all(invisible)">2003</label>
-            <app><lem>vilde</lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>Q1</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum
-                            rend="smcaps">oxf3</siglum>, <siglum rend="smcaps"
-                    >and</siglum></wit></appPart>; <appPart><rdg type="replace">vile</rdg>
-                    <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+            <app><lem>hole of this vilde wall</lem>] <appPart><rdg type="replace">whole of this vilde</rdg>
+                    <wit><siglum rend="smcaps">mal</siglum></wit></appPart>;
+                <appPart><rdg type="replace">hole of this vile wall</rdg>
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">v1793</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum> <siglum rend="smcaps">cam4</siglum></wit></appPart>            
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_2007" target="#tln_2007">
