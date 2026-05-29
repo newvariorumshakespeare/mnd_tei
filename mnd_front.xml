@@ -462,7 +462,7 @@ Many libraries offered their resources and hospitality. It is a joy and privileg
 		
 <p>The production of each NVS digital edition was conducted by a team of scholars and researchers and made possible by the Modern Language Association’s Executive Council that awarded the Center of Digital Humanities Research (CoDHR) at Texas A&amp;M a grant to publish NVS editions online, making them freely available to scholars, educators, students, and performers via an open access, interactive web application. Each digital edition contains the complete text of each play along with a full collation of textual notes from the earliest editions to the present, including extensive previous commentary.</p>
 		
-<p>The physical Variorum volume includes a CD-ROM that contains an XML-encoded version of the contents, rendering the work as a PDF that is text-searchable with internal links for easy navigation. A special thanks to Julia Flanders, Professor of the Practice in English and the director of the Digital Scholarship Group in the Northeastern University Library, for XML-encoding the physical volume and for consulting with the NVS team at CoDHR who used the XML-encoded text to publish this edition online at https://newvariorumshakespeare.org/.</p>
+	<p>The physical Variorum volume includes a CD-ROM that contains an XML-encoded version of the contents, rendering the work as a PDF that is text-searchable with internal links for easy navigation. A special thanks to Julia Flanders, Professor of the Practice in English and the director of the Digital Scholarship Group in the Northeastern University Library, for XML-encoding the physical volume and for consulting with the NVS team at CoDHR who used the XML-encoded text to publish this edition online at <ref targType="url" target="https://newvariorumshakespeare.org/">https://newvariorumshakespeare.org/</ref>.</p>
 		
 <p>This digital edition was launched in beta at the World Shakespeare Congress (WSC) in Singapore by the NVS team, which at that time included Laura Mandell (Principal Investigator and CoDHR Director), Katayoun Torabi (Project Manager), Anne Burdick (NVS site designer and Chair of Media Design Practices at ArtCenter College of Design in Los Angeles), Bryan Tarpley (Lead Developer at CoDHR and NVS back-end developer), Will McLean (front-end developer and interaction designer), and Texas A&amp;M graduate student researchers Kayley Hart and Lindsey Jones. In close collaboration with General Editors Paul Werstine and Eric Rasmussen, and under the guidance of the NVS Board chaired by Lena Cowen Orlin, the team brought this innovative edition online. Since its debut at the WSC in 2019, the NVS project transitioned to Texas A&amp;M’s Department of English. There, the current NVS team—comprising Robert Stagg (Principal Investigator and NVS Director), Katayoun Torabi (Project Manager and Digital Editor), Kris May (Associate Digital Editor), and Dorothy Todd (Associate Digital Editor)—have worked diligently to revise and finalize technical aspects of the edition for full release.</p>
 	
@@ -908,6 +908,10 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <siglum rend="smcaps">pope</siglum>
 </witness>
 	
+<witness xml:id="s_dyce" corresp="#s_dyce1 #s_dyce2" display="book(suppress)">
+		<siglum rend="smcaps">dyce</siglum>
+	</witness>	
+	
 <witness xml:id="s_sing" corresp="#s_sing1 #s_sing2" display="book(suppress)">
 		<siglum rend="smcaps">sing</siglum>
 </witness>
@@ -1288,6 +1292,10 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 	
 <witness xml:id="s_and" corresp="#s_and1 #s_and2" display="book(suppress)">
 <siglum rend="smcaps">and</siglum>
+</witness>
+
+<witness xml:id="s_wh" corresp="#s_wh1 #s_wh2" display="book(suppress)">
+<siglum rend="smcaps">wh</siglum>
 </witness>
 
 </listWit>

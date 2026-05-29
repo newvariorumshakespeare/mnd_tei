@@ -3010,36 +3010,25 @@
 
         <note type="textual" xml:id="tn_0650-01" target="#tln_0650">
             <label>650</label>
-            <app><appPart><rdg type="insert">SCENE V.</rdg>
+            <app><lem>Enter Tytania Queene of Fairies, with her traine.</lem>]<appPart><rdg type="replace">SCENE V. Enter Tytania Queene of Fairies, with her traine.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum> (&minus;<siglum rend="smcaps"
-                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="insert"><hi rend="italic"
-                            >SCENE II.</hi></rdg>
+                            >john1</siglum> (&minus;<siglum rend="smcaps">
+                    theo</siglum>)</wit></appPart>; 
+                <appPart><rdg type="replace">
+                     SCENE II. Enter Tytania Queene of Fairies, with her traine.</rdg>
+                    <wit><siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>;
+                <appPart><rdg type="replace">SCENE II. Another Part of the Wood. Enter Tytania Queene of Fairies, with her traine.</rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum>v1773</siglum>, <siglum
-                            rend="smcaps">col1</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>,
-                            <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps"
-                        >dyce</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps"
-                            >cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum
-                            rend="smcaps">col4</siglum>&sigrange;<siglum rend="smcaps"
-                        >cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&plus;</wit></appPart>;
-                        <appPart><rdg type="insert">SCENE III.</rdg>
-                    <wit><siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>,
-                            <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps"
-                            >col3</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum
-                            rend="smcaps">knt3</siglum></wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_0650-02" target="#tln_0650">
-            <label display="all(invisible)">650</label>
-            <app>
-                <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">Another Part of the Wood.</hi>
-                    </rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
-                            >cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum
-                            rend="smcaps">sis</siglum></wit>
-                </appPart>
+                            rend="smcaps">col1</siglum>&sigrange;<siglum rend="smcaps">col2</siglum>, <siglum
+                                rend="smcaps">hal</siglum>,
+                        <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps"
+                            >dyce</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps"
+                                >cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum
+                                    rend="smcaps">col4</siglum>&sigrange;<siglum rend="smcaps"
+                                        >cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps"
+                                            >sis</siglum></wit></appPart>;
+                <appPart><rdg type="replace">SCENE III. Another Part of the Wood. Enter Tytania Queene of Fairies, with her traine.</rdg>
+                    <wit><siglum rend="smcaps">v1778</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart>;
             </app>
         </note>
 
@@ -3791,8 +3780,7 @@
             <label>812</label>
             <app><lem>Actus Tertius.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
                             Tertius.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                    >rid</siglum>)</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum>F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0812-02" target="#tln_0812">
@@ -3800,18 +3788,18 @@
             <app>
                 <appPart>
                     <rdg type="insert">SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >theo</siglum>, <siglum rend="smcaps">rid</siglum>)</wit>
+                    <wit><siglum rend="smcaps">rowe1</siglum><siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps"
+                            >dig</siglum></wit>
                 </appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_0812-03" target="#tln_0812">
             <label display="all(invisible)">812</label>
-            <app>
+            <app><lem>Actus Tertius.</lem>]
                 <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">The Wood.</hi>
+                    <rdg type="replace">
+                        <hi rend="italic">Actus Tertius. SCENE I. The Wood.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >sis</siglum> (&minus;<siglum rend="smcaps">rid</siglum>, <siglum
@@ -3825,17 +3813,20 @@
             <app><lem><hi rend="italic">the Clownes.</hi></lem>] <appPart><rdg type="replace"
                         >Quince, Snug, Bottom, Flute, Snowt <hi rend="italic">and</hi>
                         Starveling.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >rltr</siglum>, <siglum rend="smcaps"
-                >and</siglum>)</wit></appPart></app>
+                    <wit><siglum rend="smcaps">cam3</siglum>,<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps"
+                                >pel1</siglum>, <siglum rend="smcaps"
+                                    >evns</siglum>, <siglum rend="smcaps"
+                                        >pel1</siglum>, <siglum rend="smcaps"
+                                            >oxf2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0813-02" target="#tln_0813">
             <label display="all(invisible)">813</label>
-            <app>
+            <app><lem><hi rend="italic">the Clownes.</hi></lem>]
                 <appPart>
                     <rdg type="replace">
-                        <hi rend="italic">The Queen of Fairies lying asleep.</hi>
+                        <hi rend="italic">Enter Quince, Snug, Bottom, Flute, Snowt and
+                            Starveling. The Queen of Fairies lying asleep.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >cam3</siglum>, <siglum rend="smcaps">rid</siglum>, <siglum
@@ -4727,7 +4718,7 @@
                             >subst.</hi>)</wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0981-01" target="#tln_0981">
+        <note type="textual" xml:id="tn_0981https://newvariorumshakespeare.org/-01" target="#tln_0981">
             <label>981</label>
             <app><lem><hi rend="italic">Fairies.</hi>&hellip;and I, and I,</lem>]
                         <appPart><rdgDesc>on three separate lines <rdg type="insert"><hi
@@ -5015,7 +5006,7 @@
             <label display="all(invisible)">1021</label>
             <app><lem>Enter King of Fairies, and Robin goodfellow.</lem>] <appPart>
                     <rdg type="replace">
-                        <hi rend="italic">Scene II. Another Part of the Wood. Enter King of
+                        <hi rend="italic">SCENE II. Another Part of the Wood. Enter King of
                             Fairies.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
@@ -5039,7 +5030,7 @@
 
         <note type="textual" xml:id="tn_1025" target="#tln_1025">
             <label>1025</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Enter Pucke.</hi></rdg>
+            <app><lem>Enter Pucke.</lem>] <appPart><rdg type="replace"><hi rend="italic">Enter Pucke.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">stau</siglum>, <siglum
                             rend="smcaps">col3</siglum>&sigrange;<siglum rend="smcaps"
                         >cam1</siglum>, <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum
@@ -5191,9 +5182,9 @@
 
         <note type="textual" xml:id="tn_1063" target="#tln_1063">
             <label>1063</label>
-            <app>
+            <app><lem>Enter Demetrius and Hermia.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE V.</rdg>
+                    <rdg type="replace">SCENE V. Enter Demetrius and Hermia.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
                 </appPart>
@@ -5549,9 +5540,9 @@
 
         <note type="textual" xml:id="tn_1146" target="#tln_1146">
             <label>1146</label>
-            <app><appPart><rdg type="insert">SCENE VII.</rdg>
+            <app><lem>Enter Lysander, and Helena.</lem>]<appPart><rdg type="replace">SCENE VII. Enter Lysander, and Helena.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
-                        >han1</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE VI.</rdg>
+                            >han1</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE VI. Enter Lysander, and Helena.</rdg>
                     <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john1</siglum></wit></appPart></app>
         </note>
@@ -5757,9 +5748,9 @@
 
         <note type="textual" xml:id="tn_1203-01" target="#tln_1203">
             <label>1203</label>
-            <app><appPart><rdg type="insert">SCENE VIII</rdg>
+            <app><lem><hi rend="italic">Enter</hi> Hermia.</lem>]<appPart><rdg type="replace">SCENE VIII. Enter Hermia.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
-                        >han1</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE VII</rdg>
+                            >han1</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE VII. Enter Hermia.</rdg>
                     <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john1</siglum></wit></appPart></app>
         </note>
@@ -6614,7 +6605,8 @@
             <app><lem>Enter Oberon and Pucke</lem>]<appPart><rdg type="replace"><hi rend="italic"
                             >Enter Oberon and Pucke</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps"
-                    >john1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
+                            >rowe3</siglum>, <siglum rend="smcaps"
+                                >theo</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
                             >Oberon and Puck come forward</hi></rdg>
                     <wit><siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps"
                             >ard2</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>, <siglum
@@ -7042,7 +7034,7 @@
             <app><lem>Robin, <hi rend="italic">and</hi> Demetrius.</lem>] <appPart><rdg type="lem"
                         >&swdash;</rdg>
                     <wit><siglum>Qq</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg
-                            type="insert"><hi rend="italic">Enter</hi></rdg></rdgDesc>
+                                type="replace"><hi rend="italic">Enter</hi> Robin, <hi rend="italic">and</hi> Demetrius. </rdg></rdgDesc>
                     <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
         </note>
 
@@ -7125,10 +7117,10 @@
 
         <note type="textual" xml:id="tn_1478" target="#tln_1478">
             <label>1478</label>
-            <app><appPart><rdg type="insert">SCENE X.</rdg>
+            <app><lem>Enter Helena</lem>]<appPart><rdg type="replace">SCENE X. Enter Helena</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">SCENE IX.</rdg>
+                        type="replace">SCENE IX. Enter Helena</rdg>
                     <wit><siglum rend="smcaps">john1</siglum></wit></appPart></app>
         </note>
 
@@ -7404,7 +7396,7 @@
                     <rdg type="replace">
                         <hi rend="italic">They sleepe all the Act.</hi>
                     </rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">col4</siglum>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">F4</siglum>
                             (&minus;<siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps"
                             >cam1</siglum>, <siglum rend="smcaps">glo</siglum>), <siglum
                             rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum></wit>
@@ -7416,50 +7408,56 @@
             <label>1508</label>
             <app><lem>Actus Quartus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
                             Quartus.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                    >rid</siglum>)</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps"
+                    >F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1508-02" target="#tln_1508">
             <label display="all(invisible)">1508</label>
-            <app>
+            <app><lem>Actus Quartus.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >theo</siglum>, <siglum rend="smcaps">rid</siglum>)</wit>
+                    <rdg type="replace">Actus Quartus. SCENE I.</rdg>
+                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum></wit>
                 </appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_1508-03" target="#tln_1508">
             <label display="all(invisible)">1508</label>
-            <app>
+            <app><lem>Actus Quartus.</lem>]
                 <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">The Wood.</hi>
+                    <rdg type="replace">
+                        <hi rend="italic">Actus Quartus. SCENE I. The Wood.</hi>
                     </rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >sis</siglum> (&minus;<siglum rend="smcaps">cam3</siglum>, <siglum
-                            rend="smcaps">rid</siglum>) (<hi rend="italic">subst.</hi>)</wit>
-                </appPart>
+                    <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
+                            >theo</siglum>, <siglum rend="smcaps"
+                                >warb</siglum>, <siglum rend="smcaps"
+                                    >john1</siglum>, <siglum rend="smcaps"
+                                        >v1773</siglum>&sigrange;<siglum rend="smcaps">col2</siglum>, <siglum
+                                            rend="smcaps">hal</siglum>,  <siglum
+                                                rend="smcaps">stau</siglum>, <siglum
+                                                    rend="smcaps">col3</siglum>, <siglum
+                                                        rend="smcaps">wh1</siglum>, <siglum
+                                                            rend="smcaps">knt3</siglum>, <siglum
+                                                                rend="smcaps">col4</siglum>,(<hi rend="italic">subst.</hi>)</wit>
+                </appPart>;
+                <appPart><rdg type="replace">
+                        <hi rend="italic">Actus Quartus. SCENE I. The Wood. The Lovers, at a Distance, asleep.</hi>
+                </rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">cam1</siglum>&sigrange;<siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum></wit></appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_1508-04" target="#tln_1508">
             <label display="all(invisible)">1508</label>
-            <app>
+            <app><lem>Actus Quartus.</lem>]
                 <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">The Lovers, at a Distance, asleep.</hi>
+                    <rdg type="replace">
+                        <hi rend="italic">Actus Quartus. SCENE I. The Lovers, at a Distance, asleep.</hi>
                     </rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">sing2</siglum>,
-                            <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps"
-                            >cam1</siglum>&sigrange;<siglum rend="smcaps">glo</siglum>, <siglum
-                            rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps"
-                        >nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum
-                            rend="smcaps">sis</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum
-                            rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">folg2</siglum>,
-                            <siglum rend="smcaps">dig</siglum></wit>
+                    <wit><siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">oxf2</siglum>,
+                            <siglum rend="smcaps">folg2</siglum>, <siglum rend="smcaps"
+                            >dig</siglum></wit>
                 </appPart>
             </app>
         </note>
@@ -8223,9 +8221,9 @@
 
         <note type="textual" xml:id="tn_1622" target="#tln_1622">
             <label>1622</label>
-            <app>
+            <app>><lem>Enter Theseus and all his traine.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE II.</rdg>
+                    <rdg type="replace">SCENE II. Enter Theseus and all his traine.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum></wit>
                 </appPart>
@@ -8236,7 +8234,7 @@
             <label>1623</label>
             <app><lem>Theseus</lem>] <appPart><rdg type="replace"><hi rend="italic">Theseus, Egeus,
                             Hippolita</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">john1</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1623-02" target="#tln_1623">
@@ -8813,14 +8811,14 @@
             <label>1727</label>
             <app><lem>Bottome&hellip;Louers.</lem>]<appPart><rdg type="replace"><hi rend="italic"
                             >Bottome wakes. Exit Louers.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1727-02" target="#tln_1727">
             <label display="all(invisible)">1727</label>
             <app>
                 <appPart>
-                    <rdg type="insert">SCENE III.</rdg>
+                    <rdg type="replace">SCENE III. Bottome wakes. Exit Louers.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
                 </appPart>
@@ -8892,13 +8890,9 @@
 
         <note type="textual" xml:id="tn_1745-01" target="#tln_1745">
             <label>1745</label>
-            <app><lem>at her</lem>] <appPart><rdg type="replace">after</rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
-                            >cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum
-                            rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce2</siglum>,
-                            <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps"
-                        >hud2</siglum>, <siglum rend="smcaps">ard1</siglum></wit></appPart>;
-                        <appPart><rdg type="replace">at Thisby’s</rdg>
+            <app><lem>at her death.</lem>] <appPart><rdg type="replace">after death. SCENE changes to the Town.</rdg>
+                    <wit><siglum rend="smcaps">theo</siglum></wit></appPart>;
+                        <appPart><rdg type="replace">at Thisby’s death. SCENE II. A Room in Quince's House.</rdg>
                     <wit><siglum rend="smcaps">col2</siglum></wit></appPart>; <appPart><rdgDesc><hi
                             rend="italic">marked with an obelus</hi> [†] <hi rend="italic">as a
                             corrupt passage</hi></rdgDesc>
@@ -8920,35 +8914,33 @@
 
         <note type="textual" xml:id="tn_1745-03" target="#tln_1745">
             <label display="all(invisible)">1745</label>
-            <app><appPart><rdg type="insert">SCENE IV.</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum> (&minus;<siglum rend="smcaps"
-                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="insert"><hi rend="italic"
-                            >SCENE II.</hi></rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>&plus;</wit></appPart></app>
+            <app><lem>at her death.</lem>]<appPart><rdg type="replace">at her death. SCENE IV.</rdg>
+                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
+                            >at her death. SCENE II. A Room in Quince's House.</hi></rdg>
+                        <wit><siglum rend="smcaps">v1773</siglum>, <siglum rend="smcaps">v1778</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">dyce1</siglum>&sigrange;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">wh2</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&sigrange;<siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum> </wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1745-04" target="#tln_1745">
             <label display="all(invisible)">1745</label>
-            <app><appPart><rdg type="insert">SCENE <hi rend="italic">changes to the Town.</hi></rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg type="insert"
-                                ><hi rend="italic">A Room in Quince’s House.</hi></rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
-                            >ard1</siglum>, <siglum rend="smcaps">nlsn</siglum>&sigrange;<siglum
-                            rend="smcaps">sis</siglum></wit></appPart>; <appPart><rdg type="insert"
-                            ><hi rend="italic">An open place</hi></rdg>
-                    <wit><siglum rend="smcaps">rid</siglum></wit></appPart></app>
+            <app><lem>at her death.</lem>]<appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV. Changes to the Town.</hi></rdg>
+                    <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV.</hi></rdg>
+                                <wit><siglum rend="smcaps">han1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE II. A Room in Quince's House.</hi></rdg>
+                                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">ard1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1745-05" target="#tln_1745">
             <label display="all(invisible)">1745</label>
-            <app>
+            <app><lem>at her death.</lem>]
                 <appPart>
-                    <rdg type="insert">
-                        <hi rend="italic">The afternoon of the same day</hi>
-                    </rdg>
+                    <rdg type="replace">
+                        <hi rend="italic">at her death. SCENE II.</hi></rdg>
+                    <wit>
+                        <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum>
+                    </wit>
+                </appPart>;
+                <appPart>
+                    <rdg type="replace">
+                        <hi rend="italic">at her death. SCENE II. An open place. A Room in Quince's House. The afternoon of the same day.</hi></rdg>
                     <wit>
                         <siglum rend="smcaps">rid</siglum>
                     </wit>
@@ -8958,8 +8950,13 @@
 
         <note type="textual" xml:id="tn_1746-01" target="#tln_1746">
             <label>1746</label>
-            <app><lem>Thisby</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">rowe3</siglum>&plus;</wit></appPart></app>
+            <app><lem>Quince, Flute, Thisby and the rabble</lem>] <appPart><rdg type="replace">
+                        <hi rend="italic">Quince, Flute, and the rabble</hi></rdg>
+                <wit><siglum rend="smcaps">rltr</siglum></wit></appPart>;
+                <appPart><rdg type="replace">
+                        <hi rend="italic">Quince, Flute, Snout, and Starueling</hi></rdg>
+                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">nlsn</siglum> &sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1746-02" target="#tln_1746">
@@ -8969,11 +8966,10 @@
                     <wit><siglum>Qq</siglum>, <siglum rend="smcaps">rltr</siglum></wit></appPart>;
                             <appPart><rdgDesc><hi rend="italic">ad.</hi>
                         <rdg type="insert"><hi rend="lscaps">Snout</hi>, <hi rend="lscaps"
-                                >Starveling.</hi></rdg></rdgDesc>
+                                >Starveling</hi></rdg></rdgDesc>
                     <wit><siglum rend="smcaps">evns</siglum></wit></appPart>; <appPart><rdg
                         type="replace"><hi rend="italic">Snout, and Starueling.</hi></rdg>
-                    <wit><siglum>F1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        <wit><siglum>F1</siglum>, <siglum>F2</siglum>, <siglum>F3</siglum>, <siglum>F4</siglum>, <siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1749" target="#tln_1749">
@@ -9091,27 +9087,27 @@
             <label>1791</label>
             <app><lem>Actus Quintus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
                             Quintus.</hi></rdg>
-                    <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum>F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1791-02" target="#tln_1791">
             <label display="all(invisible)">1791</label>
-            <app>
+            <app><lem>Actus Quintus.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >theo</siglum>)</wit>
+                    <rdg type="replace"><hi rend="italic">Actus Quintus. SCENE I.</hi></rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum>pope</siglum>, <siglum>han1</siglum>, <siglum rend="smcaps"
+                            >pel1</siglum>&sigrange;<siglum>dig</siglum></wit>
                 </appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_1791-03" target="#tln_1791">
             <label display="all(invisible)">1791</label>
-            <app>
+            <app><lem>Actus Quintus.</lem>]
                 <appPart>
-                    <rdg type="insert">SCENE, <hi rend="italic">the Palace.</hi></rdg>
+                    <rdg type="replace"><hi rend="italic">Actus Quintus. SCENE, the Palace.</hi></rdg>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps"
-                            >warb</siglum>&sigrange;<siglum rend="smcaps">sis</siglum> (<hi
+                            >theo</siglum>, <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps">sis</siglum> (<hi
                             rend="italic">subst.</hi>)</wit>
                 </appPart>
             </app>
@@ -9126,12 +9122,11 @@
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
                             <siglum>v1773</siglum>, <siglum rend="smcaps"
                     >oxf2</siglum></wit></appPart>; <appPart><rdgDesc>as <siglum>F1</siglum> but ad.
-                            <rdg type="insert"><hi rend="italic">Philostrate</hi>&hellip;<hi
-                                rend="italic">etc.</hi></rdg></rdgDesc>
+                            <rdg type="replace"><hi rend="italic">Hippolita, Egeus, Philostrate, Lords, etc.</hi></rdg></rdgDesc>
                     <wit><siglum>v1778</siglum>, <siglum rend="smcaps"
                 >rann</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="lscaps"
-                            >Hippolita</hi>, <hi rend="lscaps">Philostrate</hi>&hellip;<hi
-                            rend="italic">Attendants.</hi></rdg>
+                            >Hippolita</hi>, <hi rend="lscaps">Philostrate</hi>, <hi
+                            rend="italic">and Attendants.</hi></rdg>
                     <wit><siglum rend="smcaps">cap</siglum>
                         <hi rend="italic">etc.</hi></wit></appPart></app>
         </note>
@@ -9404,7 +9399,10 @@
             <label>1841</label>
             <app>
                 <appPart>
-                    <rdgDesc>Ad. <rdg type="insert"><hi rend="italic">reads</hi></rdg></rdgDesc>
+                    <rdgDesc>
+                    <hi rend="italic">Ad.</hi>
+                    <rdg type="insert">reads</rdg>
+            </rdgDesc>                   
                     <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >cap</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum
                             rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
@@ -9430,8 +9428,8 @@
                     >and1</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1845" target="#tln_1845 #tln_1849 #tln_1853">
-            <label>1845, 1849, 1853</label>
+        <note type="textual" xml:id="tn_1845" target="#tln_1845">
+            <label>1845</label>
             <app>
                 <appPart>
                     <rdgDesc>
@@ -9445,6 +9443,44 @@
                             <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">cam4</siglum>,
                             <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
                         >dig</siglum></wit>
+                </appPart>
+            </app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1849" target="#tln_1849">
+            <label>1849</label>
+            <app>
+                <appPart>
+                    <rdgDesc>
+                        <hi rend="italic">Ad.</hi>
+                        <rdg type="insert">Reads</rdg>
+                    </rdgDesc>
+                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">dyce</siglum>,
+                        <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>,
+                        <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>,
+                        <siglum rend="smcaps">ard</siglum>, <siglum rend="smcaps">rltr</siglum>,
+                        <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">cam4</siglum>,
+                        <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
+                            >dig</siglum></wit>
+                </appPart>
+            </app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1853" target="#tln_1853">
+            <label>1853</label>
+            <app>
+                <appPart>
+                    <rdgDesc>
+                        <hi rend="italic">Ad.</hi>
+                        <rdg type="insert">Reads</rdg>
+                    </rdgDesc>
+                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">dyce</siglum>,
+                        <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>,
+                        <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>,
+                        <siglum rend="smcaps">ard</siglum>, <siglum rend="smcaps">rltr</siglum>,
+                        <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">cam4</siglum>,
+                        <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
+                            >dig</siglum></wit>
                 </appPart>
             </app>
         </note>
@@ -9711,27 +9747,27 @@
         </note>
 
         <note type="textual" xml:id="tn_1905-01" target="#tln_1905">
-            <label>1905</label>
-            <app>
-                <appPart>
-                    <rdg type="insert">SCENE II.</rdg>
-                    <wit><siglum rend="smcaps">pope</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
-                </appPart>
-            </app>
-        </note>
-
-        <note type="textual" xml:id="tn_1905-02" target="#tln_1905">
             <label display="all(invisible)">1905</label>
-            <app><lem><hi rend="italic">Enter the Prologue.</hi></lem>] <appPart><rdgDesc>Ad. <rdg
-                            type="insert"><hi rend="italic">Quince.</hi></rdg></rdgDesc>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum
-                            rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
+            <app><lem><hi rend="italic">Enter the Prologue.</hi></lem>] <appPart><rdg
+                            type="replace"><hi rend="italic">Enter the Prologue. Quince.</hi></rdg>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe</siglum>, <siglum
+                            rend="smcaps">theo</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
                             rend="smcaps">glo</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum
                             rend="smcaps">irv</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >rid</siglum>, <siglum rend="smcaps">and2</siglum>, <siglum
                             rend="smcaps">folg2</siglum>) (<hi rend="italic"
                     >subst.</hi>)</wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1905-02" target="#tln_1905">
+            <label>1905</label>
+            <app><lem><hi rend="italic">Enter the Prologue.</hi></lem>]
+                <appPart>
+                    <rdg type="replace"><hi rend="ital">SCENE II. Enter the Prologue. Quince.</hi></rdg>
+                    <wit><siglum rend="smcaps">pope</siglum>&sigrange;<siglum rend="smcaps"
+                            >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1912" target="#tln_1912">
@@ -9754,7 +9790,8 @@
                             rend="smcaps">rid</siglum>, <siglum rend="smcaps"
                     >alex</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash;.</rdg>
                     <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi>
+                        &sigrange;<siglum rend="smcaps"
+                            >dig</siglum> (&minus;<siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>)
                     </wit></appPart></app>
         </note>
 
@@ -9859,9 +9896,10 @@
 
         <note type="textual" xml:id="tn_1925-01" target="#tln_1925">
             <label>1925</label>
-            <app><lem><hi rend="italic">Enter</hi></lem>] <appPart><rdg type="replace"><hi
+            <app><lem><hi rend="italic">Enter Pyramus, and Thisby, and Wall, and Moone-shine, and Lyon.</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">Enter the</hi>
-                        <hi rend="lscaps">Presenter</hi>,</rdg>
+                        <hi rend="lscaps">Presenter</hi>, <hi
+                            rend="italic">Pyramus, and Thisby, and Wall, and Moone-shine, and Lion, as in dumb show.</hi> </rdg>
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>,
                             <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">dyce2</siglum>,
                             <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps"
@@ -9873,9 +9911,9 @@
             <label display="all(invisible)">1925</label>
             <app><lem>Lyon.</lem>] <appPart><rdg type="replace">Lion, as in dumb show.</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
-                            >wh2</siglum> (&minus;<siglum rend="smcaps">cam1</siglum>, <siglum
-                            rend="smcaps">glo</siglum>), <siglum rend="smcaps">oxf</siglum>, <siglum
-                            rend="smcaps">cam3</siglum> (<hi rend="italic"
+                            >hud1</siglum>, <siglum rend="smcaps">sing2</siglum>&sigrange;<siglum rend="smcaps"
+                                >dyce1</siglum>, <siglum
+                            rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum> (<hi rend="italic"
                     >subst.</hi>)</wit></appPart></app>
         </note>
 
@@ -9995,14 +10033,14 @@
                             >sis</siglum>, <siglum rend="smcaps">evns</siglum>&sigrange;<siglum
                             rend="smcaps">cam4</siglum>, <siglum rend="smcaps">oxf4</siglum> (<hi
                             rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdgDesc><hi
-                            rend="italic">for all but Wall and Pyramus</hi></rdgDesc>
+                                        rend="italic">Exit marked for all but Wall and Pyramus</hi></rdgDesc>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
                             >mal</siglum>&sigrange;<siglum rend="smcaps">col3</siglum>, <siglum
                             rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum>,
                             <siglum rend="smcaps">glo</siglum> (1864–78), <siglum rend="smcaps"
                             >knt3</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum
                             rend="smcaps">nlsn</siglum></wit></appPart>; <appPart><rdgDesc><hi
-                            rend="italic">for all but Wall, Pyramus and Prologue</hi></rdgDesc>
+                                        rend="italic">Exit marked for all but Wall, Pyramus and Prologue</hi></rdgDesc>
                     <wit><siglum rend="smcaps">ban2</siglum></wit></appPart>; <appPart><rdg
                         type="insert"><hi rend="italic">om.</hi></rdg>
                     <wit><siglum rend="smcaps">cam3</siglum>&sigrange;<siglum rend="smcaps"
@@ -10016,9 +10054,12 @@
                         <hi rend="italic">for Prologue</hi></rdgDesc>
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>,
                             <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
-                            >col4</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>;
-                            <appPart><rdgDesc><hi rend="italic">ad.</hi>
-                        <rdg type="insert">Presenter</rdg></rdgDesc>
+                            >col4</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1951-03" target="#tln_1951">
+            <label display="all(invisible)">1951</label>
+            <app><lem>Exit all but Wall.</lem>] <appPart><rdg type="replace">Exit Presenter all but Wall.</rdg>
                     <wit><siglum rend="smcaps">wh1</siglum></wit></appPart></app>
         </note>
 
@@ -10040,10 +10081,10 @@
                             Prologue</hi></rdgDesc>
                     <wit><siglum>Q1</siglum>&sigrange;<siglum>F4</siglum>, <siglum rend="smcaps"
                             >rid</siglum>, <siglum rend="smcaps">and2</siglum></wit></appPart>;
-                            <appPart><rdgDesc><hi rend="italic">for all but Wall and
+                <appPart><rdgDesc><hi rend="italic">Exit marked for all but Wall and
                         Pyramus</hi></rdgDesc>
                     <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
-                        >folg2</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">for all
+                            >folg2</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">Exit marked for all
                             but Wall</hi></rdgDesc>
                     <wit><siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">pel</siglum>,
                             <siglum rend="smcaps">and1</siglum>, <siglum rend="smcaps"
@@ -10248,33 +10289,17 @@
                     <wit><siglum rend="smcaps">cam3</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1997-01" target="#tln_1997">
+        <note type="textual" xml:id="tn_1997" target="#tln_1997">
             <label>1997</label>
-            <app><lem>loue&caret;</lem>] <appPart><rdg type="replace">&swdash;!</rdg>
+            <app><lem>loue thou art,</lem>] <appPart><rdg type="replace">loue! thou art,</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>&plus;
-                            (&minus;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps"
-                            >glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps"
-                            >ard1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum
-                            rend="smcaps">rid</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum
-                            rend="smcaps">evns</siglum>, <siglum rend="smcaps">ard2</siglum>,
-                            <siglum rend="smcaps">and</siglum>, <siglum rend="smcaps"
-                        >oxf4</siglum>)</wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart>;
+                <appPart><rdg type="replace">loue! thou art</rdg>
+                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">v1778</siglum>&sigrange;<siglum>wh1</siglum>, <siglum>dyce2</siglum>, <siglum>ktly</siglum>, <siglum>knt3</siglum>&sigrange;<siglum>hud2</siglum>, <siglum>irv</siglum>, <siglum>oxf1</siglum>, <siglum>cam3</siglum>, <siglum>kit1</siglum>, <siglum>alex</siglum>, <siglum>pel1</siglum>, <siglum>cam4</siglum>&sigrange;<siglum>ban2</siglum></wit></appPart>
+            </app>
         </note>
 
-        <note type="textual" xml:id="tn_1997-02" target="#tln_1997">
-            <label display="all(invisible)">1997</label>
-            <app><lem>art,</lem>] <appPart><rdg type="replace">&swdash;&caret;</rdg>
-                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>,
-                            <siglum>v1778</siglum>&plus; (&minus;<siglum rend="smcaps"
-                        >cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps"
-                            >wh2</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;<siglum
-                            rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">rid</siglum>, <siglum
-                            rend="smcaps">sis</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum
-                            rend="smcaps">ard2</siglum>, <siglum rend="smcaps">and2</siglum>,
-                            <siglum rend="smcaps">dig</siglum>)</wit></appPart></app>
-        </note>
-
+        
         <note type="textual" xml:id="tn_2000" target="#tln_2000">
             <label>2000</label>
             <app><lem>I</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
@@ -10292,18 +10317,15 @@
 
         <note type="textual" xml:id="tn_2003-01" target="#tln_2003">
             <label>2003</label>
-            <app><lem>hole</lem>] <appPart><rdg type="replace">whole</rdg>
+            <app><lem>hole of this vilde wall</lem>] <appPart><rdg type="replace">whole of this vile wall</rdg>
                     <wit><siglum rend="smcaps">mal</siglum></wit></appPart></app>
         </note>
-
+        
         <note type="textual" xml:id="tn_2003-02" target="#tln_2003">
-            <label display="all(invisible)">2003</label>
-            <app><lem>vilde</lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>Q1</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum
-                            rend="smcaps">oxf3</siglum>, <siglum rend="smcaps"
-                    >and</siglum></wit></appPart>; <appPart><rdg type="replace">vile</rdg>
-                    <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+            <label>2003</label>
+            <app><lem>hole of this vilde wall</lem>] <appPart><rdg type="replace">hole of this vile wall</rdg>
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">v1793</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum> <siglum rend="smcaps">cam4</siglum></wit></appPart>            
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_2007" target="#tln_2007">
