@@ -10417,36 +10417,22 @@
                     >rowe1</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_2020-01" target="#tln_2020">
+        <note type="textual" xml:id="tn_2020" target="#tln_2020">
             <label>2020</label>
-            <app><lem>beasts, in&caret;</lem>] <appPart><rdg type="replace">&swdash;&caret;
-                        &swdash;,</rdg>
+            <app><lem>beasts, in a man</lem>] <appPart><rdg type="replace">beasts in, a man</rdg>
                     <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps">rowe3</siglum>,
-                            <siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
-                        >han1</siglum>, <siglum rend="smcaps">john1</siglum>&plus; (&minus;<siglum
-                            rend="smcaps">rid</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum
-                            rend="smcaps">and2</siglum>)</wit></appPart>; <appPart><rdg
-                        type="replace">&swdash; &caret;&swdash;&caret;</rdg>
+                        <siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>, <siglum rend="smcaps">v1821</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">hud1</siglum>,  <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdg
+                        type="replace">beasts in a moon</rdg>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps"
-                        >warb</siglum></wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_2020-02" target="#tln_2020">
-            <label display="all(invisible)">2020</label>
-            <app><lem>man</lem>] <appPart><rdg type="replace">moon</rdg>
+                        >warb</siglum></wit></appPart>;
+                <appPart><rdg type="replace">beasts in, a moon</rdg>
                     <wit><ref targType="bibl" target="#b_anon0011"><name type="app"
-                            >anon.</name></ref>
+                                >anon.</name></ref>
                         <hi rend="italic">in</hi>
                         <siglum>m<hi rend="smcaps">theo</hi>1</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
-                            >theo1</siglum>&sigrange;<siglum>v1803</siglum> (&minus;<siglum
-                            rend="smcaps">warb</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum
-                            rend="smcaps">mal</siglum>), <siglum rend="smcaps">sing</siglum>,
-                            <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps"
-                        >ktly</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps"
-                            >irv</siglum>, <siglum rend="smcaps">cam3</siglum> (<hi rend="italic"
-                            >marked with an obelus</hi> [†] <hi rend="italic">as a corrupt
-                            passage</hi>), <siglum rend="smcaps">sis</siglum></wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han1</siglum>, 
+                        <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum>rann</siglum>, <siglum rend="smcaps">v1793</siglum>, <siglum rend="smcaps">v1803</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">cam3</siglum> (<hi rend="italic">marked with an obelus</hi> [†] <hi rend="italic">as a corrupt passage</hi>), <siglum rend="smcaps">sis</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_2021" target="#tln_2021">
