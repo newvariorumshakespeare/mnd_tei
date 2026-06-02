@@ -10454,7 +10454,7 @@
             <app><lem>as Snug the Ioyner am</lem>] <appPart><rdg type="replace">one Snug the Ioyner am</rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum  rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum>, <siglum  rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum  rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">col4</siglum>, <siglum  rend="smcaps">wh2</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum></wit></appPart>;
                 <appPart><rdg type="replace">one Snug the Ioyner am;</rdg><wit><siglum rend="smcaps">set</siglum>,<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum></wit></appPart>;
-                <appPart><rdg type="replace">one Snug the Ioyner am,</rdg><wit><siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">kit</siglum></wit></appPart>
+                <appPart><rdg type="replace">one Snug the Ioyner am,</rdg><wit><siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">kit1</siglum></wit></appPart>
             </app>
         </note>
 
