@@ -10449,23 +10449,13 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_2026-01" target="#tln_2026">
+        <note type="textual" xml:id="tn_2026" target="#tln_2026">
             <label>2026</label>
-            <app><lem>as</lem>] <appPart><rdg type="replace">one</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">cap</siglum>, <siglum
-                            rend="smcaps">rann</siglum>&sigrange;<siglum rend="smcaps"
-                        >nlsn</siglum>, <siglum rend="smcaps">kit1</siglum></wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_2026-02" target="#tln_2026">
-            <label display="all(invisible)">2026</label>
-            <app><lem>am&caret;</lem>] <appPart><rdg type="replace">&swdash;;</rdg>
-                    <wit><siglum rend="smcaps">set</siglum>, <siglum rend="smcaps">cap</siglum>,
-                            <siglum rend="smcaps">rann</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">&swdash;,</rdg>
-                    <wit><siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">dyce2</siglum>,
-                            <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps"
-                        >kit1</siglum></wit></appPart></app>
+            <app><lem>as Snug the Ioyner am</lem>] <appPart><rdg type="replace">one Snug the Ioyner am</rdg>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum  rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum>, <siglum  rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum  rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">col4</siglum>, <siglum  rend="smcaps">wh2</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum></wit></appPart>;
+                <appPart><rdg type="replace">one Snug the Ioyner am;</rdg><wit><siglum rend="smcaps">set</siglum>,<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum></wit></appPart>;
+                <appPart><rdg type="replace">one Snug the Ioyner am,</rdg><wit><siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">kit</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_2027-01" target="#tln_2027">
