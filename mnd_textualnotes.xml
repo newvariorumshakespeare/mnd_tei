@@ -10613,9 +10613,9 @@
 
         <note type="textual" xml:id="tn_2065" target="#tln_2065">
             <label>2065</label>
-            <app>
+            <app><lem>The Lion roares, Thisby runs off.</lem>]                 
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">The Lion roares, Thisby runs off.</hi>
                     </rdg>
                     <wit><siglum>F1</siglum>&plus; (<hi rend="italic">subst.</hi>)</wit>
