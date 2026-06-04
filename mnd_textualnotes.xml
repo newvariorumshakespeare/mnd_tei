@@ -10589,14 +10589,14 @@
 
         <note type="textual" xml:id="tn_2060" target="#tln_2060" targetEnd="#tln_2061">
             <label>2060–1</label>
-            <app><lem>Deme. Why? All these&hellip;for all these are in the Moone&hellip;Thisby.</lem>
+            <app><lem>Why? All these should be in the lanthorne: for all these are in the Moone. But silence: here comes Thisby.</lem>
                 <appPart><rdg type="replace">Deme. Why All these should be in the lanthorne: for they are in the Moone. But silence: here comes Thisby.</rdg>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum>F4</siglum>, <siglum rend="smcaps"
                             >pope</siglum>, <siglum rend="smcaps">sis</siglum></wit></appPart>;
                 <appPart><rdg type="replace">Deme. Why, All these should be in the lanthorne: for they are in the Moone. But silence: here comes Thisby.</rdg>
-                    <wit><siglum rend="smcaps">rowe</siglum>&sigrange;<siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum></wit></appPart>;
+                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum></wit></appPart>;
                 <appPart><rdg type="replace">Deme. Why, All these should be in the lanthorne: for all these are in the Moone. But silence: here comes Thisby.</rdg>
-                    <wit><siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">cam</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">cam</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>&sigrange;<siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_2063" target="#tln_2063">
