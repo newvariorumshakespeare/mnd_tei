@@ -10967,17 +10967,12 @@
 
         <note type="textual" xml:id="tn_2105-01" target="#tln_2105">
             <label>2105</label>
-            <app><lem>chance</lem>] <appPart><rdg type="replace">chance the</rdg>
-                    <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>
-                            (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_2105-02" target="#tln_2105">
-            <label display="all(invisible)">2105</label>
-            <app><lem>before?</lem>] <appPart><rdg type="replace">&swdash;&caret;</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >rid</siglum>, <siglum rend="smcaps"
-                >and2</siglum>)</wit></appPart></app>
+            <app><lem>chance Moone-shine is gone before?</lem>] <appPart><rdg type="replace">chance the Moone-shine is gone before?</rdg>
+                    <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">chance the Moone-shine is gone before</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">rann</siglum></wit></appPart>;
+                <appPart><rdg type="replace">chance Moone-shine is gone before</rdg>
+                    <wit><siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">dig</siglum>(&minus;<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">and2</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_2106" target="#tln_2106">
