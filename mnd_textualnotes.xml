@@ -11043,10 +11043,11 @@
 
         <note type="textual" xml:id="tn_2113-02" target="#tln_2113" targetEnd="#tln_2113p01">
             <label display="all(invisible)">2113–13+1</label>
-            <app><lem>warnd</lem>] <appPart><rdg type="lem">&swdash;</rdg>
+            <app><lem>warnd</lem>] <appPart><rdg type="replace">warnd</rdg>
                     <wit><siglum>Qq</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum
                             rend="smcaps">kit1</siglum>, <siglum rend="smcaps"
-                    >and2</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic"
+                    >and2</siglum></wit></appPart>; 
+                <appPart><rdgDesc><hi rend="italic"
                         >om.</hi></rdgDesc>
                     <wit><siglum>F1</siglum>&sigrange;<siglum>v1821</siglum>, <siglum rend="smcaps"
                             >knt</siglum></wit></appPart>; <appPart><rdg type="replace"
