@@ -11047,10 +11047,7 @@
                     <wit><siglum>Qq</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum
                             rend="smcaps">kit1</siglum>, <siglum rend="smcaps"
                     >and2</siglum></wit></appPart>; 
-                <appPart><rdgDesc><hi rend="italic"
-                        >om.</hi></rdgDesc>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum>v1821</siglum>, <siglum rend="smcaps"
-                            >knt</siglum></wit></appPart>; <appPart><rdg type="replace"
+                <appPart><rdg type="replace"
                         >warrant</rdg>
                     <wit><siglum rend="smcaps">col1</siglum>
                         <hi rend="italic">etc.</hi></wit></appPart></app>
