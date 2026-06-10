@@ -11049,8 +11049,7 @@
                     >and2</siglum></wit></appPart>; 
                 <appPart><rdg type="replace"
                         >warrant</rdg>
-                    <wit><siglum rend="smcaps">col1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                    <wit><siglum rend="smcaps">col1</siglum>&sigrange;<siglum>hal</siglum>, <siglum rend="smcaps">dyce1</siglum>&sigrange;<siglum>rid</siglum>, <siglum rend="smcaps">alex</siglum>&sigrange;<siglum>dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_2115" target="#tln_2115">
