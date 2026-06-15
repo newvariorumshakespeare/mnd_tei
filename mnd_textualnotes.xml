@@ -11210,8 +11210,7 @@
                     >and2</siglum></wit></appPart>; 
                 <appPart><rdg type="replace"><hi rend="italic"
                             >Bot.</hi></rdg>
-                        <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">oxf</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">dig</siglum>
-                        </wit></appPart>; 
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart>; 
                 <appPart><rdg type="replace"><hi rend="italic">Bot. starting up</hi></rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">rid</siglum>&sigrange;<siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">evns</siglum>&sigrange;<siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum></wit></appPart>
             </app>
