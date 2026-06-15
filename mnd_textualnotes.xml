@@ -11437,12 +11437,12 @@
 
         <note type="textual" xml:id="tn_2184" target="#tln_2184">
             <label>2184</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">The Song.</hi></rdg>
+            <app><lem>The Song.</lem>]<appPart><rdg type="replace"><hi rend="italic">The Song.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">theo4</siglum>, <siglum
                             rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum>,
                             <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps"
                             >ktly</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart>;
-                        <appPart><rdg type="insert"><hi rend="italic">SONG, and DANCE.</hi></rdg>
+                        <appPart><rdg type="replace"><hi rend="italic">SONG, and DANCE.</hi></rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum>v1778</siglum>&sigrange;<siglum
                             rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hud1</siglum>,
                             <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps"
@@ -11593,14 +11593,18 @@
                     >john1</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">ad.</hi>
                         <rdg type="insert">King, Queen, <hi rend="italic">and
                         Train.</hi></rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">cap</siglum>&plus;</wit></appPart></app>
+                        <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
+                                >sing2</siglum>, <siglum rend="smcaps">stau</siglum>&sigrange;<siglum rend="smcaps"
+                                    >nlsn</siglum>, <siglum rend="smcaps">rid</siglum>&sigrange;<siglum rend="smcaps"
+                                        >alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_2206-02" target="#tln_2206">
             <label display="all(invisible)">2206</label>
             <app>
                 <appPart>
-                    <rdg type="insert">Epilogue.</rdg>
+                    <rdg type="insert">King, Queen, <hi rend="italic">and
+                            Train.</hi> Epilogue.</rdg>
                     <wit><siglum>m<hi rend="smcaps">jenn</hi></siglum>, <siglum rend="smcaps"
                             >hal</siglum>, <siglum rend="smcaps">cam3</siglum>, <siglum
                             rend="smcaps">sis</siglum>, <siglum rend="smcaps">oxf2</siglum></wit>
