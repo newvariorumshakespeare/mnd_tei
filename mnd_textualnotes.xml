@@ -11266,47 +11266,35 @@
                     >rowe1</siglum>&sigrange;<siglum>v1778</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_2153-01" target="#tln_2153">
+        <note type="textual" xml:id="tn_2153" target="#tln_2153">
             <label>2153</label>
-            <app><appPart><rdg type="insert">SCENE III.</rdg>
+            <app><lem><hi rend="italic">Enter</hi> Pucke.</lem>]<appPart><rdg type="replace">SCENE III. <hi rend="italic">Enter</hi> Pucke.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps"
-                    >theo</siglum>)</wit></appPart>; <appPart><rdg type="insert"><hi rend="italic"
-                            >SCENE II.</hi></rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
-                            >stau</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum
-                            rend="smcaps">wh1</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum
-                            rend="smcaps">knt3</siglum>, <siglum rend="smcaps">col4</siglum>,
-                            <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps"
-                        >oxf2</siglum>, <siglum rend="smcaps">and2</siglum></wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_2153-02" target="#tln_2153">
-            <label display="all(invisible)">2153</label>
-            <app>
-                <appPart>
-                    <rdg type="insert">The same.</rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>,
-                            <siglum rend="smcaps">hal</siglum></wit>
-                </appPart>
-            </app>
-        </note>
-
-        <note type="textual" xml:id="tn_2153-03" target="#tln_2153">
-            <label display="all(invisible)">2153</label>
-            <app><lem><hi rend="italic">Enter</hi> Pucke.</lem>] <appPart><rdgDesc>ad. <rdg
-                            type="insert"><hi rend="italic">with a broom on his
-                        shoulder</hi></rdg></rdgDesc>
+                    >theo</siglum>)</wit></appPart>; 
+                <appPart><rdg type="replace"><hi rend="italic">SCENE II. Enter</hi> Pucke.</rdg>
+                    <wit><siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps"
+                            >rann</siglum>, <siglum rend="smcaps">v1793</siglum>&sigrange;<siglum rend="smcaps"
+                                >hud1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum                     rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum
+                            rend="smcaps">knt3</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps"
+                        >oxf2</siglum>, <siglum rend="smcaps">and2</siglum>
+                    </wit></appPart>;
+                <appPart><rdg type="replace"><hi rend="italic">SCENE II. Enter</hi> Pucke. <hi rend="italic">with a broom on his shoulder</hi></rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col2</siglum>, <siglum
-                            rend="smcaps">col3</siglum>, <siglum rend="smcaps">dyce2</siglum>,
-                            <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps"
-                        >hud2</siglum>, <siglum rend="smcaps">cam3</siglum>&sigrange;<siglum
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart>;
+                <appPart><rdg type="replace"><hi rend="italic">SCENE II. Enter</hi> Pucke. The same.</rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>,
+                        <siglum rend="smcaps">hal</siglum></wit>
+                </appPart>;
+                <appPart><rdg type="replace"><hi rend="italic">Enter</hi> Pucke. <hi rend="italic">with a broom on his shoulder</hi></rdg>
+                    <wit><siglum rend="smcaps">dyce2</siglum>,
+                    <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">cam3</siglum>&sigrange;<siglum
                             rend="smcaps">pel1</siglum> (&minus;<siglum rend="smcaps">rid</siglum>,
-                            <siglum rend="smcaps">sis</siglum>), <siglum rend="smcaps"
-                            >cam4</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>, <siglum
+                    <siglum rend="smcaps">sis</siglum>), <siglum rend="smcaps"
+                        >cam4</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>, <siglum
                             rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">pel3</siglum> (<hi
-                            rend="italic">subst.</hi>)</wit></appPart></app>
+                                rend="italic">subst.</hi>)</wit></appPart>   
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_2154" target="#tln_2154">
