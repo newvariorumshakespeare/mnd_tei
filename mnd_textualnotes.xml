@@ -8221,9 +8221,9 @@
 
         <note type="textual" xml:id="tn_1622" target="#tln_1622">
             <label>1622</label>
-            <app>><lem>Enter Theseus and all his traine.</lem>]
+            <app>><lem>Enter Theseus and all his traine. VVinde horne.</lem>]
                 <appPart>
-                    <rdg type="replace">SCENE II. Enter Theseus and all his traine.</rdg>
+                    <rdg type="replace">VVinde horne. SCENE II. Enter Theseus and all his traine.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum></wit>
                 </appPart>
@@ -8232,9 +8232,8 @@
 
         <note type="textual" xml:id="tn_1623-01" target="#tln_1623">
             <label>1623</label>
-            <app><lem>Theseus</lem>] <appPart><rdg type="replace"><hi rend="italic">Theseus, Egeus,
-                            Hippolita</hi></rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">john1</siglum>&plus;</wit></appPart></app>
+            <app><lem>>Enter Theseus and all his traine. VVinde horne.</lem>] <appPart><rdg type="replace"><hi rend="italic">VVinde horne. Enter Theseus, Egeus, Hippolita and all his traine.</hi></rdg>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">john1</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1623-02" target="#tln_1623">
