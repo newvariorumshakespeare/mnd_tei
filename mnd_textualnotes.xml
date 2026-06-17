@@ -29,9 +29,10 @@
 
         <note type="textual" xml:id="tn_0001-01" target="#tln_0001">
             <label>1</label>
-            <app><lem>Actus primus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Actus
-                            primus.</hi></rdg>
-                    <wit><siglum>Ff</siglum></wit></appPart></app>
+            <app><lem>Actus primus.</lem>] <appPart><rdg type="lem">&swdash;</rdg>
+                    <wit><siglum>Qq</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic"
+                                >om.</hi></rdgDesc>
+                        <wit><siglum>Ff</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0001-02" target="#tln_0001">
