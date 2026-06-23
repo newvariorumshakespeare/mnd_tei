@@ -4722,16 +4722,16 @@
         <note type="textual" xml:id="tn_0981-01" target="#tln_0981">
             <label>981</label>
             <app><lem><hi rend="italic">Fairies.</hi> Readie: and I, and I, and I.</lem>]
-                        <appPart><rdgDesc>on four separate lines <rdg type="replace"><hi
-                                        rend="italic">1 Fair.</hi> (<hi rend="italic">Fiar.</hi>) Readie. <hi rend="italic">2 Fair.</hi> And I. <hi rend="italic">3 Fair.</hi> And                            I.<hi rend="italic">4 Fair.</hi> And I.</rdg></rdgDesc>
+                <appPart><rdgDesc>on four separate lines</rdgDesc> <rdg type="replace"><hi
+                                        rend="italic">1 Fair.</hi> (<hi rend="italic">Fiar.</hi>) Readie. <hi rend="italic">2 Fair.</hi> And I. <hi rend="italic">3 Fair.</hi> And                            I.<hi rend="italic">4 Fair.</hi> And I.</rdg>
                             <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>
             </app>
         </note>
 
         <note type="textual" xml:id="tn_0981-02" target="#tln_0981">
             <label display="all(invisible)">981</label>
-            <app><lem>Fairies. Readie: and I, and I, and I. Where shall we goe?</lem>] <appPart><rdgDesc>on four separate lines <rdg type="replace"><hi rend="italic">1 Fai.</hi> Readie. 
-                            <hi rend="italic">2 Fai.</hi> And I.<hi rend="italic">3 Fai.</hi> And I.<hi rend="italic">4 Fai.</hi> Where shall we go?</rdg></rdgDesc>
+            <app><lem>Fairies. Readie: and I, and I, and I. Where shall we goe?</lem>] <appPart><rdgDesc>on four separate lines</rdgDesc> <rdg type="replace"><hi rend="italic">1 Fai.</hi> Readie. 
+                            <hi rend="italic">2 Fai.</hi> And I.<hi rend="italic">3 Fai.</hi> And I.<hi rend="italic">4 Fai.</hi> Where shall we go?</rdg>
                     <wit><ref targType="bibl" target="#b_farr0001"><name type="app"
                                 >farmer</name></ref>
                         <hi rend="italic">in</hi>
