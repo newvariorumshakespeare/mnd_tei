@@ -4719,59 +4719,42 @@
                             >subst.</hi>)</wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0981https://newvariorumshakespeare.org/-01" target="#tln_0981">
+        <note type="textual" xml:id="tn_0981-01" target="#tln_0981">
             <label>981</label>
-            <app><lem><hi rend="italic">Fairies.</hi>&hellip;and I, and I,</lem>]
-                        <appPart><rdgDesc>on three separate lines <rdg type="insert"><hi
-                                rend="italic">1 Fair.</hi> (<hi rend="italic">Fiar.</hi>)&hellip;<hi
-                                rend="italic">2 Fair.</hi> And I. <hi rend="italic">3 Fair.</hi> And
-                            I.</rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (<hi rend="italic"
-                        >subst.</hi>)</wit></appPart></app>
+            <app><lem><hi rend="italic">Fairies.</hi> Readie: and I, and I, and I.</lem>]
+                        <appPart><rdgDesc>on four separate lines <rdg type="replace"><hi
+                                        rend="italic">1 Fair.</hi> (<hi rend="italic">Fiar.</hi>) Readie. <hi rend="italic">2 Fair.</hi> And I. <hi rend="italic">3 Fair.</hi> And                            I.<hi rend="italic">4 Fair.</hi> And I.</rdg></rdgDesc>
+                            <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0981-02" target="#tln_0981">
             <label display="all(invisible)">981</label>
-            <app><lem>and I.</lem>] <appPart><rdgDesc>on a separate line <rdg type="insert"><hi
-                                rend="italic">4 Fair.</hi> And I.</rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >mal</siglum>, <siglum>v1821</siglum>&sigrange;<siglum rend="smcaps"
-                            >knt1</siglum>, <siglum rend="smcaps">hal</siglum>&sigrange;<siglum
-                            rend="smcaps">dyce1</siglum>, <siglum rend="smcaps"
-                            >wh1</siglum>&sigrange;<siglum rend="smcaps">knt3</siglum>, <siglum
-                            rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps"
-                        >oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&plus; (<hi rend="italic"
-                            >subst.</hi>)</wit></appPart>; <appPart><rdgDesc>on a separate line <rdg
-                            type="insert"><hi rend="italic">4. <hi rend="lscaps"
-                            >Fai.</hi></hi></rdg></rdgDesc>
+            <app><lem>Fairies. Readie: and I, and I, and I. Where shall we goe?</lem>] <appPart><rdgDesc>on four separate lines <rdg type="replace"><hi rend="italic">1 Fai.</hi> Readie. 
+                            <hi rend="italic">2 Fai.</hi> And I.<hi rend="italic">3 Fai.</hi> And I.<hi rend="italic">4 Fai.</hi> Where shall we go?</rdg></rdgDesc>
                     <wit><ref targType="bibl" target="#b_farr0001"><name type="app"
-                            >farmer</name></ref>
+                                >farmer</name></ref>
                         <hi rend="italic">in</hi>
                         <siglum>v1793</siglum>
                         <hi rend="italic">conj.</hi>, <siglum>v1793</siglum>,
                         <siglum>v1803</siglum>, <siglum rend="smcaps">col</siglum>, <siglum
-                            rend="smcaps">hud1</siglum>, <siglum rend="smcaps"
-                    >ard1</siglum></wit></appPart></app>
+                            rend="smcaps">hud1</siglum>, 
+                        <siglum rend="smcaps">ard1</siglum></wit></appPart>;
+                <appPart>
+                          <rdg type="replace"><hi rend="italic">1 Fair.</hi> Readie. 
+                              <hi rend="italic">2 Fair.</hi> And I.<hi rend="italic">3 Fair.</hi> and I.<hi rend="italic">4 Fair.</hi> and I.<hi rend="italic"> all.</hi> Where shall we goe?</rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>,
+                        <siglum>v1821</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>,
+                        <siglum rend="smcaps">hal</siglum>&plus; (&minus;<siglum rend="smcaps"
+                            >col3</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum
+                                rend="smcaps">ard1</siglum>)</wit></appPart>          
+             </app>
         </note>
 
         <note type="textual" xml:id="tn_0981-03" target="#tln_0981">
             <label display="all(invisible)">981</label>
-            <app><lem>I. Where</lem>] <appPart><rdg type="replace">I. <anchor type="marker"
-                            marker="|"/>
-                        <hi rend="italic">All.</hi> What</rdg>
-                    <wit><siglum rend="smcaps">set</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">I. <anchor type="marker" marker="|"/>
-                        <hi rend="italic">all.</hi> Where</rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>,
-                            <siglum>v1821</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>,
-                            <siglum rend="smcaps">hal</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >col3</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum
-                            rend="smcaps">ard1</siglum>)</wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_0981-04" target="#tln_0981">
-            <label display="all(invisible)">981</label>
-            <app><lem>goe</lem>] <appPart><rdg type="replace">do</rdg>
+            <app><lem>Fairies. Readie: and I, and I, and I. Where shall we goe?</lem>] <appPart><rdg type="replace"><hi rend="italic">1 Fair.</hi> Readie. 
+                        <hi rend="italic">2 Fair.</hi> And I.<hi rend="italic">3 Fair.</hi> And I.<hi rend="italic"> All.</hi> Where shall we do?</rdg>
                     <wit><siglum rend="smcaps">set</siglum>, <siglum>m<hi rend="smcaps"
                             >tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi>
