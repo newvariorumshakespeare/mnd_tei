@@ -1916,8 +1916,8 @@
                                     >wh1</siglum>&sigrange;<siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
                                         >glo</siglum>, <siglum rend="smcaps"
                                             >col4</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum
-                                                rend="smcaps">rid</siglum></wit></appPart>; <appPart><hi rend="italic"
-                                                        >om.</hi>
+                            rend="smcaps">rid</siglum></wit></appPart>; <appPart><rdg type="replace"
+                            ><hi rend="italic">om.</hi></rdg>
                     <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">sis</siglum>
                             (<hi rend="italic">subst.</hi>)</wit></appPart></app>
         </note>
@@ -4513,8 +4513,8 @@
                         <hi rend="italic">and</hi>
                         <hi rend="lscaps">Quince</hi>.</rdg>
                     <wit><siglum rend="smcaps">stau</siglum> (<foreign xml:lang="la" rend="italic"
-                            >addenda</foreign>)</wit></appPart>; <appPart><hi rend="italic"
-                                    >om.</hi>/rdg>
+                            >addenda</foreign>)</wit></appPart>; <appPart><rdg type="replace"><hi
+                            rend="italic">om.</hi></rdg>
                     <wit><siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps"
                             >warb</siglum>&sigrange;<siglum rend="smcaps"
                     >john1</siglum></wit></appPart></app>
@@ -8689,8 +8689,8 @@
                             <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
                         >hud2</siglum>, <siglum rend="smcaps">irv</siglum></wit></appPart>;
                         <appPart><rdg type="replace"><hi rend="italic">Nay</hi>, are</rdg>
-                            <wit><siglum rend="smcaps">ard1</siglum></wit></appPart>; <appPart><hi rend="italic"
-                                    >om.</hi>
+                    <wit><siglum rend="smcaps">ard1</siglum></wit></appPart>; <appPart><rdg
+                        type="replace"><hi rend="italic">om.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
                             <siglum>v1793</siglum>, <siglum>v1803</siglum>, <siglum rend="smcaps"
                             >knt</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps"
