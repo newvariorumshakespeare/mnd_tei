@@ -681,26 +681,34 @@
 
         <note type="textual" xml:id="tn_0199-01" target="#tln_0199">
             <label>199</label>
-            <app><lem>Your words I</lem>] <appPart><rdg type="replace">Your words Ide</rdg>
-                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">theo2</siglum>, <siglum
-                            rend="smcaps">theo4</siglum>, <siglum rend="smcaps">mal</siglum>,
-                            <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps"
-                        >stau</siglum></wit></appPart>; <appPart><rdg type="replace">Your’s would
-                        I</rdg>
+            <app><lem>Your words I catch, faire Hermia, ere I goe,</lem>] <appPart><rdg type="replace">Your words Ide catch, faire Hermia, ere I goe,</rdg>
+                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps" >stau</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">Your’s would I catch, faire Hermia, ere I goe;</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han1</siglum>, <siglum
                             rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                             >john1</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>,
                             <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>,
-                            <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps"
-                            >sing2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum
-                            rend="smcaps">dyce1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >oxf2</siglum>)</wit></appPart></app>
+                           <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum
+                               rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, 
+                        <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">wh2</siglum>, 
+                        <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum>
+                        </wit>   
+                </appPart>
+                <appPart><rdg type="replace">Your words Ide catch, faire Hermia, ere I goe;</rdg>
+                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
+                            >theo2</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum
+                                rend="smcaps">john1</siglum>, <siglum rend="smcaps">mal</siglum></wit></appPart>;
+                <appPart><rdg type="replace">Your's would I catch, faire Hermia! ere I goe,</rdg>
+                    <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps"
+                            >irv</siglum></wit>
+                </appPart> 
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0199-02" target="#tln_0199">
             <label display="all(invisible)">199</label>
-            <app><lem>faire</lem>] <appPart><rdg type="replace">sweet</rdg>
+            <app><lem>Your words I catch, faire</lem>] <appPart><rdg type="replace">Your's would I catch, sweet</rdg>
                     <wit><siglum rend="smcaps">hud1</siglum></wit></appPart></app>
         </note>
 
@@ -708,23 +716,11 @@
             <label display="all(invisible)">199</label>
             <app><lem><hi rend="italic">Hermia</hi>,&hellip;goe,</lem>] <appPart><rdg type="replace"
                         >&swdash;&caret;&hellip;&swdash;,</rdg>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum>F4</siglum></wit></appPart>;
-                        <appPart><rdg type="replace">&swdash;,&hellip;&swdash;;</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >knt1</siglum>, <siglum rend="smcaps">hud</siglum>, <siglum
-                            rend="smcaps">sing2</siglum>, <siglum rend="smcaps">hal</siglum>,
-                            <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>,
-                            <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps"
-                            >knt3</siglum>, <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum
-                            rend="smcaps">alex</siglum>, <siglum rend="smcaps"
-                            >pel1</siglum>&sigrange;<siglum rend="smcaps">cam4</siglum>, <siglum
-                            rend="smcaps">ban2</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">&swdash;;&hellip;&swdash;,</rdg>
-                    <wit><siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">oxf2</siglum>,
-                            <siglum rend="smcaps">and</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">&swdash;!&hellip;&swdash;,</rdg>
-                    <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps"
-                        >irv</siglum></wit></appPart></app>
+                    <wit><siglum>Q2</siglum>, <siglum>F1</siglum></wit></appPart>;
+                <appPart>
+                    <rdg type="replace">&swdash;;&hellip;&swdash;,</rdg>
+                    <wit><siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col4</siglum>,<siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">and</siglum></wit></appPart> 
+                </app>
         </note>
 
         <note type="textual" xml:id="tn_0200" target="#tln_0200">
