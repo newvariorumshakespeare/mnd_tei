@@ -692,7 +692,8 @@
                            <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum
                                rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, 
                         <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">wh2</siglum>, 
-                        <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum>
+                        <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">cam4</siglum>,
+                        <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">dig</siglum>
                         </wit>   
                 </appPart>
                 <appPart><rdg type="replace">Your words Ide catch, faire Hermia, ere I goe;</rdg>
