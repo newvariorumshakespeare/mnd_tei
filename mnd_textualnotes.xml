@@ -408,9 +408,9 @@
 
         <note type="textual" xml:id="tn_0137-02" target="#tln_0137">
             <label display="all(invisible)">137</label>
-            <app><lem>Manet Lysander and Hermia.</lem>]<appPart><rdg type="replace"><hi
-                            rend="italic">Manet Lysander and Hermia.</hi></rdg>
-                    <wit><siglum>Ff</siglum></wit></appPart>; <appPart><rdg type="replace"><hi
+            <app><lem>Manet Lysander and Hermia.</lem>]<appPart><rdgDesc><hi rend="italic"
+                        >om.</hi></rdgDesc><wit><siglum>Qq</siglum></wit></appPart>; 
+                <appPart><rdg type="replace"><hi
                             rend="italic">Manent Lysander and Hermia.</hi></rdg>
                         <wit><siglum rend="smcaps">rowe1</siglum>, <siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
                             rend="smcaps">evns</siglum></wit></appPart>; <appPart><rdg
@@ -1116,20 +1116,18 @@
                         <hi rend="italic">and</hi>
                         <siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
-                            >theo1</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>, <siglum
-                            rend="smcaps">dyce1</siglum> (<hi rend="italic">text</hi>; rest&caret;
-                            <hi rend="italic">in corrigenda</hi>), <siglum rend="smcaps"
-                            >col3</siglum>&plus; (&minus;<siglum rend="smcaps">dyce2</siglum>,
-                            <siglum rend="smcaps">rid</siglum>)</wit></appPart></app>
+                            >theo</siglum>, <siglum rend="smcaps"
+                                >warb</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0296-02" target="#tln_0296">
             <label display="all(invisible)">296</label>
-            <app><lem>yet,</lem>] <appPart><rdg type="replace">&swdash;&caret;</rdg>
+            <app><lem>rest yet,</lem>] <appPart><rdg type="replace">rest; yet</rdg>
                     <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>,
-                            <siglum rend="smcaps">dyce1</siglum> (<hi rend="italic">text</hi>; yet,
+                        <siglum rend="smcaps">dyce1</siglum> (<hi rend="italic">text</hi>; rest&caret;
+                        <hi rend="italic"> and text</hi>; yet,
                             <hi rend="italic">in corrigenda</hi>), <siglum rend="smcaps"
                             >col3</siglum>&plus; (&minus;<siglum rend="smcaps">dyce2</siglum>,
                             <siglum rend="smcaps">rid</siglum>)</wit></appPart></app>
