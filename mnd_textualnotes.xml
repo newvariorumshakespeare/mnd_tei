@@ -1161,9 +1161,7 @@
         <note type="textual" xml:id="tn_0298-02" target="#tln_0298">
             <label>298</label>
             <app><lem>split&caret;</lem>] <appPart><rdg type="replace">split—</rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >han1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum
-                            rend="smcaps">stau</siglum>)</wit></appPart></app>
+                    <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">v1793</siglum>, <siglum rend="smcaps">v1803</siglum>, <siglum rend="smcaps">sing1</siglum>, <siglum rend="smcaps">stau</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0298-03" target="#tln_0298">
@@ -1175,7 +1173,7 @@
 
         <note type="textual" xml:id="tn_0298-04" target="#tln_0298">
             <label display="all(invisible)">298</label>
-            <app><lem>and</lem>] <appPart><rdg type="replace">With</rdg>
+            <app><lem>split the raging rocks: and</lem>] <appPart><rdg type="replace">split— the raging rocks: With</rdg>
                     <wit><ref targType="bibl" target="#b_farr0001"><name type="app"
                             >farmer</name></ref>
                         <hi rend="italic">in</hi>
