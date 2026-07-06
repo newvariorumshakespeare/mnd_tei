@@ -1263,7 +1263,7 @@
 
         <note type="textual" xml:id="tn_0327-01" target="#tln_0327">
             <label>327</label>
-            <app><lem>And</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>And I hope here</lem>] <appPart>><rdg type="replace">I hope there</rdg>
                     <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum></wit></appPart></app>
         </note>
@@ -1271,7 +1271,7 @@
         <note type="textual" xml:id="tn_0327-02" target="#tln_0327">
             <label display="all(invisible)">327</label>
             <app><lem>here</lem>] <appPart><rdg type="replace">there</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
+                    <wit><siglum>F1</siglum>, &sigrange;<siglum rend="smcaps">rowe1</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>,
                             <siglum rend="smcaps">wh1</siglum></wit></appPart></app>
         </note>
