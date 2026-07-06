@@ -878,7 +878,7 @@
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">and</hi>
                         <siglum>m<hi rend="smcaps">theo</hi>1</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum>, <siglum>stau</siglum>&sigrange;<siglum rend="smcaps">dyce2</siglum>, <siglum>glo</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum> (&minus;<siglum rend="smcaps">col1</siglum>), <siglum>stau</siglum>&sigrange;<siglum rend="smcaps">dyce2</siglum>, <siglum>glo</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
         
         <note type="textual" xml:id="tn_0229-03" target="#tln_0229">
@@ -1243,7 +1243,7 @@
                     <wit><siglum rend="smcaps">hud1</siglum></wit></appPart></app>
         </note>
         
-        <note type="textual" xml:id="tn_0320" target="#tln_0322">
+        <note type="textual" xml:id="tn_0322" target="#tln_0322">
             <label>322</label>
             <app><lem>Robin</lem>] <appPart><rdg type="replace">Robert</rdg>
                     <wit><siglum rend="smcaps">hud1</siglum></wit></appPart></app>
