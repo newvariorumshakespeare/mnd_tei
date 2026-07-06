@@ -867,10 +867,9 @@
         <note type="textual" xml:id="tn_0229-01" target="#tln_0229">
             <label>229</label>
             <app><lem>counsell</lem>] <appPart><rdg type="replace">Counsels</rdg>
-                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum>, <siglum rend="smcaps"
-                >ktly</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">pope1</siglum>, <siglum rend="smcaps"
+                            >pope2</siglum>, <siglum>warb</siglum>, <siglum rend="smcaps"
+                            >v1778</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0229-02" target="#tln_0229">
@@ -879,11 +878,15 @@
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">and</hi>
                         <siglum>m<hi rend="smcaps">theo</hi>1</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>&plus;
-                            (&minus;<siglum rend="smcaps">warb</siglum>, <siglum>v1778</siglum>,
-                            <siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">hal</siglum>,
-                            <siglum rend="smcaps">and</siglum>)</wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum>, <siglum>stau</siglum>&sigrange;<siglum rend="smcaps">dyce2</siglum>, <siglum>glo</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
+        
+        <note type="textual" xml:id="tn_0229-03" target="#tln_0229">
+            <label display="all(invisible)">229</label>
+            <app><lem>counsell sweld</lem>] <appPart><rdg type="replace">Counsels sweet</rdg>
+                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">ktly</siglum></wit></appPart></app>
+        </note>
+        
 
         <note type="textual" xml:id="tn_0232" target="#tln_0232">
             <label>232</label>
@@ -1234,8 +1237,14 @@
                     <wit><siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0320" target="#tln_0320 #tln_0322">
-            <label>320, 322</label>
+        <note type="textual" xml:id="tn_0320" target="#tln_0320">
+            <label>320</label>
+            <app><lem>Robin</lem>] <appPart><rdg type="replace">Robert</rdg>
+                    <wit><siglum rend="smcaps">hud1</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_0320" target="#tln_0322">
+            <label>322</label>
             <app><lem>Robin</lem>] <appPart><rdg type="replace">Robert</rdg>
                     <wit><siglum rend="smcaps">hud1</siglum></wit></appPart></app>
         </note>
