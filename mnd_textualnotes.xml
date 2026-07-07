@@ -1356,22 +1356,19 @@
                 >knt3</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0356-01" target="#tln_0356">
-            <label>356</label>
-            <app><lem>colour</lem>] <appPart><rdg type="replace">colour’d</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
-                            <siglum>v1773</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum
-                            rend="smcaps">wh1</siglum></wit></appPart></app>
+        <note type="textual" xml:id="tn_0356-01" target="#tln_0356" targetEnd="#tln_0357">
+            <label>356-7</label>
+            <app><lem>perfit</lem>] <appPart><rdg type="replace">perfect</rdg>
+                    <wit><siglum>cap</siglum>, <siglum rend="smcaps">v1778</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">kit1</siglum>, 
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>), <siglum rend="smcaps">ox4</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0356-02" target="#tln_0356" targetEnd="#tln_0357">
             <label>356–7</label>
-            <app><lem>perfit</lem>] <appPart><rdg type="replace">perfect</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rid</siglum>, <siglum
-                            rend="smcaps">alex</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum
-                            rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps"
-                        >ban2</siglum>, <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
-                            >dig</siglum></wit></appPart></app>
+            <app><lem>colour beard, your perfit</lem>] <appPart><rdg type="replace">colour'd beard, your perfect</rdg>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum
+                            rend="smcaps">v1773</siglum>, <siglum rend="smcaps">knt1</siglum>, <siglum
+                            rend="smcaps">wh1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0363" target="#tln_0363">
