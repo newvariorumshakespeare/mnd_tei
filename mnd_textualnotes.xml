@@ -1307,7 +1307,7 @@
 
         <note type="textual" xml:id="tn_0341-01" target="#tln_0341">
             <label>341</label>
-            <app><lem>friends</lem>] <appPart><rdg type="replace">friend</rdg>
+            <app><lem>friends, if you</lem>] <appPart><rdg type="replace">friend, if that</rdg>
                     <wit><siglum>F4</siglum>, <siglum rend="smcaps"
                 >rowe1</siglum></wit></appPart></app>
         </note>
@@ -1315,10 +1315,9 @@
         <note type="textual" xml:id="tn_0341-02" target="#tln_0341">
             <label display="all(invisible)">341</label>
             <app><lem>if</lem>] <appPart><rdg type="replace">if that</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>,
-                            <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>,
-                            <siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps"
-                        >cam3</siglum></wit></appPart></app>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>(&minus;<siglum>F4</siglum>, 
+                        <siglum rend="smcaps">rowe1</siglum>), <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>,
+                            <siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps">cam3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0344" target="#tln_0344">
