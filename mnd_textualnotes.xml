@@ -1360,7 +1360,7 @@
             <label>356-7</label>
             <app><lem>perfit</lem>] <appPart><rdg type="replace">perfect</rdg>
                     <wit><siglum>cap</siglum>, <siglum rend="smcaps">v1778</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">kit1</siglum>, 
-                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>), <siglum rend="smcaps">ox4</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app>
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>), <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0356-02" target="#tln_0356" targetEnd="#tln_0357">
@@ -1386,19 +1386,20 @@
                     <wit><siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0368-01" target="#tln_0368">
-            <label>368</label>
-            <app><lem>most</lem>] <appPart><rdg type="replace">more</rdg>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>
+        <note type="textual" xml:id="tn_0368-01" target="#tln_0368" targetEnd="#tln_0369">
+            <label>368-9</label>
+            <app><lem>most obscenely, and coragiously. Take paines, bee perfit: adieu</lem>] <appPart><rdg type="replace">more obscenely, and coragiously. Take paines, bee perfect: adieu</rdg>
+                    <wit><siglum>Q2</siglum>, <siglum>F1</siglum>, <siglum rend="smcaps">pope1</siglum>&sigrange;
+                        <siglum rend="smcaps">oxf1</siglum>
                             (&minus;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
                             >stau</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
                             rend="smcaps">glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum
                             rend="smcaps">irv</siglum>)</wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0368-02" target="#tln_0368">
-            <label display="all(invisible)">368</label>
-            <app><lem>paines</lem>] <appPart><rdg type="replace">paine</rdg>
+        <note type="textual" xml:id="tn_0368-02" target="#tln_0368" targetEnd="#tln_0369">
+            <label display="all(invisible)">368-9</label>
+            <app><lem>most obscenely, and coragiously. Take paines, bee perfit: adieu</lem>] <appPart><rdg type="replace">more obscenely, and coragiously. Take paine, bee perfect: adieu</rdg>
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps"
                     >rowe3</siglum></wit></appPart></app>
         </note>
@@ -1416,12 +1417,12 @@
 
         <note type="textual" xml:id="tn_0368-04" target="#tln_0368" targetEnd="#tln_0369">
             <label display="all(invisible)">368–9</label>
-            <app><lem>perfit</lem>] <appPart><rdg type="replace">perfect</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rid</siglum>, <siglum
-                            rend="smcaps">alex</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum
-                            rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps"
-                        >ban2</siglum>, <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
-                            >dig</siglum></wit></appPart></app>
+            <app><lem>most obscenely, and coragiously. Take paines, bee perfit: adieu</lem>] <appPart><rdg type="replace">most obscenely, and coragiously. Take paines, bee perfect: adieu</rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum
+                            rend="smcaps">stau</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
+                                rend="smcaps">wh2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps"
+                                    >pel1</siglum>, <siglum rend="smcaps">evns</siglum>), <siglum rend="smcaps">oxf4</siglum>, 
+                        <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0370" target="#tln_0370">
