@@ -30,7 +30,7 @@
         <note type="textual" xml:id="tn_0001-01" target="#tln_0001">            
             <label>1</label>
             <app><lem>Actus primus.</lem>]<appPart><rdgDesc><hi rend="italic"
-                            >om.</hi></rdgDesc>
+                            >Om.</hi></rdgDesc>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
         
@@ -1438,7 +1438,7 @@
 
         <note type="textual" xml:id="tn_0372-01" target="#tln_0372">
             <label>372</label>
-            <app><lem>Actus Secundus.</lem>]<appPart><rdg type="replace"><hi rend="italic">om.</hi></rdg>
+            <app><lem>Actus Secundus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Om.</hi></rdg>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
 
@@ -1624,14 +1624,20 @@
         <note type="textual" xml:id="tn_0403-01" target="#tln_0403">
             <label>403</label>
             <app><lem>sprite</lem>] <appPart><rdg type="replace">spirit</rdg>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum>F4</siglum></wit></appPart></app>
+                    <wit><siglum>Q2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0403-02" target="#tln_0403">
             <label>403</label>
             <app><lem>shrewde</lem>] <appPart><rdg type="replace">shrew’d</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe1</siglum>, <siglum
+                    <wit><siglum rend="smcaps">rowe1</siglum>, <siglum
                             rend="smcaps">wh1</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_0403-03" target="#tln_0403">
+            <label>403</label>
+            <app><lem>shrewde and knauish sprite</lem>] <appPart><rdg type="replace">shrew’d and knauish spirit</rdg>
+                    <wit><siglum>Ff</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0404" target="#tln_0404">
@@ -3769,7 +3775,7 @@
 
         <note type="textual" xml:id="tn_0812-01" target="#tln_0812">
             <label>812</label>
-            <app><lem>Actus Tertius.</lem>]<appPart><rdg type="replace"><hi rend="italic">om.</hi></rdg>
+            <app><lem>Actus Tertius.</lem>]<appPart><rdg type="replace"><hi rend="italic">Om.</hi></rdg>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
 
@@ -7379,7 +7385,7 @@
 
         <note type="textual" xml:id="tn_1508-01" target="#tln_1508">
             <label>1508</label>
-            <app><lem>Actus Quartus.</lem>]<appPart><rdg type="replace"><hi rend="italic">om.</hi></rdg>
+            <app><lem>Actus Quartus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Om.</hi></rdg>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
 
@@ -9058,7 +9064,7 @@
 
         <note type="textual" xml:id="tn_1791-01" target="#tln_1791">
             <label>1791</label>
-            <app><lem>Actus Quintus.</lem>]<appPart><rdg type="replace"><hi rend="italic">om.</hi></rdg>
+            <app><lem>Actus Quintus.</lem>]<appPart><rdg type="replace"><hi rend="italic">Om.</hi></rdg>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
 
