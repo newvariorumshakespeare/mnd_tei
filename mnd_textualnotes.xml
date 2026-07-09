@@ -1972,20 +1972,23 @@
 
         <note type="textual" xml:id="tn_0444-01" target="#tln_0444">
             <label>444</label>
-            <app><lem>farthest</lem>] <appPart><rdg type="replace">further</rdg>
+            <app><lem>farthest steppe</lem>] <appPart><rdg type="replace">further steepe</rdg>
                     <wit><siglum rend="smcaps">john1</siglum>,
-                    <siglum>v1773</siglum></wit></appPart>; <appPart><rdg type="replace"
-                        >furthest</rdg>
-                    <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">oxf1</siglum>,
-                            <siglum rend="smcaps">sis</siglum></wit></appPart></app>
+                    <siglum>v1773</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">furthest steppe</rdg>
+                    <wit><siglum rend="smcaps">oxf1</siglum>,
+                            <siglum rend="smcaps">sis</siglum></wit></appPart>;
+                <appPart><rdg type="replace">furthest steepe</rdg>
+                    <wit><siglum rend="smcaps">dyce</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0444-02" target="#tln_0444">
             <label display="all(invisible)">444</label>
             <app><lem>steppe</lem>] <appPart><rdg type="replace">steepe</rdg>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
-                            <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">wh1</siglum>,
-                            <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">theo4</siglum>,
+                            <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">stau</siglum>,
+                        <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps"
                             >ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum
                             rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum
                             rend="smcaps">ard1</siglum>, <siglum rend="smcaps"
@@ -1998,16 +2001,14 @@
             <label>452</label>
             <app><lem>not thou</lem>] <appPart><rdg type="replace">thou not</rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">pel3</siglum>
-                            (&minus;<siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps"
+                        (&minus;<siglum rend="smcaps">warb</siglum><siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps"
                             >alex</siglum>, <siglum rend="smcaps">evns</siglum>&sigrange;<siglum
                             rend="smcaps">oxf4</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0452-02" target="#tln_0452">
             <label display="all(invisible)">452</label>
-            <app><lem>through the glimmering</lem>] <appPart><rdg type="replace">glimmering, through
-                        the</rdg>
-                    <wit><siglum rend="smcaps">warb</siglum></wit></appPart></app>
+            <app><lem>not thou lead him through the glimmering</lem>] <appPart><rdg type="replace">thou not lead him glimmering, through the</rdg><wit><siglum rend="smcaps">warb</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0453" target="#tln_0453">
