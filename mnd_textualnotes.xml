@@ -1795,8 +1795,7 @@
         
         <note type="textual" xml:id="tn_0425-03" target="#tln_0425">
             <label>425</label>
-            <app><lem>tailour cryes, and falles into a coffe</lem>] <appPart><rdg type="replace">rails or cryes, and falles into a Cough</rdg> <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">warb</siglum>,
-                        <siglum rend="smcaps">cap</siglum></wit></appPart></app>
+            <app><lem>tailour cryes, and falles into a coffe</lem>] <appPart><rdg type="replace">rails or cryes, and falles into a Cough</rdg> <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">warb</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0426" target="#tln_0426">
@@ -1832,16 +1831,18 @@
 
         <note type="textual" xml:id="tn_0429-01" target="#tln_0429">
             <label>429</label>
-            <app><lem>roome</lem>] <appPart><rdg type="replace">make roome</rdg>
+            <app><lem>roome Faery</lem>] <appPart><rdg type="replace">make roome Fairy</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum
                             rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
-                    >oxf2</siglum></wit></appPart>; <appPart><rdg type="replace">room now</rdg>
+                    >oxf2</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">room now Fairy</rdg>
                     <wit><siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
-                        >hud2</siglum></wit></appPart>; <appPart><rdg type="replace">room,
-                        room</rdg>
-                    <wit><siglum rend="smcaps">irv</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">room <hi rend="italic">good</hi></rdg>
+                        >hud2</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">room, room Fairy</rdg>
+                    <wit><siglum rend="smcaps">irv</siglum></wit></appPart>; 
+                <appPart><rdg
+                        type="replace">room <hi rend="italic">good</hi> Fairy</rdg>
                     <wit><siglum>m<hi rend="smcaps">grin</hi></siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
                     >ard1</siglum></wit></appPart></app>
@@ -1850,19 +1851,18 @@
         <note type="textual" xml:id="tn_0429-02" target="#tln_0429">
             <label display="all(invisible)">429</label>
             <app><lem>Faery</lem>] <appPart><rdg type="replace">Fairy</rdg>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">cap</siglum>, <siglum
-                            rend="smcaps">rann</siglum>, <siglum rend="smcaps"
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps"
                             >col1</siglum>&sigrange;<siglum rend="smcaps">col2</siglum>, <siglum
                             rend="smcaps">hal</siglum>, <siglum rend="smcaps"
-                            >dyce1</siglum>&sigrange;<siglum rend="smcaps">glo</siglum>, <siglum
-                            rend="smcaps">col4</siglum>&sigrange;<siglum rend="smcaps"
-                        >ard1</siglum>, <siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps"
-                            >kit1</siglum>&sigrange;<siglum rend="smcaps"
-                    >ban2</siglum></wit></appPart>; <appPart><rdg type="replace">Faëry</rdg>
-                    <wit><siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps"
-                        >stau</siglum></wit></appPart>; <appPart><rdg type="replace">faëry</rdg>
-                    <wit><siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps"
-                        >cam3</siglum></wit></appPart></app>
+                            >dyce1</siglum>&sigrange;<siglum rend="smcaps">cam1</siglum>, <siglum
+                            rend="smcaps">glo</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">wh2</siglum>,
+                        <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">nlsn</siglum>, 
+                        <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">cam4</siglum>, 
+                        <siglum rend="smcaps">ban2</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">Faëry</rdg> <wit><siglum rend="smcaps">sing</siglum>, 
+                        <siglum rend="smcaps">stau</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">faëry</rdg> <wit><siglum rend="smcaps">rltr</siglum>, 
+                        <siglum rend="smcaps">cam3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0430" target="#tln_0430" targetEnd="#tln_0431">
