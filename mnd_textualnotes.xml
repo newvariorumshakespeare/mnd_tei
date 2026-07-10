@@ -2068,19 +2068,19 @@
         <note type="textual" xml:id="tn_0466-01" target="#tln_0466">
             <label>466</label>
             <app><lem>Hath</lem>] <appPart><rdg type="replace">Have</rdg>
-                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps"
-                            >nlsn</siglum> (&minus;<siglum rend="smcaps">cap</siglum>, <siglum
-                            rend="smcaps">ktly</siglum>, <siglum rend="smcaps">ard1</siglum>,
-                            <siglum rend="smcaps">rltr</siglum>), <siglum rend="smcaps"
+                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
+                            >oxf1</siglum> (&minus;<siglum rend="smcaps">cap</siglum>, <siglum
+                                rend="smcaps">wh</siglum>, <siglum rend="smcaps">ktly</siglum>), <siglum rend="smcaps"
                         >dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0466-02" target="#tln_0466">
             <label display="all(invisible)">466</label>
-            <app><lem>pelting</lem>] <appPart><rdg type="replace">petty</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum
-                            rend="smcaps">wh</siglum>, <siglum rend="smcaps"
-                    >nlsn</siglum></wit></appPart></app>
+            <app><lem>Hath euery pelting</lem>] <appPart><rdg type="replace">Hath euery petty</rdg>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe1</siglum></wit></appPart>;
+                <appPart><rdg type="replace">Have euery petty</rdg>
+                    <wit><siglum rend="smcaps">rowe3</siglum><siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">nlsn</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0470" target="#tln_0470">
