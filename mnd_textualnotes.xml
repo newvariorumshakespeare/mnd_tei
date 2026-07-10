@@ -2079,7 +2079,7 @@
             <app><lem>Hath euery pelting</lem>] <appPart><rdg type="replace">Hath euery petty</rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe1</siglum></wit></appPart>;
                 <appPart><rdg type="replace">Have euery petty</rdg>
-                    <wit><siglum rend="smcaps">rowe3</siglum><siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">nlsn</siglum></wit></appPart>
+                    <wit><siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">nlsn</siglum></wit></appPart>
             </app>
         </note>
 
@@ -2178,31 +2178,28 @@
                             >tyrwhitt</name></ref>
                         <hi rend="italic">in</hi>
                         <siglum>v1778</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">hal</siglum>, <siglum
-                            rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce</siglum>,
-                            <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>,
-                            <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">knt3</siglum>,
-                            <siglum rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps"
-                            >ban2</siglum>, <siglum rend="smcaps">folg2</siglum>&sigrange;<siglum
-                            rend="smcaps">dig</siglum></wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">folg2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0484-02" target="#tln_0484">
             <label display="all(invisible)">484</label>
-            <app><lem><hi rend="italic">Hyems</hi></lem>] <appPart><rdg type="replace"><hi
-                            rend="italic">Hyem’s</hi></rdg>
+            <app><lem><hi rend="italic">Hyems chinne</hi></lem>] <appPart><rdg type="replace"><hi
+                            rend="italic">Hyems' thin</hi></rdg> 
+                    <wit><siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, 
+                    <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">knt3</siglum>,
+                   </wit></appPart>;
+                <appPart><rdg type="replace"> <hi rend="italic">Hyem’s chinne</hi></rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
                             >pope2</siglum>, <siglum rend="smcaps">han1</siglum>, <siglum
                             rend="smcaps">col2</siglum>, <siglum rend="smcaps"
-                    >col3</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
-                            >Hyems’</hi></rdg>
+                    >col3</siglum></wit></appPart>; 
+                <appPart><rdg type="replace"><hi rend="italic"
+                            >Hyems’ chinne</hi></rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>,
                             <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps"
-                            >hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum
-                            rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum
-                            rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>,
-                            <siglum rend="smcaps">col4</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">Hiems’</rdg>
+                            >hud1</siglum>, <siglum rend="smcaps">ktly</siglum>, 
+                            <siglum rend="smcaps">col4</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">Hiems’thin</rdg>
                     <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">cam1</siglum>,
                             <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps"
                         >hud2</siglum>&plus;</wit></appPart></app>
