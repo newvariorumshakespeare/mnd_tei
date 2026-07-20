@@ -3072,14 +3072,13 @@
             <app><lem>spirits</lem>] <appPart><rdg type="replace">sports</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi> (<hi rend="italic">withdrawn</hi>
-                        <siglum>m<hi rend="smcaps">tby</hi>4</siglum>), <siglum rend="smcaps"
-                            >han1</siglum>, <siglum rend="smcaps"
-                >warb</siglum></wit></appPart></app>
+                        <siglum>m<hi rend="smcaps">tby</hi>4</siglum>), <siglum rend="smcaps">warb</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0657-02" target="#tln_0657">
             <label display="all(invisible)">657</label>
-            <app><lem>Sing</lem>] <appPart><rdg type="replace">Come, sing</rdg>
+            <app><lem>spirits: Sing</lem>] <appPart><rdg type="replace">sports: Come, sing</rdg>
                     <wit><siglum rend="smcaps">han1</siglum></wit></appPart></app>
         </note>
 
