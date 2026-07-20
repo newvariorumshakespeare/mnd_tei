@@ -2854,10 +2854,10 @@
                     <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps"
                     >rowe3</siglum></wit></appPart>; <appPart><rdg type="replace">oxslip</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
-                        >han1</siglum></wit></appPart>; <appPart><rdg type="replace">ox-lip</rdg>
+                        >han1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">ox-lip</rdg>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>,
-                            <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps"
-                            >ktly</siglum></wit></appPart>; <appPart><rdg type="replace"
+                            <siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace"
                         >ox-lips</rdg>
                     <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
                             >wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum
@@ -2983,14 +2983,13 @@
 
         <note type="textual" xml:id="tn_0647-01" target="#tln_0647">
             <label>647</label>
-            <app><lem>on</lem>] <appPart><rdg type="replace">of</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >theo4</siglum>, <siglum>v1773</siglum></wit></appPart></app>
+            <app><lem>fond on</lem>] <appPart><rdg type="replace">fond of</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">theo2</siglum>, <siglum>warb</siglum>&sigrange;<siglum>theo4</siglum>, <siglum>v1773</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0647-02" target="#tln_0647">
             <label display="all(invisible)">647</label>
-            <app><lem>her loue</lem>] <appPart><rdg type="replace">his love</rdg>
+            <app><lem>on her, then she vpon her loue</lem>] <appPart><rdg type="replace">of her, then she vpon his love</rdg>
                     <wit><siglum rend="smcaps">han1</siglum></wit></appPart></app>
         </note>
 
