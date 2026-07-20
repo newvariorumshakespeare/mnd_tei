@@ -2759,17 +2759,18 @@
                             >wh2</siglum>&sigrange;<siglum rend="smcaps">cam4</siglum>, <siglum
                             rend="smcaps">ban2</siglum>&sigrange;<siglum rend="smcaps"
                             >folg2</siglum>, <siglum rend="smcaps">pel3</siglum>, <siglum
-                            rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdg type="insert"
-                            ><hi rend="italic">Exeunt.</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            rend="smcaps">dig</siglum></wit></appPart>; 
+                <appPart><rdg type="insert"><hi rend="italic">Exeunt.</hi></rdg>
+                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">theo</siglum>, 
+                        <siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
+                            >dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0623-02" target="#tln_0623">
             <label display="all(invisible)">623</label>
             <app>
                 <appPart>
-                    <rdg type="insert">SCENE IV.</rdg>
+                    <rdg type="insert"><hi rend="italic">Exeunt.</hi> SCENE IV.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
                 </appPart>
