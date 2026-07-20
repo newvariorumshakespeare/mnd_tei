@@ -796,7 +796,7 @@
 
         <note type="textual" xml:id="tn_0214-01" target="#tln_0214">
             <label>214</label>
-            <app><lem>None but</lem>] <appPart><rdg type="replace">&swdash;. — But</rdg>
+            <app><lem>None but your beauty; would that fault were mine.</lem>] <appPart><rdg type="replace">None.—But your beauty; would that fault were mine.</rdg>
                     <wit><ref targType="bibl" target="#b_henj0001"><name type="app"
                             >henderson</name></ref>
                         <hi rend="italic">in</hi>
@@ -990,7 +990,7 @@
 
         <note type="textual" xml:id="tn_0263" target="#tln_0263">
             <label>263</label>
-            <app><lem>a&hellip;expense</lem>] <appPart><rdg type="replace">recompence</rdg>
+            <app><lem>If I haue thankes, it is a deare expense:</lem>] <appPart><rdg type="replace">If I haue thankes, it is recompence:</rdg>
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps"
                         >col3</siglum></wit></appPart></app>
         </note>
@@ -1278,7 +1278,7 @@
 
         <note type="textual" xml:id="tn_0329" target="#tln_0329">
             <label>329</label>
-            <app><lem>it</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>Haue you the Lyons part written? Pray you, if it</lem>] <appPart><rdg type="replace">Haue you the Lyons part written? Pray you, if</rdg>
                     <wit><siglum>F1</siglum></wit></appPart></app>
         </note>
 
