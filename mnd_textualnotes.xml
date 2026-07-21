@@ -3592,39 +3592,40 @@
 
         <note type="textual" xml:id="tn_0759-01" target="#tln_0759">
             <label>759</label>
-            <app><lem><hi rend="italic">Helena</hi></lem>] <appPart><rdg type="replace"><hi
-                            rend="italic">Helen</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum>, <siglum>m<hi rend="smcaps">col</hi>1</siglum>, <siglum
-                            rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">col4</siglum>,
-                            <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps"
-                        >irv</siglum></wit></appPart></app>
+            <app><lem><hi rend="italic">Helena</hi>, nature shewes</lem>] <appPart><rdg type="replace"><hi
+                            rend="italic">Helen</hi>, nature here shews</rdg>
+                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, 
+                        <siglum>m<hi rend="smcaps">col</hi>1</siglum>, <siglum rend="smcaps">col4</siglum>, 
+                        <siglum rend="smcaps">irv</siglum></wit></appPart>;
+                <appPart><rdg type="replace"><hi rend="italic">Helen</hi>, nature shows her</rdg>
+                    <wit><siglum rend="smcaps">dyce2</siglum>,<siglum rend="smcaps">hud2</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0759-02" target="#tln_0759">
             <label display="all(invisible)">759</label>
             <app><lem>shewes</lem>] <appPart><rdg type="replace">her shewes</rdg>
-                    <wit><siglum>F1</siglum></wit></appPart>; <appPart><rdg type="replace">here
-                        shews</rdg>
-                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum
-                            rend="smcaps">rann</siglum>, <siglum>v1793</siglum>,
-                            <siglum>v1803</siglum>, <siglum rend="smcaps">col</siglum>, <siglum
-                            rend="smcaps">dyce1</siglum> (<hi rend="italic">text</hi>; shows her <hi
-                            rend="italic">in corrigenda</hi>), <siglum rend="smcaps"
-                        >irv</siglum></wit></appPart>; <appPart><rdg type="replace">shows her</rdg>
+                    <wit><siglum>F1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">here shews</rdg>
+                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">rowe1</siglum>, 
+                        <siglum rend="smcaps">rann</siglum>, <siglum>v1793</siglum>,
+                        <siglum>v1803</siglum>, <siglum rend="smcaps">col1</siglum>, 
+                        <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">dyce1</siglum> 
+                        (<hi rend="italic">text</hi>; shows her <hi rend="italic">in corrigenda</hi>), 
+                        <siglum rend="smcaps">col3</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">shows her</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">and</hi>
                         <ref targType="bibl" target="#b_male1780"><name type="app"
                             >malone</name></ref> (1780, 1.116) <hi rend="italic">conj.</hi>,
                             <siglum>v1821</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>,
-                            <siglum rend="smcaps">hud</siglum>, <siglum rend="smcaps"
-                            >hal</siglum>&sigrange;<siglum rend="smcaps">stau</siglum>, <siglum
-                            rend="smcaps">wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>,
-                            <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
-                        >knt3</siglum>, <siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps"
-                            >sis</siglum>, <siglum><hi rend="smcaps"
-                    >cam</hi>3b</siglum></wit></appPart>; <appPart><rdg type="replace">shows
-                        an</rdg>
+                            <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps"
+                            >hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum
+                            rend="smcaps">wh1</siglum>, <siglum rend="smcaps">ktly</siglum>, 
+                        <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">ard1</siglum>, 
+                        <siglum rend="smcaps">sis</siglum>, <siglum><hi rend="smcaps"
+                    >cam</hi>3b</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">shows an</rdg>
                     <wit><siglum rend="smcaps">cam3</siglum></wit></appPart></app>
         </note>
 
