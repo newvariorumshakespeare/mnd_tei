@@ -698,8 +698,7 @@
                 </appPart>
                 <appPart><rdg type="replace">Your words Ide catch, faire Hermia, ere I goe;</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >theo2</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum
-                                rend="smcaps">john1</siglum>, <siglum rend="smcaps">mal</siglum></wit></appPart>;
+                            >theo2</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum rend="smcaps">mal</siglum></wit></appPart>;
                 <appPart><rdg type="replace">Your's would I catch, faire Hermia! ere I goe,</rdg>
                     <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps"
                             >irv</siglum></wit>
@@ -3385,7 +3384,8 @@
                             >sis</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum
                             rend="smcaps">ban2</siglum>, <siglum rend="smcaps"
                             >folg2</siglum>&sigrange;<siglum rend="smcaps"
-                    >dig</siglum></wit></appPart>; <appPart><rdg type="replace">Be’t</rdg>
+                    >dig</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">Be’t</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>
                         <hi rend="italic">etc.</hi></wit></appPart></app>
         </note>
@@ -3505,8 +3505,8 @@
         <note type="textual" xml:id="tn_0730-01" target="#tln_0730">
             <label>730</label>
             <app><lem>Neere</lem>] <appPart><rdg type="replace">Near to</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum>v1778</siglum>
-                            (&minus;<siglum rend="smcaps">john1</siglum>)</wit></appPart>;
+                    <wit><siglum rend="smcaps">pope</siglum>, <siglum>v1773</siglum>, <siglum>v1778</siglum>
+                    </wit></appPart>;
                         <appPart><rdg type="replace">Nearer</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum>
                         <hi rend="italic">and</hi>
@@ -3518,20 +3518,29 @@
 
         <note type="textual" xml:id="tn_0730-02" target="#tln_0730">
             <label display="all(invisible)">730</label>
-            <app><lem>this lack-loue,</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>Neere this lack-loue,</lem>] <appPart><rdg type="replace">Near to</rdg>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">han1</siglum>,
-                            <siglum rend="smcaps">cap</siglum></wit></appPart></app>
+                            <siglum rend="smcaps">cap</siglum></wit></appPart> 
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0730-03" target="#tln_0730">
             <label display="all(invisible)">730</label>
             <app><lem>this kil-curtesie</lem>] <appPart><rdg type="replace">kill-curtesie</rdg>
-                    <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum>,
+                    <wit><siglum rend="smcaps">john1</siglum>,
                             <siglum>v1793</siglum>, <siglum>v1803</siglum>, <siglum rend="smcaps"
                             >col2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum
                             rend="smcaps">col4</siglum>, <siglum rend="smcaps">ard1</siglum>,
                             <siglum rend="smcaps">nlsn</siglum></wit></appPart></app>
         </note>
+        
+        <note type="textual" xml:id="tn_0730-04" target="#tln_0730">
+            <label display="all(invisible)">730</label>
+            <app><lem>Neere this lack-loue, this kil-curtesie</lem>] 
+                <appPart><rdg type="replace">Near to this lack-loue, kill-curtesie</rdg>
+                    <wit><siglum rend="smcaps">warb</siglum></wit></appPart></app>
+        </note>
+        
 
         <note type="textual" xml:id="tn_0731" target="#tln_0731">
             <label>731</label>
