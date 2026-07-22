@@ -4028,8 +4028,8 @@
                             <siglum rend="smcaps">sing2</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum>,
                             <siglum rend="smcaps">cam1</siglum>&sigrange;<siglum rend="smcaps">knt3</siglum>, 
                             <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">wh2</siglum>, 
-                            <siglum rend="smcaps">oxf1</siglum></wit>, <siglum rend="smcaps">rltr</siglum>&sigrange;
-                        <siglum rend="smcaps">dig</siglum>
+                            <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&sigrange;
+                            <siglum rend="smcaps">dig</siglum></wit>
                    </appPart></app>
         </note>
 
