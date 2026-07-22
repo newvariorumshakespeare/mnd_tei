@@ -867,8 +867,7 @@
             <label>229</label>
             <app><lem>counsell</lem>] <appPart><rdg type="replace">Counsels</rdg>
                     <wit><siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">pope1</siglum>, <siglum rend="smcaps"
-                            >pope2</siglum>, <siglum>warb</siglum>, <siglum rend="smcaps"
-                            >v1778</siglum></wit></appPart></app>
+                            >pope2</siglum>, <siglum>warb</siglum>, <siglum>v1778</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0229-02" target="#tln_0229">
@@ -883,7 +882,7 @@
         <note type="textual" xml:id="tn_0229-03" target="#tln_0229">
             <label display="all(invisible)">229</label>
             <app><lem>counsell sweld</lem>] <appPart><rdg type="replace">Counsels sweet</rdg>
-                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">ktly</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">ktly</siglum></wit></appPart></app>
         </note>
         
 
@@ -1119,7 +1118,7 @@
                         <siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
                             >theo</siglum>, <siglum rend="smcaps"
-                                >warb</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum></wit></appPart></app>
+                                >warb</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0296-02" target="#tln_0296">
@@ -1163,7 +1162,7 @@
         <note type="textual" xml:id="tn_0298-02" target="#tln_0298">
             <label>298</label>
             <app><lem>split&caret;</lem>] <appPart><rdg type="replace">split—</rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">v1793</siglum>, <siglum rend="smcaps">v1803</siglum>, <siglum rend="smcaps">sing1</siglum>, <siglum rend="smcaps">stau</siglum>)</wit></appPart></app>
+                    <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum>v1793</siglum>, <siglum>v1803</siglum>, <siglum rend="smcaps">sing1</siglum>, <siglum rend="smcaps">stau</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0298-03" target="#tln_0298">
@@ -1358,15 +1357,14 @@
         <note type="textual" xml:id="tn_0356-01" target="#tln_0356" targetEnd="#tln_0357">
             <label>356-7</label>
             <app><lem>perfit</lem>] <appPart><rdg type="replace">perfect</rdg>
-                    <wit><siglum>cap</siglum>, <siglum rend="smcaps">v1778</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">kit1</siglum>, 
+                    <wit><siglum>cap</siglum>, <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">kit1</siglum>, 
                         <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>), <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0356-02" target="#tln_0356" targetEnd="#tln_0357">
             <label>356–7</label>
             <app><lem>colour beard, your perfit</lem>] <appPart><rdg type="replace">colour'd beard, your perfect</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum
-                            rend="smcaps">v1773</siglum>, <siglum rend="smcaps">knt1</siglum>, <siglum
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>, <siglum rend="smcaps">knt1</siglum>, <siglum
                             rend="smcaps">wh1</siglum></wit></appPart></app>
         </note>
 
@@ -3029,7 +3027,7 @@
                                         >cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps"
                                             >sis</siglum></wit></appPart>;
                 <appPart><rdg type="replace">SCENE III. Another Part of the Wood. Enter Tytania Queene of Fairies, with her traine.</rdg>
-                    <wit><siglum rend="smcaps">v1778</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart>;
+                    <wit><siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart>;
             </app>
         </note>
 
@@ -4054,12 +4052,16 @@
             <label>876</label>
             <app><lem><hi rend="italic">Sno.</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">Sn.</hi></rdg>
-                    <wit><siglum>Q2</siglum>, <siglum>F1</siglum></wit></appPart>; <appPart><rdg
-                        type="replace"><hi rend="italic">Snu.</hi></rdg>
-                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>
-                            (&minus;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps"
+                    <wit><siglum>Q2</siglum>, <siglum>F1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace"><hi rend="italic">Snu.</hi></rdg>
+                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">han1</siglum>
+                        (&minus;<siglum rend="smcaps">theo2</siglum>), <siglum rend="smcaps">cap</siglum>,
+                        <siglum rend="smcaps">mal</siglum>, <siglum rend="smcaps">knt1</siglum>, 
+                        <siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum>&sigrange;
+                        <siglum rend="smcaps">oxf1</siglum>(&minus;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps"
                             >glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps"
-                            >irv</siglum>)</wit></appPart>; <appPart><rdg type="replace"><hi
+                                >irv</siglum>)</wit></appPart>; 
+                <appPart><rdg type="replace"><hi
                             rend="italic">Sta.</hi></rdg>
                     <wit><siglum rend="smcaps">set</siglum>, <siglum rend="smcaps"
                         >lev</siglum></wit></appPart></app>
@@ -4067,7 +4069,8 @@
 
         <note type="textual" xml:id="tn_0876-02" target="#tln_0876">
             <label display="all(invisible)">876</label>
-            <app><lem>can neuer</lem>] <appPart><rdg type="replace">never can</rdg>
+            <app><lem><hi rend="italic">Sno.</hi> You can neuer</lem>] <appPart><rdg type="replace">
+                    <hi rend="italic">Snu.</hi> You never can</rdg>
                     <wit><siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps"
                             >warb</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>,
@@ -4740,7 +4743,7 @@
             <app><lem><hi rend="italic">Fairies.</hi> Readie: and I, and I, and I.</lem>]
                 <appPart><rdgDesc>on four separate lines</rdgDesc> <rdg type="replace"><hi
                                         rend="italic">1 Fair.</hi> (<hi rend="italic">Fiar.</hi>) Readie. <hi rend="italic">2 Fair.</hi> And I. <hi rend="italic">3 Fair.</hi> And                            I.<hi rend="italic">4 Fair.</hi> And I.</rdg>
-                            <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>
+                            <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>
             </app>
         </note>
 
@@ -4996,7 +4999,7 @@
                             >john1</siglum>(&minus;<siglum rend="smcaps"
                     >theo</siglum>)</wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
                             >SCENE II. Enter King of Fairies.</hi></rdg>
-                    <wit><siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps"
+                    <wit><siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
                             >rann</siglum>,<siglum rend="smcaps">pel1</siglum>&sigrange;<siglum
                             rend="smcaps">dig</siglum>
                     </wit></appPart></app>
@@ -8917,7 +8920,7 @@
             <app><lem>at her death.</lem>]<appPart><rdg type="replace">at her death. SCENE IV.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
                             >at her death. SCENE II. A Room in Quince's House.</hi></rdg>
-                        <wit><siglum rend="smcaps">v1773</siglum>, <siglum rend="smcaps">v1778</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">dyce1</siglum>&sigrange;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">wh2</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&sigrange;<siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum> </wit></appPart></app>
+                        <wit><siglum>v1773</siglum>, <siglum>v1778</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">dyce1</siglum>&sigrange;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">wh2</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&sigrange;<siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum> </wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1745-04" target="#tln_1745">
@@ -10290,9 +10293,9 @@
             <label>1997</label>
             <app><lem>loue thou art,</lem>] <appPart><rdg type="replace">loue! thou art,</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart>;
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart>;
                 <appPart><rdg type="replace">loue! thou art</rdg>
-                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">v1778</siglum>&sigrange;<siglum>wh1</siglum>, <siglum>dyce2</siglum>, <siglum>ktly</siglum>, <siglum>knt3</siglum>&sigrange;<siglum>hud2</siglum>, <siglum>irv</siglum>, <siglum>oxf1</siglum>, <siglum>cam3</siglum>, <siglum>kit1</siglum>, <siglum>alex</siglum>, <siglum>pel1</siglum>, <siglum>cam4</siglum>&sigrange;<siglum>ban2</siglum></wit></appPart>
+                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum>v1778</siglum>&sigrange;<siglum>wh1</siglum>, <siglum>dyce2</siglum>, <siglum>ktly</siglum>, <siglum>knt3</siglum>&sigrange;<siglum>hud2</siglum>, <siglum>irv</siglum>, <siglum>oxf1</siglum>, <siglum>cam3</siglum>, <siglum>kit1</siglum>, <siglum>alex</siglum>, <siglum>pel1</siglum>, <siglum>cam4</siglum>&sigrange;<siglum>ban2</siglum></wit></appPart>
             </app>
         </note>
 
@@ -10321,7 +10324,7 @@
         <note type="textual" xml:id="tn_2003-02" target="#tln_2003">
             <label>2003</label>
             <app><lem>hole of this vilde wall</lem>] <appPart><rdg type="replace">hole of this vile wall</rdg>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">v1793</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum> <siglum rend="smcaps">cam4</siglum></wit></appPart>            
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum> <siglum rend="smcaps">cam4</siglum></wit></appPart>            
             </app>
         </note>
 
@@ -10418,7 +10421,7 @@
             <label>2020</label>
             <app><lem>beasts, in a man</lem>] <appPart><rdg type="replace">beasts in, a man</rdg>
                     <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps">rowe3</siglum>,
-                        <siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>, <siglum rend="smcaps">v1821</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">hud1</siglum>,  <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdg
+                        <siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>, <siglum>v1821</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">hud1</siglum>,  <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdg
                         type="replace">beasts in a moon</rdg>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps"
                         >warb</siglum></wit></appPart>;
@@ -10428,7 +10431,7 @@
                         <hi rend="italic">in</hi>
                         <siglum>m<hi rend="smcaps">theo</hi>1</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han1</siglum>, 
-                        <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum>rann</siglum>, <siglum rend="smcaps">v1793</siglum>, <siglum rend="smcaps">v1803</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">cam3</siglum> (<hi rend="italic">marked with an obelus</hi> [†] <hi rend="italic">as a corrupt passage</hi>), <siglum rend="smcaps">sis</siglum></wit></appPart>
+                        <siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum>rann</siglum>, <siglum>v1793</siglum>, <siglum>v1803</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">cam3</siglum> (<hi rend="italic">marked with an obelus</hi> [†] <hi rend="italic">as a corrupt passage</hi>), <siglum rend="smcaps">sis</siglum></wit></appPart>
             </app>
         </note>
 
@@ -11207,7 +11210,7 @@
                     >and2</siglum></wit></appPart>; 
                 <appPart><rdg type="replace"><hi rend="italic"
                             >Bot.</hi></rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart>; 
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart>; 
                 <appPart><rdg type="replace"><hi rend="italic">Bot. starting up</hi></rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">rid</siglum>&sigrange;<siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">evns</siglum>&sigrange;<siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum></wit></appPart>
             </app>
@@ -11270,8 +11273,8 @@
                             >john1</siglum> (&minus;<siglum rend="smcaps"
                     >theo</siglum>)</wit></appPart>; 
                 <appPart><rdg type="replace"><hi rend="italic">SCENE II. Enter</hi> Pucke.</rdg>
-                    <wit><siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum>, <siglum rend="smcaps">v1793</siglum>&sigrange;<siglum rend="smcaps"
+                    <wit><siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
+                            >rann</siglum>, <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps"
                                 >hud1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum                     rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum
                             rend="smcaps">knt3</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps"
                         >oxf2</siglum>, <siglum rend="smcaps">and2</siglum>
