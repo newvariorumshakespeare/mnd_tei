@@ -148,7 +148,9 @@
 
         <note type="textual" xml:id="tn_0019-01" target="#tln_0019">
             <label>19</label>
-            <app><lem>The</lem>] <appPart><rdg type="replace">That</rdg>
+            <app><lem>The pale companion is not for our pomp.</lem>] <appPart>
+                    <rdg type="replace">That pale companion is not for our pomp. 
+                        <hi rend="italic">Exit</hi> Phi.</rdg>
                     <wit><ref targType="bibl" target="#b_anon0005"><name type="app"
                             >anon.</name></ref>
                         <hi rend="italic">in</hi>
@@ -162,8 +164,9 @@
             <app>
                 <appPart>
                     <rdg type="insert"><hi rend="italic">Exit</hi> Phi.</rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >wh1</siglum>) (<hi rend="italic">subst.</hi>)</wit>
+                    <wit><siglum rend="smcaps">theo1</siglum>&plus; 
+                        (&minus;<siglum rend="smcaps">rann</siglum>, 
+                        <siglum rend="smcaps">wh1</siglum>) (<hi rend="italic">subst.</hi>)</wit>
                 </appPart>
             </app>
         </note>
@@ -452,15 +455,13 @@
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">theo4</siglum>, <siglum
                             rend="smcaps">cap</siglum>, <siglum rend="smcaps">wh1</siglum></wit></appPart>; 
                             <appPart><rdg type="replace">Ah me: for aught that euer I could reade</rdg>
-                                <wit><siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum></wit></appPart>; 
+                                <wit><siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; 
                     <appPart><rdg type="replace">Eh me: for aught that I could euer reade</rdg>
                     <wit><siglum rend="smcaps">rid</siglum></wit></appPart>; 
                 <appPart><rdg type="replace">Ay me: for aught that I could euer reade</rdg>
                     <wit><siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>;
                 <appPart><rdg type="replace">Ay me: for aught that ever I could reade</rdg>
-                    <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart>
-            
-            
+                    <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart>                     
             </app>
         </note>
 
@@ -468,8 +469,7 @@
             <label display="all(invisible)">142</label>
             <app><lem>Eigh me: for aught that I could euer reade</lem>]              
                 <appPart><rdg type="replace">Ah me: for aught that I could euer reade</rdg>
-                    <wit><siglum rend="smcaps">han1</siglum>,
-                            <siglum>warb</siglum>, <siglum>col1</siglum>&sigrange;<siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app>
+                    <wit><siglum>col1</siglum>&sigrange;<siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0143" target="#tln_0143">
@@ -719,7 +719,7 @@
                     <wit><siglum>Q2</siglum>, <siglum>F1</siglum></wit></appPart>;
                 <appPart>
                     <rdg type="replace">&swdash;;&hellip;&swdash;,</rdg>
-                    <wit><siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col4</siglum>,<siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">and</siglum></wit></appPart> 
+                    <wit><siglum rend="smcaps">col1</siglum>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">and</siglum></wit></appPart> 
                 </app>
         </note>
 
