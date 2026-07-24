@@ -2891,10 +2891,7 @@
                         <appPart><rdg type="replace">O’er-cannopy’d</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >cap</siglum> (&minus;<siglum rend="smcaps"
-                    >han1</siglum>)</wit></appPart>; 
-                <lem>Quite ouercanopi’d with lushious</lem>]
-                <appPart><rdg type="replace">Quite o’er-canopied with lusciöus</rdg>
-                    <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app>
+                    >han1</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0632-03" target="#tln_0632">
@@ -2916,6 +2913,12 @@
                             <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps"
                         >hud2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps"
                             >ard1</siglum>, <siglum rend="smcaps">sis</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_0632-05" target="#tln_0632">
+            <label display="all(invisible)">632</label>
+            <app><lem>ouercanopi’d with lushious</lem>] <appPart><rdg type="replace">o’er-canopied with lusciöus</rdg>
+                    <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app>
         </note>
 
         
