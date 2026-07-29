@@ -11306,7 +11306,7 @@
                     <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">cam3</siglum>&sigrange;<siglum
                             rend="smcaps">pel1</siglum> (&minus;<siglum rend="smcaps">rid</siglum>,
                     <siglum rend="smcaps">sis</siglum>), <siglum rend="smcaps"
-                        >cam4</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>, <siglum
+                        >cam4</siglum>, <siglum rend="smcaps">ban2</siglum>, <siglum
                             rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">pel3</siglum> (<hi
                                 rend="italic">subst.</hi>)</wit></appPart>   
             </app>
