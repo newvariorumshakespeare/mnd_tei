@@ -4714,33 +4714,30 @@
             <label>979–80</label>
             <app><lem><hi rend="italic">Pease-blossome</hi>&hellip;and <hi rend="italic"
                         >Mustard-seede</hi>? <anchor type="marker" marker="|"/>
-                    <hi rend="italic">Enter</hi></lem>] <appPart><rdg type="replace"><hi
-                            rend="italic">Enter Pease-blossome</hi>&hellip;<hi rend="italic"
-                                >Mustard-<anchor type="marker" marker="|"/> seede</hi>, <hi
-                            rend="italic">and</hi></rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps"
-                    >pope2</siglum></wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_0979-02" target="#tln_0979">
-            <label>979</label>
-            <app><appPart><rdg type="insert">SCENE III.</rdg>
-                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart>; <appPart><rdgDesc>on
-                            <hi rend="italic"><ref targType="lb" target="#tln_0980">980</ref></hi>
-                        before <hi rend="italic">Enter</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">warb</siglum>,
-                            <siglum rend="smcaps">john1</siglum></wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_0979-03" target="#tln_0979 #tln_0998 #tln_1000">
-            <label>979, 998, 1000</label>
-            <app><lem>Cobweb</lem>] <appPart><rdg type="replace">Cobwed</rdg>
-                    <wit><siglum>F2</siglum></wit></appPart></app>
+                    <hi rend="italic">Enter four Fairyes</hi></lem>] <appPart><rdg type="replace"><hi
+                            rend="italic">Enter Pease-blossome, Cobweb, Moth, and Mustard-<anchor type="marker" marker="|"/>
+                                seede</hi>, <hi rend="italic">and four Fairyes</hi></rdg>
+                        <wit><siglum>F1</siglum>, <siglum>F3</siglum>&sigrange;<siglum rend="smcaps"
+                    >rowe3</siglum></wit></appPart>;
+                <appPart><rdg type="replace">SCENE III. <hi
+                                rend="italic">Enter Pease-blossome, Cobweb, Moth, and Mustard-
+                            <anchor type="marker" marker="|"/>seede</hi>, <hi rend="italic">and four Fairyes</hi></rdg>
+                    <wit><siglum rend="smcaps">pope</siglum></wit>
+                </appPart>;
+                <appPart><rdg type="replace"><hi
+                            rend="italic">Enter Pease-blossome, Cobwed, Moth, and Mustard-<anchor type="marker" marker="|"/>
+                            seede</hi>, <hi rend="italic">and four Fairyes</hi></rdg>
+                    <wit><siglum>F2</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0980" target="#tln_0980">
             <label>980</label>
-            <app><lem><hi rend="italic">foure</hi></lem>] <appPart><rdg type="replace"><hi
+            <app><lem><hi rend="italic">Enter foure Fairyes</hi></lem>] <appPart><rdg type="replace">SCENE III. <hi
+                        rend="italic">Enter four Fairyes</hi></rdg>
+                <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">warb</siglum>,
+                    <siglum rend="smcaps">john1</siglum></wit></appPart>;             
+                <appPart><rdg type="replace"><hi
                             rend="lscaps">Peasblossom</hi>, <hi rend="lscaps">Cobweb</hi>, <hi
                             rend="lscaps">Moth</hi>, <hi rend="lscaps">Mustardseed</hi>, <hi
                             rend="italic">and other</hi></rdg>
@@ -4751,7 +4748,8 @@
                             rend="smcaps">irv</siglum>, <siglum rend="smcaps">nlsn</siglum>, <siglum
                             rend="smcaps">kit1</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >sis</siglum>, <siglum rend="smcaps">cam4</siglum>) (<hi rend="italic"
-                            >subst.</hi>)</wit></appPart></app>
+                            >subst.</hi>)</wit></appPart>
+           </app>
         </note>
 
         <note type="textual" xml:id="tn_0981-01" target="#tln_0981">
