@@ -9953,12 +9953,6 @@
                     >john1</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1937" target="#tln_1937">
-            <label>1937</label>
-            <app><lem>meete</lem>] <appPart><rdg type="replace">greet</rdg>
-                    <wit><siglum><hi rend="smcaps">pen</hi>1b</siglum></wit></appPart></app>
-        </note>
-
         <note type="textual" xml:id="tn_1938-01" target="#tln_1938">
             <label>1938</label>
             <app><lem>grizly</lem>] <appPart><rdg type="replace">grizy</rdg>
