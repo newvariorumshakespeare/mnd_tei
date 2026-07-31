@@ -4753,8 +4753,8 @@
             <label>981</label>
             <app><lem><hi rend="italic">Fairies.</hi> Readie: and I, and I, and I.</lem>]
                 <appPart><rdgDesc>on four separate lines</rdgDesc> <rdg type="replace"><hi
-                                        rend="italic">1 Fair.</hi> (<hi rend="italic">Fiar.</hi>) Readie. <hi rend="italic">2 Fair.</hi> And I. <hi rend="italic">3 Fair.</hi> And                            I.<hi rend="italic">4 Fair.</hi> And I.</rdg>
-                            <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>
+                                        rend="italic">1 Fair.</hi> (<hi rend="italic">Fiar.</hi>) Readie. <hi rend="italic">2 Fair.</hi> And I. <hi rend="italic">3 Fair.</hi> And I.<hi rend="italic">4 Fair.</hi> And I.</rdg>
+                            <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>
             </app>
         </note>
 
@@ -4772,7 +4772,7 @@
                         <siglum rend="smcaps">ard1</siglum></wit></appPart>;
                 <appPart><rdgDesc>on five separate lines</rdgDesc>
                           <rdg type="replace"><hi rend="italic">1 Fair.</hi> Readie. 
-                              <hi rend="italic">2 Fair.</hi> And I.<hi rend="italic">3 Fair.</hi> and I.<hi rend="italic">4 Fair.</hi> and I.<hi rend="italic"> all.</hi> Where shall we goe?</rdg>
+                              <hi rend="italic">2 Fair.</hi> And I.<hi rend="italic">3 Fair.</hi> and I.<hi rend="italic">4 Fair.</hi> and I.<hi rend="italic"> All.</hi> Where shall we goe?</rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>,
                         <siglum>v1821</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>,
                         <siglum rend="smcaps">hal</siglum>&plus; (&minus;<siglum rend="smcaps"
@@ -4898,9 +4898,9 @@
 
         <note type="textual" xml:id="tn_1009" target="#tln_1009">
             <label>1009</label>
-            <app>
+            <app><lem><hi rend="italic">Pease.</hi> <hi rend="italic">Pease-blossome.</hi></lem>]
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">Peas.</hi>
                         <hi rend="italic">Pease-blossome.</hi>
                     </rdg>
@@ -4968,7 +4968,8 @@
 
         <note type="textual" xml:id="tn_1020-01" target="#tln_1020">
             <label>1020</label>
-            <app><lem>louers</lem>] <appPart><rdg type="replace">love’s</rdg>
+            <app><lem>louers tongue, bring him silently. <hi rend="italic">Exit.</hi></lem>] 
+                <appPart><rdg type="replace">love’s tongue, bring him silently. <hi rend="italic">Exeunt.</hi></rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >rann</siglum>, <siglum rend="smcaps">mal</siglum> (<hi rend="italic"
                             >text</hi>; lover’s <hi rend="italic">in errata</hi>),
@@ -4986,7 +4987,8 @@
 
         <note type="textual" xml:id="tn_1020-02" target="#tln_1020">
             <label display="all(invisible)">1020</label>
-            <app><lem>tongue,</lem>] <appPart><rdg type="replace">tongue, and</rdg>
+            <app><lem>tongue, bring him silently. <hi rend="italic">Exit.</hi></lem>] 
+                <appPart><rdg type="replace">tongue, and bring him silently. <hi rend="italic">Exeunt.</hi></rdg>
                     <wit><siglum rend="smcaps">col2</siglum></wit></appPart></app>
         </note>
 
@@ -4996,10 +4998,16 @@
                     <wit><siglum>Qq</siglum>, <siglum>Ff</siglum></wit></appPart>;
                         <appPart><rdgDesc>ad. <rdg type="insert"><hi rend="italic">Titania with
                                 Bottom and Fairies.</hi></rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">pel</siglum></wit></appPart>; <appPart><rdg
+                    <wit><siglum rend="smcaps">pel</siglum></wit></appPart>;
+                <appPart><rdg
                         type="replace"><hi rend="italic">Exeunt.</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                    <wit><siglum rend="smcaps">v1821</siglum>&sigrange;<siglum rend="smcaps">hud1</siglum>
+                        (&minus;<siglum rend="smcaps">knt1</siglum>), <siglum rend="smcaps">sing2</siglum>, 
+                        <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>,
+                        <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">rid</siglum>
+                        (&minus;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">cam3</siglum>),
+                        <siglum rend="smcaps">evns</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>
+                        </wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1021-01" target="#tln_1021">
