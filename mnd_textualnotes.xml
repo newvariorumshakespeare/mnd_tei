@@ -5089,7 +5089,7 @@
 
         <note type="textual" xml:id="tn_1029-01" target="#tln_1029">
             <label>1029</label>
-            <app><lem>her</lem>] <appPart><rdg type="replace">a</rdg>
+            <app><lem>her close and consecrated bower.</lem>] <appPart><rdg type="replace">a close and consecrated bower,</rdg>
                     <wit><siglum rend="smcaps">knt1</siglum></wit></appPart></app>
         </note>
 
@@ -5100,7 +5100,7 @@
                             rend="smcaps">oxf4</siglum></wit></appPart>; <appPart><rdg
                         type="replace">&swdash;,</rdg>
                     <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        <hi rend="italic">etc.</hi> (&minus;<siglum rend="smcaps">knt1</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1035" target="#tln_1035">
