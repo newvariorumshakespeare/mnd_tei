@@ -4898,11 +4898,10 @@
 
         <note type="textual" xml:id="tn_1009" target="#tln_1009">
             <label>1009</label>
-            <app><lem><hi rend="italic">Pease.</hi> <hi rend="italic">Pease-blossome.</hi></lem>]
+            <app><lem><hi rend="italic">Peas. Pease-blossome.</hi></lem>]
                 <appPart>
                     <rdg type="replace">
-                        <hi rend="italic">Peas.</hi>
-                        <hi rend="italic">Pease-blossome.</hi>
+                        <hi rend="italic">Peas. Pease-blossome.</hi>
                     </rdg>
                     <wit>
                         <siglum>F1</siglum>
@@ -4968,27 +4967,26 @@
 
         <note type="textual" xml:id="tn_1020-01" target="#tln_1020">
             <label>1020</label>
-            <app><lem>louers tongue, bring him silently. <hi rend="italic">Exit.</hi></lem>] 
-                <appPart><rdg type="replace">love’s tongue, bring him silently. <hi rend="italic">Exeunt.</hi></rdg>
+            <app><lem>louers tongue, bring him silently. Exit.</lem>] 
+                <appPart><rdg type="replace">love’s tongue, bring him silently. Exeunt.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >rann</siglum>, <siglum rend="smcaps">mal</siglum> (<hi rend="italic"
                             >text</hi>; lover’s <hi rend="italic">in errata</hi>),
                             <siglum>v1793</siglum>, <siglum>v1803</siglum>, <siglum rend="smcaps"
                             >knt</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum
-                            rend="smcaps">dyce</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum
-                            rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum
-                            rend="smcaps">col4</siglum>&sigrange;<siglum rend="smcaps">irv</siglum>,
-                            <siglum rend="smcaps">oxf</siglum>, <siglum rend="smcaps">ard</siglum>,
+                            rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum
+                                rend="smcaps">cam1</siglum>, <siglum
+                                    rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">knt3</siglum>,
+                        <siglum rend="smcaps">col4</siglum>&sigrange;<siglum rend="smcaps">irv</siglum>,
                             <siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps"
-                        >cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum
-                            rend="smcaps">sis</siglum>, <siglum rend="smcaps"
-                    >dig</siglum></wit></appPart></app>
+                        >cam3</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum>, 
+                        <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1020-02" target="#tln_1020">
             <label display="all(invisible)">1020</label>
-            <app><lem>tongue, bring him silently. <hi rend="italic">Exit.</hi></lem>] 
-                <appPart><rdg type="replace">tongue, and bring him silently. <hi rend="italic">Exeunt.</hi></rdg>
+            <app><lem>tongue, bring him silently. Exit.</lem>] 
+                <appPart><rdg type="replace">tongue, and bring him silently. Exeunt.</rdg>
                     <wit><siglum rend="smcaps">col2</siglum></wit></appPart></app>
         </note>
 
