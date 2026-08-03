@@ -5364,7 +5364,7 @@
 
         <note type="textual" xml:id="tn_1097-02" target="#tln_1097">
             <label display="all(invisible)">1097</label>
-            <app><lem>on a mispris'd mood</lem>] <appPart><rdg type="replace">in a mispris'd flood</rdg>
+            <app><lem>on a mispris’d mood</lem>] <appPart><rdg type="replace">in a mispris’d flood</rdg>
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps"
                         >col4</siglum></wit></appPart></app>
         </note>
@@ -5641,7 +5641,7 @@
 
         <note type="textual" xml:id="tn_1175-01" target="#tln_1175">
             <label>1175</label>
-            <app><lem>you must ioyne, in soules</lem>] <appPart><rdg type="replace">must ioyne, insolents,</rdg>
+            <app><lem>you must ioyne, in soules</lem>] <appPart><rdg type="replace">must ioyne, insolents</rdg>
                     <wit><siglum rend="smcaps">warb</siglum></wit></appPart></app>
         </note>
 
