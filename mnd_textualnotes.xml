@@ -5359,13 +5359,12 @@
             <label>1097</label>
             <app><lem>on a</lem>] <appPart><rdg type="replace">in a</rdg>
                     <wit><siglum>v1793</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col2</siglum>, <siglum
-                            rend="smcaps">col4</siglum></wit></appPart></app>
+                        <hi rend="italic">conj.</hi></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1097-02" target="#tln_1097">
             <label display="all(invisible)">1097</label>
-            <app><lem>mood</lem>] <appPart><rdg type="replace">flood</rdg>
+            <app><lem>on a mispris'd mood</lem>] <appPart><rdg type="replace">in a mispris'd flood</rdg>
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps"
                         >col4</siglum></wit></appPart></app>
         </note>
@@ -5642,7 +5641,7 @@
 
         <note type="textual" xml:id="tn_1175-01" target="#tln_1175">
             <label>1175</label>
-            <app><lem>you</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>you must ioyne, in soules</lem>] <appPart><rdg type="replace">must ioyne, insolents,</rdg>
                     <wit><siglum rend="smcaps">warb</siglum></wit></appPart></app>
         </note>
 
@@ -5650,8 +5649,7 @@
             <label display="all(invisible)">1175</label>
             <app><lem>in soules</lem>] <appPart><rdg type="replace">in flouts</rdg>
                     <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps"
-                        >ard1</siglum></wit></appPart>; <appPart><rdg type="replace">insolents</rdg>
-                    <wit><siglum rend="smcaps">warb</siglum></wit></appPart>; <appPart><rdg
+                        >ard1</siglum></wit></appPart>; <appPart><rdg
                         type="replace">in soul</rdg>
                     <wit><ref targType="bibl" target="#b_masj1785"><name type="app"
                             >mason</name></ref> (1785, p. 70) <hi rend="italic">conj.</hi>, <siglum
