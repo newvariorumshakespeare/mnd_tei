@@ -5671,12 +5671,15 @@
                         >&swdash;,</rdg>
                     <wit><siglum>Q2</siglum></wit></appPart>; <appPart><rdg type="replace"
                         >&swdash;;</rdg>
-                    <wit><siglum>F1</siglum>&plus;</wit></appPart></app>
+                        <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">han1</siglum>
+                            (&minus;<siglum rend="smcaps">rowe1</siglum>, <siglum rend="smcaps">theo2</siglum>),
+                            <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>
+                            &sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1184-02" target="#tln_1184">
             <label display="all(invisible)">1184</label>
-            <app><lem>noble</lem>] <appPart><rdg type="replace">Nobler</rdg>
+            <app><lem>derision None, of noble</lem>] <appPart><rdg type="replace">derision; None, of Nobler</rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>, <siglum rend="smcaps">theo2</siglum>,
                             <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
@@ -5895,22 +5898,26 @@
             <app><lem>schooldaies</lem>] <appPart><rdg type="replace">school-day</rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum>v1778</siglum>, <siglum
                             rend="smcaps">rann</siglum>, <siglum rend="smcaps">dyce2</siglum>,
-                            <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">school-days’</rdg>
+                            <siglum rend="smcaps">hud2</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">school-days’</rdg>
                     <wit><siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps"
-                            >cam1</siglum>, <siglum rend="smcaps">glo</siglum>&sigrange;<siglum
-                            rend="smcaps">col4</siglum>, <siglum rend="smcaps"
-                            >wh2</siglum>&sigrange;<siglum rend="smcaps">rid</siglum>, <siglum
-                            rend="smcaps">alex</siglum>, <siglum rend="smcaps">sis</siglum>, <siglum
-                            rend="smcaps">ard2</siglum>&plus;</wit></appPart></app>
+                            >cam1</siglum> (&minus;<siglum rend="smcaps">col2</siglum>), <siglum rend="smcaps">glo</siglum>&sigrange;
+                        <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">wh2</siglum>&sigrange;
+                        <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">sis</siglum>, 
+                        <siglum rend="smcaps">ard2</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1229-02" target="#tln_1229">
             <label display="all(invisible)">1229</label>
             <app><lem>childhood</lem>] <appPart><rdg type="replace">child-hoods</rdg>
                     <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">rowe1</siglum>, <siglum
-                            rend="smcaps">col2</siglum>, <siglum rend="smcaps"
-                    >col4</siglum></wit></appPart></app>
+                            rend="smcaps">col2</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1229-03" target="#tln_1229">
+            <label display="all(invisible)">1229</label>
+            <app><lem>schooldaies friendshippe, childhood</lem>] <appPart><rdg type="replace">school-days' friendshippe, child-hoods</rdg>
+                    <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1231-01" target="#tln_1231">
