@@ -6294,22 +6294,26 @@
         <note type="textual" xml:id="tn_1290-02" target="#tln_1290">
             <label display="all(invisible)">1290</label>
             <app><lem>of</lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdg type="replace">off</rdg>
-                    <wit><siglum>Q2</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum>Q1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">off</rdg>
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum> (&minus;<siglum>F2</siglum>,
+                        <siglum>F3</siglum>, <siglum>F4</siglum>), <siglum rend="smcaps">rowe1</siglum>&sigrange;
+                        <siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">v1803</siglum>, 
+                        <siglum rend="smcaps">v1821</siglum>, <siglum rend="smcaps">cam1</siglum>, 
+                        <siglum rend="smcaps">sis</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1290-03" target="#tln_1290">
             <label display="all(invisible)">1290</label>
-            <app><lem>bur</lem>] <appPart><rdg type="replace">but</rdg>
+            <app><lem>of thou cat, thou bur</lem>] <appPart><rdg type="replace">off thou cat, thou but</rdg>
                     <wit><siglum>F2</siglum>&sigrange;<siglum>F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1290-04" target="#tln_1290">
             <label display="all(invisible)">1290</label>
-            <app><lem>thing&caret;</lem>] <appPart><rdg type="replace">&swdash;,</rdg>
+            <app><lem>of thou cat, thou bur: vile thing&caret;</lem>] <appPart><rdg type="replace">off thou cat, thou bur: vile thing,</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum>v1803</siglum>,
-                            <siglum>v1821</siglum>, <siglum rend="smcaps"
-                    >sis</siglum>)</wit></appPart></app>
+                         <siglum>v1821</siglum>, <siglum rend="smcaps">sis</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1292" target="#tln_1292" targetEnd="#tln_1294">
@@ -6327,20 +6331,28 @@
         <note type="textual" xml:id="tn_1295-01" target="#tln_1295">
             <label>1295</label>
             <app><lem>ô</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >knt1</siglum>, <siglum rend="smcaps">col2</siglum>, <siglum
+                    <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps"
+                            >sing1</siglum> (&minus;<siglum rend="smcaps">v1773</siglum>), <siglum rend="smcaps">col2</siglum>, <siglum
                             rend="smcaps">cam1</siglum>&sigrange;<siglum rend="smcaps"
-                        >rltr</siglum>, <siglum rend="smcaps">pen1</siglum></wit></appPart></app>
+                                >rltr</siglum> (&minus;<siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">irv</siglum>,
+                        <siglum rend="smcaps">oxf1</siglum>), <siglum rend="smcaps">pen1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1295-02" target="#tln_1295">
             <label display="all(invisible)">1295</label>
             <app><lem>potion</lem>] <appPart><rdg type="replace">poison</rdg>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
-                            <siglum>v1773</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum
-                            rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum
-                            rend="smcaps">wh1</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum
-                            rend="smcaps">oxf1</siglum></wit></appPart></app>
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>,
+                            <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, 
+                        <siglum rend="smcaps">wh1</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1295-03" target="#tln_1295">
+            <label display="all(invisible)">1295</label>
+            <app><lem>ô hated potion</lem>] <appPart><rdg type="replace">hated poison</rdg>
+                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">v1773</siglum>
+                        (&minus;<siglum rend="smcaps">cap</siglum>),
+                        <siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">knt3</siglum>, 
+                        <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1303-01" target="#tln_1303">
