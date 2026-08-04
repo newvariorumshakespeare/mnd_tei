@@ -5947,19 +5947,25 @@
         <note type="textual" xml:id="tn_1237-01" target="#tln_1237">
             <label>1237</label>
             <app><lem>yet</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
-                    <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart></app>
+                    <wit><siglum>F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1237-02" target="#tln_1237">
             <label display="all(invisible)">1237</label>
             <app><lem>an</lem>] <appPart><rdg type="replace">a</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum>F3</siglum>, <siglum rend="smcaps"
+                    <wit><siglum>F1</siglum>, <siglum>F2</siglum>, <siglum rend="smcaps"
                             >cap</siglum>, <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps"
                             >knt1</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum
                             rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce</siglum>,
                             <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
                         >knt3</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps"
                             >ard1</siglum></wit></appPart></app>
+            
+            <note type="textual" xml:id="tn_1237-03" target="#tln_1237">
+                <label>1237</label>
+                <app><lem>yet an</lem>] <appPart><rdg type="replace">a</rdg>
+                        <wit><siglum>F3</siglum></wit></appPart></app>
+            </note>
         </note>
 
         <note type="textual" xml:id="tn_1238" target="#tln_1238">
@@ -5981,8 +5987,8 @@
                     <wit><siglum>Qq</siglum>, <siglum>F1</siglum></wit></appPart>; <appPart><rdg
                         type="replace">&swdash;&caret; &swdash;, &swdash;</rdg>
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps"
-                    >pope2</siglum></wit></appPart>; <appPart><rdg type="replace">first &caret;
-                        Life-coats</rdg>
+                            >pope2</siglum> (&minus;<siglum rend="smcaps">rowe1</siglum>)</wit></appPart>; 
+                <appPart><rdg type="replace">first &caret;Life-coats</rdg>
                     <wit><siglum rend="smcaps">and</siglum></wit></appPart>; <appPart><rdg
                         type="replace">first, like&caret; coats</rdg>
                     <wit><ref targType="bibl" target="#b_folm1690"><name type="app"
@@ -5995,7 +6001,7 @@
 
         <note type="textual" xml:id="tn_1240-02" target="#tln_1240">
             <label display="all(invisible)">1240</label>
-            <app><lem>in</lem>] <appPart><rdg type="replace">of</rdg>
+            <app><lem>first life coats in</lem>] <appPart><rdg type="replace">first life, coats of</rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
 
@@ -6115,17 +6121,17 @@
             <app><lem>praise</lem>] <appPart><rdg type="replace">Prayers</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
-                            >theo1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
+                            >theo2</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>,
                             <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>,
                             <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps"
                             >ban2</siglum>, <siglum rend="smcaps">folg2</siglum>&sigrange;<siglum
-                            rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdg type="replace"
-                        >prays</rdg>
+                            rend="smcaps">dig</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">prays</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">cap</siglum>, <siglum
                             rend="smcaps">mal</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum
-                            rend="smcaps">and1</siglum> (<quote>Pray</quote>s)</wit></appPart></app>
+                            rend="smcaps">and1</siglum> ("Pray"s)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1285" target="#tln_1285">
