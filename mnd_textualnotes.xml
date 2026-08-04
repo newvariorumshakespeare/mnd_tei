@@ -5910,8 +5910,7 @@
         <note type="textual" xml:id="tn_1229-02" target="#tln_1229">
             <label display="all(invisible)">1229</label>
             <app><lem>childhood</lem>] <appPart><rdg type="replace">child-hoods</rdg>
-                    <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">rowe1</siglum>, <siglum
-                            rend="smcaps">col2</siglum>, <siglum rend="smcaps">col4</siglum></wit></appPart></app>
+                    <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
         
         <note type="textual" xml:id="tn_1229-03" target="#tln_1229">
