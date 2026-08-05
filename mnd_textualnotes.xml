@@ -6310,7 +6310,8 @@
 
         <note type="textual" xml:id="tn_1290-04" target="#tln_1290">
             <label display="all(invisible)">1290</label>
-            <app><lem>of thou cat, thou bur: vile thing&caret;</lem>] <appPart><rdg type="replace">off thou cat, thou bur: vile thing,</rdg>
+            <app><lem>of thou cat, thou bur: vile thing&caret;</lem>] <appPart>
+                    <rdg type="replace">off thou cat, thou bur: vile thing,</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum>v1803</siglum>,
                          <siglum>v1821</siglum>, <siglum rend="smcaps">sis</siglum>)</wit></appPart></app>
         </note>
@@ -6473,13 +6474,12 @@
         <note type="textual" xml:id="tn_1345-01" target="#tln_1345">
             <label>1345</label>
             <app><lem>vnto</lem>] <appPart><rdg type="replace">into</rdg>
-                    <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum
-                            rend="smcaps">han1</siglum></wit></appPart></app>
+                    <wit><siglum>F4</siglum>, <siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1345-02" target="#tln_1345">
             <label display="all(invisible)">1345</label>
-            <app><lem>this</lem>] <appPart><rdg type="replace">the</rdg>
+            <app><lem>vnto this</lem>] <appPart><rdg type="replace">into the</rdg>
                     <wit><siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">pope</siglum>,
                             <siglum rend="smcaps">han1</siglum></wit></appPart></app>
         </note>
@@ -6742,11 +6742,13 @@
         <note type="textual" xml:id="tn_1420" target="#tln_1420">
             <label>1420</label>
             <app><lem>nights swift</lem>] <appPart><rdg type="replace">night swift</rdg>
-                    <wit><siglum>Q2</siglum></wit></appPart>; <appPart><rdg type="replace"
-                        >night-swift</rdg>
-                    <wit><siglum>F1</siglum></wit></appPart>; <appPart><rdg type="replace"
-                        >nights-swift</rdg>
-                    <wit><siglum>F2</siglum> (-swft)-<siglum>F4</siglum></wit></appPart></app>
+                    <wit><siglum>Q2</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">night-swift</rdg>
+                    <wit><siglum>F1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">nights-swft</rdg>
+                    <wit><siglum>F2</siglum></wit></appPart>;
+                <appPart><rdg type="replace">nights-swift</rdg>
+                    <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1423" target="#tln_1423">
