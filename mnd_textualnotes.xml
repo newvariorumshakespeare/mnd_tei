@@ -7086,8 +7086,7 @@
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>,
                             <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
-                            >ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, <siglum
-                            rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum
+                            >ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum
                             rend="smcaps">ard1</siglum></wit></appPart></app>
         </note>
 
@@ -7101,6 +7100,12 @@
                             rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum
                             rend="smcaps">hud2</siglum>, <siglum rend="smcaps">rltr</siglum>,
                             <siglum rend="smcaps">sis</siglum></wit></appPart></app>
+        </note>
+
+        <note type="textual" xml:id="tn_1466-03" target="#tln_1466">
+            <label>1466</label>
+            <app><lem>Ho, ho, ho: Coward, why comst</lem>] <appPart><rdg type="replace">Ho, ho, ho, ho: Coward, why comest</rdg>
+                    <wit><siglum rend="smcaps">hud2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1470" target="#tln_1470">
