@@ -6932,21 +6932,26 @@
                 </appPart>
             </app>
         </note>
-
+        
         <note type="textual" xml:id="tn_1449-01" target="#tln_1449">
             <label>1449</label>
-            <app><lem>Speake&caret;&hellip;bush. Where doest</lem>] <appPart><rdg type="replace"
-                        >&swdash;&caret;&hellip;&swdash;&caret; Where dost</rdg>
+            <app><lem>Speake&caret;&hellip;bush.</lem>] <appPart><rdg type="replace"
+                        >&swdash;&caret;&hellip;&swdash;&caret;</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
-                        <hi rend="italic">conj.</hi></wit></appPart>;  
-                <appPart><rdg type="replace">&swdash;:&hellip;&swdash;&caret; Where doest</rdg>
+                        <hi rend="italic">conj.</hi></wit></appPart>; 
+                <appPart><rdg type="replace"
+                        >&swdash;&caret;&hellip;&swdash;,</rdg>
+                    <wit><siglum rend="smcaps">han1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">&swdash;:&hellip;&swdash;&caret;</rdg>
                     <wit><siglum>m<hi rend="smcaps">warb</hi>1</siglum>
                         <hi rend="italic">conj.</hi></wit></appPart>; <appPart><rdg type="replace"
-                        >&swdash;&hellip;. &swdash;? Where doest</rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>&plus; (&minus;<siglum>v1773</siglum>,
-                            <siglum rend="smcaps">rid</siglum>)</wit></appPart></app>
+                                >&swdash;&hellip;. &swdash;?</rdg>
+                            <wit><siglum rend="smcaps">cap</siglum>&plus; (&minus;<siglum>v1773</siglum>,
+                                <siglum rend="smcaps">rid</siglum>)</wit></appPart></app>
         </note>
+        
 
+       
         <note type="textual" xml:id="tn_1449-02" target="#tln_1449">
             <label display="all(invisible)">1449</label>
             <app><lem>bush. Where doest thou</lem>] <appPart><rdg type="replace">bush, Where thou dost</rdg>
