@@ -7607,7 +7607,7 @@
 
         <note type="textual" xml:id="tn_1524" target="#tln_1524">
             <label>1524</label>
-            <app><lem>Mounsieur</lem>] <appPart><rdg type="replace">Monsieur</rdg>
+            <app><lem>Mounsieur: and good Mounsieur</lem>] <appPart><rdg type="replace">Monsieur: and good Monsieur</rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,                                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum> 
                         (&minus;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, 
                         <siglum rend="smcaps">glo</siglum>),
@@ -7621,15 +7621,15 @@
             <label>1525</label>
             <app><lem>wold</lem>] <appPart><rdg type="replace">should</rdg>
                     <wit><siglum rend="smcaps">pope2</siglum>&sigrange;<siglum>v1773</siglum>
-                            (&minus;<siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps"
-                            >cap</siglum>)</wit></appPart></app>
+                            (&minus;<siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">cap</siglum>)</wit>
+            </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1526" target="#tln_1526">
             <label>1526</label>
-            <app><lem><hi rend="italic">signior</hi>. Where's Mounsieur</lem>] 
-                <appPart><rdg type="replace"><hi rend="italic">signior</hi>. 
-                        <hi rend="italic">Exit Cobweb</hi> Where's Monsieur</rdg>
+            <app><lem>signior. Where’s Mounsieur</lem>] 
+                <appPart><rdg type="replace">signior. Exit Cobweb Where’s Monsieur</rdg>
                     <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">ban2</siglum>,
                             <siglum rend="smcaps">and1</siglum>, <siglum rend="smcaps"
                             >folg2</siglum>, <siglum rend="smcaps">oxf4</siglum>, <siglum
