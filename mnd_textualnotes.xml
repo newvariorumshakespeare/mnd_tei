@@ -7550,9 +7550,9 @@
                             >hud2</siglum> (&minus;<siglum rend="smcaps">wh1</siglum>, <siglum
                             rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>),
                             <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">sis</siglum>,
-                            <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps"
-                        >oxf2</siglum>, <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps"
-                            >folg2</siglum>&plus;</wit></appPart></app>
+                            <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">oxf2</siglum>, 
+                        <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, 
+                        <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1519" target="#tln_1519">
@@ -7588,12 +7588,35 @@
                 <appPart><rdg type="replace">Monsieur Cobweb, good Monsieur, get you your</rdg>
                     <wit><siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">cam3</siglum>, 
                         <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">oxf2</siglum>, 
-                        <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">dig</siglum>, 
-                        <siglum rend="smcaps">folg2</siglum></wit></appPart>
-            
+                        <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, 
+                        <siglum rend="smcaps">dig</siglum></wit></appPart> 
             </app>
         </note>
 
+        <note type="textual" xml:id="tn_1522" target="#tln_1522">
+            <label>1522</label>
+            <app><lem>Mounsieur</lem>] <appPart><rdg type="replace">Monsieur</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,                                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum> 
+                        (&minus;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, 
+                        <siglum rend="smcaps">glo</siglum>),
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">sis</siglum>,
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">oxf2</siglum>, 
+                        <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, 
+                        <siglum rend="smcaps">dig</siglum></wit></appPart></app>
+        </note>
+
+        <note type="textual" xml:id="tn_1524" target="#tln_1524">
+            <label>1524</label>
+            <app><lem>Mounsieur</lem>] <appPart><rdg type="replace">Monsieur</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,                                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum> 
+                        (&minus;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, 
+                        <siglum rend="smcaps">glo</siglum>),
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">sis</siglum>,
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">oxf2</siglum>, 
+                        <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, 
+                        <siglum rend="smcaps">dig</siglum></wit></appPart></app>
+        </note>
+        
         <note type="textual" xml:id="tn_1525" target="#tln_1525">
             <label>1525</label>
             <app><lem>wold</lem>] <appPart><rdg type="replace">should</rdg>
@@ -7604,8 +7627,9 @@
 
         <note type="textual" xml:id="tn_1526" target="#tln_1526">
             <label>1526</label>
-            <app><lem><hi rend="italic">signior.</hi></lem>] <appPart><rdg type="replace">&swdash;.
-                            <hi rend="italic">Exit Cobweb</hi></rdg>
+            <app><lem><hi rend="italic">signior. Where's Mounsieur</hi></lem>] 
+                <appPart><rdg type="replace"><hi rend="italic">signior</hi>. 
+                        <hi rend="italic">Exit Cobweb</hi> Where's Monsieur</rdg>
                     <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">ban2</siglum>,
                             <siglum rend="smcaps">and1</siglum>, <siglum rend="smcaps"
                             >folg2</siglum>, <siglum rend="smcaps">oxf4</siglum>, <siglum
