@@ -7461,7 +7461,10 @@
             <app><lem>Actus Quartus.</lem>]
                 <appPart>
                     <rdg type="replace">Actus Quartus. SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum></wit>
+                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">han1</siglum>, 
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pel1</siglum>, 
+                        <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">cam4</siglum>, 
+                        <siglum rend="smcaps">ban2</siglum></wit>
                 </appPart>
             </app>
         </note>
@@ -7538,9 +7541,9 @@
                             <siglum rend="smcaps">john1</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1517" target="#tln_1517 #tln_1520"
-            targetEnd="#tln_1518 #tln_1533">
-            <label>1517–18, 1520–33</label>
+        <note type="textual" xml:id="tn_1517" target="#tln_1517"
+            targetEnd="#tln_1518">
+            <label>1517–18</label>
             <app><lem>Mounsieur</lem>] <appPart><rdg type="replace">Monsieur</rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
@@ -7567,14 +7570,27 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_1520" target="#tln_1520">
+        <note type="textual" xml:id="tn_1520-01" target="#tln_1520">
             <label>1520</label>
             <app><lem>you</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>
-                            (&minus;<siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps"
-                            >cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum
-                            rend="smcaps">wh2</siglum>, <siglum rend="smcaps">irv</siglum>), <siglum
-                            rend="smcaps">sis</siglum></wit></appPart></app>
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">F4</siglum>, <siglum rend="smcaps">cap</siglum>, 
+                        <siglum rend="smcaps">wh1</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1520-02" target="#tln_1520">
+            <label>1520</label>
+            <app><lem>Mounsieur Cobweb, good Mounsieur, get you your</lem>] 
+                <appPart><rdg type="replace">Monsieur Cobweb, good Monsieur, get your</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>>&sigrange;<siglum rend="smcaps">john1</siglum>,
+                        <siglum rend="smcaps">v1773</siglum>>&sigrange;<siglum rend="smcaps">hud2</siglum>
+                        (&minus;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, 
+                        <siglum rend="smcaps">glo</siglum>), <siglum rend="smcaps">sis</siglum></wit></appPart>;
+                <appPart><rdg type="replace">Monsieur Cobweb, good Monsieur, get you your</rdg>
+                    <wit><siglum rend="smcaps">cam3</siglum>>, <siglum rend="smcaps">pel1</siglum>,
+                        <siglum rend="smcaps">oxf2</siglum>>, <siglum rend="smcaps">ban2</siglum>,
+                        <siglum rend="smcaps">dig</siglum>, <siglum rend="smcaps">folg2</siglum></wit></appPart>
+            
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1525" target="#tln_1525">
