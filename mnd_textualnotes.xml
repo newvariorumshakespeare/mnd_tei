@@ -7648,20 +7648,37 @@
 
         <note type="textual" xml:id="tn_1529-02" target="#tln_1529">
             <label>1529</label>
-            <app><lem>me your</lem>] <appPart><rdg type="replace">me thy</rdg>
+            <app><lem>me your neafe, Mounsieur</lem>] <appPart><rdg type="replace">me thy neafe, Monsieur</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum></wit></appPart>; <appPart><rdg type="replace">thy</rdg>
+                            >john1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">thy neaf, Monsieur</rdg>
                     <wit><siglum>v1773</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1529-03" target="#tln_1529">
             <label display="all(invisible)">1529</label>
-            <app><lem>neafe</lem>] <appPart><rdg type="replace">newfe</rdg>
-                    <wit><siglum>F2</siglum>, <siglum rend="smcaps">rowe3</siglum></wit></appPart>;
-                        <appPart><rdg type="replace">newse</rdg>
-                    <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps"
-                    >rowe1</siglum></wit></appPart></app>
+            <app><lem>neafe, Mounsieur</lem>] <appPart><rdg type="replace">newfe, Mounsieur</rdg>
+                    <wit><siglum>F2</siglum></wit></appPart>;
+                        <appPart><rdg type="replace">newse, Mounsieur</rdg>
+                            <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart>;
+                <appPart><rdg type="replace">newfe, Monsieur</rdg>
+                    <wit><siglum rend="smcaps">rowe3</siglum></wit></appPart>;
+                <appPart><rdg type="replace">newse, Monsieur</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum></wit></appPart>
+            </app>
         </note>
+        
+        <note type="textual" xml:id="tn_1530" target="#tln_1530">
+            <label>1530</label>
+            <app><lem>Mounsieur</lem>] <appPart><rdg type="replace">Monsieur</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,                                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum> 
+                        (&minus;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">cam1</siglum>, 
+                        <siglum rend="smcaps">glo</siglum>),
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">sis</siglum>,
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">oxf2</siglum>, 
+                        <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, 
+                        <siglum rend="smcaps">dig</siglum></wit></appPart></app>
+        
 
         <note type="textual" xml:id="tn_1532" target="#tln_1532">
             <label>1532</label>
