@@ -7572,7 +7572,7 @@
 
         <note type="textual" xml:id="tn_1520-01" target="#tln_1520">
             <label>1520</label>
-            <app><lem>you</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>you your</lem>] <appPart><rdg type="replace">your</rdg><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">F4</siglum>, <siglum rend="smcaps">cap</siglum>, 
                         <siglum rend="smcaps">wh1</siglum></wit></appPart></app>
         </note>
