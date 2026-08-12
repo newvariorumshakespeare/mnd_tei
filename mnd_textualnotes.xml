@@ -7678,16 +7678,32 @@
                         <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">oxf2</siglum>, 
                         <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, 
                         <siglum rend="smcaps">dig</siglum></wit></appPart></app>
+        </note>
         
 
-        <note type="textual" xml:id="tn_1532" target="#tln_1532">
+        <note type="textual" xml:id="tn_1532-01" target="#tln_1532">
             <label>1532</label>
             <app><lem>Caualery</lem>] <appPart><rdg type="replace">Cavalero</rdg>
-                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum
-                            rend="smcaps">stau</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">Cavaliery</rdg>
-                    <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum>,
-                            <siglum rend="smcaps">dig</siglum></wit></appPart></app>
+                    <wit><siglum>F2</siglum>&sigrange;<siglum>F4</siglum>, <siglum rend="smcaps">cap</siglum></wit>                     </appPart>
+            </app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1532-02" target="#tln_1532">
+            <label>1532</label>
+            <app><lem>Mounsieur, but to helpe Caualery</lem>] 
+                <appPart><rdg type="replace">Monsieur, but to helpe Cavalero</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum
+                            rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>,
+                        <siglum rend="smcaps">stau</siglum></wit></appPart>; <appPart><rdg
+                                    type="replace">Monsieur, but to help Cavaliery</rdg>
+                                <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum>,
+                                    <siglum rend="smcaps">dig</siglum></wit></appPart>;
+                <appPart><rdg type="replace">Monsieur, but to helpe Caualery</rdg>
+                    <wit><siglum rend="smcaps">dyce1</siglum>&sigrange;<siglum rend="smcaps">col3</siglum>, 
+                        <siglum rend="smcaps">dyce2</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>
+                        (&minus;<siglum rend="smcaps">glo</siglum>), <siglum rend="smcaps">sis</siglum>,
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ban2</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1533" target="#tln_1533">
