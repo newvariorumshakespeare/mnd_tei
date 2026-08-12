@@ -7781,9 +7781,9 @@
                         >nlsn</siglum>&plus;</wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1539" target="#tln_1539">
+        <note type="textual" xml:id="tn_1539" target="#tln_1539-1540i">
             <label>1539</label>
-            <app><lem>Lets</lem>] <appPart><rdg type="replace">Let vs</rdg>
+            <app><lem>Let s</lem>] <appPart><rdg type="replace">Let vs</rdg>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">oxf1</siglum>
                             (&minus;<siglum rend="smcaps">col</siglum>, <siglum rend="smcaps"
                             >wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps"
@@ -7844,7 +7844,8 @@
                             verse lines ending</hi> seek&hellip;nuts.</rdgDesc>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        &sigrange;<siglum rend="smcaps">dig</siglum> 
+                        (&minus;<siglum rend="smcaps">theo4</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1549-01" target="#tln_1549">
@@ -7912,28 +7913,30 @@
             <label>1554</label>
             <app><lem>alwaies</lem>] <appPart><rdg type="replace">all ways</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>,
-                            <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps"
-                            >hud1</siglum>, <siglum rend="smcaps">hal</siglum>&sigrange;<siglum
-                            rend="smcaps">dyce1</siglum>, <siglum rend="smcaps"
-                            >cam1</siglum>&sigrange;<siglum rend="smcaps">knt3</siglum>, <siglum
-                            rend="smcaps">irv</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >nlsn</siglum>)</wit></appPart>; <appPart><rdg type="replace">a
-                        while</rdg>
+                            <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps">hud1</siglum> 
+                        (&minus;<siglum rend="smcaps">cap</siglum>), <siglum rend="smcaps">hal</siglum>, 
+                        <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">ktly</siglum>, 
+                        <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">irv</siglum>&plus; 
+                        (&minus;<siglum rend="smcaps">nlsn</siglum>)</wit></appPart>; 
+                <appPart><rdg type="replace">a while</rdg>
                     <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">col2</siglum>,
                             <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>,
-                            <siglum rend="smcaps">col4</siglum>&sigrange;<siglum rend="smcaps"
-                            >wh2</siglum></wit></appPart></app>
+                            <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">wh2</siglum>
+                    </wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1554-02" target="#tln_1554">
             <label display="all(invisible)">1554</label>
-            <app>
+            <app><lem>alwaies away.</lem>]
                 <appPart>
-                    <rdg type="insert"><hi rend="italic">Exeunt</hi> Fairies.</rdg>
+                    <rdg type="replace">all ways away. <hi rend="italic">Exeunt</hi> Fairies.</rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">dyce</siglum>,
-                            <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>,
-                            <siglum rend="smcaps">col4</siglum></wit>
-                </appPart>
+                            <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum></wit>
+                </appPart>;
+                <appPart>
+                    <rdg type="replace">a while away. <hi rend="italic">Exeunt</hi> Fairies.</rdg>
+                    <wit><siglum rend="smcaps">col4</siglum></wit>
+                </appPart>        
             </app>
         </note>
 
