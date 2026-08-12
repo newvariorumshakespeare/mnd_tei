@@ -7706,16 +7706,36 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_1533" target="#tln_1533">
+        <note type="textual" xml:id="tn_1533-01" target="#tln_1533">
             <label>1533</label>
-            <app><lem><hi rend="italic">Cobwebbe</hi></lem>] <appPart><rdg type="replace"
-                        >Pease-blossom</rdg>
-                    <wit><siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">hal</siglum>,
-                            <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
-                        >irv</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps"
-                            >cam4</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum
-                            rend="smcaps">oxf4</siglum>, <siglum rend="smcaps"
-                    >pel3</siglum></wit></appPart></app>
+            <app><lem><hi rend="italic">Cobwebbe</hi></lem>] <appPart>
+                    <rdg type="replace"><hi rend="italic">Pease-blossom</hi></rdg>
+                    <wit><siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">kit1</siglum>, 
+                        <siglum rend="smcaps">cam4</siglum></wit></appPart>
+            </app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1533-02" target="#tln_1533">
+            <label>1533</label>
+            <app><lem><hi rend="italic">Cobwebbe</hi>, to scratch. I must to the Barbers, Mounsieur</lem>]
+                <appPart><rdg type="replace">
+                        <hi rend="italic">Pease-blossom</hi>, to scratch. I must to the Barbers, Monsieur</rdg>
+                    <wit><siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">hal</siglum>, 
+                        <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">oxf2</siglum>, 
+                        <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">pel3</siglum></wit></appPart>;
+                <appPart><rdg type="replace">
+                        <hi rend="italic">Cobwebbe</hi>, to scratch. I must to the Barbers, Monsieur</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>>&sigrange;<siglum rend="smcaps">john1</siglum>, 
+                        <siglum rend="smcaps">v1773</siglum>>&sigrange;<siglum rend="smcaps">sing1</siglum>
+                        (&minus;<siglum rend="smcaps">rann</siglum>), <siglum rend="smcaps">hal</siglum>>&sigrange;
+                        <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>>&sigrange;
+                        <siglum rend="smcaps">hud2</siglum> (&minus;<siglum rend="smcaps">glo</siglum>),
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">sis</siglum>,
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ban2</siglum>,
+                        <siglum rend="smcaps">dig</siglum>
+                    </wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1534" target="#tln_1534">
