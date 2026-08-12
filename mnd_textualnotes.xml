@@ -1261,7 +1261,7 @@
 
         <note type="textual" xml:id="tn_0327-01" target="#tln_0327">
             <label>327</label>
-            <app><lem>And I hope here</lem>] <appPart>><rdg type="replace">I hope there</rdg>
+            <app><lem>And I hope here</lem>] <appPart><rdg type="replace">I hope there</rdg>
                     <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum></wit></appPart></app>
         </note>
@@ -1435,7 +1435,7 @@
 
         <note type="textual" xml:id="tn_0372-01" target="#tln_0372">
             <label>372</label>
-            <app><lem>Actus Secundus.</lem>]<appPart>><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>Actus Secundus.</lem>]<appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
 
@@ -2507,7 +2507,7 @@
 
         <note type="textual" xml:id="tn_0566" target="#tln_0566">
             <label>566</label>
-            <app>><lem>Enter Demetrius, Helena following him.</lem>] <appPart>
+            <app><lem>Enter Demetrius, Helena following him.</lem>] <appPart>
                     <rdg type="replace">SCENE III. Enter Demetrius, Helena following him.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
@@ -3340,7 +3340,7 @@
 
         <note type="textual" xml:id="tn_0686" target="#tln_0686">
             <label>686</label>
-            <app>><lem>Enter Lysander: and Hermia.</lem>] <appPart>
+            <app><lem>Enter Lysander: and Hermia.</lem>] <appPart>
                     <rdg type="replace">SCENE VI. Enter Lysander: and Hermia.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
@@ -3559,7 +3559,7 @@
 
         <note type="textual" xml:id="tn_0737" target="#tln_0737">
             <label>737</label>
-            <app>><lem>Enter Demetrius and Helena running.</lem>] <appPart>
+            <app><lem>Enter Demetrius and Helena running.</lem>] <appPart>
                     <rdg type="replace">SCENE VII. Enter Demetrius and Helena running.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum> (&minus;<siglum rend="smcaps">theo</siglum>)</wit>
@@ -3791,7 +3791,7 @@
 
         <note type="textual" xml:id="tn_0812-01" target="#tln_0812">
             <label>812</label>
-            <app><lem>Actus Tertius.</lem>]<appPart>><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>Actus Tertius.</lem>]<appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
 
@@ -7452,7 +7452,7 @@
 
         <note type="textual" xml:id="tn_1508-01" target="#tln_1508">
             <label>1508</label>
-            <app><lem>Actus Quartus.</lem>]<appPart>><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>Actus Quartus.</lem>]<appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
 
@@ -7725,10 +7725,10 @@
                         <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">pel3</siglum></wit></appPart>;
                 <appPart><rdg type="replace">
                         <hi rend="italic">Cobwebbe</hi>, to scratch. I must to the Barbers, Monsieur</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>>&sigrange;<siglum rend="smcaps">john1</siglum>, 
-                        <siglum rend="smcaps">v1773</siglum>>&sigrange;<siglum rend="smcaps">sing1</siglum>
-                        (&minus;<siglum rend="smcaps">rann</siglum>), <siglum rend="smcaps">hal</siglum>>&sigrange;
-                        <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>>&sigrange;
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, 
+                        <siglum rend="smcaps">v1773</siglum>&sigrange;<siglum rend="smcaps">sing1</siglum>
+                        (&minus;<siglum rend="smcaps">rann</siglum>), <siglum rend="smcaps">hal</siglum>&sigrange;
+                        <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>&sigrange;
                         <siglum rend="smcaps">hud2</siglum> (&minus;<siglum rend="smcaps">glo</siglum>),
                         <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">sis</siglum>,
                         <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ban2</siglum>,
@@ -8359,7 +8359,7 @@
 
         <note type="textual" xml:id="tn_1622" target="#tln_1622">
             <label>1622</label>
-            <app>><lem>Enter Theseus and all his traine.</lem>]
+            <app><lem>Enter Theseus and all his traine.</lem>]
                 <appPart>
                     <rdg type="replace">SCENE II. Enter Theseus and all his traine.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
@@ -9226,7 +9226,7 @@
 
         <note type="textual" xml:id="tn_1791-01" target="#tln_1791">
             <label>1791</label>
-            <app><lem>Actus Quintus.</lem>]<appPart>><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>Actus Quintus.</lem>]<appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum>Qq</siglum></wit></appPart></app>
         </note>
 
