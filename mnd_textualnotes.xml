@@ -7942,14 +7942,7 @@
 
         <note type="textual" xml:id="tn_1556-01" target="#tln_1556">
             <label>1556</label>
-            <app><lem>entwist:</lem>] <appPart><rdg type="replace">&swdash;&caret;</rdg>
-                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps"
-                        >warb</siglum></wit></appPart></app>
-        </note>
-
-        <note type="textual" xml:id="tn_1556-02" target="#tln_1556">
-            <label display="all(invisible)">1556</label>
-            <app><lem>female&caret;</lem>] <appPart><rdg type="replace">Maple;</rdg>
+            <app><lem>entwist: the female</lem>] <appPart><rdg type="replace">entwist the Maple;</rdg>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps"
                         >warb</siglum></wit></appPart></app>
         </note>
@@ -8069,7 +8062,7 @@
 
         <note type="textual" xml:id="tn_1586-02" target="#tln_1586">
             <label display="all(invisible)">1586</label>
-            <app><lem>wast</lem>] <appPart><rdg type="replace">was</rdg>
+            <app><lem>wast wont to bee:</lem>] <appPart><rdg type="replace">was wont to bee: touching her Eyes with an Herb.</rdg>
                     <wit><siglum rend="smcaps">knt</siglum></wit></appPart></app>
         </note>
 
@@ -8126,7 +8119,7 @@
 
         <note type="textual" xml:id="tn_1595-01" target="#tln_1595">
             <label>1595</label>
-            <app><lem>eyes</lem>] <appPart><rdg type="replace">eye</rdg>
+            <app><lem>eyes doe</lem>] <appPart><rdg type="replace">eye doth</rdg>
                     <wit><siglum>v1778</siglum>, <siglum rend="smcaps"
                 >rann</siglum></wit></appPart></app>
         </note>
@@ -8134,17 +8127,17 @@
         <note type="textual" xml:id="tn_1595-02" target="#tln_1595">
             <label display="all(invisible)">1595</label>
             <app><lem>doe</lem>] <appPart><rdg type="replace">doth</rdg>
-                    <wit><siglum>Q2</siglum>, <siglum>F1</siglum>,
-                            <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>,
-                            <siglum rend="smcaps">ktly</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1595-03" target="#tln_1595">
             <label display="all(invisible)">1595</label>
-            <app><lem>his</lem>] <appPart><rdg type="replace">this</rdg>
-                    <wit><siglum>Q2</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum
-                            rend="smcaps">cap</siglum>), <siglum>v1793</siglum>, <siglum
-                            rend="smcaps">wh1</siglum></wit></appPart></app>
+            <app><lem>doe loath his</lem>] <appPart><rdg type="replace">doth loath this</rdg>
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)
+                        </wit></appPart>;
+                        <appPart><rdg type="replace">doe loath this</rdg>
+                        <wit><siglum>v1793</siglum>, <siglum rend="smcaps">wh1</siglum></wit>
+                        </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1596-01" target="#tln_1596">
