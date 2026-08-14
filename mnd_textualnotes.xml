@@ -4712,21 +4712,24 @@
 
         <note type="textual" xml:id="tn_0979-01" target="#tln_0979" targetEnd="#tln_0980">
             <label>979–80</label>
-            <app><lem><hi rend="italic">Pease-blossome</hi>&hellip;and <hi rend="italic"
-                        >Mustard-seede</hi>? <anchor type="marker" marker="|"/>
-                    <hi rend="italic">Enter</hi></lem>] <appPart><rdg type="replace"><hi
-                                rend="italic">Enter Pease-blossome</hi>&hellip;<hi rend="italic"
-                                    >Mustard-<anchor type="marker" marker="|"/> seede</hi>, <hi
-                                        rend="italic">and</hi></rdg>
-                        <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps"
-                                >pope2</siglum></wit></appPart></app>
-        </note>
-        <note type="textual" xml:id="tn_0979-03" target="#tln_0979 #tln_0998 #tln_1000">
-            <label>979, 998, 1000</label>
-            <app><lem>Cobweb</lem>] <appPart><rdg type="replace">Cobwed</rdg>
-                    <wit><siglum>F2</siglum></wit></appPart></app>
-        </note>
-        
+            <app><lem><hi rend="italic">Pease-blossome</hi>, <hi rend="italic">Cobweb</hi>, <hi rend="italic">Moth</hi>,
+                    and <hi rend="italic">Mustard-seede</hi>? <anchor type="marker" marker="|"/>
+                    <hi rend="italic">Enter foure Fairyes</hi></lem>] <appPart><rdg type="replace"><hi
+                                rend="italic">Enter</hi>hi> Pease-blossome, Cobweb, Moth, <hi rend="italic">
+                            and</hi> Mustard-<anchor type="marker" marker="|"/> seede, 
+                            <hi rend="italic">and four Fairyes</hi></rdg>
+                        <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>
+                            (&minus;<siglum>F2</siglum>)</wit></appPart>;
+                <appPart><rdg type="replace">SCENE III. <hi rend="italic">Enter</hi> Pease-blossome, Cobweb, Moth,
+                        <hi rend="italic">and</hi> Mustard-<anchor type="marker" marker="|"/> seede, 
+                        <hi rend="italic">and four Fairyes</hi></rdg>
+                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart>;
+                <appPart><rdg type="replace"><hi rend="italic">Enter</hi> Pease-blossome, Cobwed, Moth, <hi rend="italic">and</hi> 
+                            Mustard-<anchor type="marker" marker="|"/> seede, 
+                            <hi rend="italic">and four Fairyes</hi></rdg>
+                        <wit><siglum>F2</siglum></wit></appPart>
+             </app>
+        </note>        
 
         <note type="textual" xml:id="tn_0980" target="#tln_0980">
             <label>980</label>
@@ -4879,6 +4882,12 @@
                     <wit><siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps"
                         >dig</siglum></wit></appPart></app>
         </note>
+        
+        <note type="textual" xml:id="tn_0998" target="#tln_0998">
+            <label>998</label>
+            <app><lem><hi rend="italic">Cobwebbe</hi></lem>] <appPart><rdg type="replace"><hi rend="italic">Cobwed</hi></rdg>
+                    <wit><siglum>F2</siglum></wit></appPart></app>
+        </note>
 
         <note type="textual" xml:id="tn_0999" target="#tln_0999">
             <label>999</label>
@@ -4886,6 +4895,12 @@
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>, <siglum rend="smcaps"
                             >col2</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1000" target="#tln_1000">
+            <label>1000</label>
+            <app><lem><hi rend="italic">Cobwebbe</hi></lem>] <appPart><rdg type="replace"><hi rend="italic">Cobwed</hi></rdg>
+                    <wit><siglum>F2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1006" target="#tln_1006">
