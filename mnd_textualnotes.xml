@@ -8282,7 +8282,7 @@
 
         <note type="textual" xml:id="tn_1608-01" target="#tln_1608">
             <label>1608</label>
-            <app><lem>faire</lem>] <appPart><rdg type="replace">far</rdg>
+            <app><lem>faire prosperitie</lem>] <appPart><rdg type="replace">far posterity</rdg>
                     <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps"
                         >warb</siglum></wit></appPart></app>
         </note>
@@ -8291,7 +8291,8 @@
             <label display="all(invisible)">1608</label>
             <app><lem>prosperitie</lem>] <appPart><rdg type="replace">posterity</rdg>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>
-                            (&minus;<siglum rend="smcaps">cap</siglum>), <siglum>v1793</siglum>,
+                        (&minus;<siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps">warb</siglum>,
+                        <siglum rend="smcaps">cap</siglum>), <siglum>v1793</siglum>,
                             <siglum>v1803</siglum>, <siglum rend="smcaps">sing1</siglum>, <siglum
                             rend="smcaps">knt1</siglum>, <siglum rend="smcaps"
                             >hud1</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>, <siglum
