@@ -3228,10 +3228,10 @@
             <label>675–6</label>
             <app><appPart><rdg type="insert"><hi rend="italic">As part of the song</hi></rdg>
                     <wit><siglum>Q1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
-                            <siglum>v1773</siglum></wit></appPart>; <appPart><rdg type="insert"><hi
-                            rend="italic">separate</hi></rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            <siglum>v1773</siglum></wit></appPart>; 
+                <appPart><rdg type="insert"><hi rend="italic">separate</hi></rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">v1778</siglum>
+                        &sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0675-02" target="#tln_0675">
@@ -3256,31 +3256,38 @@
                     <rdg type="insert">
                         <hi rend="italic">Exeunt Fairies.</hi>
                     </rdg>
-                    <wit><siglum rend="smcaps">cox</siglum> (<hi rend="italic">Faires</hi>), <siglum
-                            rend="smcaps">rowe1</siglum>&plus;</wit>
+                    <wit><siglum rend="smcaps">cox</siglum> (<hi rend="italic">Faires</hi>), 
+                        <siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">han1</siglum>
+                        (&minus;<siglum rend="smcaps">theo</siglum>), <siglum rend="smcaps">cam3</siglum>,
+                        <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">alex</siglum>,
+                        <siglum rend="smcaps">pel11</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;
+                        <siglum rend="smcaps">dig</siglum></wit>
                 </appPart>
             </app>
         </note>
-
+        
         <note type="textual" xml:id="tn_0676-02" target="#tln_0676">
             <label display="all(invisible)">676</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Shee sleepes.</hi></rdg>
-                    <wit><siglum>F1</siglum>, <siglum>F2</siglum>, <siglum rend="smcaps"
-                            >theo</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum
-                            rend="smcaps">john1</siglum>&sigrange;<siglum rend="smcaps"
-                            >nlsn</siglum>, <siglum rend="smcaps">rid</siglum>, <siglum
-                            rend="smcaps">sis</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum
-                            rend="smcaps">and</siglum></wit></appPart>; <appPart><rdgDesc><hi
-                            rend="italic">on</hi>
+            <app><appPart><rdg type="insert"><hi rend="italic">Exeunt Fairies. Shee sleepes.</hi></rdg>
+                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum
+                                rend="smcaps">john1</siglum>&sigrange;<siglum rend="smcaps"
+                                    >nlsn</siglum>, <siglum rend="smcaps">rid</siglum>, 
+                        <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">evns</siglum>, 
+                        <siglum rend="smcaps">and</siglum></wit></appPart>; 
+                <appPart><rdgDesc><hi rend="italic">on</hi>
                         <ref targType="lb" target="#tln_0674">674</ref></rdgDesc>
                     <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">kit1</siglum>,
-                            <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps"
-                        >pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum
-                            rend="smcaps">ban2</siglum>, <siglum rend="smcaps"
-                            >folg2</siglum>&sigrange;<siglum rend="smcaps"
-                    >dig</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">on</hi>
-                        <ref targType="lb" target="#tln_0675">675</ref></rdgDesc>
+                        <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>, 
+                        <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>, 
+                        <siglum rend="smcaps">folg2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>; 
+                <appPart><rdgDesc><hi rend="italic">on</hi> <ref targType="lb" target="#tln_0675">675</ref></rdgDesc>
                     <wit><siglum rend="smcaps">col3</siglum></wit></appPart></app>
+        </note>
+
+        <note type="textual" xml:id="tn_0676-03" target="#tln_0676">
+            <label display="all(invisible)">676</label>
+            <app><appPart><rdg type="insert"><hi rend="italic">Shee sleepes.</hi></rdg>
+                    <wit><siglum>F1</siglum>, <siglum>F2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0677" target="#tln_0677">
