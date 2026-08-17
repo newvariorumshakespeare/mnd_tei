@@ -4362,14 +4362,9 @@
                         <siglum rend="smcaps">dig</siglum></wit></appPart>; 
                 <appPart><rdg type="insert"><hi rend="italic">Enter</hi> Pyramus <hi rend="italic">with the
                             Ass-head</hi></rdg>
-                    <rdgDesc>
-                        <hi rend="italic">after</hi>
-                        <ref targType="lb" target="#tln_0916">916</ref></rdgDesc>
-                    <wit><siglum><hi rend="smcaps">pen</hi>1b</siglum>, <siglum rend="smcaps"
-                            >pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum
-                            rend="smcaps">ban2</siglum>, <siglum rend="smcaps"
-                            >and2</siglum>&sigrange;<siglum rend="smcaps"
-                    >pel3</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;
+                        <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">and2</siglum>&sigrange;
+                        <siglum rend="smcaps">pel3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0916" target="#tln_0916">
@@ -8862,15 +8857,15 @@
 
         <note type="textual" xml:id="tn_1718p01-02" target="#tln_1718p01">
             <label>1718+1</label>
-            <app><lem>Are</lem>] <appPart><rdg type="replace">But are</rdg>
+            <app><lem>Are you sure</lem>] <appPart><rdg type="replace">But are you sure</rdg>
                     <wit><siglum>m<hi rend="smcaps">jenn</hi></siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">cap</siglum>, <siglum
                             rend="smcaps">rann</siglum>, <siglum rend="smcaps">dyce2</siglum>,
                             <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
                         >hud2</siglum>, <siglum rend="smcaps">irv</siglum></wit></appPart>;
-                        <appPart><rdg type="replace"><hi rend="italic">Nay</hi>, are</rdg>
-                    <wit><siglum rend="smcaps">ard1</siglum></wit></appPart>; <appPart><rdg
-                        type="replace"><hi rend="italic">om.</hi></rdg>
+                        <appPart><rdg type="replace"><hi rend="italic">Nay</hi>, are you sure</rdg>
+                    <wit><siglum rend="smcaps">ard1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace"><hi rend="italic">om.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
                             <siglum>v1793</siglum>, <siglum>v1803</siglum>, <siglum rend="smcaps"
                             >knt</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps"
@@ -8880,31 +8875,30 @@
 
         <note type="textual" xml:id="tn_1719-01" target="#tln_1719">
             <label>1719</label>
-            <app><lem>awake</lem>] <appPart><rdg type="replace">well awake</rdg>
+            <app><lem>That we are awake? It seemes to me,</lem>] <appPart>
+                    <rdg type="replace">That we are well awake? It seemes to me,</rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>,
                             <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps"
                             >hud2</siglum>, <siglum rend="smcaps">irv</siglum></wit></appPart>;
-                        <appPart><rdg type="replace">yet awake</rdg>
+                        <appPart><rdg type="replace">That we are yet awake? It seemes to me,</rdg>
                     <wit><siglum>m<hi rend="smcaps">jenn</hi></siglum>, <siglum rend="smcaps"
                             >ktly</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum
                             rend="smcaps">ard1</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">now awake</rdg>
+                        type="replace">That we are now awake? It seemes to me,</rdg>
                     <wit><siglum rend="smcaps">mal</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
-                    >n&amp;h</siglum></wit></appPart>; <appPart><rdg type="replace"><hi
-                            rend="italic">om.</hi></rdg>
+                    >n&amp;h</siglum></wit></appPart>; 
+                <appPart><rdg type="replace"><hi rend="italic">om.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
                             <siglum>v1793</siglum>, <siglum>v1803</siglum>, <siglum rend="smcaps"
                             >knt</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps"
                             >oxf2</siglum>, <siglum rend="smcaps">and1</siglum>, <siglum
-                            rend="smcaps">oxf4</siglum></wit></appPart></app>
+                            rend="smcaps">oxf4</siglum></wit></appPart>;
+                <appPart><rdg type="replace">That we are awake? It seemes so to me,</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum></wit></appPart>         
+            </app>
         </note>
 
-        <note type="textual" xml:id="tn_1719-02" target="#tln_1719">
-            <label display="all(invisible)">1719</label>
-            <app><lem>seemes</lem>] <appPart><rdg type="replace">seems so</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
-        </note>
 
         <note type="textual" xml:id="tn_1720-01" target="#tln_1720">
             <label>1720</label>
