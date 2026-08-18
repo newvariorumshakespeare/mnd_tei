@@ -1190,7 +1190,7 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <date>1897</date>
 </witness>
 
-	<witness xml:id="s_h&amp;m">
+	<witness xml:id="s_handm">
 <siglum rend="smcaps">h&amp;m</siglum>
 <bibl><name type="app">Karl J. Holzknecht</name> &amp; <name type="app">Norman E. McClure</name>. <title level="m">Selected Plays</title>. 4 vols. New York, 1936–41. Vol. 2.</bibl>
 <date>1937</date>
@@ -1202,7 +1202,7 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <date>1937</date>
 </witness>
 
-	<witness xml:id="s_n&amp;h">
+<witness xml:id="s_nandh">
 <siglum rend="smcaps">n&amp;h</siglum>
 <bibl><name type="app">William Allan Neilson</name> &amp; <name type="app">Charles J. Hill</name>. <title level="m">Plays &amp; Poems</title>. Cambridge, Mass.</bibl>
 <date>1942</date>
