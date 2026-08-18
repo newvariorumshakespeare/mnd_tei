@@ -4984,8 +4984,8 @@
 
         <note type="textual" xml:id="tn_1020-01" target="#tln_1020">
             <label>1020</label>
-            <app><lem>louers tongue, bring him silently. Exit.</lem>] 
-                <appPart><rdg type="replace">love’s tongue, bring him silently. Exeunt.</rdg>
+            <app><lem>Ty vp my louers tongue, bring him silently. Exit.</lem>] 
+                <appPart><rdg type="replace">Ty vp my love’s tongue, bring him silently. Exeunt.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >rann</siglum>, <siglum rend="smcaps">mal</siglum> (<hi rend="italic"
                             >text</hi>; lover’s <hi rend="italic">in errata</hi>),
@@ -5002,8 +5002,8 @@
 
         <note type="textual" xml:id="tn_1020-02" target="#tln_1020">
             <label display="all(invisible)">1020</label>
-            <app><lem>tongue, bring him silently. Exit.</lem>] 
-                <appPart><rdg type="replace">tongue, and bring him silently. Exeunt.</rdg>
+            <app><lem>Ty vp my louers tongue, bring him silently. Exit.</lem>] 
+                <appPart><rdg type="replace">Ty vp my louers tongue, and bring him silently. Exeunt.</rdg>
                     <wit><siglum rend="smcaps">col2</siglum></wit></appPart></app>
         </note>
 
