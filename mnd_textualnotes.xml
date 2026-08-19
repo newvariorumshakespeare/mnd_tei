@@ -9331,10 +9331,10 @@
 
         <note type="textual" xml:id="tn_1802" target="#tln_1802">
             <label>1802</label>
-            <app><lem>That is the&hellip;The</lem>] <appPart><rdg type="replace">The&hellip;While
-                        the</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum></wit></appPart></app>
+            <app><lem>That is the mad man. The</lem>] <appPart><rdg type="replace">The mad man. While the</rdg>
+                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum></wit>
+            </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1804" target="#tln_1804">
@@ -9897,12 +9897,12 @@
             <app><lem><hi rend="italic">Enter the Prologue.</hi></lem>] <appPart><rdg
                             type="replace"><hi rend="italic">Enter the Prologue. Quince.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe</siglum>, <siglum
-                            rend="smcaps">theo</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
-                            rend="smcaps">glo</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum
-                            rend="smcaps">irv</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >rid</siglum>, <siglum rend="smcaps">and2</siglum>, <siglum
-                            rend="smcaps">folg2</siglum>) (<hi rend="italic"
-                    >subst.</hi>)</wit></appPart></app>
+                            rend="smcaps">theo</siglum>, <siglum rend="smcaps">wh</siglum>, 
+                        <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, 
+                        <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">irv</siglum>&plus; 
+                        (&minus;<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">and2</siglum>, 
+                        <siglum rend="smcaps">folg2</siglum>) (<hi rend="italic">subst.</hi>)</wit></appPart>
+            </app>
         </note>
         
         <note type="textual" xml:id="tn_1905-02" target="#tln_1905">
