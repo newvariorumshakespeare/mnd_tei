@@ -10047,7 +10047,7 @@
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>,
                             <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">dyce2</siglum>,
                             <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps"
-                                >hud2</siglum>, <siglum rend="smcaps">oxf</siglum><siglum rend="smcaps">cam3</siglum>
+                                >hud2</siglum>, <siglum rend="smcaps">cam3</siglum>
                         (<hi rend="italic">subst.</hi>)</wit></appPart></app>
         </note>
 
@@ -10057,8 +10057,8 @@
                     <wit><siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps"
                             >hud1</siglum>, <siglum rend="smcaps">sing2</siglum>&sigrange;<siglum rend="smcaps"
                                 >dyce1</siglum>, <siglum
-                            rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum> (<hi rend="italic"
-                    >subst.</hi>)</wit></appPart></app>
+                            rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum> 
+                        (<hi rend="italic">subst.</hi>), <siglum rend="smcaps">oxf</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1926" target="#tln_1926">
