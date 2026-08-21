@@ -10418,7 +10418,7 @@
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1996-01" target="#tln_1996" targetEnd="#tln_1997">
+        <note type="textual" xml:id="tn_1996-01" target="#tln_1996">
             <label>1996–7</label>
             <app>
                 <appPart>
@@ -10428,7 +10428,7 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_1996-02" target="#tln_1996" targetEnd="#tln_1997">
+        <note type="textual" xml:id="tn_1996-02" target="#tln_1996">
             <label>1996–7</label>
             <app><lem><hi rend="italic">Thysby</hi>?&hellip;thinke.</lem>] <appPart><rdgDesc><hi
                             rend="italic">One verse line</hi></rdgDesc>
