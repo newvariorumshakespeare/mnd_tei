@@ -10342,8 +10342,8 @@
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps"
                     >rowe3</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic"
                         >prose</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">pope1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit>
+                    </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1987" target="#tln_1987">
@@ -10369,16 +10369,19 @@
                         <note place="inline">(<hi rend="italic">as a turnunder on</hi>
                             <ref targType="lb" target="#tln_1990">1990</ref>)</note>,
                             <siglum>F1</siglum>&sigrange;<siglum rend="smcaps"
-                    >rowe3</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">on</hi>
+                    >rowe3</siglum></wit></appPart>; 
+                <appPart><rdgDesc><hi rend="italic">SD on</hi>
                         <ref targType="lb" target="#tln_1990">1990</ref>
                         <hi rend="italic">after</hi> you</rdgDesc>
                     <wit><siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">oxf2</siglum>,
                             <siglum rend="smcaps">oxf4</siglum></wit></appPart>;
-                            <appPart><rdgDesc><hi rend="italic">after</hi>
+                            <appPart><rdgDesc><hi rend="italic">SD after</hi>
                         <ref targType="lb" target="#tln_1990">1990</ref>
                         <hi rend="italic">on separate line</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">pope1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                                <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">alex</siglum>,
+                                    <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">cam4</siglum>,
+                                    <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">dig</siglum></wit>
+                            </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1990" target="#tln_1990">
@@ -10399,8 +10402,8 @@
             <app><lem>now againe</lem>] <appPart><rdg type="lem">&swdash;</rdg>
                     <wit><siglum>Qq</siglum>, <siglum rend="smcaps">rid</siglum></wit></appPart>;
                         <appPart><rdg type="replace">vp in thee</rdg>
-                    <wit><siglum>F1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            <wit><siglum>F1</siglum>&plus; (&minus;<siglum rend="smcaps">rid</siglum>)</wit>
+                        </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1995" target="#tln_1995" targetEnd="#tln_1996">
