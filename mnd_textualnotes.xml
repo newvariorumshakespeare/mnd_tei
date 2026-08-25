@@ -10567,20 +10567,19 @@
             <label>2020</label>
             <app><lem>beasts, in a man</lem>] <appPart><rdg type="replace">beasts in, a man</rdg>
                     <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps">rowe3</siglum>,
-                        <siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>, <siglum>v1821</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">hud1</siglum>,  <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">beasts in a moon</rdg>
-                            <wit><ref targType="bibl" target="#b_anon0011">
+                        <siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>, <siglum>v1821</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">hud1</siglum>,  <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>; <appPart><rdg type="replace">beasts in a moon</rdg>
+                            <ref targType="bibl" target="#b_anon0011">
                                     <name type="app">anon.</name></ref>
                                 <hi rend="italic">in</hi>
-                                <siglum>m<hi rend="smcaps">theo</hi>1</siglum>
+                            <wit><siglum>m<hi rend="smcaps">theo</hi>1</siglum>
                                 <hi rend="italic">conj.</hi>,                         
                         <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps"
                         >warb</siglum></wit></appPart>;
                 <appPart><rdg type="replace">beasts in, a moon</rdg>
-                    <wit><ref targType="bibl" target="#b_anon0011">
+                    <ref targType="bibl" target="#b_anon0011">
                             <name type="app">anon.</name></ref>
                         <hi rend="italic">in</hi>
-                        <siglum>m<hi rend="smcaps">theo</hi>1</siglum>
+                        <wit><siglum>m<hi rend="smcaps">theo</hi>1</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han1</siglum>, 
                         <siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum>rann</siglum>, <siglum>v1793</siglum>, <siglum>v1803</siglum>, <siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">cam3</siglum> (<hi rend="italic">marked with an obelus</hi> [†] <hi rend="italic">as a corrupt passage</hi>), <siglum rend="smcaps">sis</siglum></wit></appPart>
             </app>
