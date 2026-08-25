@@ -10330,18 +10330,18 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_1986" target="#tln_1986 #tln_1990" targetEnd="#tln_1988">
+        <note type="textual" xml:id="tn_1986" target="#tln_1986i">
             <label>1986–8, 1990</label>
             <app><appPart><rdgDesc><hi rend="italic">Four verse lines ending</hi>
                         is&hellip;spy&hellip;fall&hellip;comes.</rdgDesc>
-                    <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic"
-                            >as</hi>
+                    <wit><siglum>Q1</siglum></wit></appPart>; 
+                <appPart><rdgDesc><hi rend="italic">as</hi>
                         <siglum>Q1</siglum>
                         <hi rend="italic">except</hi> 1986 <hi rend="italic">ending</hi>
                         me,</rdgDesc>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps"
-                    >rowe3</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic"
-                        >prose</hi></rdgDesc>
+                    >rowe3</siglum></wit></appPart>; 
+                <appPart><rdgDesc><hi rend="italic">prose</hi></rdgDesc>
                         <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit>
                     </appPart></app>
         </note>
