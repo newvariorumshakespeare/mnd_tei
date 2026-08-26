@@ -10747,7 +10747,7 @@
                     <wit><siglum rend="smcaps">sis</siglum></wit></appPart>;                   
                 <appPart><rdg type="replace">Deme. Why, All these should be in the lanthorne: for they are in the Moone. But silence: here comes Thisby.</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">theo1</siglum>&sigrange;
-                        <siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum></wit>, <siglum rend="smcaps">knt3</siglum></appPart>;
+                        <siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart>;
                 <appPart><rdg type="replace">Deme. Why, All these should be in the lanthorne: for all these are in the Moone. But silence: here comes Thisby.</rdg>
                     <wit><siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">cam</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>&sigrange;<siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
@@ -10862,18 +10862,16 @@
 
         <note type="textual" xml:id="tn_2071-02" target="#tln_2071" targetEnd="#tln_2072">
             <label>2071–2</label>
-            <app><lem>then came&hellip;so&hellip;Lyon vanisht</lem>] <appPart><rdg type="replace">so
-                        comes&hellip;so&hellip;moon vanishes</rdg>
-                    <wit><siglum>v1785</siglum></wit></appPart>; <appPart><rdg type="replace">so
-                        comes&hellip;then&hellip;moon vanishes</rdg>
-                    <wit><ref targType="bibl" target="#b_farr0001"><name type="app"
-                            >farmer</name></ref>
+            <app><lem>And then came <hi rend="italic">Pyramus</hi>. <hi rend="italic">Lys.</hi> And so the Lyon vanisht</lem>] <appPart><rdg type="replace">And so comes <hi rend="italic">Pyramus</hi>. <hi rend="italic">Lys.</hi> And so the moon vanishes</rdg>
+                    <wit><siglum>v1785</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">And so comes <hi rend="italic">Pyramus</hi>. <hi rend="italic">Lys.</hi> And then the moon vanishes</rdg>
+                    <wit><ref targType="bibl" target="#b_farr0001"><name type="app">farmer</name></ref>
                         <hi rend="italic">in</hi>
                         <siglum>v1785</siglum>
                         <hi rend="italic">conj.</hi>, <siglum>v1793</siglum>&sigrange;<siglum
-                            rend="smcaps">sing1</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">then came&hellip;so&hellip;moon vanish’d</rdg>
-                    <wit><siglum rend="smcaps">hud1</siglum></wit></appPart></app>
+                            rend="smcaps">sing1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">And then came <hi rend="italic">Pyramus</hi>. <hi rend="italic">Lys.</hi> And so the moon vanish’d</rdg>
+                   <wit><siglum rend="smcaps">hud1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_2073" target="#tln_2073">
@@ -10899,15 +10897,21 @@
                             rend="smcaps">and</siglum></wit></appPart>; 
                 <appPart><rdg type="replace"
                         >streames</rdg>
-                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">sing1</siglum>, <siglum
-                            rend="smcaps">col1</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
-                        >col4</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart>;
+                    <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">col2</siglum>, 
+                        <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">dyce1</siglum>, 
+                        <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">ktly</siglum>, 
+                        <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart>;
                         <appPart><rdg type="replace">gleams</rdg>
                     <wit><siglum rend="smcaps">knt1</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">sing2</siglum>, <siglum
                             rend="smcaps">stau</siglum> (<hi rend="italic">text</hi>; streams <hi
-                            rend="italic">in addenda</hi>), <siglum rend="smcaps">wh1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                                rend="italic">in addenda</hi>), <siglum rend="smcaps">wh1</siglum>&sigrange;
+                        <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">glo</siglum>&sigrange;
+                        <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">hud2</siglum>&sigrange;
+                        <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;
+                        <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;
+                        <siglum rend="smcaps">dig</siglum></wit>
+                        </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_2077" target="#tln_2077">
@@ -11011,12 +11015,16 @@
                             >hal</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps"
                             >rltr</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum
                             rend="smcaps">oxf3</siglum>, <siglum rend="smcaps"
-                    >and</siglum></wit></appPart>; <appPart><rdg type="replace">wild</rdg>
+                    >and</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">wild</rdg>
                     <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps"
-                        >rowe</siglum></wit></appPart>; <appPart><rdg type="replace">vile</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>
-                        <hi rend="italic">etc.</hi>
-                    </wit></appPart></app>
+                        >rowe</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">vile</rdg>
+                    <wit><siglum rend="smcaps">pope1</siglum>&plus;(&minus;<siglum rend="smcaps">hal</siglum>, 
+                        <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">rltr</siglum>, 
+                        <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">oxf3</siglum>, <siglum rend="smcaps">and</siglum>)
+                    </wit>
+                </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_2090-02" target="#tln_2090">
@@ -11120,10 +11128,12 @@
 
         <note type="textual" xml:id="tn_2105-01" target="#tln_2105">
             <label>2105</label>
-            <app><lem>chance Moone-shine is gone before?</lem>] <appPart><rdg type="replace">chance the Moone-shine is gone before?</rdg>
+            <app><lem>chance Moone-shine is gone before?</lem>] <appPart>
+                    <rdg type="replace">chance the Moone-shine is gone before?</rdg>
                     <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart>; 
                 <appPart><rdg type="replace">chance the Moone-shine is gone before</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">rann</siglum></wit></appPart>;
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>
+                        (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart>;
                 <appPart><rdg type="replace">chance Moone-shine is gone before</rdg>
                     <wit><siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">dig</siglum>(&minus;<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">and2</siglum>)</wit></appPart></app>
         </note>
@@ -11196,13 +11206,13 @@
 
         <note type="textual" xml:id="tn_2113-02" target="#tln_2113" targetEnd="#tln_2113p01">
             <label display="all(invisible)">2113–13+1</label>
-            <app><lem>warnd</lem>] <appPart><rdg type="replace">warnd</rdg>
-                    <wit><siglum>Qq</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum
-                            rend="smcaps">kit1</siglum>, <siglum rend="smcaps"
-                    >and2</siglum></wit></appPart>; 
-                <appPart><rdg type="replace"
-                        >warrant</rdg>
-                    <wit><siglum rend="smcaps">col1</siglum>&sigrange;<siglum>hal</siglum>, <siglum rend="smcaps">dyce1</siglum>&sigrange;<siglum>rid</siglum> (&minus;<siglum rend="smcaps">knt3</siglum>), <siglum rend="smcaps">alex</siglum>&sigrange;<siglum>dig</siglum></wit></appPart></app>
+            <app><lem>warnd</lem>]  
+                <appPart><rdg type="replace">warrant</rdg>
+                    <wit><siglum rend="smcaps">col1</siglum>&sigrange;<siglum>hal</siglum>, 
+                        <siglum rend="smcaps">dyce1</siglum>&sigrange;<siglum>rid</siglum> 
+                        (&minus;<siglum rend="smcaps">knt3</siglum>), 
+                        <siglum rend="smcaps">alex</siglum>&sigrange;<siglum>dig</siglum></wit>
+                </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_2115" target="#tln_2115">
@@ -11210,8 +11220,8 @@
             <app><lem>meanes</lem>] <appPart><rdg type="replace">moans</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">and</hi>
-                        <ref targType="bibl" target="#b_anon0011"><name type="app"
-                            >anon.</name></ref>
+                        <ref targType="bibl" target="#b_anon0011">
+                            <name type="app">anon.</name></ref>
                         <hi rend="italic">in</hi>
                         <siglum>m<hi rend="smcaps">theo</hi>1</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
