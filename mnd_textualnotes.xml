@@ -10746,7 +10746,8 @@
                 <appPart><rdg type="replace">Deme. Why All these should be in the lanthorne: for all these are in the Moone. But silence: here comes Thisby.</rdg>
                     <wit><siglum rend="smcaps">sis</siglum></wit></appPart>;                   
                 <appPart><rdg type="replace">Deme. Why, All these should be in the lanthorne: for they are in the Moone. But silence: here comes Thisby.</rdg>
-                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">theo1</siglum>&sigrange;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum></wit></appPart>;
+                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">theo1</siglum>&sigrange;
+                        <siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">wh</siglum></wit>, <siglum rend="smcaps">knt3</siglum></appPart>;
                 <appPart><rdg type="replace">Deme. Why, All these should be in the lanthorne: for all these are in the Moone. But silence: here comes Thisby.</rdg>
                     <wit><siglum rend="smcaps">col</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">cam</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">irv</siglum>&sigrange;<siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
@@ -10775,9 +10776,9 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_2069" target="#tln_2069">
+        <note type="textual" xml:id="tn_2069" target="tln_2069f">
             <label>2069</label>
-            <app><lem>a</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>with a</lem>] <appPart><rdg type="replace">with</rdg><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
 
