@@ -1110,21 +1110,22 @@
 
         <note type="textual" xml:id="tn_0296-01" target="#tln_0296">
             <label>296</label>
-            <app><lem>rest&caret;</lem>] <appPart><rdg type="replace">&swdash;,</rdg>
-                    <wit><siglum rend="smcaps">cox</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">&swdash;;</rdg>
+            <app><lem>rest&caret;</lem>] <appPart><rdg type="replace">&swdash;;</rdg>
                     <wit><siglum>m<hi rend="smcaps">theo</hi>1</siglum>
                         <hi rend="italic">and</hi>
                         <siglum>m<hi rend="smcaps">tby</hi>2</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
-                            >theo</siglum>, <siglum rend="smcaps"
-                                >warb</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum></wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, 
+                        <siglum rend="smcaps">theo</siglum>, 
+                        <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum>, 
+                        <siglum rend="smcaps">v1773</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0296-02" target="#tln_0296">
             <label display="all(invisible)">296</label>
-            <app><lem>rest yet,</lem>] <appPart><rdg type="replace">rest; yet</rdg>
-                    <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps">han1</siglum>,
+            <app><lem>rest yet,</lem>] <appPart><rdg type="replace">rest, yet</rdg>
+                    <wit><siglum rend="smcaps">cox</siglum></wit></appPart>;          
+                <appPart><rdg type="replace">rest; yet</rdg>
+                    <wit><siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>,
                         <siglum rend="smcaps">dyce1</siglum> (<hi rend="italic">text</hi>; rest&caret;
@@ -1357,20 +1358,20 @@
         <note type="textual" xml:id="tn_0356-01" target="#tln_0356" targetEnd="#tln_0357">
             <label>356-7</label>
             <app><lem>perfit</lem>] <appPart><rdg type="replace">perfect</rdg>
-                    <wit><siglum>cap</siglum>, <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">kit1</siglum>, 
+                    <wit><siglum>cap</siglum>, <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">kit1</siglum>, 
                         <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>), <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0356-02" target="#tln_0356" targetEnd="#tln_0357">
             <label>356–7</label>
             <app><lem>colour beard, your perfit</lem>] <appPart><rdg type="replace">colour'd beard, your perfect</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>, <siglum rend="smcaps">knt1</siglum>, <siglum
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>, <siglum rend="smcaps">knt</siglum>, <siglum
                             rend="smcaps">wh1</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0363" target="#tln_0363">
             <label>363</label>
-            <app><lem>will we</lem>] <appPart><rdg type="replace">we will</rdg>
+            <app><lem>will wee</lem>] <appPart><rdg type="replace">we will</rdg>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
                             <siglum>v1773</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum
                             rend="smcaps">wh1</siglum>, <siglum rend="smcaps"
@@ -1415,11 +1416,13 @@
         <note type="textual" xml:id="tn_0368-04" target="#tln_0368" targetEnd="#tln_0369">
             <label display="all(invisible)">368–9</label>
             <app><lem>most obscenely, and coragiously. Take paines, bee perfit: adieu</lem>] <appPart><rdg type="replace">most obscenely, and coragiously. Take paines, bee perfect: adieu</rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum
-                            rend="smcaps">stau</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
-                                rend="smcaps">wh2</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps">ard1</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps"
-                                    >pel1</siglum>, <siglum rend="smcaps">evns</siglum>), <siglum rend="smcaps">oxf4</siglum>, 
-                        <siglum rend="smcaps">dig</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">stau</siglum>,
+                        <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, 
+                        <siglum rend="smcaps">wh2</siglum>, <siglum rend="smcaps">irv</siglum>, 
+                        <siglum rend="smcaps">ard1</siglum>&sigrange;
+                        <siglum rend="smcaps">ban2</siglum> (&minus;<siglum rend="smcaps">kit1</siglum>, 
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>), 
+                        <siglum rend="smcaps">oxf4</siglum>, <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0370" target="#tln_0370">
