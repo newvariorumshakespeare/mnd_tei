@@ -681,9 +681,10 @@
 
         <note type="textual" xml:id="tn_0199-01" target="#tln_0199">
             <label>199</label>
-            <app><lem>Your words I catch, faire Hermia, ere I goe,</lem>] <appPart><rdg type="replace">Your words Ide catch, faire Hermia, ere I goe,</rdg>
+            <app><lem>Your words I catch, faire Hermia, ere I goe,</lem>] <appPart><rdg type="replace">Your words Ide catch, faire 
+                        <hi rend="italic">Hermia</hi>, ere I goe,</rdg>
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps" >stau</siglum></wit></appPart>; 
-                <appPart><rdg type="replace">Your’s would I catch, faire Hermia, ere I goe;</rdg>
+                <appPart><rdg type="replace">Your’s would I catch, faire <hi rend="italic">Hermia</hi>, ere I goe;</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han1</siglum>, <siglum
                             rend="smcaps">warb</siglum>, <siglum rend="smcaps"
@@ -696,10 +697,10 @@
                         <siglum rend="smcaps">ban2</siglum>, <siglum rend="smcaps">dig</siglum>
                         </wit>   
                 </appPart>
-                <appPart><rdg type="replace">Your words Ide catch, faire Hermia, ere I goe;</rdg>
+                <appPart><rdg type="replace">Your words Ide catch, faire <hi rend="italic">Hermia</hi>, ere I goe;</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >theo2</siglum>, <siglum rend="smcaps">theo4</siglum>, <siglum rend="smcaps">mal</siglum></wit></appPart>;
-                <appPart><rdg type="replace">Your's would I catch, faire Hermia! ere I goe,</rdg>
+                <appPart><rdg type="replace">Your's would I catch, faire <hi rend="italic">Hermia</hi>! ere I goe,</rdg>
                     <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps"
                             >irv</siglum></wit>
                 </appPart> 
