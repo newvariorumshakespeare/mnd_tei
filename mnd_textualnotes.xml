@@ -4718,20 +4718,18 @@
 
         <note type="textual" xml:id="tn_0979-01" target="#tln_0979" targetEnd="#tln_0980">
             <label>979–80</label>
-            <app><lem><hi rend="italic">Pease-blossome</hi>, <hi rend="italic">Cobweb</hi>, <hi rend="italic">Moth</hi>,
-                    and <hi rend="italic">Mustard-seede</hi>? 
-                    <hi rend="italic">Enter foure Fairyes</hi></lem>] <appPart><rdg type="replace">
+            <app><lem>Pease-blossome, Cobweb, Moth, and Mustard-seede? Enter foure Fairyes</lem>] <appPart><rdg type="replace">
                             <hi rend="italic">Enter Pease-blossome</hi>, <hi rend="italic">Cobweb</hi>, 
-                            <hi rend="italic">Moth</hi>, and <hi rend="italic">Mustard-<anchor type="marker" marker="|"/>
-                                seede</hi>, <hi rend="italic">and four Fairyes</hi></rdg>
+                            <hi rend="italic">Moth</hi>, and <hi rend="italic">Mustard-<anchor type="marker" marker="|"/>seede</hi>, 
+                        <hi rend="italic">and four Fairyes</hi></rdg>
                         <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>
                             (&minus;<siglum>F2</siglum>)</wit></appPart>;
                 <appPart><rdg type="replace">SCENE III. <hi rend="italic">Enter Pease-blossome</hi>, <hi rend="italic">Cobweb</hi>, 
-                        <hi rend="italic">Moth</hi>, and <hi rend="italic">Mustard-<anchor type="marker" marker="|"/> seede</hi>, 
+                        <hi rend="italic">Moth</hi>, and <hi rend="italic">Mustard-<anchor type="marker" marker="|"/>seede</hi>, 
                         <hi rend="italic">and four Fairyes</hi></rdg>
                     <wit><siglum rend="smcaps">pope</siglum></wit></appPart>;
                 <appPart><rdg type="replace"><hi rend="italic">Enter Pease-blossome</hi>, <hi rend="italic">Cobweb</hi>, 
-                            <hi rend="italic">Moth</hi>, and <hi rend="italic">Mustard-<anchor type="marker" marker="|"/> seede</hi>,
+                            <hi rend="italic">Moth</hi>, and <hi rend="italic">Mustard-<anchor type="marker" marker="|"/>seede</hi>,
                             <hi rend="italic">and four Fairyes</hi></rdg>
                         <wit><siglum>F2</siglum></wit></appPart>
              </app>
