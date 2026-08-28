@@ -4719,7 +4719,7 @@
         <note type="textual" xml:id="tn_0979-01" target="#tln_0979" targetEnd="#tln_0980">
             <label>979–80</label>
             <app><lem><hi rend="italic">Pease-blossome</hi>, <hi rend="italic">Cobweb</hi>, <hi rend="italic">Moth</hi>,
-                    and <hi rend="italic">Mustard-seede</hi>? <anchor type="marker" marker="|"/>
+                    and <hi rend="italic">Mustard-seede</hi>? 
                     <hi rend="italic">Enter foure Fairyes</hi></lem>] <appPart><rdg type="replace">
                             <hi rend="italic">Enter Pease-blossome</hi>, <hi rend="italic">Cobweb</hi>, 
                             <hi rend="italic">Moth</hi>, and <hi rend="italic">Mustard-<anchor type="marker" marker="|"/>
@@ -6171,7 +6171,7 @@
                         >ban2</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1286" target="#tln_1286" targetEnd="#tln_1288">
+        <note type="textual" xml:id="tn_1286" target="#tln_1286">
             <label>1286–8</label>
             <app><appPart><rdgDesc><hi rend="italic">three lines ending</hi>
                         Ethiope&hellip;loose&hellip;follow</rdgDesc>
