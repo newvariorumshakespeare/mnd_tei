@@ -8168,7 +8168,8 @@
         <note type="textual" xml:id="tn_1596-02" target="#tln_1596">
             <label display="all(invisible)">1596</label>
             <app><lem>head.</lem>] <appPart><rdg type="replace">head. 
-                        <anchor type="marker" marker="|"/><hi rend="italic">he puls off his asses head</hi></rdg>
+                        <anchor type="marker" marker="|"/>
+                        he puls off his asses head</rdg>
                     <wit><siglum rend="smcaps">cox</siglum></wit></appPart>; 
                 <appPart><rdgDesc><hi rend="italic">on</hi>
                         <ref targType="lb" target="#tln_1602">1602</ref></rdgDesc>
