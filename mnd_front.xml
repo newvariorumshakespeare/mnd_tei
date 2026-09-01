@@ -838,6 +838,11 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <date>1924</date>
 </witness>
 
+<witness xml:id="s_cam3a" corresp="#s_cam3" display="book(suppress)">
+<siglum rend="smcaps">cam3a</siglum>
+</witness>
+	
+
 <witness xml:id="s_rid">
 <siglum rend="smcaps">rid</siglum>
 <bibl><name type="app">Maurice R. Ridley</name>. <title level="m">MND</title>. New Temple Sh.</bibl>
@@ -937,7 +942,7 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 </witness>
 	
 <witness xml:id="s_oxf" corresp="#s_oxf1 #s_oxf2" display="book(suppress)">
-		<siglum rend="smcaps">oxf</siglum>
+<siglum rend="smcaps">oxf</siglum>
 	</witness>
 
 </listWit>
