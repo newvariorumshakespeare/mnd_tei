@@ -2440,7 +2440,7 @@
 
         <note type="textual" xml:id="tn_0552-03" target="#tln_0552">
             <label display="all(invisible)">552</label>
-            <app><lem>rod</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>roũd</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps"
                     >rowe3</siglum></wit></appPart></app>
         </note>
@@ -6906,7 +6906,7 @@
                             (<hi rend="italic">subst.</hi>)</wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1443-02" target="#tln_1443 #tln_1445 #tln_1447">
+        <note type="textual" xml:id="tn_1443-02" target="#tln_1443">
             <label>1443, 1445, 1447</label>
             <app><lem><hi rend="italic">Rob.</hi></lem>] <appPart><rdg type="replace">ROBIN <hi
                             rend="italic">shifting place</hi></rdg>
@@ -6929,11 +6929,11 @@
 
         <note type="textual" xml:id="tn_1445-01" target="#tln_1445">
             <label>1445</label>
-            <app><lem><hi rend="italic">Rob.</hi></lem>] <appPart><rdg type="replace"><hi
-                            rend="italic">A voice as of Demetrius.</hi></rdg>
+            <app><lem><hi rend="italic">Rob.</hi></lem>]<appPart><rdg type="replace">ROBIN <hi rend="italic">shifting place</hi>
+            </rdg><wit><siglum rend="smcaps">oxf2</siglum></wit></appPart>;
+                <appPart><rdg type="replace"><hi rend="italic">A voice as of Demetrius.</hi></rdg>
                     <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">folg2</siglum>,
-                            <siglum rend="smcaps">dig</siglum> (<hi rend="italic"
-                    >subst.</hi>)</wit></appPart></app>
+                            <siglum rend="smcaps">dig</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1445-02" target="#tln_1445">
@@ -6951,6 +6951,16 @@
                 </appPart>
             </app>
         </note>
+        
+        <note type="textual" xml:id="tn_1447" target="#tln_1447">
+            <label>1447</label>
+            <app><lem><hi rend="italic">Rob.</hi></lem>] <appPart><rdg type="replace">ROBIN <hi
+                            rend="italic">shifting place</hi></rdg>
+                    <wit><siglum rend="smcaps">oxf2</siglum></wit>
+            </appPart>
+            </app>
+        </note>
+            
         
         <note type="textual" xml:id="tn_1449-01" target="#tln_1449">
             <label>1449</label>
@@ -6976,8 +6986,8 @@
         </note>
 
         <note type="textual" xml:id="tn_1450-01"
-            target="#tln_1450 #tln_1455 #tln_1456 #tln_1466 #tln_1471">
-            <label>1450, 1455, 1456, 1466, 1471</label>
+            target="#tln_1450">
+            <label>1450</label>
             <app><lem><hi rend="italic">Rob.</hi></lem>] <appPart><rdg type="replace">ROBIN <hi
                             rend="italic">shifting place</hi></rdg>
                     <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
@@ -6999,19 +7009,23 @@
                     <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps"
                     >rowe3</siglum></wit></appPart></app>
         </note>
-
-        <note type="textual" xml:id="tn_1456-01" target="#tln_1456">
+        
+        
+         <note type="textual" xml:id="tn_1456-01" target="#tln_1456">
             <label>1456</label>
             <app><lem><hi rend="italic">Ro.</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">A voice as of Lysander </hi></rdg>
                     <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">folg2</siglum>,
-                            <siglum rend="smcaps">dig</siglum> (<hi rend="italic"
-                    >subst.</hi>)</wit></appPart></app>
+                            <siglum rend="smcaps">dig</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>;
+                <appPart><rdg type="replace">ROBIN <hi rend="italic">shifting place</hi></rdg>
+                    <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
+                            >oxf4</siglum></wit></appPart>
+          </app>
         </note>
 
         <note type="textual" xml:id="tn_1456-02" target="#tln_1456">
             <label display="all(invisible)">1456</label>
-            <app><lem><hi rend="italic">Exet.</hi></lem>] <appPart><rdg type="replace"><hi
+            <app><lem><hi rend="italic">Exeũt</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">Exit.</hi></rdg>
                     <wit><siglum>Ff</siglum></wit></appPart>; <appPart><rdg type="replace"><hi
                             rend="italic">Demetrius follows the voice</hi></rdg>
@@ -7125,6 +7139,15 @@
             <app><lem>Ho, ho, ho: Coward, why comst</lem>] <appPart><rdg type="replace">Ho, ho, ho, ho: Coward, why comest</rdg>
                     <wit><siglum rend="smcaps">hud2</siglum></wit></appPart></app>
         </note>
+        
+        <note type="textual" xml:id="tn_1466-04" target="##tln_1466">
+            <label>1466</label>
+            <app><lem><hi rend="italic">Robi.</hi></lem>] <appPart><rdg type="replace">ROBIN <hi
+                            rend="italic">shifting place</hi></rdg>
+                    <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
+                            >oxf4</siglum></wit></appPart></app>
+        </note>
+        
 
         <note type="textual" xml:id="tn_1470" target="#tln_1470">
             <label>1470</label>
@@ -7133,12 +7156,21 @@
                             (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1471" target="#tln_1471">
+        <note type="textual" xml:id="tn_1471-01" target="#tln_1471">
             <label>1471</label>
             <app><lem>Come</lem>] <appPart><rdg type="replace">Come thou</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum></wit></appPart></app>
         </note>
+        
+        <note type="textual" xml:id="tn_1471-02" target="#tln_1471">
+            <label>1471</label>
+            <app><lem><hi rend="italic">Rob.</hi></lem>] <appPart><rdg type="replace">ROBIN <hi
+                            rend="italic">shifting place</hi></rdg>
+                    <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
+                            >oxf4</siglum></wit></appPart></app>
+        </note>
+        
 
         <note type="textual" xml:id="tn_1472" target="#tln_1472">
             <label>1472</label>
@@ -7198,7 +7230,7 @@
                             >cam1</siglum>&sigrange;<siglum rend="smcaps">glo</siglum>, <siglum
                             rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps">irv</siglum>,
                             <siglum rend="smcaps">rltr</siglum>, <siglum rend="smcaps"
-                            >cam3</siglum>&sigrange;<siglum rend="smcaps">pel2</siglum>, <siglum
+                            >cam3</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum
                             rend="smcaps">cam4</siglum>&sigrange;<siglum rend="smcaps"
                         >and2</siglum>, <siglum rend="smcaps">oxf4</siglum>&sigrange;<siglum
                             rend="smcaps">dig</siglum></wit></appPart>; 
