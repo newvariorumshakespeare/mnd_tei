@@ -3340,7 +3340,7 @@
             <app>
                 <appPart>
                     <rdgDesc>
-                        <hi rend="italic">Exit marked by</hi>
+                        <hi rend="italic">Exit</hi>
                     </rdgDesc>
                     <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps"
                         >rowe1</siglum>&plus;</wit>
@@ -3595,7 +3595,7 @@
             <app>
                 <appPart>
                     <rdgDesc>
-                        <hi rend="italic">Exit marked by</hi>
+                        <hi rend="italic">Exit</hi>
                     </rdgDesc>
                     <wit><siglum>F1</siglum>&plus;</wit>
                 </appPart>
@@ -4300,7 +4300,7 @@
             <app>
                 <appPart>
                     <rdgDesc>
-                        <hi rend="italic">Exit marked by</hi>
+                        <hi rend="italic">Exit</hi>
                     </rdgDesc>
                     <wit><siglum rend="smcaps">cox</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>,
@@ -4525,7 +4525,7 @@
             <app>
                 <appPart>
                     <rdgDesc>
-                        <hi rend="italic">Exit marked by</hi>
+                        <hi rend="italic">Exit</hi>
                     </rdgDesc>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">col</siglum>,
                             <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">wh1</siglum>,
@@ -6834,7 +6834,7 @@
             <app>
                 <appPart>
                     <rdgDesc>
-                        <hi rend="italic">Exit marked by</hi>
+                        <hi rend="italic">Exit</hi>
                     </rdgDesc>
                     <wit><siglum rend="smcaps">rowe1</siglum>&plus;</wit>
                 </appPart>
@@ -6938,7 +6938,7 @@
             <app>
                 <appPart>
                     <rdgDesc>
-                        <hi rend="italic">Exit marked by</hi>
+                        <hi rend="italic">Exit</hi>
                     </rdgDesc>
                     <wit><siglum rend="smcaps">set</siglum>, <siglum>m<hi rend="smcaps"
                             >tby</hi>2</siglum>
@@ -9071,7 +9071,7 @@
             <app>
                 <appPart>
                     <rdgDesc>
-                        <hi rend="italic">Exit marked by</hi>
+                        <hi rend="italic">Exit</hi>
                     </rdgDesc>
                     <wit><siglum>Q2</siglum>&plus; (&minus;<siglum rend="smcaps"
                         >han1</siglum>)</wit>
@@ -10445,13 +10445,6 @@
                     <wit><siglum rend="smcaps">rowe3</siglum>&plus;</wit>
                 </appPart>
             </app>
-        </note>
-
-        <note type="textual" xml:id="tn_1996-02" target="#tln_1996">
-            <label>1996–7</label>
-            <app><lem><hi rend="italic">Thysby</hi>?&hellip;thinke.</lem>] <appPart><rdgDesc><hi
-                            rend="italic">One verse line</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">cam3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1997" target="#tln_1997">
