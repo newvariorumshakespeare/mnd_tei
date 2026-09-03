@@ -4221,8 +4221,7 @@
                             rend="smcaps">sis</siglum>, <siglum rend="smcaps"
                         >oxf2</siglum>&plus;</wit></appPart>; <appPart><rdg type="replace">Odorous,
                         odorous</rdg>
-                    <wit><siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps"
-                            >cam3a</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
+                            <wit><siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum><hi rend="smcaps">cam</hi>3a</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
                             rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps"
                         >ard2</siglum></wit></appPart>; <appPart><rdg type="replace"
                             ><quote>Odious</quote>-odorous</rdg>
@@ -6206,8 +6205,7 @@
                         heele)</note></wit></appPart>; <appPart><rdgDesc><hi rend="italic">marked
                             with an obelus</hi> [†] <hi rend="italic">as a corrupt
                         passage</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps"
-                        >cam3a</siglum></wit></appPart></app>
+                            <wit><siglum rend="smcaps">glo</siglum>, <siglum><hi rend="smcaps">cam</hi>3a</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1287-03" target="#tln_1287">
