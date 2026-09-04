@@ -838,6 +838,11 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <date>1924</date>
 </witness>
 
+<witness xml:id="s_cam3a" corresp="#s_cam3" display="book(suppress)">
+<siglum><hi rend="smcaps">cam</hi>3a</siglum>
+</witness>
+	
+
 <witness xml:id="s_rid">
 <siglum rend="smcaps">rid</siglum>
 <bibl><name type="app">Maurice R. Ridley</name>. <title level="m">MND</title>. New Temple Sh.</bibl>
@@ -935,6 +940,10 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <witness xml:id="s_pel" corresp="#s_pel1 #s_pel3" display="book(suppress)">
 <siglum rend="smcaps">pel</siglum>
 </witness>
+	
+<witness xml:id="s_oxf" corresp="#s_oxf1 #s_oxf2" display="book(suppress)">
+<siglum rend="smcaps">oxf</siglum>
+	</witness>
 
 </listWit>
 
@@ -1190,7 +1199,7 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <date>1897</date>
 </witness>
 
-<witness xml:id="s_handm">
+	<witness xml:id="s_handm">
 <siglum rend="smcaps">h&amp;m</siglum>
 <bibl><name type="app">Karl J. Holzknecht</name> &amp; <name type="app">Norman E. McClure</name>. <title level="m">Selected Plays</title>. 4 vols. New York, 1936–41. Vol. 2.</bibl>
 <date>1937</date>
