@@ -1498,7 +1498,7 @@
 
         <note type="textual" xml:id="tn_0376-02" target="#tln_0376" targetEnd="#tln_0377">
             <label>376–7</label>
-            <app><lem>thorough</lem>] <appPart><rdg type="replace">through</rdg>
+            <app><lem>thorough&hellip;thorough&hellip;thorough&hellip;thorough</lem>] <appPart><rdg type="replace">through&hellip;through&hellip;through&hellip;through</rdg>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">theo4</siglum>, <siglum
                             rend="smcaps">john1</siglum> (<hi rend="italic">text</hi>; thorough <hi
                             rend="italic">in errata</hi>)</wit></appPart></app>
@@ -1660,15 +1660,13 @@
                     >irv</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0406-01" target="#tln_0406" targetEnd="#tln_0409">
-            <label>406–9</label>
-            <app><lem>Skim&hellip;labour&hellip;make&hellip;make&hellip;Misselead</lem>]
-                        <appPart><rdg type="replace"
-                        >Skims&hellip;labours&hellip;makes&hellip;makes&hellip;Misleads</rdg>
+        <note type="textual" xml:id="tn_0406-01" target="#tln_0406">
+            <label>406</label>
+            <app><lem>Skim&hellip;labour</lem>]
+                        <appPart><rdg type="replace">Skims&hellip;labours</rdg>
                     <wit><siglum rend="smcaps">mal</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col</siglum>, <siglum
-                            rend="smcaps">hud</siglum>, <siglum rend="smcaps"
-                    >dyce</siglum></wit></appPart></app>
+                            rend="smcaps">hud</siglum>, <siglum rend="smcaps">dyce</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0406-02" target="#tln_0406 #tln_0407">
@@ -1688,16 +1686,38 @@
             <label>406</label>
             <app><lem>sometimes</lem>] <appPart><rdg type="replace">bootless</rdg>
                     <wit><siglum rend="smcaps">john1</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
-                    >rann</siglum></wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">rann</siglum></wit></appPart></app>
         </note>
-
+        
         <note type="textual" xml:id="tn_0407" target="#tln_0407">
             <label>407</label>
-            <app><lem>bootlesse</lem>] <appPart><rdg type="replace">sometimes</rdg>
+            <app><lem>bootlesse make</lem>] <appPart><rdg type="replace">sometimes make</rdg>
                     <wit><siglum rend="smcaps">john1</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
-                    >rann</siglum></wit></appPart></app>
+                    >rann</siglum></wit></appPart>;
+                <appPart><rdg type="replace">bootlesse makes</rdg>
+                    <wit><siglum rend="smcaps">mal</siglum>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col</siglum>, <siglum
+                            rend="smcaps">hud</siglum>, <siglum rend="smcaps">dyce</siglum></wit></appPart>
+            </app>
+        </note>
+        
+        <note type="textual" xml:id="tn_0408" target="#tln_0408">
+            <label>408</label>
+            <app><lem>make</lem>] <appPart><rdg type="replace">makes</rdg>
+                    <wit><siglum rend="smcaps">mal</siglum>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col</siglum>, <siglum
+                            rend="smcaps">hud</siglum>, <siglum rend="smcaps">dyce</siglum></wit></appPart>
+            </app>
+        </note>
+        
+        <note type="textual" xml:id="tn_0409" target="#tln_0409">
+            <label>409</label>
+            <app><lem>Misselead</lem>] <appPart><rdg type="replace">Misleads</rdg>
+                    <wit><siglum rend="smcaps">mal</siglum>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">col</siglum>, <siglum
+                            rend="smcaps">hud</siglum>, <siglum rend="smcaps">dyce</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0412" target="#tln_0412">
