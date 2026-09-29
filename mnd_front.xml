@@ -944,6 +944,10 @@ Wilson’s (<siglum rend="smcaps">cam3</siglum>) version of the stage direction,
 <witness xml:id="s_oxf" corresp="#s_oxf1 #s_oxf2" display="book(suppress)">
 <siglum rend="smcaps">oxf</siglum>
 	</witness>
+	
+<witness xml:id="s_hud" corresp="#s_hud1 #s_hud2" display="book(suppress)">
+		<siglum rend="smcaps">hud</siglum>
+	</witness>
 
 </listWit>
 
