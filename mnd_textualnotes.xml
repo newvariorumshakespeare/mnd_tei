@@ -1938,11 +1938,11 @@
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum>, <siglum>v1793</siglum>&sigrange;<siglum>v1821</siglum></wit></appPart>;
+                                >rann</siglum>, <siglum>v1793</siglum>&sigrange;<siglum>v1821</siglum>, <siglum>sing1</siglum></wit></appPart>;
                 <appPart>
                     <rdg type="replace">SCENE II. Enter the King of Fairies, at one Side, with his
                         traine;</rdg>
-                    <wit><siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">knt</siglum>,
+                    <wit><siglum rend="smcaps">knt</siglum>,
                             <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps"
                         >ktly</siglum></wit>
                 </appPart>
@@ -2034,7 +2034,7 @@
             <label>452</label>
             <app><lem>not thou</lem>] <appPart><rdg type="replace">thou not</rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">pel3</siglum>
-                        (&minus;<siglum rend="smcaps">warb</siglum><siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps"
+                        (&minus;<siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps"
                             >alex</siglum>, <siglum rend="smcaps">evns</siglum>&sigrange;<siglum
                             rend="smcaps">oxf4</siglum>)</wit></appPart></app>
         </note>
@@ -2472,7 +2472,7 @@
 
         <note type="textual" xml:id="tn_0552-03" target="#tln_0552">
             <label display="all(invisible)">552</label>
-            <app><lem>roũd</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>roũd</lem>] <appPart><rdgDesc>roũd <hi rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps"
                     >rowe3</siglum></wit></appPart></app>
         </note>
@@ -2616,8 +2616,7 @@
                         I</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
                         >han1</siglum></wit></appPart>; <appPart><rdg type="replace">nor I</rdg>
-                    <wit><siglum>F1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            <wit><siglum>Ff</siglum>, <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0581" target="#tln_0581">
