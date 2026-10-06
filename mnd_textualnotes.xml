@@ -1938,11 +1938,11 @@
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                                >rann</siglum>, <siglum>v1793</siglum>&sigrange;<siglum>v1821</siglum>, <siglum>sing</siglum></wit></appPart>;
+                                >rann</siglum>, <siglum>v1793</siglum>&sigrange;<siglum>v1821</siglum>, <siglum>sing1</siglum></wit></appPart>;
                 <appPart>
                     <rdg type="replace">SCENE II. Enter the King of Fairies, at one Side, with his
                         traine;</rdg>
-                    <wit><siglum rend="smcaps">knt</siglum>,
+                    <wit><siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">sing2</siglum>,
                             <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps"
                         >ktly</siglum></wit>
                 </appPart>
