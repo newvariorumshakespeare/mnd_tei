@@ -3436,15 +3436,18 @@
                             >folg2</siglum>&sigrange;<siglum rend="smcaps"
                     >dig</siglum></wit></appPart>; 
                 <appPart><rdg type="replace">Be’t</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
+                        <siglum rend="smcaps">v1773</siglum>, <siglum rend="smcaps">dyce2</siglum>, 
+                        <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">hud2</siglum>,
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">rid</siglum>,
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>
+                        </wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0695-01" target="#tln_0695">
             <label>695</label>
             <app><lem>god</lem>] <appPart><rdg type="replace">good</rdg>
-                    <wit><siglum>F1</siglum>, <siglum>F2</siglum>, <siglum
-                            rend="smcaps">and2</siglum></wit></appPart></app>
+                    <wit><siglum>F1</siglum>, <siglum>F2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0695-02" target="#tln_0695">
@@ -3849,7 +3852,7 @@
             <app>
                 <appPart>
                     <rdg type="insert">SCENE I.</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum><siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps"
+                    <wit><siglum rend="smcaps">rowe1</siglum>, <siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">pel1</siglum>&sigrange;<siglum rend="smcaps"
                             >dig</siglum></wit>
                 </appPart>
             </app>
@@ -3874,11 +3877,10 @@
             <app><lem><hi rend="italic">the Clownes.</hi></lem>] <appPart><rdg type="replace"
                         >Quince, Snug, Bottom, Flute, Snowt <hi rend="italic">and</hi>
                         Starveling.</rdg>
-                    <wit><siglum rend="smcaps">cam3</siglum>,<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps"
-                                >pel1</siglum>, <siglum rend="smcaps"
-                                    >evns</siglum>, <siglum rend="smcaps"
-                                        >pel1</siglum>, <siglum rend="smcaps"
-                                            >oxf2</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">cam3</siglum>,<siglum rend="smcaps">rid</siglum>, 
+                        <siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">evns</siglum>, 
+                        <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">and</siglum>, 
+                        <siglum rend="smcaps">ox4</siglum>, <siglum rend="smcaps">pel3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0813-02" target="#tln_0813">
@@ -3916,7 +3918,7 @@
                     <wit><siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps"
                         >evns</siglum></wit></appPart>; 
                 <appPart><rdg type="replace">maruailous</rdg>
-                    <wit><siglum>Q2</siglum>, <siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum> (&minus;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">evns</siglum>)
+                    <wit><siglum>Q2</siglum>, <siglum>F1</siglum>, <siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum> (&minus;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">evns</siglum>)
                     </wit></appPart></app>
         </note>
 
@@ -3930,9 +3932,7 @@
         <note type="textual" xml:id="tn_0820" target="#tln_0820">
             <label>820</label>
             <app><lem>bully,</lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdg type="replace"
-                        >Billy&caret;</rdg>
-                    <wit><siglum><hi rend="smcaps">pen</hi>1a</siglum></wit></appPart>;
+                    <wit><siglum>Q1</siglum></wit></appPart>; 
                         <appPart><rdg type="replace">bully&caret;</rdg>
                     <wit><siglum>Q2</siglum>
                         <hi rend="italic">etc.</hi></wit></appPart></app>
