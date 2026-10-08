@@ -3934,8 +3934,9 @@
             <app><lem>bully,</lem>] <appPart><rdg type="lem">&swdash;</rdg>
                     <wit><siglum>Q1</siglum></wit></appPart>; 
                         <appPart><rdg type="replace">bully&caret;</rdg>
-                    <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            <wit><siglum>Q2</siglum>&plus;</wit>
+                        </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0826" target="#tln_0826">
@@ -4000,14 +4001,16 @@
                         <rdg type="replace">yourselves.</rdg>
                         <hi rend="italic">or</hi>
                         <rdg type="replace">yourselves—</rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">rowe1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">cam3</siglum>,
+                            <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">dig</siglum>
+                        </wit>
+                    </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0850" target="#tln_0850" targetEnd="#tln_0851">
             <label>850–1</label>
-            <app><lem>or&hellip;or&hellip;or</lem>] <appPart><rdgDesc><hi rend="italic"
-                        >Om.</hi></rdgDesc>
+            <app><lem>or faire Ladies&hellip;or&hellip;or I wold intreat you</lem>] <appPart><rdg type="replace">faire Ladies, I would wish you, I would request you, I would intreat you</rdg>
                     <wit><siglum rend="smcaps">stau</siglum> (<hi rend="italic">text</hi>;
                         or&hellip;or&hellip;or <hi rend="italic">in
                 addenda</hi>)</wit></appPart></app>
@@ -4073,14 +4076,15 @@
         <note type="textual" xml:id="tn_0867-01" target="#tln_0867">
             <label>867</label>
             <app><lem><hi rend="italic">Cet.</hi></lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>Q1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi
+                    <wit><siglum>Q1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace"><hi
                             rend="italic">Bot.</hi></rdg>
-                        <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">knt1</siglum>,
-                            <siglum rend="smcaps">sing2</siglum>&sigrange;<siglum rend="smcaps">dyce1</siglum>,
-                            <siglum rend="smcaps">cam1</siglum>&sigrange;<siglum rend="smcaps">knt3</siglum>, 
-                            <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">wh2</siglum>, 
-                            <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&sigrange;
-                            <siglum rend="smcaps">dig</siglum></wit>
+                    <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">cap</siglum>, 
+                        <siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">sing2</siglum>&sigrange;
+                        <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">cam1</siglum>&sigrange;
+                        <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">wh2</siglum>, 
+                        <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&sigrange;
+                        <siglum rend="smcaps">dig</siglum></wit>
                    </appPart></app>
         </note>
 
