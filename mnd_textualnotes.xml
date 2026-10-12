@@ -4008,13 +4008,21 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_0850" target="#tln_0850" targetEnd="#tln_0851">
-            <label>850–1</label>
-            <app><lem>or faire Ladies&hellip;or&hellip;or I wold intreat you</lem>] <appPart><rdg type="replace">faire Ladies, I would wish you, I would request you, I would intreat you</rdg>
+        <note type="textual" xml:id="tn_0850" target="#tln_0850">
+            <label>850</label>
+            <app><lem>Ladies, or faire Ladies, I would wish you, or I would</lem>] <appPart><rdg type="replace">Ladies, I would wish you, I would</rdg>
                     <wit><siglum rend="smcaps">stau</siglum> (<hi rend="italic">text</hi>;
-                        or&hellip;or&hellip;or <hi rend="italic">in
+                        or&hellip;or&hellip;<hi rend="italic">in
                 addenda</hi>)</wit></appPart></app>
         </note>
+        
+        <note type="textual" xml:id="tn_0851" target="#tln_0851">
+            <label>851</label>
+            <app><lem>request you, or I wold intreat you, not to feare, not to</lem>] <appPart><rdg type="replace">request you, I wold intreat you, not to feare, not to</rdg>
+                    <wit><siglum rend="smcaps">stau</siglum> (<hi rend="italic">text</hi>;
+                        or <hi rend="italic">in addenda</hi>)</wit></appPart></app>
+        </note>
+        
 
         <note type="textual" xml:id="tn_0853" target="#tln_0853">
             <label>853</label>
