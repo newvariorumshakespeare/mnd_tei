@@ -4246,9 +4246,8 @@
             <label display="all(invisible)">895</label>
             <app><lem>flowers of odious sauours</lem>] 
                 <appPart><rdg type="replace">flower of odious savour’s</rdg>
-                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart>; 
-                <appPart><rdg type="replace">savour</rdg>
-                <wit><siglum rend="smcaps">hal</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0896-01" target="#tln_0896" targetEnd="#tln_0897">
@@ -4367,7 +4366,7 @@
                         >john2</siglum></wit></appPart>; <appPart><rdg type="replace">bristly Juvenile</rdg>
                     <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum>,
                             <siglum rend="smcaps">pel3</siglum>, <siglum rend="smcaps"
-                                >dig</siglum></wit></appPart>; <appPart><rdg type="replace">brisly Juvenile</rdg>
+                                >dig</siglum></wit></appPart>; <appPart><rdg type="replace">brisly Iuuenall</rdg>
                     <wit><siglum rend="smcaps">oxf3</siglum></wit></appPart></app>
         </note>
 
