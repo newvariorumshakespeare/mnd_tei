@@ -4601,10 +4601,10 @@
 
         <note type="textual" xml:id="tn_0936" target="#tln_0936">
             <label>936</label>
-            <app><lem>ted. <hi rend="italic">Exit.</hi></lem>] <appPart><rdg type="replace">ted. <hi
+            <app><lem>ted.<hi rend="italic">Exit.</hi></lem>] <appPart><rdg type="replace">ted.<hi
                             rend="italic">Exeunt</hi></rdg>
                     <wit><siglum rend="smcaps">cox</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">ted. <hi rend="italic">Exeunt</hi>
+                        type="replace">ted.<hi rend="italic">Exeunt</hi>
                         <hi rend="lscaps">Snout</hi>
                         <hi rend="italic">and</hi>
                         <hi rend="lscaps">Quince</hi>.</rdg>
@@ -4709,8 +4709,8 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_0951" target="#tln_0951">
-            <label>951</label>
+        <note type="textual" xml:id="tn_0951" target="#tln_0951" targetEnd="#tln_0953">
+            <label>951-3</label>
             <app>
                 <appPart>
                     <rdgDesc><hi rend="italic">Three verse lines ending</hi>
@@ -4722,31 +4722,6 @@
             </app>
         </note>
         
-        <note type="textual" xml:id="tn_0952" target="#tln_0952">
-            <label>952</label>
-            <app>
-                <appPart>
-                    <rdgDesc><hi rend="italic">Three verse lines ending</hi>
-                        so&hellip;Bird&hellip;so</rdgDesc>
-                    <wit>
-                        <siglum rend="smcaps">and</siglum>
-                    </wit>
-                </appPart>
-            </app>
-        </note>
-        
-        <note type="textual" xml:id="tn_0953" target="#tln_0953">
-            <label>953</label>
-            <app>
-                <appPart>
-                    <rdgDesc><hi rend="italic">Three verse lines ending</hi>
-                        so&hellip;Bird&hellip;so</rdgDesc>
-                    <wit>
-                        <siglum rend="smcaps">and</siglum>
-                    </wit>
-                </appPart>
-            </app>
-        </note>
 
         <note type="textual" xml:id="tn_0956" target="#tln_0956 #tln_0957 #tln_0958">
             <label>956, 957, 958</label>
@@ -5104,7 +5079,7 @@
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum>(&minus;<siglum rend="smcaps"
                     >theo</siglum>)</wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
-                            >SCENE II. Enter King of Fairies.</hi></rdg>
+                            >SCENE II. Enter King of Fairies solus.</hi></rdg>
                     <wit><siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
                             >rann</siglum>,<siglum rend="smcaps">pel1</siglum>&sigrange;<siglum
                             rend="smcaps">dig</siglum>
@@ -5116,7 +5091,7 @@
             <app><lem>Enter King of Fairies, and Robin goodfellow.</lem>] <appPart>
                     <rdg type="replace">
                         <hi rend="italic">SCENE II. Another Part of the Wood. Enter King of
-                            Fairies.</hi>
+                            Fairies solus.</hi>
                     </rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
                             >mal</siglum>&sigrange;<siglum rend="smcaps">cam3</siglum>, <siglum
@@ -5168,12 +5143,10 @@
 
         <note type="textual" xml:id="tn_1028" target="#tln_1028">
             <label>1028</label>
-            <app><lem>loue,</lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>Qq</siglum>, <siglum>Ff</siglum>, <siglum rend="smcaps"
-                            >and2</siglum>, <siglum rend="smcaps">oxf4</siglum></wit></appPart>;
-                        <appPart><rdg type="replace">&swdash;.</rdg>
-                    <wit><siglum rend="smcaps">rowe</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+            <app><lem>loue,</lem>] <appPart><rdg type="replace">&swdash;.</rdg>
+                    <wit><siglum rend="smcaps">rowe</siglum>&plus; (&minus;<siglum rend="smcaps">and2</siglum>, 
+                        <siglum rend="smcaps">oxf4</siglum>)</wit>
+            </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1029-01" target="#tln_1029">
@@ -5184,12 +5157,9 @@
 
         <note type="textual" xml:id="tn_1029-02" target="#tln_1029">
             <label display="all(invisible)">1029</label>
-            <app><lem>bower.</lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>Q1</siglum>, <siglum rend="smcaps">and2</siglum>, <siglum
-                            rend="smcaps">oxf4</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">&swdash;,</rdg>
-                    <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi> (&minus;<siglum rend="smcaps">knt1</siglum>)</wit></appPart></app>
+            <app><lem>bower.</lem>] <appPart><rdg type="replace">&swdash;,</rdg>
+                    <wit><siglum>Q2</siglum>&plus; (&minus;<siglum rend="smcaps">knt1</siglum>, <siglum rend="smcaps">and2</siglum>, <siglum rend="smcaps">oxf4</siglum>)</wit>
+            </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1035" target="#tln_1035">
@@ -5237,8 +5207,8 @@
                             >warb</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>,
                             <siglum>v1773</siglum>, <siglum>v1778</siglum></wit></appPart>;
                         <appPart><rdg type="replace">Mimmick</rdg>
-                    <wit><siglum>F1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum rend="smcaps">han1</siglum>, 
+                                <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1043" target="#tln_1043">
@@ -5284,7 +5254,7 @@
 
         <note type="textual" xml:id="tn_1062" target="#tln_1062">
             <label>1062</label>
-            <app><lem>wak’t</lem>] <appPart><rdg type="replace">wakes</rdg>
+            <app><lem>wak’d</lem>] <appPart><rdg type="replace">wakes</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john1</siglum>, <siglum>v1773</siglum></wit></appPart></app>
         </note>
