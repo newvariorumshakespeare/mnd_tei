@@ -5452,8 +5452,9 @@
                     <wit><siglum>Q1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum
                             rend="smcaps">and2</siglum></wit></appPart>; <appPart><rdg
                         type="replace">I so</rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                                <wit><siglum rend="smcaps">pope1</siglum>&plus; 
+                                    (&minus;<siglum rend="smcaps">and2</siglum></wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1104" target="#tln_1104">
@@ -5670,9 +5671,13 @@
                     <wit><siglum>Q1</siglum>, <siglum rend="smcaps">sing</siglum>, <siglum
                             rend="smcaps">hud1</siglum>, <siglum rend="smcaps">ktly</siglum>,
                             <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps"
-                        >and2</siglum></wit></appPart>; <appPart><rdg type="replace">&swdash;,</rdg>
-                    <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        >and2</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">&swdash;,</rdg>
+                    <wit><siglum>Q2</siglum>&plus; (&minus;<siglum rend="smcaps">sing</siglum>, 
+                        <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">ktly</siglum>,
+                        <siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">and2</siglum>)</wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1166" target="#tln_1166">
@@ -6048,14 +6053,14 @@
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps"
                             >pope2</siglum> (&minus;<siglum rend="smcaps">rowe1</siglum>)</wit></appPart>; 
                 <appPart><rdg type="replace">first &caret;Life-coats</rdg>
-                    <wit><siglum rend="smcaps">and</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">first, like&caret; coats</rdg>
+                    <wit><siglum rend="smcaps">and</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">first, like&caret; coats</rdg>
                     <wit><ref targType="bibl" target="#b_folm1690"><name type="app"
-                            >folks</name></ref>
-                        <hi rend="italic">in</hi>
+                            >folks</name></ref><hi rend="italic">in</hi>
                         <siglum rend="smcaps">theo1</siglum>
-                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>&plus;</wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1240-02" target="#tln_1240">
@@ -6110,10 +6115,11 @@
             <label>1254</label>
             <app><lem>Pretious&caret;</lem>] <appPart><rdg type="lem">&swdash;</rdg>
                     <wit><siglum>Q1</siglum>, <siglum rend="smcaps">rid</siglum>, <siglum
-                            rend="smcaps">and2</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">&swdash;,</rdg>
-                    <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            rend="smcaps">and2</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">&swdash;,</rdg>
+                    <wit><siglum>Q2</siglum>&plus;</wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1260" target="#tln_1260">
@@ -6127,8 +6133,9 @@
             <app><lem>I doe. Perseuer</lem>] <appPart><rdg type="lem">&swdash;</rdg>
                     <wit><siglum>Q1</siglum>, <siglum rend="smcaps">and2</siglum></wit></appPart>;
                         <appPart><rdg type="replace">&swdash;, &swdash;, &swdash;</rdg>
-                    <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            <wit><siglum>Q2</siglum>&plus;</wit>
+                        </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1265" target="#tln_1265">
@@ -6220,8 +6227,11 @@
                             >john1</siglum>, <siglum rend="smcaps">ktly</siglum></wit></appPart>;
                             <appPart><rdgDesc><hi rend="italic">ending</hi>
                         heele&hellip;follow</rdgDesc>
-                    <wit><siglum>Q1</siglum>, <siglum rend="smcaps">cap</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                                <wit><siglum rend="smcaps">cap</siglum>&sigrange;
+                                    <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">glo</siglum>&sigrange;
+                                    <siglum rend="smcaps">dig</siglum></wit>
+                            </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1287-01" target="#tln_1287">
