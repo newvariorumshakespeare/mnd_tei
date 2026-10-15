@@ -5453,7 +5453,7 @@
                             rend="smcaps">and2</siglum></wit></appPart>; <appPart><rdg
                         type="replace">I so</rdg>
                                 <wit><siglum rend="smcaps">pope1</siglum>&plus; 
-                                    (&minus;<siglum rend="smcaps">and2</siglum></wit></appPart>
+                                    (&minus;<siglum rend="smcaps">and2</siglum>)</wit></appPart>
             </app>
         </note>
 
@@ -6117,7 +6117,7 @@
                     <wit><siglum>Q1</siglum>, <siglum rend="smcaps">rid</siglum>, <siglum
                             rend="smcaps">and2</siglum></wit></appPart>; 
                 <appPart><rdg type="replace">&swdash;,</rdg>
-                    <wit><siglum>Q2</siglum>&plus;</wit>
+                    <wit><siglum>Q2</siglum>&plus; (&minus;<siglum rend="smcaps">rid</siglum>)</wit>
                 </appPart>
             </app>
         </note>
@@ -6942,8 +6942,9 @@
                         >prose</hi></rdgDesc>
                     <wit><siglum rend="smcaps">and</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">one
                             verse line</hi></rdgDesc>
-                    <wit><siglum>Qq</siglum>, <siglum rend="smcaps">pope1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        <wit><siglum>Qq</siglum>, <siglum rend="smcaps">pope1</siglum>&sigrange;
+                            <siglum rend="smcaps">dig</siglum>
+                        </wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1443-01" target="#tln_1443">
@@ -7008,7 +7009,7 @@
                 <appPart><rdg type="replace">&swdash;:&hellip;&swdash;&caret;</rdg>
                     <wit><siglum>m<hi rend="smcaps">warb</hi>1</siglum>
                         <hi rend="italic">conj.</hi></wit></appPart>; 
-                <appPart><rdg type="replace">&swdash;&hellip;. &swdash;?</rdg>
+                <appPart><rdg type="replace">&swdash;. &hellip;&swdash;?</rdg>
                             <wit><siglum rend="smcaps">cap</siglum>&plus; (&minus;<siglum>v1773</siglum>,
                                 <siglum rend="smcaps">rid</siglum>)</wit></appPart></app>
         </note>
@@ -7119,7 +7120,8 @@
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>, <siglum
                             rend="smcaps">and2</siglum>, <siglum rend="smcaps"
                             >oxf4</siglum>&sigrange;<siglum rend="smcaps"
-                    >dig</siglum></wit></appPart>; <appPart><rdgDesc>ad. <rdg type="replace"><hi
+                    >dig</siglum></wit></appPart>; 
+                <appPart><rdgDesc>ad. <rdg type="replace"><hi
                                 rend="italic">day to sleep</hi></rdg></rdgDesc>
                     <wit><siglum rend="smcaps">and1</siglum></wit></appPart>; <appPart><rdgDesc><hi
                             rend="italic">at</hi>
@@ -7423,7 +7425,7 @@
                             >col3</siglum>, <siglum rend="smcaps">cam1</siglum>&sigrange;<siglum
                             rend="smcaps">ban2</siglum>, <siglum rend="smcaps">folg2</siglum>, 
                         <siglum rend="smcaps">dig</siglum></wit></appPart>; 
-                <appPart><rdgDesc><hi rend="italic">after</hi> ground <hi rend="italic">on</hi>
+                <appPart><rdgDesc><hi rend="italic">SD after</hi> ground <hi rend="italic">on</hi>
                         <ref targType="lb" target="#tln_1497">1497</ref></rdgDesc>
                     <wit><siglum rend="smcaps">cap</siglum></wit></appPart></app>
         </note>
@@ -7533,7 +7535,7 @@
                     <rdg type="replace">
                         <hi rend="italic">They sleepe all the Act.</hi>
                     </rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">F4</siglum>
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">col4</siglum>
                             (&minus;<siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps"
                             >cam1</siglum>, <siglum rend="smcaps">glo</siglum>), <siglum
                             rend="smcaps">cam4</siglum>, <siglum rend="smcaps">ban2</siglum></wit>
@@ -7556,6 +7558,10 @@
                         <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pel1</siglum>, 
                         <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">cam4</siglum>, 
                         <siglum rend="smcaps">ban2</siglum></wit>
+                </appPart>;
+                <appPart>
+                    <rdg type="replace">Actus Quartus. The Wood.</rdg>
+                    <wit><siglum rend="smcaps">rowe</siglum></wit>
                 </appPart>
             </app>
         </note>
@@ -7582,7 +7588,7 @@
                 <appPart><rdg type="replace">
                         <hi rend="italic">Actus Quartus. SCENE I. The Wood. The Lovers, at a Distance, asleep.</hi>
                 </rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">cam1</siglum>&sigrange;<siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum></wit></appPart>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">cam1</siglum>&sigrange;<siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum></wit></appPart>
             </app>
         </note>
 
@@ -7739,23 +7745,21 @@
 
         <note type="textual" xml:id="tn_1529-02" target="#tln_1529">
             <label>1529</label>
-            <app><lem>me your neafe, Mounsieur</lem>] <appPart><rdg type="replace">me thy neafe, Monsieur</rdg>
+            <app><lem>me your</lem>] <appPart><rdg type="replace">me thy</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum></wit></appPart>; 
-                <appPart><rdg type="replace">thy neaf, Monsieur</rdg>
-                    <wit><siglum>v1773</siglum></wit></appPart></app>
+                            >john1</siglum></wit></appPart>;
+                <appPart><rdg type="replace">thy</rdg>
+                    <wit><siglum rend="smcaps">v1773</siglum></wit></appPart>   
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1529-03" target="#tln_1529">
             <label display="all(invisible)">1529</label>
-            <app><lem>neafe, Mounsieur</lem>] <appPart><rdg type="replace">newfe, Mounsieur</rdg>
-                    <wit><siglum>F2</siglum></wit></appPart>;
-                        <appPart><rdg type="replace">newse, Mounsieur</rdg>
-                            <wit><siglum>F3</siglum>, <siglum>F4</siglum></wit></appPart>;
-                <appPart><rdg type="replace">newfe, Monsieur</rdg>
-                    <wit><siglum rend="smcaps">rowe3</siglum></wit></appPart>;
-                <appPart><rdg type="replace">newse, Monsieur</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum></wit></appPart>
+            <app><lem>neafe</lem>] <appPart><rdg type="replace">newfe</rdg>
+                    <wit><siglum>F2</siglum>, <siglum rend="smcaps">rowe3</siglum></wit></appPart>;
+                        <appPart><rdg type="replace">newse</rdg>
+                            <wit><siglum>F3</siglum>&sigrange;
+                                <siglum rend="smcaps">rowe1</siglum>,</wit></appPart>
             </app>
         </note>
         
