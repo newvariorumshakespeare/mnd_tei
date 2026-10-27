@@ -3461,12 +3461,10 @@
                     <wit><siglum rend="smcaps">irv</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_0697" target="#tln_0697" targetEnd="#tln_0698">
-            <label>697–8</label>
-            <app><lem>innocence&hellip;conference</lem>] <appPart><rdg type="replace"
-                        >conference&hellip;innocence</rdg>
-                    <wit><ref targType="bibl" target="#b_warw0001"><name type="app"
-                            >warburton</name></ref>
+        <note type="textual" xml:id="tn_0697" target="#tln_0697">
+            <label>697</label>
+            <app><lem>innocence</lem>] <appPart><rdg type="replace">conference</rdg>
+                    <wit><ref targType="bibl" target="#b_warw0001"><name type="app">warburton</name></ref>
                         <hi rend="italic">in</hi>
                         <siglum rend="smcaps">theo1</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>, <siglum
@@ -3484,8 +3482,15 @@
         <note type="textual" xml:id="tn_0698-02" target="#tln_0698">
             <label display="all(invisible)">698</label>
             <app><lem>conference</lem>] <appPart><rdg type="replace">confidence</rdg>
-                    <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps"
-                        >col3</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum></wit></appPart>;
+                <appPart><rdg type="replace">innocence</rdg>
+                    <wit><ref targType="bibl" target="#b_warw0001"><name type="app">warburton</name></ref>
+                        <hi rend="italic">in</hi>
+                        <siglum rend="smcaps">theo1</siglum>
+                        <hi rend="italic">conj.</hi>, <siglum rend="smcaps">theo1</siglum>, <siglum
+                            rend="smcaps">warb</siglum></wit></appPart>
+            
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_0699" target="#tln_0699">
