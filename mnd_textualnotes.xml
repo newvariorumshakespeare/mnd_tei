@@ -9026,8 +9026,10 @@
                     <wit><siglum>Q1</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum
                             rend="smcaps">evns</siglum></wit></appPart>; <appPart><rdg
                         type="replace">let vs</rdg>
-                    <wit><siglum>Q2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                                <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;
+                                    <siglum rend="smcaps">dig</siglum> (&minus;<siglum rend="smcaps">and</siglum>)</wit>
+                            </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_1726-02" target="#tln_1726">
@@ -9090,8 +9092,7 @@
             <app><lem>patcht a</lem>] <appPart><rdg type="lem">&swdash;</rdg>
                     <wit><siglum>Qq</siglum>, <siglum rend="smcaps">and</siglum></wit></appPart>;
                         <appPart><rdg type="replace">a patch’d</rdg>
-                    <wit><siglum>F1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                            <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_1741" target="#tln_1741">
@@ -9159,7 +9160,7 @@
         <note type="textual" xml:id="tn_1745-04" target="#tln_1745">
             <label display="all(invisible)">1745</label>
             <app><lem>at her death.</lem>]<appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV. Changes to the Town.</hi></rdg>
-                    <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV.</hi></rdg>
+                    <wit><siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE IV. Athens.</hi></rdg>
                                 <wit><siglum rend="smcaps">han1</siglum></wit></appPart>; <appPart><rdg type="replace"><hi rend="italic">after death. SCENE II. A Room in Quince's House.</hi></rdg>
                                     <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">ard1</siglum></wit></appPart></app>
         </note>
@@ -9191,7 +9192,10 @@
                 <wit><siglum rend="smcaps">rltr</siglum></wit></appPart>;
                 <appPart><rdg type="replace">
                         <hi rend="italic">Quince, Flute, Snout, and Starueling</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">nlsn</siglum> &sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>
+                    <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">nlsn</siglum> &sigrange;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">ard2</siglum>&sigrange;<siglum rend="smcaps">dig</siglum></wit></appPart>;
+                <appPart><rdg type="replace">
+                        <hi rend="italic">Quince, Thisby [Flute] and the rabble [Snout, Starveling]</hi></rdg>
+                    <wit><siglum rend="smcaps">evns</siglum></wit></appPart>
             </app>
         </note>
 
@@ -9199,12 +9203,8 @@
             <label display="all(invisible)">1746</label>
             <app><lem><hi rend="italic">and the rabble</hi></lem>] <appPart><rdg type="lem"
                         >&swdash;</rdg>
-                    <wit><siglum>Qq</siglum>, <siglum rend="smcaps">rltr</siglum></wit></appPart>;
-                            <appPart><rdgDesc><hi rend="italic">ad.</hi>
-                        <rdg type="insert"><hi rend="lscaps">Snout</hi>, <hi rend="lscaps"
-                                >Starveling</hi></rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">evns</siglum></wit></appPart>; <appPart><rdg
-                        type="replace"><hi rend="italic">Snout, and Starueling.</hi></rdg>
+                    <wit><siglum>Qq</siglum>, <siglum rend="smcaps">rltr</siglum></wit></appPart>; 
+                <appPart><rdg type="replace"><hi rend="italic">Snout, and Starueling.</hi></rdg>
                         <wit><siglum>F1</siglum>, <siglum>F2</siglum>, <siglum>F3</siglum>, <siglum>F4</siglum>, <siglum rend="smcaps">rowe1</siglum></wit></appPart></app>
         </note>
 
