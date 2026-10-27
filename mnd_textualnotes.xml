@@ -2472,7 +2472,7 @@
 
         <note type="textual" xml:id="tn_0552-03" target="#tln_0552">
             <label display="all(invisible)">552</label>
-            <app><lem>roũd</lem>] <appPart><rdgDesc>roũd <hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem>roũd about</lem>] <appPart><rdg type="replace">about</rdg><rdgDesc><hi rend="italic">Om.</hi> roũd</rdgDesc>
                     <wit><siglum>Q2</siglum>&sigrange;<siglum rend="smcaps"
                     >rowe3</siglum></wit></appPart></app>
         </note>
