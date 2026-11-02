@@ -7628,15 +7628,15 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_1509" target="#tln_1509" targetEnd="#tln_1510">
-            <label>1509–10</label>
-            <app><lem><hi rend="italic">and the&hellip;them.</hi></lem>] <appPart><rdgDesc><hi
-                            rend="italic">Om.</hi></rdgDesc>
+        <note type="textual" xml:id="tn_1509" target="#tln_1509">
+            <label>1509</label>
+            <app><lem><hi rend="italic">Faieries: and the</hi></lem>] <appPart><rdg type="replace"><hi
+                            rend="italic">Faieries:</hi></rdg>
                     <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
                         >oxf4</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_1510" target="#tln_1510">
+        <note type="textual" xml:id="tn_1510-01" target="#tln_1510">
             <label>1510</label>
             <app><lem><hi rend="italic">them</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">unseen</hi></rdg>
@@ -7647,6 +7647,14 @@
                             rend="smcaps">and1</siglum>, <siglum rend="smcaps">folg2</siglum>,
                             <siglum rend="smcaps">dig</siglum></wit></appPart></app>
         </note>
+        
+        <note type="textual" xml:id="tn_1510-02" target="#tln_1510">
+            <label>1510</label>
+            <app><lem><hi rend="italic">king behinde them.</hi></lem>] <appPart><rdgDesc><hi
+                            rend="italic">Om.</hi></rdgDesc>
+                    <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
+        </note>
+        
 
         <note type="textual" xml:id="tn_1513" target="#tln_1513">
             <label>1513</label>
