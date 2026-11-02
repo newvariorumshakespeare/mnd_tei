@@ -4938,13 +4938,12 @@
                         <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">col4</siglum>,
                         <siglum rend="smcaps">and1</siglum></wit></appPart>; 
                 <appPart><rdg type="replace">worship’s</rdg>
-                            <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>
-                                &sigrange;<siglum>v1803</siglum>, <siglum rend="smcaps">stau</siglum>, 
-                                <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">cam1</siglum>, 
-                                <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>&sigrange;
-                                <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">ard1</siglum>, 
-                                <siglum rend="smcaps">rltr</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>, 
-                                <siglum rend="smcaps">and2</siglum>&sigrange;<siglum rend="smcaps">pel3</siglum>,
+                            <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>&sigrange;
+                                <siglum>v1803</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">dyce</siglum>, 
+                                <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>
+                                &sigrange;<siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">ard1</siglum>, 
+                                <siglum rend="smcaps">rltr</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>,
+                                <siglum rend="smcaps">and2</siglum>&sigrange;<siglum rend="smcaps">pel3</siglum>, 
                                 <siglum rend="smcaps">dig</siglum></wit>
                 </appPart>
             </app>
