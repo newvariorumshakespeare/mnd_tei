@@ -4915,29 +4915,41 @@
 
         <note type="textual" xml:id="tn_0996" target="#tln_0996">
             <label>996</label>
-            <app><lem>worships&hellip;worshippes</lem>] <appPart><rdg type="replace"
-                        >Worship’s&hellip;Worship’s</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john1</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum>, <siglum>v1821</siglum>&sigrange;<siglum rend="smcaps"
-                            >hal</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum
-                            rend="smcaps">wh1</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum
-                            rend="smcaps">knt3</siglum>, <siglum rend="smcaps">col4</siglum>,
-                            <siglum rend="smcaps">and1</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">worships&hellip;worship’s</rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
-                            >mal</siglum>&sigrange;<siglum>v1803</siglum>, <siglum rend="smcaps"
-                            >stau</siglum>, <siglum rend="smcaps">dyce</siglum>, <siglum
-                            rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum
-                            rend="smcaps">hud2</siglum>&sigrange;<siglum rend="smcaps"
-                        >oxf1</siglum>, <siglum rend="smcaps">rltr</siglum>&sigrange;<siglum
-                            rend="smcaps">ban2</siglum>, <siglum rend="smcaps"
-                            >and2</siglum>&sigrange;<siglum rend="smcaps"
-                    >pel3</siglum></wit></appPart>; <appPart><rdg type="replace"
-                        >worships’&hellip;worship’s</rdg>
-                    <wit><siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps"
-                        >dig</siglum></wit></appPart></app>
+            <app><lem>worships</lem>] <appPart><rdg type="replace">Worship’s</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, 
+                        <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, 
+                        <siglum>v1821</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>, 
+                        <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">wh1</siglum>, 
+                        <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum>, 
+                        <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">and1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">worships’</rdg>
+                    <wit><siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">dig</siglum></wit>
+                </appPart>
+            </app>
         </note>
+        
+        <note type="textual" xml:id="tn_0997" target="#tln_0997">
+            <label>997</label>
+            <app><lem>worshippes</lem>] <appPart><rdg type="replace">Worship’s</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum>, <siglum>v1773</siglum>
+                        &sigrange;<siglum rend="smcaps">rann</siglum>, <siglum>v1821</siglum>
+                        &sigrange;<siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">col3</siglum>, 
+                        <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">ktly</siglum>, 
+                        <siglum rend="smcaps">knt3</siglum>, <siglum rend="smcaps">col4</siglum>,
+                        <siglum rend="smcaps">and1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">worship’s</rdg>
+                            <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">mal</siglum>
+                                &sigrange;<siglum>v1803</siglum>, <siglum rend="smcaps">stau</siglum>, 
+                                <siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">cam1</siglum>, 
+                                <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">hud2</siglum>&sigrange;
+                                <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">ard1</siglum>, 
+                                <siglum rend="smcaps">rltr</siglum>&sigrange;<siglum rend="smcaps">ban2</siglum>, 
+                                <siglum rend="smcaps">and2</siglum>&sigrange;<siglum rend="smcaps">pel3</siglum>,
+                                <siglum rend="smcaps">dig</siglum></wit>
+                </appPart>
+            </app>
+        </note>
+        
         
         <note type="textual" xml:id="tn_0998" target="#tln_0998">
             <label>998</label>
