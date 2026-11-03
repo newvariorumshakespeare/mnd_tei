@@ -4365,8 +4365,8 @@
         <note type="textual" xml:id="tn_0908-01" target="#tln_0908">
             <label>908</label>
             <app><lem>brisky Iuuenall</lem>] <appPart><rdg type="replace">briskly Juvenile</rdg>
-                    <wit><siglum rend="smcaps">han1</siglum>, <siglum rend="smcaps"
-                        >john2</siglum></wit></appPart>; <appPart><rdg type="replace">bristly Juvenile</rdg>
+                    <wit><siglum rend="smcaps">han1</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">bristly Juvenile</rdg>
                     <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum>,
                             <siglum rend="smcaps">pel3</siglum>, <siglum rend="smcaps"
                                 >dig</siglum></wit></appPart>; <appPart><rdg type="replace">brisly Iuuenall</rdg>
@@ -4378,6 +4378,12 @@
             <app><lem>Iuuenall</lem>] <appPart><rdg type="replace">Juvenile</rdg>
                     <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">john1</siglum> 
                         (&minus;<siglum rend="smcaps">han1</siglum>)</wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_0908-03" target="#tln_0908">
+            <label display="all(invisible)">908</label>
+            <app><lem>brisky</lem>] <appPart><rdg type="replace">briskly</rdg>
+                    <wit><siglum rend="smcaps">john2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_0911" target="#tln_0911" targetEnd="#tln_0914">
