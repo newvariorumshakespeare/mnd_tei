@@ -7025,6 +7025,14 @@
             </app>
         </note>
         
+        <note type="textual" xml:id="tn_1447" target="#tln_1447">
+            <label>1447</label>
+            <app><lem><hi rend="italic">Deme.</hi></lem>] <appPart><rdg type="replace">DEMETRIUS <hi
+                            rend="italic">shifting place</hi></rdg>
+                    <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum></wit>
+            </appPart>
+            </app>
+        </note>
         
         <note type="textual" xml:id="tn_1449-01" target="#tln_1449">
             <label>1449</label>
@@ -7036,8 +7044,6 @@
                             <wit><siglum rend="smcaps">cap</siglum>&plus; (&minus;<siglum>v1773</siglum>,
                                 <siglum rend="smcaps">rid</siglum>)</wit></appPart></app>
         </note>
-        
-
        
         <note type="textual" xml:id="tn_1449-02" target="#tln_1449">
             <label display="all(invisible)">1449</label>
@@ -7072,6 +7078,15 @@
             <app><lem>bragging</lem>] <appPart><rdg type="replace">begging</rdg>
                     <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps"
                     >rowe3</siglum></wit></appPart></app>
+        </note>
+        
+        <note type="textual" xml:id="tn_1455" target="#tln_1455">
+            <label>1455</label>
+            <app><lem><hi rend="italic">De.</hi></lem>] <appPart><rdg type="replace">DEMETRIUS <hi
+                            rend="italic">shifting place</hi></rdg>
+                    <wit><siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">oxf4</siglum></wit>
+            </appPart>
+            </app>
         </note>
         
         
